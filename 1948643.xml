@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1948643" pubid="" template="Anatomy" template-name="singlepage">
+  <site-meta>
+    <article-name>Auditory System Anatomy</article-name>
+    <title>
+      <page-info id="overview">Auditory System Anatomy: Overview, Cochlear Nerve and Central Auditory Pathways, Neurophysiologic Considerations</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Auditory System Anatomy: Overview, Cochlear Nerve and Central Auditory Pathways, Neurophysiologic Considerations</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+<section-info id="a2">Cochlear Nerve and Central Auditory Pathways</section-info>
+<section-info id="a3">Neurophysiologic Considerations</section-info>
+<section-info id="a4">Clinical Applications</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Auditory System Anatomy Overview</page-info>
+    </meta-keywords>
+    <uri>1948643-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Aug 17, 2015</posting-date>
+    <last-generated>2015-08-17-11:39</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Anatomy</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="504">Anatomy</content-group>
+    <content-type ID="10420">Anatomy</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1948643</artid>
+      <cg>504</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Med Students">25</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Aug 17, 2015</last_updated>
+    <publication_cat>
+      <id>anatomy</id>
+      <name>Anatomy</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>anatomy</id>
+      <name>Anatomy</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>anatomy_anatomy</id>
+      <name>Anatomy</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">anatomy of the auditory system, auditory system anatomy, auditory system, acoustic pathway, spiral organ of Corti, auditory pathway, eighth cranial nerve, cranial nerve VIII, vestibulocochlear nerve, 8th cranial nerve, clinical anatomy</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">This article discusses the anatomy of the auditory pathway (see the following images), as well as a few physiologic considerations and clinical applications.{file12616}{file12617}{file12626}The eighth cranial nerve (CN VIII) or vestibulocochlear nerve is composed of 2 different sets of fibers: (1) the cochlear nerve and (2) the vestibular nerve.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Auditory System Anatomy</title>
+  <sect1 id="a1">
+    <title>Overview</title>
+    <pgroup>
+      <para>This article discusses the anatomy of the auditory pathway (see the following images), as well as a few physiologic considerations and clinical applications.</para>
+      <figure id="12616">
+        <title>Illustration of the auditory reflex pathway. </title>
+        <caption>Illustration of the auditory reflex pathway. </caption>
+        <graphic fileref="/16/12616.jpg" format="IMAGE" id="12616" extension_format="JPG"/>
+        <graphic fileref="/16/12616tn.jpg" format="IMAGE_THUMB" id="12616"/>
+      </figure>
+      <figure id="12617">
+        <title>Illustration of the conscious auditory pathway. </title>
+        <caption>Illustration of the conscious auditory pathway. </caption>
+        <graphic fileref="/17/12617.jpg" format="IMAGE" id="12617" extension_format="JPG"/>
+        <graphic fileref="/17/12617tn.jpg" format="IMAGE_THUMB" id="12617"/>
+      </figure>
+      <figure id="12626">
+        <title/>
+        <caption>Anatomy of the auditory system. Courtesy of Hamid R Djalilian, MD. </caption>
+        <graphic fileref="/26/12626.flv" format="VIDEO" id="12626" extension_format="FLV"/>
+        <graphic fileref="/26/12626tn.png" format="IMAGE_THUMB" id="12626"/>
+      </figure>
+      <para>The eighth cranial nerve (CN VIII) or vestibulocochlear nerve is composed of 2 different sets of fibers: (1) the cochlear nerve and (2) the vestibular nerve. These 2 nerves are anatomically and physiologically different. The peripheral segments of the cochlear and vestibular nerves join at the lateral part of the internal auditory canal (IAC) to form the vestibulocochlear nerve. They are also joined by the facial nerve in the IAC.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup>The length of the vestibulocochlear nerve, from the glial-Schwann junction to the brainstem, is 10-13 mm in the human male and 7-10 mm in females.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Cochlear Nerve and Central Auditory Pathways</title>
+    <pgroup>
+      <title>Embryology</title>
+      <para>Embryologically, the vestibulocochlear (acousticovestibular) ganglion initially develops fused with the VIIth nerve (facial) ganglion. Separation of the 3 components occurs gradually. The vestibular and cochlear (acoustic) ganglia neuroblasts are derived almost exclusively from the otocyst epithelium, in contrast to other cranial sensory ganglia in which both ganglionic and neural crest placodes make extensive contributions to the neuroblast populations. However, supporting Schwann and satellite cells, as in all cranial ganglia, are entirely of neural crest origin, apparently arising from the ganglion of the facial nerve (see the image below).<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6, <ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      <figure id="12618">
+        <title>Illustration showing that almost all neurons in the vestibular and acoustic ganglia are derived...</title>
+        <caption>Illustration showing that almost all neurons in the vestibular and acoustic ganglia are derived from the otocyst as placodal neurons. In contrast, all the supporting and Schwann cells are derived from neural crest cells, possibly from the VIIth nerve ganglion to which the vestibulocochlear ganglion is initially attached. </caption>
+        <graphic fileref="/18/12618.jpg" format="IMAGE" id="12618" extension_format="JPG"/>
+        <graphic fileref="/18/12618tn.jpg" format="IMAGE_THUMB" id="12618"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Ascending (afferent or projective) pathways of the auditory nerve</title>
+      <para>The ascending pathway transmits impulses from the spiral organ (of Corti) to the cerebral cortex (see the following image).</para>
+      <figure id="12619">
+        <title>Illustration of the afferent auditory reflex pathway. </title>
+        <caption>Illustration of the afferent auditory reflex pathway. </caption>
+        <graphic fileref="/19/12619.jpg" format="IMAGE" id="12619" extension_format="JPG"/>
+        <graphic fileref="/19/12619tn.jpg" format="IMAGE_THUMB" id="12619"/>
+      </figure>
+      <para>
+        <em>First-order neurons of the auditory system</em>
+      </para>
+      <para>The fibers of the cochlear nerve originate from an aggregation of nerve cell bodies in the spiral ganglion, located in the modiolus of the cochlea. The neurons of the spiral ganglion are the first of 4 order neurons between the cochlea and the cerebrum. They are bipolar cells, because they have 2 sets of processes, or fibers, that extend from opposite ends of the cell bodies. The longer central fibers, also called the primary auditory fibers, form the cochlear nerve, and the shorter, peripheral fibers extend to the bases of the inner and outer hair cells. They extend radially from the spiral ganglion to the habenula perforata, a series of tiny holes beneath the inner hair cells. At this point, they become demyelinated to enter the spiral organ (of Corti).</para>
+      <para>Only about 30,000 of these fibers exist, and the greater number of them—about 95%—innervate the inner hair cells. The remainder cross the tunnel of Corti to innervate the outer hair cells. The longer central processes of the bipolar cochlear neurons unite to form the cochlear nerve trunk. These primary auditory fibers exit the modiolus through the internal meatus and enter the medulla oblongata. The "mouth" of the internal auditory canal (IAC) is called the porus acusticus. The anatomic relationship of the VIIth and VIIIth nerves in the IAC and the cerebellopontine angle region are important anatomic areas related to skull base surgery and neuro-otologists.</para>
+      <para>The VIIth and VIIIth nerves are encased in glial tissue throughout their intracranial course. These nerves are surrounded by Schwann cells beginning in the IAC close to the porus acusticus. The Obersteiner-Redlich zone is the glial-Schwann junction.</para>
+      <para>The Scarpa (vestibular) ganglion lies approximately in the middle of the IAC. The division of cranial nerve (CN) VIII into the cochlear and vestibular branches may occur in the medial segment of the IAC or in the subarachnoid space. The posterior half of the IAC is occupied by the superior and inferior branches of the vestibular nerve. The cochlear nerve is located anteroinferiorly in the canal. The VIIth nerve is located in the anterosuperior portion of the IAC. A vertical crest (Bill bar) separates the facial and superior vestibular nerves in the upper part of the IAC. The transverse crest separates this upper portion of the IAC from the lower part containing the lower vestibular and cochlear divisions.</para>
+      <para>The cerebellopontine angle is a potential space in the posterior cranial fossa. Its boundaries are as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Anteriorly: Posterior fossa of the temporal bone</para>
+        </listitem>
+        <listitem>
+          <para>Posteriorly: Anterior surface of the cerebellum</para>
+        </listitem>
+        <listitem>
+          <para>Medially: Inferior olive</para>
+        </listitem>
+        <listitem>
+          <para>Superiorly: Inferior border of the pons and cerebellar peduncle</para>
+        </listitem>
+        <listitem>
+          <para>Inferiorly: The cerebellar tonsil</para>
+        </listitem>
+      </itemizedlist>
+      <para>The <a href="http://emedicine.medscape.com/article/1873373-overview">trigeminal nerve</a> is visible superior to the cerebellopontine angle, whereas the IXth, Xth, and XIth nerves course inferiorly. Other important structures within the cerebellopontine angle include the anterior inferior cerebellar artery (AICA), flocculus, and lateral aperture of the fourth ventricle (foramen of Luschka). The labyrinthine artery is usually a branch of the AICA and supplies the cochlea and labyrinth.</para>
+      <para>After entering the medulla, the cochlear nerve fibers proceed to the cochlear nucleus. The cochlear nucleus consists of 5 distinct cell types, each with distinct morphologic and physiologic features, such as response to stimulus onset, stimulus offset, and frequency modulation. The cochlear nucleus is divided into the dorsal and ventral parts. The cochlear fibers divide into 2 main bundles: One group passes lateral and dorsal to the restiform body; the other group remains slightly ventral and medial to the restiform body and terminates in the ventral cochlear nucleus. Fibers coming from the basal coils of the cochlea have been found to terminate in the in the dorsal part of the dorsal cochlear nucleus. The fibers from the apical parts of the cochlea end in the ventral part of the dorsal cochlear nucleus and the ventral nucleus. However, some fibers pass to higher order neurons further along the pathway before they synapse.</para>
+      <para>
+        <em>Second-, third-, and fourth-order neurons of the auditory system</em>
+      </para>
+      <para>The cell bodies of the second order neurons lie in the dorsal and ventral cochlear nuclei. Some fibers from the ventral cochlear nucleus pass across the midline to the cells of the superior olivary complex, whereas others make connection with the olivary cells of the same side. The superior olivary complex is considered the first center in the ascending auditory system, where inputs from both ears converge. Together, these fibers form the trapezoid body (where the third order neurons are located).</para>
+      <para>Fibers from the dorsal cochlear nucleus cross the midline to end on the cells of the nuclei of the lateral lemniscus. There they are joined by the fibers from the ventral cochlear nuclei of both sides and from the olivary complex. Auditory nuclei above the superior olivary complex can be excitatory or inhibitory with inputs from each ear. The lemniscus is a major tract, most of the fibers of which end in the inferior colliculus, the auditory center of the midbrain.</para>
+      <para>The inferior colliculus is a complex nucleus with at least 18 major cell types and at least 5 areas of specialization. It is involved in all areas of auditory behavior, including differential sensitivity for frequency and intensity, loudness, and binaural hearing. Although some fibers may bypass the colliculus and end, together with the fibers from the colliculus, at the next higher level, the medial geniculate body of the thalamus is where the fourth order neurons are located. From the medial geniculate body, there is an orderly projection of fibers to a portion of the cortex of the temporal lobe.</para>
+      <para>
+        <em>Auditory input</em>
+      </para>
+      <para>The primary auditory cortex is the first region of the cerebral cortex to receive auditory input. In humans and other primates, the primary acoustic area in the cerebral cortex is the superior transverse temporal gyri of Heschl, a ridge in the temporal lobe, on the lower lip of the deep cleft between the temporal and parietal lobes, known as the lateral sulcus (Sylvian fissure).</para>
+      <para>Because about half of the fibers of the auditory pathways cross the midline whereas others ascend on the same side of the brain, each ear is represented in both the right and left cortex. For this reason, even when the auditory cortical area of one side is injured by trauma or stroke, binaural hearing may be minimally affected.</para>
+      <para>Perception of sound is associated with the right posterior superior temporal gyrus (STG). The superior temporal gyrus contains several important structures of the brain, including Brodmann 41 and 42, marking the location of the primary auditory cortex, the cortical region responsible for the sensation of basic characteristics of sound such as pitch and rhythm.</para>
+      <para>The auditory association area is located within the temporal lobe of the brain, in an area called the Wernicke area or area 22. This area, near the lateral cerebral sulcus, is an important region for the processing of acoustic signals so that they can be distinguished as speech, music, or noise.</para>
+      <para>As is common for thalamocortical connections, nuclei within the medial geniculate body that send fibers to the auditory cortex also receive fibers from the same area of the cortex. Impaired hearing due to bilateral cortical injury involving both auditory areas has been reported, but it is extremely rare. However, bilateral lesions of the temporal lube have been shown to produce wide-ranging effects (cortical deafness, in which several behaviors are affected, including speech discrimination, localization of sound, and the detection of faint, short-duration signals).</para>
+      <para>The following image depict the conscious and reflex afferent auditory pathways.</para>
+      <figure id="12617">
+        <title>Illustration of the conscious auditory pathway. </title>
+        <caption>Illustration of the conscious auditory pathway. </caption>
+        <graphic fileref="/17/12617.jpg" format="IMAGE" id="12617" extension_format="JPG"/>
+        <graphic fileref="/17/12617tn.jpg" format="IMAGE_THUMB" id="12617"/>
+      </figure>
+      <figure id="12616">
+        <title>Illustration of the auditory reflex pathway. </title>
+        <caption>Illustration of the auditory reflex pathway. </caption>
+        <graphic fileref="/16/12616.jpg" format="IMAGE" id="12616" extension_format="JPG"/>
+        <graphic fileref="/16/12616tn.jpg" format="IMAGE_THUMB" id="12616"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Descending pathways of the auditory nerve</title>
+      <para>Besides the conscious and reflex afferent auditory pathways, descending efferent pathways also exist. Efferent projections from the brain to the cochlea also play a role in the perception of sound. In general, the descending pathways have an inhibiting effect upon the ascending fibers, and they tend to provide self-regulation to the auditory system. Each relay auditory station is considered to be dually innervated, thus providing a way for incoming impulses to be internally influenced, modified, or negated.</para>
+      <para>Parallel with the pathway ascending from the cochlear nuclei to the cortex is a pathway descending from the cortex to the cochlear nuclei. In both pathways, some of the fibers remain on the same side, whereas others cross the midline to the opposite side of the brain. Evidence of a "spur" line ascending from the dorsal cochlear nucleus to the cerebellum and another descending from the inferior colliculus to the cerebellum also exist.</para>
+      <para>The significance of these cerebral connections is not clear, but they may antedate the evolutionary development of the cerebral cortex. From the superior olivary complex, a region in the medulla oblongata, a fiber tract called the olivocochlear bundle also originates (see the image below). It constitutes an efferent system, or feedback loop, by which nerve impulses, thought to be inhibitory, reach the hair cells.</para>
+      <figure id="12620">
+        <title>Illustration of the descending pathways of the auditory nerve. The crosses represent small...</title>
+        <caption>Illustration of the descending pathways of the auditory nerve. The crosses represent small olivocochlear bundle (OCB) neurons; the triangles represent large OCB neurons. DMP, DMPO = dorsal medial preolivary nucleus; IHC = inner hair cell; LSO = lateral superior olivary nucleus; MNTB = medial nucleus of trapezoid body; MSO = medial superior olivary nucleus; OHC = outer hair cell; VNTB = ventral nucleus of trapezoid body. </caption>
+        <graphic fileref="/20/12620.jpg" format="IMAGE" id="12620" extension_format="JPG"/>
+        <graphic fileref="/20/12620tn.jpg" format="IMAGE_THUMB" id="12620"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Microscopic anatomy</title>
+      <para>See <a href="http://emedicine.medscape.com/article/1968281-overview">Inner Ear</a> for details regarding the microscopic anatomy and innervation of the cells in the spiral organ (of Corti)<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc7" name="refsrc7"/>7] </sup>. The following images depict this area.</para>
+      <figure id="12621">
+        <title>Spiral organ (of Corti). </title>
+        <caption>Spiral organ (of Corti). </caption>
+        <graphic fileref="/21/12621.jpg" format="IMAGE" id="12621" extension_format="JPG"/>
+        <graphic fileref="/21/12621tn.jpg" format="IMAGE_THUMB" id="12621"/>
+      </figure>
+      <figure id="12622">
+        <title>Scanning electron micrograph of the upper surface of the organ of Corti after removal of the...</title>
+        <caption>Scanning electron micrograph of the upper surface of the organ of Corti after removal of the tectorial membrane. There are 3 rows of outer hair cells with their characteristic V-arranged stereocilia. A single row of inner hair cells with a slightly curved row of stereocilia is also shown. </caption>
+        <graphic fileref="/22/12622.jpg" format="IMAGE" id="12622" extension_format="JPG"/>
+        <graphic fileref="/22/12622tn.jpg" format="IMAGE_THUMB" id="12622"/>
+      </figure>
+      <figure id="12623">
+        <title>The cochlea's afferent innervation pattern. The illustration is shown through the vestibular (...</title>
+        <caption>The cochlea's afferent innervation pattern. The illustration is shown through the vestibular (Reissner's) membrane, looking "down" on the spiral organ (of Corti). The principal fiber bundles are 1 and 2; 2a and 3a are internal spiral fibers; 4 are external spiral fibers; 5 and 6 are radial fibers innervating the inner hair cells. </caption>
+        <graphic fileref="/23/12623.jpg" format="IMAGE" id="12623" extension_format="JPG"/>
+        <graphic fileref="/23/12623tn.jpg" format="IMAGE_THUMB" id="12623"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Neurophysiologic Considerations</title>
+    <pgroup>
+      <para>The complex chain of nerve cells in the auditory system helps to process and relay auditory information, encoded in the form of nerve impulses, directly to the highest cerebral levels in the cortex of the brain. To some extent, different properties of the auditory stimulus are conveyed along distinct parallel pathways. This method of transmission, employed by other sensory systems, provides a way for the central nervous system (CNS) to analyze different properties of the single auditory stimulus, with some information processed at low levels and other information at higher levels. At lower levels of the pathway, information as to pitch, loudness, and localization of sounds is processed, and appropriate responses, such as the contraction of the intra-aural muscles, turning of the eyes and head, or movements of the body as a whole, are initiated.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7, <ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc10" name="refsrc10"/>10, <ref_inline id="refsrc11" name="refsrc11"/>11, <ref_inline id="refsrc12" name="refsrc12"/>12, <ref_inline id="refsrc13" name="refsrc13"/>13, <ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+      <para>The patterns of spatial representations of the spiral organ (of Corti) at the lower levels of the auditory pathway seem to be in accord with the place theory of the cochlear analysis of sound. Physiologic evidence of tuning of the auditory system has also been obtained by recording the electrical potentials from individual neurons at various levels. Most neurons of the auditory pathway show a "best frequency," that is, a frequency to which the individual neuron responds at minimal intensity (see the image below).</para>
+      <figure id="12624">
+        <title>Cross-section of the cochlear nucleus showing the track made by the electrode penetration and...</title>
+        <caption>Cross-section of the cochlear nucleus showing the track made by the electrode penetration and the characteristic frequencies of the neurones within the anteroventral (AVCN), dorsal nucleus (DN), and posteroventral nucleus (PVCN). The spacial separation of frequencies and the tonotropic organization is maintained throughout the central auditory pathway. </caption>
+        <graphic fileref="/24/12624.jpg" format="IMAGE" id="12624" extension_format="JPG"/>
+        <graphic fileref="/24/12624tn.jpg" format="IMAGE_THUMB" id="12624"/>
+      </figure>
+      <para>This finding is entirely compatible with experimental evidence of frequency tuning of the hair cells. With each increase in the intensity of the sound, the neuron is able to respond to a wider band of frequencies, thus reflecting the broad tuning of the basilar membrane. Increased intensity of stimulation causes a more rapid rate of responding. The pitch of a sound tends to be coded in terms of which neurons are responding, and its loudness is determined by the rate of response and the total number of neurons activated.</para>
+    </pgroup>
+    <pgroup>
+      <title>Sound localization and discrimination</title>
+      <para>The localization of sounds from a stationary source in the horizontal plane is known to depend on the recognition of minute differences in the intensity and time of arrival of the sound at the 2 ears. A sound that arrives at the left ear a few microseconds sooner than it does at the right or that sounds a few decibels louder in that ear is recognized as coming from the left. In a real-life situation, the head may also be turned to pinpoint the sound by facing it and thus canceling these differences. For low-frequency tones, a difference in phase at the 2 ears is the criterion for localization, but for higher frequencies, the difference in loudness caused by the sound shadow of the head becomes all-important.</para>
+      <para>Such comparisons and discriminations appear to be carried out at the brainstem and midbrain levels of the central auditory pathway. The spectral shapes of sounds have been shown to be most important for determining the elevation of a source that is not in the horizontal plane. Localization of sound that emanates from a moving source is a more complicated task for the nervous system and apparently involves the cerebral cortex and short-term memory. Injury to the auditory area of the cortex on one side of the brain interferes with the localization of a moving sound source on the opposite side of the body.</para>
+      <para>Experimental studies have indicated that the cortex is not even necessary for frequency recognition, which can be carried out at lower levels, but that it is essential for the recognition of temporal patterns of sound. Therefore, the cortex appears to be reserved for the analysis of more complex auditory stimuli, such as speech and music, for which the temporal sequence of sounds is equally important.</para>
+      <para>Presumably, it is also at the cortical level that the meaning of sounds is interpreted and behavior is adjusted in accordance with their significance. Such functions were formerly attributed to an "auditory association area" immediately surrounding the primary area, but they probably should be thought of as involving much more of the cerebral cortex, thanks to the multiple, parallel interconnections between the various areas.</para>
+      <para>Each cochlear nucleus receives impulses only from the ear of the same side. A comparison between the responses of the 2 ears first becomes possible at the superior olivary complex, which receives fibers from both cochlear nuclei. Some neurons of the accessory nucleus of the olivary complex respond to impulses from both ears. Others respond to impulses from one side only, but their response is modified by the simultaneous arrival of impulses from the other side.</para>
+      <para>The auditory system appears to be capable of making the minute fine discriminations of time and intensity that are necessary for localization of sound. By virtue of such bilateral neural interconnections in the brain, the 2 ears together can be much more effective than 1 ear alone in picking out a particular sound in the presence of a background of noise. They also permit attention to be directed to a single source of sound. This is one aspect of the "cocktail party effect," whereby a listener with normal hearing can attend to different conversations in turn or concentrate on one speaker despite the surrounding babble.</para>
+      <para>The observation that most of the significantly activated areas were the same with monaural or binaural stimulation suggests that the differences in auditory perception with binaural stimulation are not due to the involvement of significantly different centers but, more likely, to the type of information that reaches these centers for processing. Furthermore, the degree of stimulation may be less intense in binaural than in monaural stimulation. This supports the concept that a richer binaural auditory stimulation compared with monaural stimulation does not mean summation of stimuli but integration and better processing of the information.</para>
+      <para>Whether the muscles within the ear play a part in filtering out unwanted sounds during such selective listening has not been established. The less-favorable aspect of the "cocktail party effect" is that such background noises mask dialogue, which can make following a conversation difficult for persons with sensorineural impairment. Efferent projections from the brain to the cochlea also play a role in the perception of sound. Efferent synapses occur on outer hair cells and on afferent dendrites under inner hair cells.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Clinical Applications</title>
+    <pgroup>
+      <para>A few clinical applications related to the auditory pathway are addressed in this section.</para>
+    </pgroup>
+    <pgroup>
+      <title>Auditory brainstem response</title>
+      <para>The most obvious application on the study of the auditory central nervous system (CNS) involves the interpretation of auditory evoked potentials (AEPs). The auditory brainstem response (ABR), which was first reported in 1967, is a component of these potentials. ABR is a series of 7 waves occurring within 10-15 milliseconds after the onset of an acoustic stimulus. The waves test the function of the auditory nerve and auditory pathways in the brainstem. Each wave is generated as follows (in normal subjects)<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc17" name="refsrc17"/>17, <ref_inline id="refsrc18" name="refsrc18"/>18, <ref_inline id="refsrc19" name="refsrc19"/>19, <ref_inline id="refsrc20" name="refsrc20"/>20, <ref_inline id="refsrc21" name="refsrc21"/>21] </sup>:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Waves I and II: VIIIth nerve</para>
+        </listitem>
+        <listitem>
+          <para>Wave III: Cochlear nucleus</para>
+        </listitem>
+        <listitem>
+          <para>Wave IV: Superior olive/lateral lemniscus</para>
+        </listitem>
+        <listitem>
+          <para>Wave V: Lateral lemniscus/inferior colliculus</para>
+        </listitem>
+      </itemizedlist>
+      <para>The following are 3 main uses of ABR:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Threshold testing of infants, young children, and malingerers</para>
+        </listitem>
+        <listitem>
+          <para>Diagnosis of acoustic neuromas</para>
+        </listitem>
+        <listitem>
+          <para>Diagnosis of brainstem lesions and neuropathies</para>
+        </listitem>
+      </itemizedlist>
+      <para>There are 2 other uses of ABR that are gaining popularity: (1) screening of babies in the intensive care unit (ICU) who are at risk for hearing loss, and (2) intraoperative monitoring during surgery such as VIIIth nerve vascular decompression and vestibular nerve section.</para>
+    </pgroup>
+    <pgroup>
+      <title>Otoacoustic emissions</title>
+      <para>Techniques for measuring efferent effects using otoacoustic emissions (OAEs) are now well developed and have promise in clinical applications ranging from predicting which patients are susceptible to acoustic trauma to characterizing relationships between efferent activation and learning disabilities.</para>
+    </pgroup>
+    <pgroup>
+      <title>Efferent auditory pathways</title>
+      <para>Efferent auditory pathways modulate the outer hair cells of the cochlea, protect against noise, and improve the detection of sound sources in noisy environments. In a prospective clinical, quantitative, cross-sectional, contemporary study, Fronza et al concluded that, in young, normal-hearing adults who experience efferent auditory pathways dysfunctions (such as <a href="http://emedicine.medscape.com/article/856916-overview">tinnitus</a> and hearing impairment), possible associations with genotoxicity exist, as well as interactions between sex and smoking.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Developmental and learning impairments</title>
+      <para>Neuroscience research on auditory processing pathways and their behavioral and electrophysiologic correlates has provided important clinical applications. Deviations and disruptions in auditory pathways in children and adolescents result in a well-documented range of developmental and learning impairments frequently referred for neuropsychologic evaluation.</para>
+    </pgroup>
+    <pgroup>
+      <title>Auditory deprivation, enhancement, and training</title>
+      <para>Until recently, researchers used behavioral measures of identification and discrimination of speech and nonspeech stimuli to assess the effects of auditory deprivation, enhancement, and training. Recent advances to measure electrical activity in the auditory system in response to sound have made it possible to study how changes in auditory input (hearing loss, auditory input modification, or training) affect the function of the central auditory system. The evidence of changes in the auditory cortex in mature animals and in humans with acquired sensorineural hearing loss as well as changes associated with auditory training in persons with normal hearing has been reported.</para>
+      <para>The results of a study that measures psychoacoustic and speech-recognition performance of persons with hearing loss, with and without <a href="http://emedicine.medscape.com/article/836360-overview">hearing aids</a>, are interpreted within the framework of new knowledge about plasticity of the auditory system. Applications of electrophysiologic techniques to hearing aid research and clinical practice are also elaborated in this study.</para>
+    </pgroup>
+    <pgroup>
+      <title>Cochlear implants</title>
+      <para>Both <a href="http://emedicine.medscape.com/article/1982450-overview">cochlear implants</a> (CI) and auditory brainstem implants (ABI) have been shown to aid significantly in providing sound to individuals suffering from total sensorineural hearing loss. A prime candidate for cochlear implantation is described, as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Having severe to profound sensorineural loss in both ears</para>
+        </listitem>
+        <listitem>
+          <para>Having a functioning auditory nerve</para>
+        </listitem>
+        <listitem>
+          <para>Having lived at least a short time period without hearing (approximately 70+ decibel hearing loss, on average)</para>
+        </listitem>
+        <listitem>
+          <para>Having good speech, language, and communication skills, or, in the case of infants and young children, having a family willing to work toward speech and language skills with therapy</para>
+        </listitem>
+        <listitem>
+          <para>Not benefitting enough from other kinds of hearing aids</para>
+        </listitem>
+        <listitem>
+          <para>Having no medical reason to avoid surgery</para>
+        </listitem>
+        <listitem>
+          <para>Living in or desiring to live in the "hearing world"</para>
+        </listitem>
+        <listitem>
+          <para>Having realistic expectations about results</para>
+        </listitem>
+        <listitem>
+          <para>Having the support of family and friends</para>
+        </listitem>
+        <listitem>
+          <para>Having appropriate services set up for postcochlear implant aural rehabilitation (through a speech language pathologist, deaf educator, or auditory verbal therapist)</para>
+        </listitem>
+      </itemizedlist>
+      <para>Cochlear nerve deficiency (CND) is increasingly diagnosed in children with sensorineural hearing loss (SNHL). Clemmens et al (2013) used magnetic resonance imaging (MRI) to study the prevalence of CND and the correlations with audiologic phenotype in children with unilateral SNHL.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>They found that CND was present in 26% of children with unilateral SNHL. Its prevalence was higher (48%) in severe-to-profound SNHL, especially when in infants (100%). In addition, ophthalmologic abnormalities were very common (67%) in children with CND, particularly oculomotor disturbances.</para>
+      <para>Yan et al (2013) also found that hypoplastic cochlear nerve canal might be more indicative of CND than that of a narrow internal auditory canal.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24] </sup></para>
+      <para>Ryugo found that the auditory brain is highly malleable by experience.<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup>Using the congenitally deaf white cat, he showed that rigorous training with cochlear implants offered the promise of new unattained benefits.</para>
+    </pgroup>
+    <pgroup>
+      <title>Auditory brainstem implant</title>
+      <para>An ABI is an implant like a cochlear implant, except that it bypasses the cochlea altogether and attaches its electrode directly to the brainstem. ABIs provide sound information by direct stimulation of the cochlear nucleus to patients with dysfunctional or absent cranial nerve VIII.</para>
+      <para>Most of the recipients of ABIs have reported being able to hear sounds that can help them lip read, but most are not able to discriminate speech from these sounds alone. Candidates for this implant are carefully chosen. The surgery is much more invasive than the surgery required for a cochlear implants, and it is usually undertaken only in situations in which the patient is (or has become) completely deaf. However, in contrast to patients with cochlear implants, the use of ABIs is less successful. This cannot be fully explained by the different location of stimulation but rather to a nonspecific neuronal stimulation. Many candidates for the ABI trials are patients with neurofibromatosis II (NF2) who are having their second tumor removed.</para>
+      <para>Directly comparing cochlear implants and ABIs is somewhat difficult, because both types of implants are constantly being updated. In general, however, it has been shown that the ABI, particularly the more recent multichannel ABI, provides levels of sound detection and discrimination that are similar to those provided by the original single-channel cochlear implant.</para>
+      <para>Mandala et al found that the definition of the potential threshold and the number of auditory and extra-auditory waves generated was significantly improved by using electrical compound action potentials during auditory brainstem implantation.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="12616">
+        <title>Illustration of the auditory reflex pathway. </title>
+        <caption>Illustration of the auditory reflex pathway. </caption>
+        <graphic fileref="/16/12616.jpg" format="IMAGE" id="12616" extension_format="JPG"/>
+        <graphic fileref="/16/12616tn.jpg" format="IMAGE_THUMB" id="12616"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12617">
+        <title>Illustration of the conscious auditory pathway. </title>
+        <caption>Illustration of the conscious auditory pathway. </caption>
+        <graphic fileref="/17/12617.jpg" format="IMAGE" id="12617" extension_format="JPG"/>
+        <graphic fileref="/17/12617tn.jpg" format="IMAGE_THUMB" id="12617"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12618">
+        <title>Illustration showing that almost all neurons in the vestibular and acoustic ganglia are derived...</title>
+        <caption>Illustration showing that almost all neurons in the vestibular and acoustic ganglia are derived from the otocyst as placodal neurons. In contrast, all the supporting and Schwann cells are derived from neural crest cells, possibly from the VIIth nerve ganglion to which the vestibulocochlear ganglion is initially attached. </caption>
+        <graphic fileref="/18/12618.jpg" format="IMAGE" id="12618" extension_format="JPG"/>
+        <graphic fileref="/18/12618tn.jpg" format="IMAGE_THUMB" id="12618"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12619">
+        <title>Illustration of the afferent auditory reflex pathway. </title>
+        <caption>Illustration of the afferent auditory reflex pathway. </caption>
+        <graphic fileref="/19/12619.jpg" format="IMAGE" id="12619" extension_format="JPG"/>
+        <graphic fileref="/19/12619tn.jpg" format="IMAGE_THUMB" id="12619"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12620">
+        <title>Illustration of the descending pathways of the auditory nerve. The crosses represent small...</title>
+        <caption>Illustration of the descending pathways of the auditory nerve. The crosses represent small olivocochlear bundle (OCB) neurons; the triangles represent large OCB neurons. DMP, DMPO = dorsal medial preolivary nucleus; IHC = inner hair cell; LSO = lateral superior olivary nucleus; MNTB = medial nucleus of trapezoid body; MSO = medial superior olivary nucleus; OHC = outer hair cell; VNTB = ventral nucleus of trapezoid body. </caption>
+        <graphic fileref="/20/12620.jpg" format="IMAGE" id="12620" extension_format="JPG"/>
+        <graphic fileref="/20/12620tn.jpg" format="IMAGE_THUMB" id="12620"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12621">
+        <title>Spiral organ (of Corti). </title>
+        <caption>Spiral organ (of Corti). </caption>
+        <graphic fileref="/21/12621.jpg" format="IMAGE" id="12621" extension_format="JPG"/>
+        <graphic fileref="/21/12621tn.jpg" format="IMAGE_THUMB" id="12621"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12622">
+        <title>Scanning electron micrograph of the upper surface of the organ of Corti after removal of the...</title>
+        <caption>Scanning electron micrograph of the upper surface of the organ of Corti after removal of the tectorial membrane. There are 3 rows of outer hair cells with their characteristic V-arranged stereocilia. A single row of inner hair cells with a slightly curved row of stereocilia is also shown. </caption>
+        <graphic fileref="/22/12622.jpg" format="IMAGE" id="12622" extension_format="JPG"/>
+        <graphic fileref="/22/12622tn.jpg" format="IMAGE_THUMB" id="12622"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12623">
+        <title>The cochlea's afferent innervation pattern. The illustration is shown through the vestibular (...</title>
+        <caption>The cochlea's afferent innervation pattern. The illustration is shown through the vestibular (Reissner's) membrane, looking "down" on the spiral organ (of Corti). The principal fiber bundles are 1 and 2; 2a and 3a are internal spiral fibers; 4 are external spiral fibers; 5 and 6 are radial fibers innervating the inner hair cells. </caption>
+        <graphic fileref="/23/12623.jpg" format="IMAGE" id="12623" extension_format="JPG"/>
+        <graphic fileref="/23/12623tn.jpg" format="IMAGE_THUMB" id="12623"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12624">
+        <title>Cross-section of the cochlear nucleus showing the track made by the electrode penetration and...</title>
+        <caption>Cross-section of the cochlear nucleus showing the track made by the electrode penetration and the characteristic frequencies of the neurones within the anteroventral (AVCN), dorsal nucleus (DN), and posteroventral nucleus (PVCN). The spacial separation of frequencies and the tonotropic organization is maintained throughout the central auditory pathway. </caption>
+        <graphic fileref="/24/12624.jpg" format="IMAGE" id="12624" extension_format="JPG"/>
+        <graphic fileref="/24/12624tn.jpg" format="IMAGE_THUMB" id="12624"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12625">
+        <title>Normal brainstem responses to broad-band click. Latency increases as click intensity decreases. </title>
+        <caption>Normal brainstem responses to broad-band click. Latency increases as click intensity decreases. </caption>
+        <graphic fileref="/25/12625.jpg" format="IMAGE" id="12625" extension_format="JPG"/>
+        <graphic fileref="/25/12625tn.jpg" format="IMAGE_THUMB" id="12625"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12626">
+        <title/>
+        <caption>Anatomy of the auditory system. Courtesy of Hamid R Djalilian, MD. </caption>
+        <graphic fileref="/26/12626.flv" format="VIDEO" id="12626" extension_format="FLV"/>
+        <graphic fileref="/26/12626tn.png" format="IMAGE_THUMB" id="12626"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Ted L Tewfik, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Otolaryngology-Head and Neck Surgery, Professor of Pediatric Surgery, McGill University Faculty of Medicine; Senior Staff, Montreal Children's Hospital, Montreal General Hospital, and Royal Victoria Hospital</contrbtr_title>
+        <contrbtr_bio>Ted L Tewfik, MD is a member of the following medical societies: <a href="http://www.aspo.us">American Society of Pediatric Otolaryngology</a>, <a href="http://www.entcanada.org/">Canadian Society of Otolaryngology-Head &amp; Neck Surgery</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Thomas R Gest, PhD</contrbtr_nm>
+        <contrbtr_title>Professor of Anatomy, Department of Medical Education, Texas Tech University Health Sciences Center, Paul L Foster School of Medicine</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received royalty from Lippincott Williams &amp; Wilkins for other.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>Medscape Reference thanks Hamid R Djalilian, MD, Associate Professor of Otolaryngology, Director of Neurotology and Skull Base Surgery, University of California Irvine Medical Center, for assistance with the video contribution to this article. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24095603">
+      <para>Benoudiba F, Toulgoat F, Sarrazin JL. The vestibulocochlear nerve (VIII). <em>Diagn Interv Imaging</em>. 2013 Oct. 94(10):1043-50. <a href="http://reference.medscape.com/medline/abstract/24095603">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24172790">
+      <para>Nakamichi R,  Yamazaki M,  Ikeda M,  Isoda H,  Kawai H,  Sone M, et al. Establishing Normal Diameter Range of the Cochlear and Facial Nerves with 3D-CISS at 3T. <em>Magn Reson Med Sci</em>. 2013 Oct 29. <a href="http://reference.medscape.com/medline/abstract/24172790">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Kandel ER, Schwartz JH, Jessell TM. <em>Principles of Neuroscience</em>. 4th ed. New York, NY: McGraw-Hill; 2000. 591-624. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Johnston MC. Developmental biology of the ear. Tewfik TL, Der Kaloustian VM, eds. <em>Congenital Anomalies of the Ear, Nose, and Throat</em>. New York, NY: Oxford University Press; 1997. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3144177">
+      <para>Josey AF, Glasscock ME 3rd, Musiek FE. Correlation of ABR and medical imaging in patients with cerebellopontine angle tumors. <em>Am J Otol</em>. 1988 Dec. 9 suppl:12-6. <a href="http://reference.medscape.com/medline/abstract/3144177">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8818245">
+      <para>Ferguson MA, Smith PA, Lutman ME, Mason SM, Coles RR, Gibbin KP. Efficiency of tests used to screen for cerebello-pontine angle tumours: a prospective study. <em>Br J Audiol</em>. 1996 Jun. 30(3):159-76. <a href="http://reference.medscape.com/medline/abstract/8818245">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lonsbury-Martin BL, Martin GK, Coats AC. Chapter 47: The physiology of the auditory and vestibular systems. Ballenger JJ, ed. <em>Diseases of the Nose, Throat, Ear, Head and Neck</em>. 13th ed. Philadelphia, Pa: Lea and Febiger; 1985. 952-4. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Sooy CD, Boles R. Neuroanatomy for the otolaryngologist--head neck surgeon. Paparella MM, Shunrick DA, Gluckman JL, Meyerhoff WL, eds. <em>Otolaryngology</em>. 2nd ed. Philadelphia, Pa: WB Saunders Co; 1980. Vol I: 151-4. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20393378">
+      <para>Colletti V, Shannon RV, Carner M, Veronese S, Colletti L. Complications in auditory brainstem implant surgery in adults and children. <em>Otol Neurotol</em>. 2010 Jun. 31(4):558-64. <a href="http://reference.medscape.com/medline/abstract/20393378">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12324396">
+      <para>Kemp DT. Otoacoustic emissions, their origin in cochlear function, and use. <em>Br Med Bull</em>. 2002. 63:223-41. <a href="http://reference.medscape.com/medline/abstract/12324396">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Mills JH, Khariwala SS, Weber PC. Chapter 129: Anatomy and physiology of hearing. Bailey BJ, Johnson JT, Newlands SD, eds. <em>Head &amp; Neck Surgery: Otolarygology</em>. 4th ed. Philadelphia, Pa: Lippincott Williams &amp; Wilkins; 2006. Vol II: 1883-903. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20717032">
+      <para>Guinan JJ Jr. Cochlear efferent innervation and function. <em>Curr Opin Otolaryngol Head Neck Surg</em>. 2010 Oct. 18(5):447-53. <a href="http://reference.medscape.com/medline/abstract/20717032">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20924853">
+      <para>Bailey T. Auditory pathways and processes: implications for neuropsychological assessment and diagnosis of children and adolescents. <em>Child Neuropsychol</em>. 2010 Nov. 16(6):521-48. <a href="http://reference.medscape.com/medline/abstract/20924853">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21340198">
+      <para>Fronza AB, Barreto DC, Tochetto TM, da Cruz IB, da Silveira AF. [Association between auditory pathway efferent functions and genotoxicity in young adults] [Portugese]. <em>Braz J Otorhinolaryngol</em>. 2011 Feb. 77(1):107-14. <a href="http://reference.medscape.com/medline/abstract/21340198">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16470472">
+      <para>Neuman AC. Central auditory system plasticity and aural rehabilitation of adults. <em>J Rehabil Res Dev</em>. 2005 Jul-Aug. 42:169-86. <a href="http://reference.medscape.com/medline/abstract/16470472">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18985461">
+      <para>Goycoolea M, Mena I, Neubauer S. Is there a difference in activation or in inhibition of cortical auditory centers depending on the ear that is stimulated?. <em>Acta Otolaryngol</em>. 2009 Apr. 129(4):348-53. <a href="http://reference.medscape.com/medline/abstract/18985461">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16109670">
+      <para>Offeciers E, Morera C, Müller J, Huarte A, Shallop J, Cavallé L. International consensus on bilateral cochlear implants and bimodal stimulation. <em>Acta Otolaryngol</em>. 2005 Sep. 125(9):918-9. <a href="http://reference.medscape.com/medline/abstract/16109670">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20864881">
+      <para>Godar SP, Litovsky RY. Experience with bilateral cochlear implants improves sound localization acuity in children. <em>Otol Neurotol</em>. 2010 Oct. 31(8):1287-92. <a href="http://reference.medscape.com/medline/abstract/20864881">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16938779">
+      <para>Litovsky RY, Johnstone PM, Godar SP. Benefits of bilateral cochlear implants and/or hearing aids in children. <em>Int J Audiol</em>. 2006. 45 Suppl 1:S78-91. <a href="http://reference.medscape.com/medline/abstract/16938779">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2644458/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21361449">
+      <para>Strydom T, Hanekom JJ. The performance of different synthesis signals in acoustic models of cochlear implants. <em>J Acoust Soc Am</em>. 2011 Feb. 129(2):920. <a href="http://reference.medscape.com/medline/abstract/21361449">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20568541">
+      <para>Jamróz B, Lachowska M, Niemczyk K, Morawski K, Bartoszewicz R, Pierchala K. [Possibility of hearing preservation treatment by patient suffered from neurofibromatosis type 2: case report]. <em>Otolaryngol Pol</em>. 2010 Mar-Apr. 64(2):114-7. <a href="http://reference.medscape.com/medline/abstract/20568541">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24078882">
+      <para>Gudwani S, Munjal SK, Panda NK, Verma RK. Correlation of tinnitus loudness and onset duration with audiological profile indicating variation in prognosis. <em>ISRN Otolaryngol</em>. 2013 Sep 2. 2013:205714. <a href="http://reference.medscape.com/medline/abstract/24078882">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3773946/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23678279">
+      <para>Clemmens CS,  Guidi J,  Caroff A,  Cohn SJ,  Brant JA,  Laury AM, et al. Unilateral Cochlear Nerve Deficiency in Children. <em>Otolaryngol Head Neck Surg</em>. 2013 May 15. <a href="http://reference.medscape.com/medline/abstract/23678279">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23319716">
+      <para>Yan F, Li J, Xian J, Wang Z, Mo L. The cochlear nerve canal and internal auditory canal in children with normal cochlea but cochlear nerve deficiency. <em>Acta Radiol</em>. 2013 Apr 1. 54(3):292-8. <a href="http://reference.medscape.com/medline/abstract/23319716">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25300646">
+      <para>Ryugo D. Auditory neuroplasticity, hearing loss and cochlear implants. <em>Cell Tissue Res</em>. 2015 Jul. 361 (1):251-69. <a href="http://reference.medscape.com/medline/abstract/25300646">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25257904">
+      <para>Mandalà M, Colletti L, Colletti G, Colletti V. Improved outcomes in auditory brainstem implantation with the use of near-field electrical compound action potentials. <em>Otolaryngol Head Neck Surg</em>. 2014 Dec. 151 (6):1008-13. <a href="http://reference.medscape.com/medline/abstract/25257904">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brackmann DE, Crawford JV, Douglas Green J. Chapter 149: Cerebellopontine angle tumors. Bailey BJ, Johnson JT, Newlands SD, eds. <em>Head &amp; Neck Surgery: Otolarygology</em>. 4th ed. Philadelphia, Pa: Lippincott Williams &amp; Wilkins; 2006. Vol II: 2207-09. </para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="837347" pubid="" template="Otolaryngology and Facial Plastic Surgery" template-name="singlepage">
+  <site-meta>
+    <article-name>Cleft Lip and Palate and Mouth and Pharynx Deformities</article-name>
+    <title>
+      <page-info id="overview">Cleft Lip and Palate and Mouth and Pharynx Deformities: Overview, Embryology of Cleft Lip and Palate, Classification of Cleft Lip and Palate</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Cleft Lip and Palate and Mouth and Pharynx Deformities: Overview, Embryology of Cleft Lip and Palate, Classification of Cleft Lip and Palate</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+<section-info id="a2">Embryology of Cleft Lip and Palate</section-info>
+<section-info id="a3">Classification of Cleft Lip and Palate</section-info>
+<section-info id="a4">Functional Anatomy of Cleft Lip Palate</section-info>
+<section-info id="a5">Management of Cleft Lip and Palate</section-info>
+<section-info id="a6">Velopharyngeal Insufficiency</section-info>
+<section-info id="a7">Selected Mouth and Pharynx Deformities</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Cleft Lip and Palate and Mouth and Pharynx Deformities Overview</page-info>
+    </meta-keywords>
+    <uri>837347-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Apr 17, 2015</posting-date>
+    <last-generated>2015-08-04-18:47</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Otolaryngology and Facial Plastic Surgery</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="503">Procedures</content-group>
+    <content-type ID="10419">Procedure</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>837347</artid>
+      <cg>503</cg>
+      <scg text="Otolaryngology">6000001</scg>
+      <ssp text="Plastic Surgery &amp; Aesthetic Medicine">48</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>procedure</id>
+      <name>Procedures</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>otolaryngology</id>
+      <name>Otolaryngology and Facial Plastic Surgery</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>otolaryngology_congenital</id>
+      <name>Congenital Malformations Of The Head And Neck</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">cleft lip, cleft palate, congenital, mouth malformations, pharynx malformations, cleft palate repair, cleft lip repair, mouth, pharynx, congenital malformations, mouth deformities, cleft lip and palate, velopharyngeal insufficiency, VPI, Robin sequence, macroglossia, ankyloglossia, epignathus, lingual thyroid, lip pits, commissural lip pits, van der Woude syndrome, micrognathia</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">This article primarily reviews cleft lip and palate (CLP) and issues directly related to these anomalies, including secondary deformities and velopharyngeal insufficiency (VPI). Cleft lip and palate deformity can be distinguished from an isolated cleft palate (CP) on the basis of epidemiologic, embryonic, and genetic factors.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Cleft Lip and Palate and Mouth and Pharynx Deformities</title>
+  <sect1 id="a1">
+    <title>Overview</title>
+    <pgroup>
+      <para>This article primarily reviews cleft lip and palate (CLP) and issues directly related to these anomalies, including secondary deformities and <a href="http://emedicine.medscape.com/article/873018-overview">velopharyngeal insufficiency</a> (VPI). Cleft lip and palate deformity can be distinguished from an isolated cleft palate (CP) on the basis of epidemiologic, embryonic, and genetic factors.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>The etiology of cleft lip and palate or cleft palate is believed to be multifactorial. </para>
+      <para>The scope of this field precludes in-depth discussion of surgical techniques and controversies. Miscellaneous deformities, such as the Robin sequence, macroglossia, ankyloglossia, and epignathus are briefly highlighted. </para>
+      <para>The image below depicts embryonic formation of the primary palate.</para>
+      <figure id="24524">
+        <title>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to...</title>
+        <caption>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to form the primary palate. </caption>
+        <graphic fileref="/24/24524.jpg" format="IMAGE" id="24524" extension_format="JPG"/>
+        <graphic fileref="/24/24524tn.jpg" format="IMAGE_THUMB" id="24524"/>
+      </figure>
+      <para>Two thirds of all cases of clefting involve the lip with or without involvement of the palate, whereas one third of all cases occur as an isolated deformity of the palate. Males predominate within the cleft lip and palate (CLP) group (60-80% of cases), whereas females constitute the majority within the cleft palate (CP) group. Cleft lip and palate deformity is strongly associated with bilateral cleft lips (CLs) (86% of cases); the association decreases to 68% with unilateral cleft lip. The left side is most commonly involved in unilateral cleft lip cases. </para>
+      <para>Interracial differences exist in the incidence of cleft lip and palate versus cleft palate. The mean incidence of cleft lip and palate is 2.1 cases per 1000 live births among Asians, 1 case per 1000 live births among white people, and 0.41 cases per 1000 live births among black people. A high incidence of the cleft lip and palate is seen in North American populations of Asian descent, such as Indians of the southwestern United States and the west coast of Canada. The incidence of isolated cleft palate is constant among the 3 racial groups at 0.5 cases per 1000 live births. </para>
+      <para>The incidence of cleft lip and palate also rises with increased parental age, and older mothers with additional parity have an increased incidence of having children with cleft palate. </para>
+      <para>In relatives of children with cleft lip and palate, the incidence of cleft lip and palate is significantly increased. However, the isolated cleft palate anomaly occurs with the same frequency as that in the general population. Relatives of children with isolated cleft palate also have a higher risk of this anomaly, without an increased risk of the cleft lip and palate deformity. </para>
+      <para>Overall, 5% of patients with cleft lip and palate and isolated cleft palate have identifiable syndromes. Associated syndromes are more common among patients with isolated cleft palate than among others. </para>
+      <para>The following image depicts the normal palate anatomy.</para>
+      <figure id="24529">
+        <title>Normal anatomy of the palate. </title>
+        <caption>Normal anatomy of the palate. </caption>
+        <graphic fileref="/29/24529.jpg" format="IMAGE" id="24529" extension_format="JPG"/>
+        <graphic fileref="/29/24529tn.jpg" format="IMAGE_THUMB" id="24529"/>
+      </figure>
+      <para>Go to <a href="http://emedicine.medscape.com/article/877970-overview">Cleft Lip</a>, <a href="http://emedicine.medscape.com/article/1279040-overview">Bilateral Cleft Lip Repair</a>, <a href="http://emedicine.medscape.com/article/1279283-overview">Cleft Palate Repair</a>, and <a href="http://emedicine.medscape.com/article/1279641-overview">Unilateral Cleft Lip Repair</a> for complete information on these topics.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Embryology of Cleft Lip and Palate</title>
+    <pgroup>
+      <para>The overall development of the palate involves the formation of the primary palate followed by the formation of the secondary palate.At approximately 30-37 days' gestational age (GA), the primary palate forms by the growth and fusion of the medial nasal, lateral nasal, and maxillary processes (see the image below). The maxillary process, derived from the proximal half of the first arch, grows to meet and fuse with the nasal processes that have grown and moved in association with the olfactory placode. General opinion holds that mesodermal penetration underlies the formation of the primary palate. Mesodermal reinforcement along lines of fusion is important, as epithelial breakdown and clefting is thought to result from the lack of reinforcement.</para>
+      <figure id="24524">
+        <title>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to...</title>
+        <caption>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to form the primary palate. </caption>
+        <graphic fileref="/24/24524.jpg" format="IMAGE" id="24524" extension_format="JPG"/>
+        <graphic fileref="/24/24524tn.jpg" format="IMAGE_THUMB" id="24524"/>
+      </figure>
+      <para>The secondary palate arises from the 2 palatal shelves, which are initially are in a vertical position because of the interposed tongue. With extension of the head at 7 weeks' GA and mandibular growth, the tongue is withdrawn, and the palatal shelves can swing into a more horizontal and midline position for fusion and formation of a hard and soft palate (see the following image). The cleft of the hard palate and soft palate is thought to occur because of the intervening tongue, which impedes elevation of the palatal shelves.</para>
+      <figure id="24525">
+        <title>Formation of the secondary palate. </title>
+        <caption>Formation of the secondary palate. </caption>
+        <graphic fileref="/25/24525.jpg" format="IMAGE" id="24525" extension_format="JPG"/>
+        <graphic fileref="/25/24525tn.jpg" format="IMAGE_THUMB" id="24525"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Classification of Cleft Lip and Palate</title>
+    <pgroup>
+      <para>Various classification schemes have been devised in the last 70 years for cleft lip and palate, but few have received widespread clinical acceptance. Four of the more accepted schemes are highlighted below. </para>
+    </pgroup>
+    <pgroup>
+      <title>Davis and Ritchie classification</title>
+      <para>The Davis and Ritchie classification divides cleft lip and palate into 2 groups, which subdivided into the extent of the cleft (eg, 1/3, 1/2), as follows: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Group I - Clefts anterior to the alveolus (unilateral, median, or bilateral cleft lip)</para>
+        </listitem>
+        <listitem>
+          <para>Group II - Postalveolar clefts (cleft palate alone, soft palate alone, soft palate and hard palate, or submucous cleft)</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Veau classification</title>
+      <para>The Veau classification system divides the cleft lip and palate into 4 groups, which are as follows and illustrated in the image below: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Group I – Defects of the soft palate only</para>
+        </listitem>
+        <listitem>
+          <para>Group II – Defects involving the hard palate and soft palate</para>
+        </listitem>
+        <listitem>
+          <para>Group III – Defects involving the soft palate to the alveolus, usually involving the lip</para>
+        </listitem>
+        <listitem>
+          <para>Group IV – Complete bilateral clefts</para>
+          <figure id="24526">
+            <title>Veau classification of cleft lip and palate. A: Group I. Defects of the soft palate only. B:...</title>
+            <caption>Veau classification of cleft lip and palate. A: Group I. Defects of the soft palate only. B: Group II. Defects involving the hard palate and soft palate. C: Group III. Defects involving the soft palate to the alveolus, usually involving the lip. D: Group IV. Complete bilateral clefts. </caption>
+            <graphic fileref="/26/24526.jpg" format="IMAGE" id="24526" extension_format="JPG"/>
+            <graphic fileref="/26/24526tn.jpg" format="IMAGE_THUMB" id="24526"/>
+          </figure>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Kernahan and Stark symbolic classification</title>
+      <para>The Kernahan and Stark classification highlights the anatomic and embryonic importance of the incisive foramen that is formed during weeks 4-7 gestational age (GA). The secondary palate forms the roof of the mouth from the incisive foramen to the uvula during weeks 7-12 GA (see the image below).</para>
+      <figure id="24525">
+        <title>Formation of the secondary palate. </title>
+        <caption>Formation of the secondary palate. </caption>
+        <graphic fileref="/25/24525.jpg" format="IMAGE" id="24525" extension_format="JPG"/>
+        <graphic fileref="/25/24525tn.jpg" format="IMAGE_THUMB" id="24525"/>
+      </figure>
+      <para>This system provides a graphic classification scheme using a Y-configuration, which can be divided into 9 areas, as follows (see also the image below)<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Areas 1 and 4 – Lip</para>
+        </listitem>
+        <listitem>
+          <para>Areas 2 and 5 – Alveolus</para>
+        </listitem>
+        <listitem>
+          <para>Areas 3 and 6 – Palate between the alveolus and the incisive foramen</para>
+        </listitem>
+        <listitem>
+          <para>Areas 7 and 8 – Hard palate</para>
+        </listitem>
+        <listitem>
+          <para>Area 9 – Soft palate</para>
+          <figure id="24527">
+            <title>Kernahan and Stark symbolic classification of cleft lip and palate. R = right; L = left. </title>
+            <caption>Kernahan and Stark symbolic classification of cleft lip and palate. R = right; L = left. </caption>
+            <graphic fileref="/27/24527.jpg" format="IMAGE" id="24527" extension_format="JPG"/>
+            <graphic fileref="/27/24527tn.jpg" format="IMAGE_THUMB" id="24527"/>
+          </figure>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>International Confederation of Plastic and Reconstructive Surgery classification</title>
+      <para>The International Confederation of Plastic and Reconstructive Surgery classification system uses an embryonic framework to divide clefts into 3 groups, with further subdivisions to denote unilateral or bilateral cases, as follows: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Group I – Defects of the lip or alveolus</para>
+        </listitem>
+        <listitem>
+          <para>Group II – Clefts of the secondary palate (hard palate, soft palate, or both)</para>
+        </listitem>
+        <listitem>
+          <para>Group III – Any combination of clefts involving the primary and secondary palates</para>
+        </listitem>
+      </itemizedlist>
+      <para>Koul introduced a method for documenting all types of cleft lip and cleft palate for data storage and communication.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>This "Expression System" incorporates the actual words for the anatomical structures affected by clefts and can describe accurately and easily, without the need for consulting reference materials, the location and extent of both typical and atypical clefts. The Expression System overcomes several limitations of previous cleft registration methods, and its simplicity and precision benefits all those involved in the care of patients with cleft lip/palate by furthering the interdisciplinary and intradisciplinary approach. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Functional Anatomy of Cleft Lip Palate</title>
+    <pgroup>
+      <para>Comprehension of the anatomic deformities is central to understanding the principles of their surgical repair. The following section briefly describes the anatomic abnormalities in the patient with cleft lip and palate (CLP) by discussing the muscular, neurovascular, structural, and nasal deformities. </para>
+      <para>Failure of the muscles to meet their counterparts during embryonic development leads to the functional abnormalities of clefts of the lip and palate.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>The nonfunctional substitute attachments lead to atrophy of the muscle units or maladaptive accommodation. Modern cleft lip and palate surgical repair involves detachment of musculature from atypical locations and realignment in a more anatomically functional position.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Cleft lip</title>
+      <para>The orbicularis oris muscle is the primary muscle of the lip and can be divided functionally and anatomically into 2 parts (see the image below).<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>The deep component, in concert with other oropharyngeal muscles, works in swallowing and serves as a sphincter. The superficial component is a muscle of facial expression and inserts into the anterior nasal spine, sill, alar base, and skin to form the philtral ridges.</para>
+      <figure id="24528">
+        <title>Muscular defects in unilateral deformity. </title>
+        <caption>Muscular defects in unilateral deformity. </caption>
+        <graphic fileref="/28/24528.jpg" format="IMAGE" id="24528" extension_format="JPG"/>
+        <graphic fileref="/28/24528tn.jpg" format="IMAGE_THUMB" id="24528"/>
+      </figure>
+      <para>In a complete cleft lip (CL), the deep fibers of the orbicularis oris muscle are interrupted by the cleft and end on either side of the defect instead of making their way around the mouth. In addition, the superficial component of the orbicularis oris turns upward, along the margins of the cleft and ends beneath the ala or columella.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+      <para>Incomplete cleft lip behaves in a similar manner, except when the cleft is less than two thirds of the height of the lip.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>In this case, the fibers of the muscle run along the margins of the cleft, then change direction and run horizontally over the top of the cleft. These muscle fibers are interspersed with connective tissue. </para>
+      <para>The blood vessels parallel the course of the muscle fibers and run along the margins of the cleft toward the columella or alar base, where they form anastomoses with nearby vessels. </para>
+      <para>In the bilateral deformity, the anatomic characteristics are determined by the degree of completeness of the cleft and its symmetry. The cleft may involve the primary palate alone or in conjunction with the secondary palate. Although the prolabium varies in size, it is usually retracted and lacks muscle fibers. In addition, the columella is absent and the prolabium appears attached to the top of the nose in some cases. The size and position of the premaxilla vary and effectively can be excluded with a collapse of the alveolar arch. </para>
+      <para>The extent of nasal deformity associated with cleft lip varies from patient to patient, although it has a characteristic appearance, with the following features: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Deflection of the nasal tip towards the noncleft side</para>
+        </listitem>
+        <listitem>
+          <para>Retroplacement of the cleft alar cartilage dome</para>
+        </listitem>
+        <listitem>
+          <para>Obtuse angle between the medial and lateral crura of the lower lateral cartilage on the cleft side</para>
+        </listitem>
+        <listitem>
+          <para>Buckling of the ala on the cleft side</para>
+        </listitem>
+        <listitem>
+          <para>Absence of the alar-facial groove on the cleft side and attachment of the ala to the face at an obtuse angle</para>
+        </listitem>
+        <listitem>
+          <para>Apparent or real bony deficiency of the maxilla on the cleft side</para>
+        </listitem>
+        <listitem>
+          <para>Larger nares on the cleft side</para>
+        </listitem>
+        <listitem>
+          <para>Shorter columella on the cleft side, positioning the entire columella at a slant toward the noncleft side</para>
+        </listitem>
+        <listitem>
+          <para>Inferior displacement of the medial crus within the columella</para>
+        </listitem>
+        <listitem>
+          <para>Dislocation of the caudal portion of the septum to the noncleft side from the nasal spine</para>
+        </listitem>
+        <listitem>
+          <para>Downward rotation of the alar cartilage on the cleft side</para>
+        </listitem>
+        <listitem>
+          <para>Bilateral deformity in which the nasal tip appears large, flat, and bifid, because both alae are rotated downward and spread apart </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Cleft palate</title>
+      <para>The incisive foramen is the key landmark in the bony palate (see the image below). The premaxilla lies anterior to the incisive foramen and includes the 2 premaxillary bones: the alveolus and the incisors.</para>
+      <figure id="24529">
+        <title>Normal anatomy of the palate. </title>
+        <caption>Normal anatomy of the palate. </caption>
+        <graphic fileref="/29/24529.jpg" format="IMAGE" id="24529" extension_format="JPG"/>
+        <graphic fileref="/29/24529tn.jpg" format="IMAGE_THUMB" id="24529"/>
+      </figure>
+      <para>The soft-tissue structures in the primary palate include the nasal tip and the upper central lip. The size, composition, and configuration of the premaxilla can vary from full development with the complement of teeth (4 primary and 4 secondary) to underdevelopment with only 2 incisors. If the premaxilla is unrestrained in the intrauterine and neonatal period it can protrude from the arch; the maxillary arches may then collapse and potentially exclude the premaxilla from the arch. </para>
+      <para>Posterior to the incisive foramen lies the secondary palate, comprising the hard palate and soft palate. The hard palate forms from the palatine processes of the maxilla anteriorly and the palatine bones posteriorly. Posterior to the bony hard palate lies the soft palate. </para>
+      <para>The soft palate plays an important role in speech and swallowing. Paired muscle on both sides of the midline (see the following image) form the musculature of the soft palate. The levator veli palatini is the most important muscle for the production of speech and velopharyngeal competence. The paired muscles of the soft palate function as a sling from their origin at the undersurface of the temporal bone to their aponeurosis across the midline, as they elevate the soft palate toward the posterior pharyngeal wall. </para>
+      <para>The palatopharyngeus further supplements the posterior movement of the soft palate. Contraction of the superior pharyngeal constrictor contributes to closure of the velopharyngeal opening at the lateral and posterior pharyngeal wall. The primary function of the tensor veli palatini is to dilate the eustachian tube and to maintain its integrity. The uvular muscle is thought to have a minimal contribution to normal speech.</para>
+      <figure id="24530">
+        <title>Muscles of the soft palate. </title>
+        <caption>Muscles of the soft palate. </caption>
+        <graphic fileref="/30/24530.jpg" format="IMAGE" id="24530" extension_format="JPG"/>
+        <graphic fileref="/30/24530tn.jpg" format="IMAGE_THUMB" id="24530"/>
+      </figure>
+      <para>Clefts of the palate (CPs) are associated with bony, as well as soft-tissue, abnormalities. Clefts of the secondary palate may be isolated or associated with clefts of the primary palate. Although clefts of the secondary palate are midline defects (see the image below), those involving the primary palate are usually asymmetric, with the vomer attached to the noncleft side. The dental arch on the noncleft side usually splays outward due to the lack of restraining force from the lip, and the palate is foreshortened in the anteroposterior direction. In the case of complete bilateral clefts, the entire premaxilla protrudes from the adjacent alveolar ridges. Because of the collapse of the palatine shelves posterior to the premaxilla and its possible rotation, the premaxilla is prevented from rejoining the arch and is left attached solely to the vomer.</para>
+      <figure id="24531">
+        <title>Variations of cleft palate. </title>
+        <caption>Variations of cleft palate. </caption>
+        <graphic fileref="/31/24531.jpg" format="IMAGE" id="24531" extension_format="JPG"/>
+        <graphic fileref="/31/24531tn.jpg" format="IMAGE_THUMB" id="24531"/>
+      </figure>
+      <para>Soft-tissue defects of the cleft palate include hypoplasia of the velar musculature in addition to anomalous insertions of its muscular components (see the following image). The normal midline insertion and transverse orientation of the levator palatini is substituted by an aberrant longitudinal orientation and insertion along the bony cleft margin and posterior palatine bones. Other palatal muscles are affected similarly. Dysfunction results in speech pathology with velopharyngeal incompetence and in eustachian-tube obstruction with resultant middle-ear effusion, infections, and possible hearing loss.</para>
+      <figure id="24532">
+        <title>Underlying defect in the musculature of cleft palate. </title>
+        <caption>Underlying defect in the musculature of cleft palate. </caption>
+        <graphic fileref="/32/24532.jpg" format="IMAGE" id="24532" extension_format="JPG"/>
+        <graphic fileref="/32/24532tn.jpg" format="IMAGE_THUMB" id="24532"/>
+      </figure>
+      <para>Using cone-beam computed tomography (CT) scanning, a study by Celikoglu et al found at least one maxillary dental anomaly in 50 patients with nonsyndromic cleft lip and palate, with tooth agenesis being the most frequent. The study, of 22 and 28 patients with bilateral and unilateral cleft lip and palate, respectively, found tooth agenesis in 86.4% of the bilateral patients and 92.5% of the unilateral patients. In the unilateral group, the incidence of tooth agenesis and canine impaction were greater on the cleft side of the mouth than on the normal side.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+      <para>A study by Datana et al indicated that the prevalence of upper cervical vertebrae anomalies is more than three times greater in persons with cleft lip/palate than in those without the condition. The prevalence was 20.3% in the cleft group overall, compared with 6.4% in the control group. In patients with unilateral cleft lip and palate, the prevalence was 22.2%, while in those with bilateral cleft lip and palate, the prevalence was 19.1%, and in patients with cleft palate only, the prevalence of upper cervical vertebrae anomalies was 16.6%. The study involved 128 patients with cleft lip/palate and 125 controls.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a5">
+    <title>Management of Cleft Lip and Palate</title>
+    <pgroup>
+      <para>Neonatal management, unilateral and bilateral cleft lip repair, presurgical orthodontics, and cleft palate repair are discussed in this section. </para>
+    </pgroup>
+    <pgroup>
+      <title>Neonatal management</title>
+      <para>A minority of patients, particularly those with the Robin sequence (see Robin sequence under Selected Mouth and Pharynx Deformities), present with respiratory distress. Securing the airway is the priority in these patients. However, feeding difficulty is the primary problem for most patients with cleft lip and palate (CLP). Although these patients have normal sucking and swallowing reflexes, they have difficulty generating enough negative pressure to nurse adequately. As a result, the baby's nutrition must be delivered through bottle feeding via nipples with large openings to facilitate the delivery of breast milk or formula. </para>
+      <para>A multidisciplinary approach is required to assist patients and their families with the comprehensive care of these children. Responsibility for their care is shared by a team of pediatricians, plastic surgeons, otolaryngologists, pedodontists, orthodontists, nurses, speech therapists, audiologists, and social workers. </para>
+    </pgroup>
+    <pgroup>
+      <title>Unilateral cleft lip repair</title>
+      <para>Repair of the unilateral cleft lip (CL) is usually performed during the first year of life. Although some surgeons advocate immediate repair, most follow the “rules of 10”: hemoglobin more than 10 g, age older than 10 weeks, and weight more than 10 lb. Patients who satisfy the criteria can better tolerate <a href="http://emedicine.medscape.com/article/1271543-overview">general anesthesia</a>, and surgeons can perform a more technically accurate surgical repair. </para>
+      <para>Discussion of the merits of individual surgical procedures for correction of the cleft lip (CL) is beyond the scope of this review. All contemporary procedures use local tissue flaps for reconstruction and closure of the congenital anomaly. Interested readers are urged to refer to surgical atlases or the following: </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/877970-overview">Cleft Lip</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/1279040-overview">Unilateral Cleft Lip Repair</a>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Presurgical orthodontics</title>
+      <para>Presurgical orthodontics facilitate repositioning of the palatal segments into normal alignment with the use of an appliance.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>The simplest device is adhesive tape placed across the cheeks and prolabium of patients with bilateral clefts. Splints can also be used to maintain or adjust the alignment of the premaxilla while the patient awaits definitive cleft lip repair. These appliances have the potential to convert a wide complete cleft lip to an incomplete lip. In addition, preoperative realignment of the segments decreases tension on the wound and incidence of wound dehiscence. </para>
+    </pgroup>
+    <pgroup>
+      <title>Bilateral cleft lip repair</title>
+      <para>The bilateral cleft lip deformity is unique, because its management and postoperative results are affected by the status of the premaxillary segment and the degree of symmetry and completeness of the deformity. The goals of surgical correction of a bilateral cleft lip include correction of the cleft lip (CL) and nasal deformity in addition to establishment of a normal relationship between the premaxilla and the alveolar arches. Presurgical orthodontics are used to realign the maxillary arch and premaxilla and to minimize the tension placed on the lip closure.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      <para>El-Kassaby et al (2013) published a retrospective comparative study of nonsyndromic patients with complete bilateral cleft lip and palate.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>The patients were divided into 2 groups based on the size and characteristics of the premaxilla: group R for rudimentary premaxilla and group P for prominent premaxilla. The width of the cleft at the hard palate level and the gap between the soft palate and the posterior pharyngeal wall were the most significant parameters in predicting velopharyngeal insufficiency.</para>
+      <para>For a discussion of surgical procedures used to repair bilateral cleft lip, please refer to plastic surgery texts or the following: </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/877970-overview">Cleft Lip</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/1279040-overview">Bilateral Cleft Lip Repair</a>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Cleft palate repair</title>
+      <para>The goals of cleft palate (CP) repair include closure of the palatal defect and attainment of normal speech, hearing, dental occlusion, and facial and palatal growth. The timing of surgical correction remains controversial. Factors considered before repair must take into account the known and postulated affects on facial growth and speech development.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      <para>The trauma sustained during surgical intervention is thought to play a role in the underdevelopment of the midface. The persistence of a cleft deformity, per se, is not believed to affect normal craniofacial growth. Patients with cleft deformities that are left surgically uncorrected have been observed to have normal maxillary growth. </para>
+      <para>The development of speech is somewhat independent of craniofacial growth. That vocalization begins with birth is well known. In addition, an intact speech mechanism is required to ensure that the correct neural programming needed for integration of the musculature involved in speech occurs. This process is thought to transpire within the first year of life. Once established, compensatory speech patterns are difficult to change. </para>
+      <para>Common opinion maintains that although early palatal repair is associated with superior speech and hearing, it has negative effects on facial growth. Operative intervention at a younger age is also technically more challenging because of the small size of the structures and the limitations of the instruments. </para>
+      <para>Most centers in North America perform palatal closure at age 12-18 months. Patients in this age group have larger anatomy, which facilitates surgical intervention. In addition, common belief asserts that normal speech development is not impeded at this age. </para>
+      <para>Surgical repair of the cleft palate falls into 2 categories. The first is a single-stage repair involving closure with mucoperiosteal flaps. The second involves a multistage approach in which the soft palate is closed initially, followed by a delayed closure of the hard palate. </para>
+      <para>In a 2008 retrospective study by Khosla et al concluded that the Furlow Z-plasty yielded excellent speech results for primary cleft palate repair with minimal and acceptable rates of fistula formation, velopharyngeal insufficiency, and the need for additional corrective surgery. </para>
+      <para><a href="http://emedicine.medscape.com/article/844659-overview">Distraction osteogenesis</a> is a relatively recent technique used for maxillary advancement to correct skeletofacial deformities in older cleft patients. In 2008, Bevillaqua et al published results with this technique on 7 patients with significant anterior movements, which allowed excellent improvements in functional and facial aesthetic outcomes.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+      <para>For more information regarding cleft palate repair, see <a href="http://emedicine.medscape.com/article/1279283-overview">Cleft Palate Repair</a>.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a6">
+    <title>Velopharyngeal Insufficiency</title>
+    <pgroup>
+      <para>A competent velopharyngeal mechanism is required for normal speech. The velopharyngeal sphincter functions in concert with the mouth and larynx for speech production. The palate separates the nasal cavity from the vocal tract and forms a part of the velopharyngeal sphincter. Closure of the sphincter is accomplished by the movement of the soft palate (tension and elevation) as well as lateral and posterior movement of the posterior pharyngeal wall. </para>
+      <para>Velopharyngeal insufficiency (VPI) results from an inability to completely close the velopharyngeal sphincter. Velopharyngeal insufficiency is characterized by hypernasality; nasal emission; and adaptive changes in articulations, such as pharyngeal fricatives, sound substitution, and glottal stops. </para>
+      <para>The goal of palatal repair is to restore accurate phonation and functional anatomy. Most techniques of palatal repair result in a 20-30% incidence of velopharyngeal insufficiency. </para>
+    </pgroup>
+    <pgroup>
+      <title>Diagnosis</title>
+      <para>If a child is found to have velopharyngeal insufficiency based on speech derangement, additional quantitative and dynamic measurements are required. Pressure and airflow measurements, both oral and nasal, are generally used only as screening tools, because they provide no details about sphincter function. </para>
+      <para>In order to compare nasendoscopy (NE) with multiview fluoroscopy (MVF) in the assessment of velopharyngeal gap size and to determine the relationship between these assessments and velopharyngeal insufficiency severity, Lam et al demonstrated that NE and MVF assessments provide complementary information and are correlated.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup>Both are associated with velopharyngeal insufficiency severity. However, the bird's-eye view provided by NE has a stronger correlation with velopharyngeal insufficiency severity than MVF. </para>
+      <para>Radiologic methods of assessment include soft-tissue radiography and videofluoroscopy. Radiography provides a 2-dimensional (2-D) image of the relationship between the soft palate and the posterior pharyngeal wall, but it is not a dynamic technique. Conversely, videofluoroscopy provides dynamic information regarding the sphincter mechanism. Flexible and rigid endoscopy can also be used to assess velopharyngeal insufficiency. The advantage of endoscopy is that it allows direct observation of sphincter function.</para>
+      <para>VPI can be surgically corrected with the use of pharyngeal flaps,<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>pharyngeal sphincter reconstruction (pharyngoplasty), or pharyngeal wall implants.</para>
+      <para>Yang et al (2013) published a retrospective review on 503 patients.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>They found that velopharyngeal competence (VPC) scores were statistically higher in patients operated at age younger than 2 years compared with older age groups (<em>P</em> &lt; .05) and significantly lower in the 6 years-or-older group (<em>P</em> &lt; .05). They also concluded that the postoperative velopharyngeal function (VPF) greatly decreases after age 6 years. </para>
+      <para>Leclerc et al (2013) published on anatomical measurements of the cleft palate that predict the occurrence of VPI after palatal cleft repair.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup>They concluded that the width of the cleft at the hard palate level and the posterior gap between the soft palate and the posterior pharyngeal wall were the most significant parameters in predicting velopharyngeal insufficiency. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a7">
+    <title>Selected Mouth and Pharynx Deformities</title>
+    <pgroup>
+      <para>The Robin sequence, macroglossia, ankyloglossia, epignathus, lingual thyroid, and a few other conditions are briefly discussed in this section. </para>
+    </pgroup>
+    <pgroup>
+      <title>Robin sequence </title>
+      <para>The Robin sequence includes cleft palate (CP), a small mouth, and retrognathia. Retrognathism results in a functional abnormality of the tongue musculature that manifests with airway obstruction during sleep, as the tongue falls posteriorly. In addition to the respiratory difficulties, feeding difficulties can result in a failure to thrive. </para>
+      <para>The severity of airway compromise dictates management. In mild cases, conservative treatment consists of placing the patient in a prone position and intensive monitoring. Surgery is indicated if no improvement occurs after 7 days. Surgery involves either tracheostomy or repositioning of the tongue. </para>
+      <para>For more information, see <a href="http://emedicine.medscape.com/article/873018-overview">Pierre Robin Syndrome</a>.</para>
+    </pgroup>
+    <pgroup>
+      <title>Macroglossia</title>
+      <para>Congenital macroglossia may be secondary to tumors (eg, dermoids), muscular hypertrophy or hyperplasia (Beckwith-Wiedemann syndrome), or hemihypertrophy. Vascular malformation is a common cause of macroglossia.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>Macroglossia may interfere with speech or deglutition. In addition, the exposed tongue can become dry, cracked, and ulcerated. Oral hygiene and drooling can be problematic. </para>
+      <para>Lymphangiomas are the most common vascular malformations of the tongue. Surgical biopsy or relatively minor trauma to the patient with lymphangioma can result in massive swelling, with difficulty in closing the mouth or, at times, airway compromise. Increased swelling can occur with superimposed lymphangitis. Early in life, conservative treatment is recommended; this includes the avoidance of trauma and the prompt use of antibiotics at the first sign of infection. Surgery is usually delayed until the child is older (4-5 y) to decrease the likelihood of postoperative airway problems. </para>
+      <para>Macroglossia is a feature of Down syndrome. The etiology is believed to be a reactive hypertrophy due to muscular hypotonia. The combination of macroglossia and a small oral cavity in these patients results in glossoptosis. Partial glossectomy is usually successful in returning the tongue to the oral cavity and in removing this visible stigma of mental retardation. </para>
+      <para>Macroglossia can also be associated with a few syndromes, such as Treacher Collins (mandibulofacial dysostosis or Franceschetti-Zwahlen-Klein) syndrome. </para>
+    </pgroup>
+    <pgroup>
+      <title>Ankyloglossia</title>
+      <para>Ankyloglossia is due to the presence of a frenulum tethering the tip of the tongue to the floor of the mouth. The commonly used term to describe ankyloglossia is <em>tongue-tied.</em> Problems with articulation may affect sounds that require placement of the tongue on the upper incisor teeth, as in the /th/ sound. In Spanish-speaking persons with this condition, rolling of the tongue to produce the /r/ sound is particularly difficult. </para>
+      <para>Surgical intervention is indicated for articulation problems and for feeding difficulties (poor suckling), dental problems (spreading of the lower incisor teeth), or requests by the patient's parents. Release may involve simple division of the involved band of tissue or a Z-plasty lengthening procedure. Injury to the Wharton duct should be avoided. </para>
+    </pgroup>
+    <pgroup>
+      <title>Epignathus</title>
+      <para>Epignathi are rare teratomas that histologically contain tissue of all 3 germ-cell lines.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup>Patients usually present at birth with a mass that protrudes through the mouth and compromises the airway (see the image below). Grossly, the tumor is covered with skin and mucosa and appears to arise from the palate or pharynx, filling the oral cavity. These masses are thought to arise from pluripotential stem cells from the Rathke pouch region.</para>
+      <figure id="24533">
+        <title>Newborn with epignathus. The patient was intubated at birth. </title>
+        <caption>Newborn with epignathus. The patient was intubated at birth. </caption>
+        <graphic fileref="/33/24533.jpg" format="IMAGE" id="24533" extension_format="JPG"/>
+        <graphic fileref="/33/24533tn.jpg" format="IMAGE_THUMB" id="24533"/>
+      </figure>
+      <para>Prenatal ultrasonography usually demonstrates the mass protruding from the fetal face.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>The differential diagnosis should include hairy polyps, encephaloceles, gliomas, and dermoids. </para>
+      <para>Management involves emergently securing an airway by intubation or formal tracheostomy. A magnetic resonance image (MRI) (or computed tomography [CT] scan) is required before surgical intervention to rule out an encephalocele or intracranial extension of the lesion. Once the extent of the mass is adequately determined, the tumor can be excised through the oral cavity. </para>
+    </pgroup>
+    <pgroup>
+      <title>Lingual thyroid</title>
+      <para>A lingual thyroid is due to the undescended thyroid at the tongue base. Common symptoms include dysphagia; dysphonia; and, occasionally, dyspnea. Thyroid ultrasonography has replaced radioisotope thyroid scanning in the evaluation of the amount of active thyroid tissue present. </para>
+      <para>Management depends on functional and metabolic factors. If the patient is euthyroid, observation with careful follow-up is advised. Suppressive thyroid hormone therapy should be initiated if a hypothyroid status develops. If the lingual swelling increases, surgical excision with replacement therapy is indicated. </para>
+    </pgroup>
+    <pgroup>
+      <title>Other conditions</title>
+      <para>Lip pits represent vestigial remnants of the lateral sulci of the mandible at the 7.5- to 12.5-mm stage of the embryo. In van der Woude syndrome (an autosomal dominant syndrome with 90% penetrance), lip pits are paramedian and usually bilateral. They vary in depth from a few millimeters to 3 centimeters or more. A communication may exist with the minor salivary glands of the lower lip. Lip pits may also occur in popliteal pterygium syndrome and in aganglionic megacolon with cleft lip and palate (CLP). </para>
+      <para>Commissural lip pits occur more frequently than other lip pits and are not related to the syndromes just described. Their prevalence is estimated to be 1 case per 300 white persons and 1 case per 48 black persons. </para>
+      <para>Micrognathia could be associated with numerous syndromes and conditions, such as an adducted thumb, atelosteogenesis (types I and III); cerebrocostomandibular findings; the Robin sequence; and Aase-Smith, Chitayat-Azouz, chromosome 3 dup 3p, chromosome 4 partial del 4p, chromosome 7 term del 7q, Say, and Shprintzen (velocardiofacial) syndromes.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+      <para>For a discussion of facial clefts, see <a href="http://emedicine.medscape.com/article/837236-overview">Congenital Malformations of the Nose</a>; for other conditions, such as dermoid cysts, see <a href="http://emedicine.medscape.com/article/837477-overview">Congenital Malformations of the Neck</a>. </para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="24524">
+        <title>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to...</title>
+        <caption>Illustration depicts fusion of the lateral nasal, medial nasal, and maxillary prominences to form the primary palate. </caption>
+        <graphic fileref="/24/24524.jpg" format="IMAGE" id="24524" extension_format="JPG"/>
+        <graphic fileref="/24/24524tn.jpg" format="IMAGE_THUMB" id="24524"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24525">
+        <title>Formation of the secondary palate. </title>
+        <caption>Formation of the secondary palate. </caption>
+        <graphic fileref="/25/24525.jpg" format="IMAGE" id="24525" extension_format="JPG"/>
+        <graphic fileref="/25/24525tn.jpg" format="IMAGE_THUMB" id="24525"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24526">
+        <title>Veau classification of cleft lip and palate. A: Group I. Defects of the soft palate only. B:...</title>
+        <caption>Veau classification of cleft lip and palate. A: Group I. Defects of the soft palate only. B: Group II. Defects involving the hard palate and soft palate. C: Group III. Defects involving the soft palate to the alveolus, usually involving the lip. D: Group IV. Complete bilateral clefts. </caption>
+        <graphic fileref="/26/24526.jpg" format="IMAGE" id="24526" extension_format="JPG"/>
+        <graphic fileref="/26/24526tn.jpg" format="IMAGE_THUMB" id="24526"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24527">
+        <title>Kernahan and Stark symbolic classification of cleft lip and palate. R = right; L = left. </title>
+        <caption>Kernahan and Stark symbolic classification of cleft lip and palate. R = right; L = left. </caption>
+        <graphic fileref="/27/24527.jpg" format="IMAGE" id="24527" extension_format="JPG"/>
+        <graphic fileref="/27/24527tn.jpg" format="IMAGE_THUMB" id="24527"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24528">
+        <title>Muscular defects in unilateral deformity. </title>
+        <caption>Muscular defects in unilateral deformity. </caption>
+        <graphic fileref="/28/24528.jpg" format="IMAGE" id="24528" extension_format="JPG"/>
+        <graphic fileref="/28/24528tn.jpg" format="IMAGE_THUMB" id="24528"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24529">
+        <title>Normal anatomy of the palate. </title>
+        <caption>Normal anatomy of the palate. </caption>
+        <graphic fileref="/29/24529.jpg" format="IMAGE" id="24529" extension_format="JPG"/>
+        <graphic fileref="/29/24529tn.jpg" format="IMAGE_THUMB" id="24529"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24530">
+        <title>Muscles of the soft palate. </title>
+        <caption>Muscles of the soft palate. </caption>
+        <graphic fileref="/30/24530.jpg" format="IMAGE" id="24530" extension_format="JPG"/>
+        <graphic fileref="/30/24530tn.jpg" format="IMAGE_THUMB" id="24530"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24531">
+        <title>Variations of cleft palate. </title>
+        <caption>Variations of cleft palate. </caption>
+        <graphic fileref="/31/24531.jpg" format="IMAGE" id="24531" extension_format="JPG"/>
+        <graphic fileref="/31/24531tn.jpg" format="IMAGE_THUMB" id="24531"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24532">
+        <title>Underlying defect in the musculature of cleft palate. </title>
+        <caption>Underlying defect in the musculature of cleft palate. </caption>
+        <graphic fileref="/32/24532.jpg" format="IMAGE" id="24532" extension_format="JPG"/>
+        <graphic fileref="/32/24532tn.jpg" format="IMAGE_THUMB" id="24532"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="24533">
+        <title>Newborn with epignathus. The patient was intubated at birth. </title>
+        <caption>Newborn with epignathus. The patient was intubated at birth. </caption>
+        <graphic fileref="/33/24533.jpg" format="IMAGE" id="24533" extension_format="JPG"/>
+        <graphic fileref="/33/24533tn.jpg" format="IMAGE_THUMB" id="24533"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Ted L Tewfik, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Otolaryngology-Head and Neck Surgery, Professor of Pediatric Surgery, McGill University Faculty of Medicine; Senior Staff, Montreal Children's Hospital, Montreal General Hospital, and Royal Victoria Hospital</contrbtr_title>
+        <contrbtr_bio>Ted L Tewfik, MD is a member of the following medical societies: <a href="http://www.aspo.us">American Society of Pediatric Otolaryngology</a>, <a href="http://www.entcanada.org/">Canadian Society of Otolaryngology-Head &amp; Neck Surgery</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Naznin Karsan, MD, MSc</contrbtr_nm>
+        <contrbtr_title>Staff Physician, Department of Otolaryngology, McGill University, Canada</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Alyssa Kanaan, MD</contrbtr_nm>
+        <contrbtr_title>Fellow in Rhinology, University of Pittsburgh Medical Center</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Arlen D Meyers, MD, MBA</contrbtr_nm>
+        <contrbtr_title>Professor of Otolaryngology, Dentistry, and Engineering, University of Colorado School of Medicine</contrbtr_title>
+        <contrbtr_bio>Arlen D Meyers, MD, MBA is a member of the following medical societies: <a href="http://www.aafprs.org">American Academy of Facial Plastic and Reconstructive Surgery</a>, <a href="http://www.entnet.org">American Academy of Otolaryngology-Head and Neck Surgery</a>, <a href="http://www.ahns.info">American Head and Neck Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Serve(d) as a director, officer, partner, employee, advisor, consultant or trustee for: Medvoy;Testappropriate;Cerescan;Empirican;RxRevu&lt;br/&gt;Received none from Allergy Solutions, Inc for board membership; Received honoraria from RxRevu for chief medical editor; Received salary from Medvoy for founder and president; Received consulting fee from Corvectra for senior medical advisor; Received ownership interest from Cerescan for consulting; Received consulting fee from Essiahealth for advisor; Received consulting fee from Carespan for advisor; Received consulting fee from Covidien for consulting.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Michael J Biavati, MD, FACS, FAAP</contrbtr_nm>
+        <contrbtr_title>Clinical Assistant Professor of Otolaryngology, University of Texas Southwestern Medical Center at Dallas, Southwestern Medical School; Private Practice, ENT Care for Kids, Dallas, TX</contrbtr_title>
+        <contrbtr_bio>Michael J Biavati, MD, FACS, FAAP is a member of the following medical societies: <a href="http://www.entnet.org">American Academy of Otolaryngology-Head and Neck Surgery</a>, <a href="http://www.aspo.us">American Society of Pediatric Otolaryngology</a>, <a href="http://www.sentac.org/">Society for Ear, Nose and Throat Advances in Children</a>, <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.acpa-cpf.org/">American Cleft Palate-Craniofacial Association</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.triological.org">The Triological Society</a>, <a href="http://www.texmed.org">Texas Medical Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Dionisopoulos T, Williams HB. <em>Congenital anomalies of the Ear, Nose and Throat</em>. New York: Oxford University Press; 1997. 243-62. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/5574216">
+      <para>Kernahan DA. The striped Y--a symbolic classification for cleft lip and palate. <em>Plast Reconstr Surg</em>. 1971 May. 47(5):469-70. <a href="http://reference.medscape.com/medline/abstract/5574216">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18177187">
+      <para>Koul R. Describing cleft lip and palate using a new expression system. <em>Cleft Palate Craniofac J</em>. 2007 Nov. 44(6):585-9. <a href="http://reference.medscape.com/medline/abstract/18177187">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Fara M. The musculature of cleft lip and palate. McCarthy JG, ed. <em>Plastic Surgery</em>. Philadelphia, Pa: WB Saunders Co; 1990. Vol 4.: 2598-626. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25823490">
+      <para>Celikoglu M, Buyuk SK, Sekerci AE, et al. Maxillary dental anomalies in patients with cleft lip and palate: a cone beam computed tomography study. <em>J Clin Pediatr Dent</em>. 2015 Winter. 39(2):183-6. <a href="http://reference.medscape.com/medline/abstract/25823490">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25709295">
+      <para>Datana S, Bhalla A, Kumar P, et al. Comparative evaluation of prevalence of upper cervical vertebrae anomalies in cleft lip/palate patients: a retrospective study. <em>Int J Clin Pediatr Dent</em>. 2014 Sep-Dec. 7(3):168-71. <a href="http://reference.medscape.com/medline/abstract/25709295">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335106/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6703611">
+      <para>Rutrick R, Black PW, Jurkiewicz MJ. Bilateral cleft lip and palate: presurgical treatment. <em>Ann Plast Surg</em>. 1984 Feb. 12(2):105-17. <a href="http://reference.medscape.com/medline/abstract/6703611">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23662253">
+      <para>El-Kassaby MA, Abdelrahman NI, Abbass IT. Premaxillary characteristics in complete bilateral cleft lip and palate: A predictor for treatment outcome. <em>Ann Maxillofac Surg</em>. 2013 Jan. 3(1):11-9. <a href="http://reference.medscape.com/medline/abstract/23662253">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3645603/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6592059">
+      <para>Brøndsted K, Liisberg WB, Orsted A, Prytz S, Fogh-Andersen P. Surgical and speech results following palatopharyngoplasty operations in Denmark 1959-1977. <em>Cleft Palate J</em>. 1984 Jul. 21(3):170-9. <a href="http://reference.medscape.com/medline/abstract/6592059">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18788872">
+      <para>Khosla RK, Mabry K, Castiglione CL. Clinical outcomes of the Furlow Z-plasty for primary cleft palate repair. <em>Cleft Palate Craniofac J</em>. 2008 Sep. 45(5):501-10. <a href="http://reference.medscape.com/medline/abstract/18788872">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18454002">
+      <para>Bevilacqua RG, Ritoli EL, Kang C, Mabry K, Castiglione CL. Midmaxillary internal distraction osteogenesis: ideal surgery for the mature cleft patient. <em>Plast Reconstr Surg</em>. 2008 May. 121(5):1768-78. <a href="http://reference.medscape.com/medline/abstract/18454002">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16500434">
+      <para>Lam DJ,  Starr JR,  Perkins JA,  Lewis CW,  Eblen LE,  Dunlap J, et al. A comparison of nasendoscopy and multiview videofluoroscopy in assessing velopharyngeal insufficiency. <em>Otolaryngol Head Neck Surg</em>. 2006 Mar. 134(3):394-402. <a href="http://reference.medscape.com/medline/abstract/16500434">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16471188">
+      <para>Wójcicki P, Swidzinski P, Wójcicka G. [Velopharyngeal incompentance treated by the pharyngeal flap and the Orticochea pharyngoplasty--a comparison of speech results]. <em>Otolaryngol Pol</em>. 2005. 59(5):705-12. <a href="http://reference.medscape.com/medline/abstract/16471188">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23714912">
+      <para>Yang Y,  Li Y,  Wu Y,  Gu Y,  Yin H,  Long H, et al. Velopharyngeal function of patients with cleft palate after primary palatoplasty: relevance of sex, age, and cleft type. <em>J Craniofac Surg</em>. 2013 May. 24(3):923-8. <a href="http://reference.medscape.com/medline/abstract/23714912">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23686336">
+      <para>Leclerc JE, Godbout A, Gauthier IA, Lacour S, Abel K, McConnell EM. We can predict post palatoplasty velopharyngeal insufficiency in cleft palate patients. <em>Laryngoscope</em>. 2013 May 20. <a href="http://reference.medscape.com/medline/abstract/23686336">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2947254">
+      <para>Vogel JE, Mulliken JB, Kaban LB. Macroglossia: a review of the condition and a new classification. <em>Plast Reconstr Surg</em>. 1986 Dec. 78(6):715-23. <a href="http://reference.medscape.com/medline/abstract/2947254">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6517466">
+      <para>Pavlin JE, O'Gorman A, Williams HB, Crépeau RJ, Shapiro RS. Epignathus: a report of two cases. <em>Ann Plast Surg</em>. 1984 Nov. 13(5):452-6. <a href="http://reference.medscape.com/medline/abstract/6517466">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20102262">
+      <para>Tonni G, Centini G, Inaudi P, Rosignoli L, Ginnaneschi C, De Felice C. Prenatal diagnosis of severe epignathous in a twin: Case report and review of the literature. <em>Cleft Palate Craniofac J</em>. 2009 Nov 18. <a href="http://reference.medscape.com/medline/abstract/20102262">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nora JJ, Fraser FC, Bear J, et al. <em>Medical Genetics: Principle and Practice</em>. 4th ed. Philadelphia, Pa: Lea &amp; Febiger; 1994. 270-9. </para>
+    </ritem>
+  </refgrp>
+</article>

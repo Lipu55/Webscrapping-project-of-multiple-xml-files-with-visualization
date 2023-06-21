@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1839773" pubid="" template="Clinical Procedures" template-name="multipageproc">
+  <site-meta>
+    <article-name>Tilt-Table Testing</article-name>
+    <title>
+      <page-info id="overview">Tilt-Table Testing: Background, Indications, Contraindications</page-info>
+      <page-info id="periprocedure">Tilt-Table Testing Periprocedural Care: Patient Education &amp; Consent, Equipment, Patient Preparation</page-info>
+      <page-info id="technique">Tilt-Table Testing Technique: Approach Considerations, Tilt-Table Testing, Test Results</page-info>
+      <page-info id="medication">Tilt-Table Testing Medication: Vasodilators, Beta1/Beta2 Adrenergic Agonists, Isotonic Crystalloids</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Tilt-Table Testing: Background, Indications, Contraindications</page-info>
+      <page-info id="periprocedure">Tilt-Table Testing Periprocedural Care: Patient Education &amp; Consent, Equipment, Patient Preparation</page-info>
+      <page-info id="technique">Tilt-Table Testing Technique: Approach Considerations, Tilt-Table Testing, Test Results</page-info>
+      <page-info id="medication">Tilt-Table Testing Medication: Vasodilators, Beta1/Beta2 Adrenergic Agonists, Isotonic Crystalloids</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Background</section-info>
+<section-info id="a2">Indications</section-info>
+<section-info id="a3">Contraindications</section-info>
+<section-info id="a4">Technical Considerations</section-info>
+<section-info id="a5">Outcomes</section-info>
+</section-page-info>
+      <section-page-info id="periprocedure">Periprocedural Care
+<section-info id="b3">Patient Education &amp; Consent</section-info>
+<section-info id="b4">Equipment</section-info>
+<section-info id="b5">Patient Preparation</section-info>
+<section-info id="b6">Monitoring &amp; Follow-up</section-info>
+</section-page-info>
+      <section-page-info id="technique">Technique
+<section-info id="c1">Approach Considerations</section-info>
+<section-info id="c2">Tilt-Table Testing</section-info>
+<section-info id="c3">Test Results</section-info>
+<section-info id="c4">Definitions of Key Terms</section-info>
+<section-info id="c5">Web Links</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Tilt-Table Testing Overview</page-info>
+      <page-info id="periprocedure">Tilt-Table Testing Periprocedural Care</page-info>
+      <page-info id="technique">Tilt-Table Testing Technique</page-info>
+      <page-info id="medication">Tilt-Table Testing Medication</page-info>
+    </meta-keywords>
+    <uri>1839773-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Nov 20, 2014</posting-date>
+    <last-generated>2015-06-06-00:31</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Clinical Procedures</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="503">Procedures</content-group>
+    <content-type ID="10419">Procedure</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1839773</artid>
+      <cg>503</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Cardiology">2</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>procedure</id>
+      <name>Procedures</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures</id>
+      <name>Clinical Procedures</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures_physical</id>
+      <name>Examination Protocols</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">tilt-table testing, tilt table testing, tilt table, tilt-table test, syncope, autonomic nervous system dysfunction, neurological disorders, tilt testing</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">The tilt-table test is a simple, noninvasive, and informative test first described in 1986 as a diagnostic tool for patients with syncope of unknown origin. It is usually performed in hospital electrophysiology departments with the endpoint of reproducing syncope and subsequent appropriate therapy.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Tilt-Table Testing</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Background</title>
+      <pgroup>
+        <para>The tilt-table test is a simple, noninvasive, and informative test first described in 1986 as a diagnostic tool for patients with syncope of unknown origin.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>It is usually performed in hospital electrophysiology departments with the endpoint of reproducing syncope and subsequent appropriate therapy. </para>
+        <para>The causes of syncope have been divided into 6 major categories, as listed below.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>After a careful history and physical examination, tilt-table testing is particularly helpful in confirmation of the etiology of syncope dysfunction of the autonomic nervous system, encompassing primary or secondary dysautonomias, postural orthostatic tachycardia syndrome (POTS), and vasodepressor or vasovagal syncope. Other venues of investigation, such as a 12-lead electrocardiogram, orthostatic blood pressure readings, Holter/event recording, serum glucose and electrolytes, <a href="http://emedicine.medscape.com/article/1820912-overview">echocardiography</a>, and psychiatric and/or neurology consultation should be considered prior to tilt-table testing to rule out malignant dysrhythmic, metabolic, cardiac mechanical, or psychological/neurological etiologies of syncope.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>
+          <strong>The 6 major categories of syncopal etiologies</strong>
+          <sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>
+        </para>
+        <para>
+          <em>Neurological disorders</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Vertebrobasilar transient ischemic attacks</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/462036-overview">Subclavian steal syndrome</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/1150924-overview">Normal pressure hydrocephalus</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Seizure disorders</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Metabolic disorders</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Hypoxia</para>
+          </listitem>
+          <listitem>
+            <para>Hyperventilation</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/122122-overview">Hypoglycemia</a>
+            </para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Mechanical heart disease</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/150638-overview">Aortic stenosis</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/155724-overview">Mitral stenosis</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Global ischemia</para>
+          </listitem>
+          <listitem>
+            <para>Aortic dissection</para>
+          </listitem>
+          <listitem>
+            <para>Pulmonic dissection</para>
+          </listitem>
+          <listitem>
+            <para>Obstructive cardiomyopathy</para>
+          </listitem>
+          <listitem>
+            <para>Left atrial myxoma</para>
+          </listitem>
+          <listitem>
+            <para>Prosthetic valve dysfunction</para>
+          </listitem>
+          <listitem>
+            <para>Pulmonary embolus</para>
+          </listitem>
+          <listitem>
+            <para>Pulmonary hypertension</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Cardiac arrhythmias/brady arrhythmias/tachyarrhythmias</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Bradycardia/pauses</para>
+          </listitem>
+          <listitem>
+            <para>Sinus node dysfunction</para>
+          </listitem>
+          <listitem>
+            <para>AV conduction disease</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Psychiatric disorders</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Panic attacks</para>
+          </listitem>
+          <listitem>
+            <para>Hysteria</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Autonomic Nervous System Dysfunction</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Primary and secondary dysautonomias</para>
+          </listitem>
+          <listitem>
+            <para>Postural orthostatic tachycardia syndrome (POTS)</para>
+          </listitem>
+          <listitem>
+            <para>Postural orthostatic hypotension</para>
+          </listitem>
+          <listitem>
+            <para>Vasodepressor or vasovagal syncope</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="a2">
+      <title>Indications</title>
+      <pgroup>
+        <para>Consider tilt-table testing in patients with signs or symptoms suggestive of orthostatic hypotension, vasodepressor or vasovagal syncope, postural orthostatic tachycardia, or when other causes of syncope have been eliminated. In general, consider tilt-table testing for patients with the following issues: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Hypotension (unexplained)</para>
+          </listitem>
+          <listitem>
+            <para>Tachycardia when standing</para>
+          </listitem>
+          <listitem>
+            <para>Pallor when upright</para>
+          </listitem>
+          <listitem>
+            <para>Orthostatic palpitations</para>
+          </listitem>
+          <listitem>
+            <para>Dizziness (unexplained)</para>
+          </listitem>
+          <listitem>
+            <para>Lightheadedness</para>
+          </listitem>
+          <listitem>
+            <para>History of frequent unexplained falls</para>
+          </listitem>
+          <listitem>
+            <para>History of episodes of fainting or loss of consciousness</para>
+          </listitem>
+        </itemizedlist>
+        <para>The ACC expert consensus document for tilt-table testing including indications was first published in 1996.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>The European Society of Cardiology formed a taskforce to update guidelines for the diagnosis and management of syncope in 2001, which was revised in 2009.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>It includes indications for tilt-table testing with classes of recommendation and levels of evidence (see Table 1).</para>
+        <table id="t0ef44c7ac" class="datatable">
+          <caption>Table 1. European Society of Cardiology 2009 Indications for Tilt-Table Testing<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></caption>
+          <tbody>
+            <tr>
+              <td>
+                <para>
+                  <strong>Recommendations </strong>
+                </para>
+              </td>
+              <td>
+                <para>
+                  <strong>Class </strong>
+                </para>
+              </td>
+              <td>
+                <para>
+                  <strong>level </strong>
+                </para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt table is indicated in the case of an unexplained single syncopal episode in high-risk settings (eg, occurrence of, or potential risk of physical injury or with occupational implications)or recurrent episodes in the absence of organic heart disease, after cardiac causes of syncope have been excluded </para>
+              </td>
+              <td>
+                <para>I</para>
+              </td>
+              <td>
+                <para>B</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing is indicated when it is of clinical value to demonstrate susceptibility to reflex syncope to the patient</para>
+              </td>
+              <td>
+                <para>I</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing should be considered to discriminate between reflex and orthostatic hypotensive syncope</para>
+              </td>
+              <td>
+                <para>IIa</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing may be considered for differentiating syncope with jerking movement from epilepsy</para>
+              </td>
+              <td>
+                <para>IIb</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing may be indicated for evaluating patients with recurrent unexplained falls</para>
+              </td>
+              <td>
+                <para>IIb</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing may be indicated for evaluating patients with frequent syncope and psychiatric disease</para>
+              </td>
+              <td>
+                <para>IIb</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Tilt testing is not recommended for assessment of treatment</para>
+              </td>
+              <td>
+                <para>III</para>
+              </td>
+              <td>
+                <para>B</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Isoproterenol tilt testing is contraindicated in patients with ischemic heart disease</para>
+              </td>
+              <td>
+                <para>III</para>
+              </td>
+              <td>
+                <para>C</para>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </pgroup>
+    </sect2>
+    <sect2 id="a3">
+      <title>Contraindications</title>
+      <pgroup>
+        <para>Contraindications to tilt-table testing include the following:<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <itemizedlist>
+          <listitem>
+            <para>Coma</para>
+          </listitem>
+          <listitem>
+            <para>Feeble patient unable to stand</para>
+          </listitem>
+          <listitem>
+            <para>Lower extremity fractures</para>
+          </listitem>
+          <listitem>
+            <para>Severe anemia</para>
+          </listitem>
+          <listitem>
+            <para>Recent stroke (within seven days)</para>
+          </listitem>
+          <listitem>
+            <para>Recent myocardial infarction</para>
+          </listitem>
+          <listitem>
+            <para>Severe proximal cerebral or coronary arterial disease</para>
+          </listitem>
+          <listitem>
+            <para>Critical mitral or aortic stenosis</para>
+          </listitem>
+          <listitem>
+            <para>Left ventricular outflow tract obstruction</para>
+          </listitem>
+          <listitem>
+            <para>Hypotensive shock</para>
+          </listitem>
+          <listitem>
+            <para>Tachyarrhythmias</para>
+          </listitem>
+          <listitem>
+            <para>Severe metabolic acidosis</para>
+          </listitem>
+          <listitem>
+            <para>Electrolyte imbalance</para>
+          </listitem>
+          <listitem>
+            <para>End-stage renal failure</para>
+          </listitem>
+          <listitem>
+            <para>Severe heart failure</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Technical Considerations</title>
+      <pgroup>
+        <title>Complication Prevention</title>
+        <para>Avoid invasive intra-arterial blood pressure monitoring during tilt-table testing because catheterization may provoke a vasovagal reaction. Use a manual sphygmomanometer or digital plethysmography.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Outcomes</title>
+      <pgroup>
+        <para>Generally tilt-table testing is safe, but complications may occur related to decreased perfusion of the heart, including the following: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Electrocardiographic changes of transient myocardial ischemia with or without angina.</para>
+          </listitem>
+          <listitem>
+            <para>Vasospasm with isoproterenol administration.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Occasionally, cardiac arrhythmias result in termination of the test, such as advanced atrioventricular block (second or third degree), severe bradycardia or pauses, atrial fibrillation, or tachyarrhythmias. </para>
+          </listitem>
+        </itemizedlist>
+        <para>Complications may also occur related to decreased perfusion of the brain, including the following <strong>:</strong></para>
+        <itemizedlist>
+          <listitem>
+            <para>Seizures from prolonged hypotension (this is a transient phenomenon and not indicative of a seizure disorder)</para>
+          </listitem>
+          <listitem>
+            <para>Rarely, transient ischemic attacks or strokes occur.</para>
+          </listitem>
+          <listitem>
+            <para>Transient mental confusion can occur.</para>
+          </listitem>
+          <listitem>
+            <para>Patients may also experience nonspecific symptoms such as nausea or anxiety.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="periprocedure">
+    <title>Periprocedural Care</title>
+    <sect2 id="b3">
+      <title>Patient Education &amp; Consent</title>
+      <pgroup>
+        <para>Discuss the test findings with both the patient and a companion to increase proper understanding of the results.</para>
+      </pgroup>
+      <pgroup>
+        <title>Patient Instructions</title>
+        <para>To avoid dehydration on the day of the study in patients who have been NPO after midnight, or receiving diuretic therapy, infuse 250 mL of 0.9% saline prior to tilt testing. Administer IV saline cautiously in patients with heart failure or renal failure. </para>
+        <para>Hold all medications the night before the procedure and in the morning to increase the sensitivity of the study. However, if diuretic or antihypertensive medications are a suspected etiology of syncopal episodes, allow the patient to take medications as usual the morning of the procedure. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Equipment</title>
+      <pgroup>
+        <para>Equipment/personnel should be as follows:<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        <itemizedlist>
+          <listitem>
+            <para>Tilt table</para>
+          </listitem>
+          <listitem>
+            <para>Blood pressure monitor</para>
+          </listitem>
+          <listitem>
+            <para>Heart rate monitor</para>
+          </listitem>
+          <listitem>
+            <para>ECG rhythm monitor</para>
+          </listitem>
+          <listitem>
+            <para>Oxygen saturation monitor</para>
+          </listitem>
+          <listitem>
+            <para>Crash cart with defibrillator available</para>
+          </listitem>
+          <listitem>
+            <para>Infusion pumps</para>
+          </listitem>
+          <listitem>
+            <para>Quiet, air conditioned room</para>
+          </listitem>
+          <listitem>
+            <para>Soft background music (optional)</para>
+          </listitem>
+          <listitem>
+            <para>Direct physician supervision and nurse or trained technician assistance</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Patient Preparation</title>
+      <pgroup>
+        <title>Anesthesia</title>
+        <para>Anesthesia is not to be used for this procedure. The patient must remain alert and awake to detect the moment of unconsciousness.</para>
+      </pgroup>
+      <pgroup>
+        <title>Positioning</title>
+        <para>See the Technique section.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b6">
+      <title>Monitoring &amp; Follow-up</title>
+      <pgroup>
+        <para>Discharge patient to home if blood pressure and heart rate are back to baseline and patient is not symptomatic.</para>
+        <para>Advise patient not to drive for 2 hours after the procedure.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="technique">
+    <title>Technique</title>
+    <sect2 id="c1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>The tilt-table test involves placing a patient on a flat table with a foot support, then tilting the table upward for a period of time to observe changes in blood pressure and heart rate. The patient is initially positioned supine and horizontal on the table, then tilted by degrees to a completely vertical, upright position. During the study, blood pressure, heart rate, oxygen saturation, and cardiac rhythms are recorded and monitored for the end point of fainting, which indicates a positive tilt-test result.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>The patient is also observed for signs and symptoms that would necessitate early termination of the study. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c2">
+      <title>Tilt-Table Testing</title>
+      <pgroup>
+        <para>The following steps describe positioning and technique in tilt-table testing:<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup></para>
+        <itemizedlist>
+          <listitem>
+            <para>Dress patient in hospital gown without restrictive binding around abdomen or legs.</para>
+          </listitem>
+          <listitem>
+            <para>Insert an intravenous catheter and start a maintenance IV fluid drip with 0.9% NaCl.</para>
+          </listitem>
+          <listitem>
+            <para>Place patient supine on tilt table and secure patient with protective straps to avoid falls.</para>
+          </listitem>
+          <listitem>
+            <para>Apply blood pressure, heart rate, oxygen saturation, and rhythm monitors and record baseline measurements.</para>
+          </listitem>
+          <listitem>
+            <para>Have the patient rest supine for 10 minutes.</para>
+          </listitem>
+          <listitem>
+            <para>Provide a room that is quiet, dim, and a comfortable temperature.</para>
+          </listitem>
+          <listitem>
+            <para>Raise tilt table up to 80°.</para>
+          </listitem>
+          <listitem>
+            <para>Record blood pressure, heart rate, and oxygen saturations every minute.</para>
+          </listitem>
+          <listitem>
+            <para>Tilt table upright for 20-45 minutes depending on protocol.</para>
+          </listitem>
+          <listitem>
+            <para>Record rhythm changes on ECG strip.</para>
+          </listitem>
+          <listitem>
+            <para>Decide if pharmacologic provocation with nitroglycerine after 5 minutes of tilt or isoproterenol after 20 minutes of tilt is needed to provoke a response. </para>
+          </listitem>
+          <listitem>
+            <para>Record any symptoms or signs observed.</para>
+          </listitem>
+          <listitem>
+            <para>Terminate tilt if systolic blood pressure falls below 70 mmHg, even if symptoms are not present.</para>
+          </listitem>
+          <listitem>
+            <para>Terminate tilt if patient faints, and return patient to supine position.</para>
+          </listitem>
+          <listitem>
+            <para>Place patient in reverse Trendelenburg position if blood pressure does not normalize.</para>
+          </listitem>
+          <listitem>
+            <para>Administer a 250-mL bolus of 0.9% NaCl for hypotension.</para>
+          </listitem>
+          <listitem>
+            <para>Record blood pressure and heart rate until back to baseline.</para>
+          </listitem>
+          <listitem>
+            <para>Disconnect patient and allow patient to sit in chair for 5 minutes.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c3">
+      <title>Test Results</title>
+      <pgroup>
+        <para>If provocative pharmaceuticals such as isoproterenol or nitroglycerine are used, differentiate the expected pharmacological effects of the drug from an abnormal response. </para>
+        <para>If avoidance of pharmacologic testing is desired, such as in a patient with ischemic heart disease, proceed with an upright tilt for 45 minutes. If a fainting response does not occur, the test is negative. </para>
+        <para>A positive tilt-table test result may be described as mixed, cardio inhibitory, or vasodepressor (see Overview).<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Classification of positive responses to tilt testing</title>
+        <para>One particular problem with tilt-table testing is the plethora of protocols with differing sensitivity, which can make reproduction of results unreliable. The reliability and accuracy of tilt-table studies is improved when combined with hemodynamic and volume measurements.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>These procedures include nuclear hemodynamic studies, which can be performed in conjunction with an outpatient tilt-table test. They can be repeated at follow-up visits to assess response to treatment. Autonomic reflex testing, which includes the combination of vascular reactivity measures with the tilt-table test, can also be performed to improve the sensitivity of tilt-table testing.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>However, a criterion standard for positivity remains to be. Adherence to positivity criteria is essential (see Table 2). If hemodynamic changes occur without syncope, the test is a false positive.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        <table id="t7c3aa431e" class="datatable">
+          <caption>Table 1. Classification of Positive Responses to Tilt Testing<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup></caption>
+          <tbody>
+            <tr>
+              <td>
+                <para>
+                  <strong>Type 1 -</strong>
+                </para>
+                <para>
+                  <strong>Mixed</strong>
+                </para>
+              </td>
+              <td>
+                <para>Heart rate falls at the time of syncope, but the ventricular rate does not fall to less than 40 beats/min<sup>-1</sup> or falls to less 40 beats/min<sup>-1</sup> for less than 10 s with or without asystole of less than 3 s. Blood pressure falls before the heart rate falls.</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>
+                  <strong>Type 2 -</strong>
+                </para>
+                <para>
+                  <strong>Cardioinhibitory</strong>
+                </para>
+              </td>
+              <td>
+                <para>A) Cardioinhibition without asystole: heart rate falls to a ventricular rate less than 40 beats/min<sup>-1</sup> for more than 10 s, but asystole of more than 3 s does not occur before the heart rate falls.</para>
+                <para>B) Cardioinhibition with asystole: Asystole occurs for more than 3 s. Blood pressure falls with or occur before the heart rate fall. </para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>
+                  <strong>Type 3 -</strong>
+                </para>
+                <para>
+                  <strong>Vasodepressor</strong>
+                </para>
+              </td>
+              <td>
+                <para>Heart rate does not fall more than 10% from its peak at the time of syncope.</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>Exception 1. Chronotropic incompetence: No heart rate rise during the tilt testing (ie, less than 10% from the pre-tilt rate).</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>Exception 2. Excessive heart rate rise: An excessive heart rate both at the onset of the position and throughout its duration before syncope (ie, greater than 130 beats/min<sup>-1</sup>). </para>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </pgroup>
+    </sect2>
+    <sect2 id="c4">
+      <title>Definitions of Key Terms</title>
+      <pgroup>
+        <title>Dysautonomias, primary</title>
+        <para>Deficiency of mechanisms that increase α- and β- adrenergic tone as a result of baroreceptor stimulation to compensate for a decrease of venous blood return to the heart </para>
+      </pgroup>
+      <pgroup>
+        <title>HUT</title>
+        <para>Abbreviation for head-up tilt test</para>
+      </pgroup>
+      <pgroup>
+        <title>Neurally mediated hypotension</title>
+        <para>Reduction in systolic blood pressure 25 mmHg from baseline supine values, sustained for at least 1 minute, with no associated increase in heart rate, and accompanied by symptoms of presyncope </para>
+      </pgroup>
+      <pgroup>
+        <title>Neurocardiogenic syncope</title>
+        <para>Acute hypotension with or without bradycardia</para>
+      </pgroup>
+      <pgroup>
+        <title>Orthostatic (postural) hypotension</title>
+        <para>Greater than 20-30 mmHg drop in systolic blood pressure plus a greater than 10 mmHg drop in diastolic blood pressure: Orthostatic hypotension is a common cause of a temporary loss of consciousness or feelings of lightheadedness, which results from changing body position from a supine or sitting position to a more vertical or upright position. Normally, blood tends to pool in the lower extremities due to gravity whenever a person stands up, potentially reducing the amount of blood available to return to the heart or brain. </para>
+        <para>The sympathetic nervous system regulates blood vessel tone by modulating nerve traffic to lower extremity blood vessels. The arterial and venous circulations compensate for pooling by constricting; thus redirecting blood flow from the leg veins back toward the heart. However, poor sympathetic tone to the lower extremity blood vessels can cause the mechanisms of arterial and venous constriction to fail, resulting in a disproportionate pooling of blood in the legs, instead of returning blood to the circulation, resulting in less oxygen supplied to the brain and heart. As a result, a person feels lightheaded and may even faint. </para>
+      </pgroup>
+      <pgroup>
+        <title>Postural orthostatic tachycardia syndrome (POTS)</title>
+        <para>The occurrence of orthostatic symptoms in association with either a 30 beats/ minute increase in heart rate from baseline within 10 minutes of being tilted upright, sustained for 1 minute or more, or a heart rate of higher than 120 beats/ minute in the same period </para>
+      </pgroup>
+      <pgroup>
+        <title>Presyncope</title>
+        <para>The presence of premonitory symptoms and signs of imminent syncope such as severe weakness, lightheadedness, nausea, or diaphoresis</para>
+      </pgroup>
+      <pgroup>
+        <title>Syncope</title>
+        <para>Pan-cerebral hypoperfusion accompanied by a lack of postural tone and unconsciousness without focal neurological deficit </para>
+      </pgroup>
+      <pgroup>
+        <title>Vasodepressor syncope</title>
+        <para>Abrupt drop in blood pressure with symptoms</para>
+      </pgroup>
+      <pgroup>
+        <title>Vasovagal syncope</title>
+        <para>Abrupt drop in blood pressure and heart rate with symptoms: The hallmark of vasovagal syncope is the occurrence of one to several symptoms either before, during, and immediately after a brief loss of consciousness. Symptoms are varied, and may include nausea, flushing, headache, vertigo, palpitations, and asthenia.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c5">
+      <title>Web Links</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Brignole M. An Update on the Treatment of Vasovagal Syncope. <em>HJC</em>.(2004);45,132-135.Accessed Dec 6, 2010. <a href="http://www.hellenicjcardiol.com/archive/full_text/2004/3/2004_3_132.pdf">http://www.hellenicjcardiol.com/archive/full_text/2004/3/2004_3_132.pdf</a></para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://www.ndrf.org/index.htm">National Dysautonomia Research Foundation</a>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>The goals of pharmacotherapy are to reduce morbidity and prevent complications.</para>
+    </intro>
+    <cgroup id="103730">
+      <title>Vasodilators</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Vasodilators decrease preload and/or afterload.</para>
+      </intro>
+      <drug did="342280" name="Nitroglycerin sublingual (Nitrostat)" uri="nitrostat-nitroquick-nitroglycerin-sublingual-342280">
+        <title>Nitroglycerin sublingual (Nitrostat)</title>
+        <para>This agent causes relaxation of vascular smooth muscle by stimulating intracellular cyclic GMP; the result is a decrease in blood pressure. Dosage forms include SL, TD, and IV preparations. The distinction between short-acting preparations for treatment of acute attacks and long-acting preparations for prevention of recurrent episodes is important.</para>
+        <para>Administration of 300-400 µg of sublingual nitroglycerine) in order to increase average heart rate by approximately 20-25% over baseline to trigger abnormal responses in susceptible patients after a tilt stabilization phase of 5 minutes.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+      </drug>
+    </cgroup>
+    <cgroup id="103731">
+      <title>Beta1/Beta2 Adrenergic Agonists</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>When given systemically, isoproterenol stimulates beta receptors in the heart, which produces positive inotropic and chronotropic effects. This results in increased cardiac output. </para>
+      </intro>
+      <drug did="342438" name="Isoproterenol (Isuprel)" uri="isuprel-isoproterenol-342438">
+        <title>Isoproterenol (Isuprel)</title>
+        <para>Isoproterenol has sympathomimetic effects; specifically, beta1- and beta2-adrenergic receptor agonist activity.</para>
+        <para>Intravenous medication used in incremental doses (usually 3 µg/min) in order to increase average heart rate by approximately 20-25% over baseline to trigger abnormal responses in susceptible patients after a tilt stabilization phase of 20 minutes.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+      </drug>
+    </cgroup>
+    <cgroup id="103732">
+      <title>Isotonic Crystalloids</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Isotonic sodium chloride (normal saline [NS]) is a standard crystalloid intravenous (IV) fluid used for initial volume resuscitation. It expands the intravascular and interstitial fluid spaces. Typically, about 30% of administered isotonic fluid stays intravascular; therefore, large quantities may be required to maintain adequate circulating volume. </para>
+      </intro>
+      <drug did="dw2aab6b5b4b2" name="Normal saline (NS, 0.9% NaCl)">
+        <title>Normal saline (NS, 0.9% NaCl)</title>
+        <para>NS restores interstitial and intravascular volume. Administer a 250-mL bolus of 0.9% NaCl for hypotension.</para>
+      </drug>
+    </cgroup>
+  </msect>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="25871">
+        <title>Patient undergoing upright tilt-table testing. </title>
+        <caption>Patient undergoing upright tilt-table testing. </caption>
+        <graphic fileref="/71/25871.jpg" format="IMAGE" id="25871" extension_format="JPG"/>
+        <graphic fileref="/71/25871tn.jpg" format="IMAGE_THUMB" id="25871"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="25872">
+        <title>Tilt-table test. </title>
+        <caption>Tilt-table test. </caption>
+        <graphic fileref="/72/25872.jpg" format="IMAGE" id="25872" extension_format="JPG"/>
+        <graphic fileref="/72/25872tn.jpg" format="IMAGE_THUMB" id="25872"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>James V Talano, MD, MBA</contrbtr_nm>
+        <contrbtr_title>MM, FACC, FAHA, Director of Cardiovascular Medicine, SWICFT Institute</contrbtr_title>
+        <contrbtr_bio>James V Talano, MD, MBA is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.hfsa.org">Heart Failure Society of America</a>, <a href="http://www.sgcard.org">Society of Geriatric Cardiology</a>, <a href="http://www.asnc.org">American Society of Nuclear Cardiology</a>, <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.physicianleaders.org/">American Association for Physician Leadership</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://asecho.org">American Society of Echocardiography</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Janet K Sparker, MS, PA-C</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Southwest Florida Physician Assistant Program, Nova Southeastern University; Physician Assistant, Certified, Private Cardiology Practice of James V Talano, MD, Southwest Institute of Cardiovascular Fitness and Testing</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Karlheinz Peter, MD, PhD</contrbtr_nm>
+        <contrbtr_title>Professor of Medicine, Monash University; Head of Centre of Thrombosis and Myocardial Infarction, Head of Division of Atherothrombosis and Vascular Biology, Associate Director, Baker Heart Research Institute; Interventional Cardiologist, The Alfred Hospital, Australia</contrbtr_title>
+        <contrbtr_bio>Karlheinz Peter, MD, PhD is a member of the following medical societies: <a href="http://www.heart.org">American Heart Association</a>, <a href="http://www.escardio.org/membership/national-societies/Germany/Pages/welcome.aspx">German Cardiac Society</a>, <a href="http://www.csanz.edu.au">Cardiac Society of Australia and New Zealand</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>
+        <strong>Acknowledgments</strong>
+      </para>
+      <para>The authors gratefully acknowledge the contributions of Dr Fredrick Jaeger, Director, Cardiac Arrhythmia Monitoring Lab, Medical Director, Syncope Center, Cleveland Clinic to the development and writing of this article. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19622515">
+      <para>Moya A. Tilt testing and neurally mediated syncope: too many protocols for one condition or specific protocols for different situations?. <em>Eur Heart J</em>. 2009 Sep. 30(18):2174-6. <a href="http://reference.medscape.com/medline/abstract/19622515">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Fogoros R. 2nd Ed. <em>Electrophysiologic testing</em>. Cambridge, MA: Blackwell Science; 1995. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19713422">
+      <para>Moya A, Sutton R, et al. Guidelines for the diagnosis and management of syncope (version 2009): the Task Force for the Diagnosis and Management of Syncope of the European Society of Cardiology (ESC). <em>Eur Heart J</em>. 2009 Nov. 30(21):2631-71. <a href="http://reference.medscape.com/medline/abstract/19713422">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8752825">
+      <para>Benditt DG, Ferguson DW, Grubb BP, Kapoor WN, Kugler J, Lerman BB. Tilt table testing for assessing syncope. American College of Cardiology. <em>J Am Coll Cardiol</em>. 1996 Jul. 28(1):263-75. <a href="http://reference.medscape.com/medline/abstract/8752825">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Goldman L, Braunwald E. <em>Primary cardiology</em>. Philadelphia, PA: WB Saunders; 19. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10234724">
+      <para>Leman RB, Clarke E, Gillette P. Significant complications can occur with ischemic heart disease and tilt table testing. <em>Pacing Clin Electrophysiol</em>. 1999 Apr. 22(4 Pt 1):675-7. <a href="http://reference.medscape.com/medline/abstract/10234724">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18701533">
+      <para>Parry SW, Reeve P, Lawson J, Shaw FE, Davison J, Norton M. The Newcastle protocols 2008: an update on head-up tilt table testing and the management of vasovagal syncope and related disorders. <em>Heart</em>. 2009 Mar. 95(5):416-20. <a href="http://reference.medscape.com/medline/abstract/18701533">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16412888">
+      <para>Strickberger SA, Benson DW, Biaggioni I, Callans DJ, Cohen MI, Ellenbogen KA. AHA/ACCF scientific statement on the evaluation of syncope: from the American Heart Association Councils on Clinical Cardiology, Cardiovascular Nursing, Cardiovascular Disease in the Young, and Stroke, and the Quality of Care and Outcomes Research Interdisciplinary Working Group; and the American College of Cardiology Foundation In Collaboration With the Heart Rhythm Society. <em>J Am Coll Cardiol</em>. 2006 Jan 17. 47(2):473-84. <a href="http://reference.medscape.com/medline/abstract/16412888">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16943924">
+      <para>Barón-Esquivias G, Martínez-Rubio A. Tilt table test: state of the art. <em>Indian Pacing Electrophysiol J</em>. 2003. 3(4):239-52. <a href="http://reference.medscape.com/medline/abstract/16943924">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1513525/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17630593">
+      <para>Fouad-Tarazi F, Calcatti J, Christian R, Armstrong R, Depaul M. Blood volume measurement as a tool in diagnosing syncope. <em>Am J Med Sci</em>. 2007 Jul. 334(1):53-6. <a href="http://reference.medscape.com/medline/abstract/17630593">[Medline]</a>. <a href="http://www.daxor.com/pdfs/Fouad%20syncope.pdf">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19570809">
+      <para>Guida P, Iacoviello M, Forleo C, Ferrara A, Sorrentino S, Balducci C. Prevalence, timing, and haemodynamic correlates of prodromes in patients with vasovagal syncope induced by head-up tilt test. <em>Europace</em>. 2009 Sep. 11(9):1221-6. <a href="http://reference.medscape.com/medline/abstract/19570809">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brignole M. An Update on the Treatment of Vasovagal Syncope. <em>HJC</em>. 2004. 45:132-5. <a href="http://www.hellenicjcardiol.com/archive/full_text/2004/">[Full Text]</a>.</para>
+    </ritem>
+  </refgrp>
+</article>

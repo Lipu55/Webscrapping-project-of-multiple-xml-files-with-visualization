@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2007112" pubid="" template="Oncology" template-name="singlesection">
+  <site-meta>
+    <article-name>Breast Cancer Staging</article-name>
+    <title>
+      <page-info id="overview">Breast Cancer Staging: TNM Classification for Breast Cancer</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Breast Cancer Staging: TNM Classification for Breast Cancer</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">TNM Classification for Breast Cancer</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Breast Cancer Staging Overview</page-info>
+    </meta-keywords>
+    <uri>2007112-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Sep 06, 2013</posting-date>
+    <last-generated>2015-08-04-17:30</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Oncology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2007112</artid>
+      <cg>502</cg>
+      <scg text="Breast Cancer">840</scg>
+      <ssp text="Hematology/Oncology">7</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology</id>
+      <name>Oncology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology_breast</id>
+      <name>Breast Cancer</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">The TNM classification for staging of breast cancer is provided below. 
+ Table.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Breast Cancer Staging</title>
+  <sect1 id="a1">
+    <title>TNM Classification for Breast Cancer</title>
+    <pgroup>
+      <para>The TNM classification for staging of breast cancer is provided below.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <table id="t6a0bc242b" class="datatable">
+        <caption>Table. TNM Classification for Breast Cancer</caption>
+        <tbody>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Primary tumor (T)</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>TX</para>
+            </td>
+            <td>
+              <para>Primary tumor cannot be assessed</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T0</para>
+            </td>
+            <td>
+              <para>No evidence of primary tumor</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Tis</para>
+            </td>
+            <td>
+              <para>Carcinoma in situ</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Tis (DCIS)</para>
+            </td>
+            <td>
+              <para>Ductal carcinoma in situ</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Tis (LCIS)</para>
+            </td>
+            <td>
+              <para>Lobular carcinoma in situ</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Tis (Paget)</para>
+            </td>
+            <td>
+              <para>Paget disease of the nipple NOT associated with invasive carcinoma and/or carcinoma in situ (DCIS and/or LCIS) in the underlying breast parenchyma. Carcinomas in the breast parenchyma associated with Paget disease are categorized based on the size and characteristics of the parenchymal disease, although the presence of Paget disease should still be noted </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T1</para>
+            </td>
+            <td>
+              <para>Tumor ≤ 20 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T1mi</para>
+            </td>
+            <td>
+              <para>Tumor ≤ 1 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T1a</para>
+            </td>
+            <td>
+              <para>Tumor &gt; 1 mm but ≤ 5 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T1b</para>
+            </td>
+            <td>
+              <para>Tumor &gt; 5 mm but ≤ 10 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T1c</para>
+            </td>
+            <td>
+              <para>Tumor &gt; 10 mm but ≤ 20 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T2</para>
+            </td>
+            <td>
+              <para>Tumor &gt; 20 mm but ≤ 50 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T3</para>
+            </td>
+            <td>
+              <para>Tumor &gt; 50 mm in greatest dimension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T4</para>
+            </td>
+            <td>
+              <para>Tumor of any size with direct extension to the chest wall and/or to the skin (ulceration or skin nodules)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T4a</para>
+            </td>
+            <td>
+              <para>Extension to chest wall, not including only pectoralis muscle adherence/invasion</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T4b</para>
+            </td>
+            <td>
+              <para>Ulceration and/or ipsilateral satellite nodules and/or edema (including peau d’orange) of the skin, which do not meet the criteria for inflammatory carcinoma </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T4c</para>
+            </td>
+            <td>
+              <para>Both T4a and T4b</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>T4d</para>
+            </td>
+            <td>
+              <para>Inflammatory carcinoma</para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Regional lymph nodes (N)</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Clinical</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>NX</para>
+            </td>
+            <td>
+              <para>Regional lymph nodes cannot be assessed (eg, previously removed)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>No regional lymph node metastasis</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>Metastasis to movable ipsilateral level I, II axillary lymph node(s)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>Metastases in ipsilateral level I, II axillary lymph nodes that are clinically fixed or matted or in clinically detected* ipsilateral internal mammary nodes in the <em>absence</em> of clinically evident axillary lymph node metastasis </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N2a</para>
+            </td>
+            <td>
+              <para>Metastases in ipsilateral level I, II axillary lymph nodes fixed to one another (matted) or to other structures</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N2b</para>
+            </td>
+            <td>
+              <para>Metastases only in clinically detected* ipsilateral internal mammary nodes and in the <em>absence</em> of clinically evident level I, II axillary lymph node metastases</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N3</para>
+            </td>
+            <td>
+              <para>Metastases in ipsilateral infraclavicular (level III axillary) lymph node(s), with or without level I, II axillary node involvement, or in clinically detected <em>*</em> ipsilateral internal mammary lymph node(s) and in the <em>presence</em> of clinically evident level I, II axillary lymph node metastasis; or metastasis in ipsilateral supraclavicular lymph node(s), with or without axillary or internal mammary lymph node involvement </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N3a</para>
+            </td>
+            <td>
+              <para>Metastasis in ipsilateral infraclavicular lymph node(s)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N3b</para>
+            </td>
+            <td>
+              <para>Metastasis in ipsilateral internal mammary lymph node(s) and axillary lymph node(s)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>N3c</para>
+            </td>
+            <td>
+              <para>Metastasis in ipsilateral supraclavicular lymph node(s)</para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>*"Clinically detected" is defined as detected by imaging studies (excluding lymphoscintigraphy) or by clinical examination and having characteristics highly suspicious for malignancy or a presumed pathologic macrometastasis on the basis of fine-needle aspiration (FNA) biopsy with cytologic examination. </para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Pathologic (pN)*</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pNX</para>
+            </td>
+            <td>
+              <para>Regional lymph nodes cannot be assessed (for example, previously removed, or not removed for pathologic study)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN0</para>
+            </td>
+            <td>
+              <para>No regional lymph node metastasis identified histologically. <em>Note:</em> Isolated tumor cell clusters (ITCs) are defined as small clusters of cells ≤ 0.2 mm, or single tumor cells, or a cluster of &lt; 200 cells in a single histologic cross-section; ITCs may be detected by routine histology or by immunohistochemical (IHC) methods; nodes containing only ITCs are excluded from the total positive node count for purposes of N classification but should be included in the total number of nodes evaluated </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN0(i-)</para>
+            </td>
+            <td>
+              <para>No regional lymph node metastases histologically, negative IHC</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN0(i+)</para>
+            </td>
+            <td>
+              <para>Malignant cells in regional lymph node(s) ≤ 0.2 mm (detected by hematoxylin-eosin [H&amp;E] stain or IHC, including ITC) </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN0(mol-)</para>
+            </td>
+            <td>
+              <para>No regional lymph node metastases histologically, negative molecular findings (reverse transcriptase polymerase chain reaction [RT-PCR]) </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN0(mol+)</para>
+            </td>
+            <td>
+              <para>Positive molecular findings (RT-PCR) but no regional lymph node metastases detected by histology or IHC</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN1</para>
+            </td>
+            <td>
+              <para>Micrometastases; or metastases in 1-3 axillary lymph nodes and/or in internal mammary nodes, with metastases detected by sentinel lymph node biopsy but not clinically detected† </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN1mi</para>
+            </td>
+            <td>
+              <para>Micrometastases (&gt; 0.2 mm and/or &gt; 200 cells, but none &gt; 2.0 mm)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN1a</para>
+            </td>
+            <td>
+              <para>Metastases in 1-3 axillary lymph nodes (at least 1 metastasis &gt; 2.0 mm)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN1b</para>
+            </td>
+            <td>
+              <para>Metastases in internal mammary nodes, with micrometastases or macrometastases detected by sentinel lymph node biopsy but not clinically detected† </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN1c</para>
+            </td>
+            <td>
+              <para>Metastases in 1-3 axillary lymph nodes and in internal mammary lymph nodes, with micrometastases or macrometastases detected by sentinel lymph node biopsy but not clinically detected† </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN2</para>
+            </td>
+            <td>
+              <para>Metastases in 4-9 axillary lymph nodes or in clinically detected‡ internal mammary lymph nodes in the absence of axillary lymph node metastases </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN2a</para>
+            </td>
+            <td>
+              <para>Metastases in 4-9 axillary lymph nodes (at least 1 tumor deposit &gt; 2.0 mm)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN2b</para>
+            </td>
+            <td>
+              <para>Metastases in clinically detected‡ internal mammary lymph nodes in the absence of axillary lymph node metastases</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN3</para>
+            </td>
+            <td>
+              <para>Metastases in ≥ 10 axillary lymph nodes; or in infraclavicular (level III axillary) lymph nodes; or in clinically detected‡ ipsilateral internal mammary lymph nodes in the presence of ≥ 1 positive level I, II axillary lymph nodes; or in &gt; 3 axillary lymph nodes and in internal mammary lymph nodes, with micrometastases or macrometastases detected by sentinel lymph node biopsy but not clinically detected†; or in ipsilateral supraclavicular lymph nodes </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN3a</para>
+            </td>
+            <td>
+              <para>Metastases in ≥ 10 axillary lymph nodes (at least 1 tumor deposit &gt; 2.0 mm); or metastases to the infraclavicular (level III axillary lymph) nodes </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN3b</para>
+            </td>
+            <td>
+              <para>Metastases in clinically detected‡ ipsilateral internal mammary lymph nodes in the presence of ≥ 1 positive axillary lymph nodes; or in &gt; 3 axillary lymph nodes and in internal mammary lymph nodes, with micrometastases or macrometastases detected by sentinel lymph node biopsy but not clinically detected† </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>pN3c</para>
+            </td>
+            <td>
+              <para>Metastases in ipsilateral supraclavicular lymph nodes</para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>*Classification is based on axillary lymph node dissection, with or without sentinel lymph node biopsy. Classification based solely on sentinel lymph node biopsy without subsequent axillary lymph node dissection is designated (sn) for "sentinel node"—for example, pN0(sn).</para>
+              <para>† "Not clinically detected" is defined as not detected by imaging studies (excluding lymphoscintigraphy) or not detected by clinical examination.</para>
+              <para>‡ "Clinically detected" is defined as detected by imaging studies (excluding lymphoscintigraphy) or by clinical examination and having characteristics highly suspicious for malignancy or a presumed pathologic macrometastasis on the basis of FNA biopsy with cytologic examination. </para>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Distant metastasis (M)</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>M0</para>
+            </td>
+            <td>
+              <para>No clinical or radiographic evidence of distant metastasis</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>cM0(i+)</para>
+            </td>
+            <td>
+              <para>No clinical or radiographic evidence of distant metastases, but deposits of molecularly or microscopically detected tumor cells in circulating blood, bone marrow, or other nonregional nodal tissue that are no larger than 0.2 mm in a patient without symptoms or signs of metastases </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>M1</para>
+            </td>
+            <td>
+              <para>Distant detectable metastases as determined by classic clinical and radiographic means and/or histologically proven &gt; 0.2 mm </para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="tc0f56640f" class="datatable">
+        <caption>Table. Histologic grade</caption>
+        <tbody>
+          <tr>
+            <td colspan="2">
+              <para>
+                <strong>Histologic grade (G)</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>GX</para>
+            </td>
+            <td>
+              <para>Grade cannot be assessed</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>G1</para>
+            </td>
+            <td>
+              <para>Low combined histologic grade (favorable)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>G2</para>
+            </td>
+            <td>
+              <para>Intermediate combined histologic grade (moderately favorable)</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>G3</para>
+            </td>
+            <td>
+              <para>High combined histologic grade (unfavorable)</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="tc32928bf8" class="datatable">
+        <caption>Table. Anatomic stage/prognostic groups</caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>Stage</strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>T</strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>N</strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>M</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>0</para>
+            </td>
+            <td>
+              <para>Tis</para>
+            </td>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IA</para>
+            </td>
+            <td>
+              <para>T1</para>
+            </td>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IB</para>
+            </td>
+            <td>
+              <para>T0</para>
+            </td>
+            <td>
+              <para>N1mi</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T1</para>
+            </td>
+            <td>
+              <para>N1mi</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IIA</para>
+            </td>
+            <td>
+              <para>T0</para>
+            </td>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T1</para>
+            </td>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T2</para>
+            </td>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IIB</para>
+            </td>
+            <td>
+              <para>T2</para>
+            </td>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T3</para>
+            </td>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IIIA</para>
+            </td>
+            <td>
+              <para>T0</para>
+            </td>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T1</para>
+            </td>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T2</para>
+            </td>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T3</para>
+            </td>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T3</para>
+            </td>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IIIB</para>
+            </td>
+            <td>
+              <para>T4</para>
+            </td>
+            <td>
+              <para>N0</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T4</para>
+            </td>
+            <td>
+              <para>N1</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para> </para>
+            </td>
+            <td>
+              <para>T4</para>
+            </td>
+            <td>
+              <para>N2</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IIIC</para>
+            </td>
+            <td>
+              <para>Any T</para>
+            </td>
+            <td>
+              <para>N3</para>
+            </td>
+            <td>
+              <para>M0</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>IV</para>
+            </td>
+            <td>
+              <para>Any T</para>
+            </td>
+            <td>
+              <para>Any N</para>
+            </td>
+            <td>
+              <para>M1</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Joseph A Sparano, MD, MD</contrbtr_nm>
+        <contrbtr_title/>
+        <contrbtr_bio>Joseph A Sparano, MD, MD is a member of the following medical societies: <a href="http://www.aacr.org">American Association for Cancer Research</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.hematology.org">American Society of Hematology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Christopher D Braden, DO</contrbtr_nm>
+        <contrbtr_title>Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jules E Harris, MD, FACP, FRCPC</contrbtr_nm>
+        <contrbtr_title>Clinical Professor of Medicine, Section of Hematology/Oncology, University of Arizona College of Medicine, Arizona Cancer Center</contrbtr_title>
+        <contrbtr_bio>Jules E Harris, MD, FACP, FRCPC is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.hematology.org">American Society of Hematology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>NCCN Clinical Practice Guidelines in Oncology: Breast Cancer. V 3.2013. National Comprehensive Cancer Network. Available at <a href="http://bit.ly/jOuSUf">http://bit.ly/jOuSUf</a>. Accessed: September 5, 2013.</para>
+    </ritem>
+  </refgrp>
+</article>

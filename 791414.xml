@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="791414" pubid="" template="Emergency Medicine" template-name="multipage">
+  <site-meta>
+    <article-name>Benign Positional Vertigo in Emergency Medicine</article-name>
+    <title>
+      <page-info id="overview">Benign Positional Vertigo in Emergency Medicine: Background, Pathophysiology, Epidemiology</page-info>
+      <page-info id="clinical">Benign Positional Vertigo in Emergency Medicine Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Benign Positional Vertigo in Emergency Medicine Differential Diagnoses</page-info>
+      <page-info id="workup">Benign Positional Vertigo in Emergency Medicine Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Benign Positional Vertigo in Emergency Medicine Treatment &amp; Management: Emergency Department Care, Consultations</page-info>
+      <page-info id="medication">Benign Positional Vertigo in Emergency Medicine Medication: Antiemetic Agents, Antiemetics, Selective 5-HT3 Antagonist, Benzodiazepines</page-info>
+      <page-info id="followup">Benign Positional Vertigo in Emergency Medicine Follow-up: Further Outpatient Care, Further Inpatient Care, Inpatient &amp; Outpatient Medications</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Benign Positional Vertigo in Emergency Medicine: Background, Pathophysiology, Epidemiology</page-info>
+      <page-info id="clinical">Benign Positional Vertigo in Emergency Medicine Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Benign Positional Vertigo in Emergency Medicine Differential Diagnoses</page-info>
+      <page-info id="workup">Benign Positional Vertigo in Emergency Medicine Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Benign Positional Vertigo in Emergency Medicine Treatment &amp; Management: Emergency Department Care, Consultations</page-info>
+      <page-info id="medication">Benign Positional Vertigo in Emergency Medicine Medication: Antiemetic Agents, Antiemetics, Selective 5-HT3 Antagonist, Benzodiazepines</page-info>
+      <page-info id="followup">Benign Positional Vertigo in Emergency Medicine Follow-up: Further Outpatient Care, Further Inpatient Care, Inpatient &amp; Outpatient Medications</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a4">Background</section-info>
+<section-info id="a5">Pathophysiology</section-info>
+<section-info id="a6">Epidemiology</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c4">Laboratory Studies</section-info>
+<section-info id="c5">Imaging Studies</section-info>
+<section-info id="c6">Other Tests</section-info>
+<section-info id="c7">Procedures</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d9">Emergency Department Care</section-info>
+<section-info id="d10">Consultations</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e1">Further Outpatient Care</section-info>
+<section-info id="e2">Further Inpatient Care</section-info>
+<section-info id="e3">Inpatient &amp; Outpatient Medications</section-info>
+<section-info id="e4">Deterrence/Prevention</section-info>
+<section-info id="e5">Complications</section-info>
+<section-info id="e6">Prognosis</section-info>
+<section-info id="e7">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Benign Positional Vertigo in Emergency Medicine Overview</page-info>
+      <page-info id="clinical">Benign Positional Vertigo in Emergency Medicine Clinical Presentation</page-info>
+      <page-info id="differential">Benign Positional Vertigo in Emergency Medicine Differential Diagnoses</page-info>
+      <page-info id="workup">Benign Positional Vertigo in Emergency Medicine Workup</page-info>
+      <page-info id="treatment">Benign Positional Vertigo in Emergency Medicine Treatment</page-info>
+      <page-info id="medication">Benign Positional Vertigo in Emergency Medicine Medication</page-info>
+      <page-info id="followup">Benign Positional Vertigo in Emergency Medicine Follow-up</page-info>
+    </meta-keywords>
+    <uri>791414-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>May 28, 2015</posting-date>
+    <last-generated>2015-08-04-21:54</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Emergency Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>791414</artid>
+      <cg>502</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Emergency Medicine">45</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 05, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>emergency_medicine</id>
+      <name>Emergency Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>emergency_medicine_neurology</id>
+      <name>Neurology</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">benign positional vertigo, benign paroxysmal positional vertigo, BPV, vertigo, dizziness, dizziness symptoms, dizziness treatment, inner ear, Hallpike test, Epley maneuver, lightheadedness, canalolithiasis theory, otoliths, Brandt exercise, Daroff exercise, near-syncope, dysequilibrium, disequilibrium, orthostatic hypotension, vasovagal episode, neurocardiogenic syncope, disorder of thevestibular proprioceptive system, labyrinthitis, vestibular neuronitis, nystagmus, torsional nystagmus, rotatory nystagmus, dizzy, head-hanging maneuvers, labyrinthine disease, otoconia, psychophysiologic dizziness</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Benign positional vertigo (BPV) is the most common cause of vertigo. Vertigo is an illusion of motion (an illusion is a misperception of a real stimulus) and represents a disorder of the vestibular proprioceptive system.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Benign Positional Vertigo in Emergency Medicine</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a4">
+      <title>Background</title>
+      <pgroup>
+        <para>Benign positional vertigo (BPV) is the most common cause of vertigo. Vertigo is an illusion of motion (an illusion is a misperception of a real stimulus) and represents a disorder of the vestibular proprioceptive system. </para>
+        <para>BPV was first described by Adler in 1897 and then by Bárány in 1922; however, Dix and Hallpike did not coin the term <em>benign paroxysmal positional vertigo</em> until 1952. This terminology defined the characteristics of the vertigo and introduced the classic provocative diagnostic test that is still used today. Using positional testing, benign positional vertigo can readily be diagnosed in the emergency department. Benign positional vertigo is one of the few neurologic entities the emergency physician can cure at the patient's bedside by performing a series of simple and safe head-hanging maneuvers.</para>
+        <para>For further information, see <a href="http://emedicine.medscape.com/article/1158940-overview">Benign Positional Vertigo</a> in the Neurology volume. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Benign positional vertigo (BPV) is caused by calcium carbonate particles called otoliths (or otoconia) that are inappropriately displaced into the semicircular canals of the vestibular labyrinth of the inner ear. These otoliths are normally attached to hair cells on a membrane inside the utricle and saccule. Because the otoliths are denser than the surrounding endolymph, changes in vertical head movement causes the otoliths to tilt the hair cells, which sends a signal to the brain letting the brain know that the head is tilting up or down. </para>
+        <para>The utricle is connected to the 3 semicircular canals. The otoliths may become displaced from the utricle by aging, head trauma, or labyrinthine disease. When this occurs, the otoliths have the potential to enter the semicircular canals. When they do, they usually enter the posterior semicircular canal because this is the most dependent (inferior) of the 3 canals.</para>
+        <figure id="40591">
+          <title>Anatomy of the semicircular canals. </title>
+          <caption>Anatomy of the semicircular canals. </caption>
+          <graphic fileref="/91/40591.jpg" format="IMAGE" id="40591" extension_format="JPG"/>
+          <graphic fileref="/91/40591tn.jpg" format="IMAGE_THUMB" id="40591"/>
+        </figure>
+        <para>According to the canalolithiasis theory (the most widely accepted theory of the pathophysiology of benign positional vertigo), the otoliths are free-floating within the semicircular canal. Changing head position causes the otoliths to move through the canal. Endolymph is dragged along with the movement of the otoliths, and this stimulates the hair cells of the cupula of the affected semicircular canal, causing vertigo. When the otoliths stop moving, the endolymph also stops moving and the hair cells return to their baseline position, thus terminating the vertigo and nystagmus. Reversing the head maneuver causes the particles to move in the opposite direction, producing nystagmus in the same axis but reversed in direction of rotation. The patient may describe that the room is now spinning in the opposite direction. When repeating the head maneuvers, the otoliths tend to become dispersed and thus are progressively less effective in producing the vertigo and nystagmus (hence, the concept of fatigability). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>
+          <strong>United States</strong>
+        </para>
+        <para>The incidence of benign positional vertigo (BPV) is 64 cases per 100,000 population per year (conservative estimate).<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+        <para>
+          <strong>International</strong>
+        </para>
+        <para>One study in Japan found an incidence of 11 cases per 100,000 population per year, but patients were counted only if examined by a subspecialist or at a referral center. </para>
+      </pgroup>
+      <pgroup>
+        <title>Mortality/Morbidity</title>
+        <para>The <em>B</em> of BPV stands for <em>benign</em> and designates that the cause of the vertigo is peripheral to the brainstem and, hence, likely to be benign. However, BPV can be severely incapacitating to the patient.</para>
+      </pgroup>
+      <pgroup>
+        <title>Sex</title>
+        <para>Women are affected twice as often as men.</para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>BPV, in general, is a disease of elderly persons, although onset can occur at any age. Several large studies show an average age of onset in the mid 50s. Vertigo in young patients is more likely to be caused by labyrinthitis (associated with hearing loss) or vestibular neuronitis (normal hearing). </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>When asked about their dizziness, patients with benign positional vertigo (BPV) characteristically describe that the room or world is spinning. However, other descriptions, such as rocking, tilting, somersaulting, and the like, are also possible. All that matters is that an illusion of motion is caused by a misperception of a stimulus (the otoliths). Diagnosis of BPV is based on a characteristic history and a positive Hallpike test. </para>
+        <para>Episodic vertigo may occur with the following head movements:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Rolling over in bed</para>
+          </listitem>
+          <listitem>
+            <para>Lying down</para>
+          </listitem>
+          <listitem>
+            <para>Sitting up</para>
+          </listitem>
+          <listitem>
+            <para>Leaning forward</para>
+          </listitem>
+          <listitem>
+            <para>Turning the head in a horizontal plane</para>
+          </listitem>
+        </itemizedlist>
+        <para>Symptoms of BPV are usually worse in the morning (the otoliths are more likely to clump together as the patient sleeps and exert a greater effect when the patient gets up in the morning) and mitigate as the day progresses (the otoliths become more dispersed with head movement). </para>
+        <para>Nausea is typically present (vomiting is less common).</para>
+        <para>A history of head trauma may be present, especially in young patients with BPV. The head trauma may dislodge the otoliths off the hair cells within the utricle, allowing them the opportunity to enter the semicircular canals. </para>
+        <para>Eliciting that the individual episodes of vertigo in BPV last for seconds at a time is important. Patients may describe that they are having continuous vertigo, when in reality, they are having repeated episodes (with each episode typically lasting seconds or less than a minute). Patients with <a href="http://emedicine.medscape.com/article/794489-overview">vestibular neuritis</a> and <a href="http://emedicine.medscape.com/article/856215-overview">labyrinthitis</a> have continuous vertigo, often for hours to days. </para>
+        <para>During the interview, if patient states that the "room is spinning" while the patient's head is still and prior to any manipulative tests, then it is highly unlikely that the patient has BPV because the vertigo in BPV lasts for seconds at a time and occurs only after head movement. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>In addition to the patient's history, a diagnosis of benign positional vertigo (BPV) is confirmed by a positive Hallpike test (see video below).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <figure id="40604">
+          <title/>
+          <caption>Hallpike test. In this example, the right posterior semicircular canal is being tested. Note that the head extends over the edge of the gurney. The thumb can be used to help keep the eyelids open since noting the direction of the nystagmus is important. </caption>
+          <graphic fileref="/04/40604.flv" format="VIDEO" id="40604" extension_format="FLV"/>
+          <graphic fileref="/04/40604tn.png" format="IMAGE_THUMB" id="40604"/>
+        </figure>
+        <para>In this test, the patient is placed in the head-hanging position after turning the head 45 degrees to one side. After a short delay of a few seconds, nystagmus and reproduction of the vertigo occurs and typically resolves within 30-60 seconds. In general, the Hallpike test will be positive on one side (the side with the otoliths in the posterior semicircular canal) and negative on the other side. The neurologic examination is otherwise unremarkable. </para>
+        <para><a href="http://emedicine.medscape.com/article/1199177-overview">Nystagmus</a> (an involuntary rhythmic oscillation of the eyes) is described in terms of the fast-phase component.</para>
+        <para>Classic nystagmus occurs when the patient's head is dependent and turned to the affected side.</para>
+        <para>The nystagmus is torsional or rotatory. In the head-hanging position, the fast phase should beat toward the forehead (upbeat) and in the same direction as the affected side (ipsilateral). Although some describe the fast phase in terms of being clockwise or counterclockwise, most experts avoid this terminology because it can be unclear if the clock is being viewed from the patient's or physician's perspective. </para>
+        <para>Nystagmus usually occurs within 10 seconds after positioning but may present as late as 40 seconds. Hence, if the history is classic, observe the patient for at least 40 seconds while he or she is in the head-hanging position during the Hallpike test. </para>
+        <para>The duration of the observed nystagmus varies from a few seconds to a minute and parallels the sensation of vertigo.</para>
+        <para>Response fatigues if the patient is repeatedly placed into the provoking position (due to dispersion of the otoliths).</para>
+        <para>Note: If the patient has a classic history of BPV (after a short delay, the room spins, but then revolves in 20-30 seconds, and then the rooms spins in the opposite direction when he or she sits back up) but no nystagmus is seen during the Hallpike test, most experts would agree to treat the patient with the modified Epley maneuver because nystagmus may be blocked by fixation suppression and emergency physicians do not have access to Frenzel lenses that specialists use to block fixation suppression (see Treatment). </para>
+        <para>One study showed that treating such patients with the Epley maneuver is still effective (despite the lack of nystagmus). Again, these patients should have a classic history and be symptomatic during Hallpike testing. </para>
+        <para>Perform the Hallpike test as follows (Caution: For patients with cervical spondylosis, it may not be advisable to extend the neck. However, because having the head dependent is important, the same effect can be achieved if the gurney is placed in the Trendelenburg position for such patients).</para>
+        <para>First, warn the patient that symptoms of vertigo will likely be reproduced but will resolve after a few seconds.</para>
+        <para>Seat the patient close enough to the end of the gurney so that when he or she lies supine, the head can extend backward an additional 30-45°.</para>
+        <para>Instruct the patient to keep his or her eyes open because you want to observe the direction of the nystagmus. The examiner may need to use his thumb to hold the eyelid open because patients may involuntarily close their eyes even when instructed to keep them open.</para>
+        <para>To test the left posterior canal, follow these steps: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Turn the patient's head 45° to the left. This position orients the head such that the left posterior semicircular canal is going to be in the same plane as the upcoming head movement (next step). This is the most provocative way to move the otoliths (if they are indeed in the posterior semicircular canal) which will result in a positive test. </para>
+          </listitem>
+          <listitem>
+            <para>With your hands on either side of the patient's head, lay the patient down until the head is dependent (hanging over the edge of the gurney). Note that this step does not need to be performed rapidly. </para>
+          </listitem>
+          <listitem>
+            <para>Check for reproduction of symptoms and nystagmus. In most cases, the fast phase of the nystagmus should be upbeat (toward the forehead) and ipsilateral (in this example, toward the patient's left). </para>
+          </listitem>
+          <listitem>
+            <para>Return the patient to the upright position. Nystagmus may be observed in the opposite direction, and the patient may describe that the world is spinning in the opposite direction. </para>
+          </listitem>
+        </itemizedlist>
+        <para>To test the right posterior canal, repeat the Hallpike test with the head turned 45° to the right side. In general, if the patient has BPV, only one side should test positive during the Hallpike test. Although having bilateral posterior semicircular canal BPV is possible, it is unlikely and should suggest horizontal canal involvement, vestibular neuritis/labyrinthitis, or a central cause. </para>
+        <para>Note that many patients experience mild dizziness when being brought up from the head-hanging position to the sitting position. It is important not to confuse this dizziness (which is more lightheaded in character) with true vertigo. </para>
+        <para>If the patient's head cannot be extended over the edge of the gurney, 2 additional options exist. The first is to place the patient in the Trendelenburg position if a gurney that allows this position is available. The other alternative is to use the side-lying test; the patient sits with his or her legs over one side of the gurney. To test the left posterior semicircular canal, turn the patient's head 90° to the opposite side (in this case, the right side). Then, lay the patient on his or her left side. By turning the patient's head to the right, the left posterior semicircular canal is aligned in the same plane as the sideways movement. As in the Hallpike test, this will allow the greatest chance for otoliths to move if they are indeed located in the posterior semicircular canal. </para>
+        <para>The neurologic examination findings should be otherwise normal; if not, strongly consider alternative diagnoses.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>Several disorders affecting the peripheral vestibular system may precede the onset of benign positional vertigo (BPV).</para>
+        <itemizedlist>
+          <listitem>
+            <para>Idiopathic (50-60%)</para>
+          </listitem>
+          <listitem>
+            <para>Infection (viral neuronitis)</para>
+          </listitem>
+          <listitem>
+            <para>Head trauma, especially in younger patients</para>
+          </listitem>
+          <listitem>
+            <para>Degeneration of the peripheral end organ</para>
+          </listitem>
+          <listitem>
+            <para>Surgical damage to the labyrinth</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Acoustic schwannoma</para>
+      <para>Chronic otomastoiditis</para>
+      <para>Congenital malformation (inner ear)</para>
+      <para>Medications (alcohol, phenytoin, diuretics, salicylates, quinidine, quinine, barbiturates, antibiotics)</para>
+      <para>Otosclerosis</para>
+      <para>Ototoxicity</para>
+      <para>Polyarteritis nodosa</para>
+      <para>Posttraumatic injuries</para>
+      <para>Posterior fossa neurosurgery</para>
+      <para>Postsurgery (general)</para>
+      <para>Postsurgery (ear)</para>
+      <para>Vertebrobasilar insufficiency</para>
+    </intro>
+    <ddlist>
+      <dditem ref="">
+        <title>Labyrinthitis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1159069">
+        <title>Meniere Disease (Idiopathic Endolymphatic Hydrops)</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1142556">
+        <title>Migraine Headache</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1146199">
+        <title>Multiple Sclerosis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="">
+        <title>Stroke, Hemorrhagic</title>
+        <desc/>
+      </dditem>
+      <dditem ref="">
+        <title>Stroke, Ischemic</title>
+        <desc/>
+      </dditem>
+      <dditem ref="332244">
+        <title>Systemic Lupus Erythematosus (SLE)</title>
+        <desc/>
+      </dditem>
+      <dditem ref="794489">
+        <title>Vestibular Neuronitis</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c4">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>No pathognomonic laboratory test for benign positional vertigo (BPV) exists. Laboratory tests may be performed to rule out other pathology. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c5">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>Currently, no imaging study can demonstrate the presence of otoliths.</para>
+        <para>Head CT scanning or MRI is indicated if the diagnosis is in doubt.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Other Tests</title>
+      <pgroup>
+        <para>Although most patients with benign positional vertigo (BPV) have posterior semicircular canal involvement, some patients have horizontal canal involvement. This canal should be suspected if the patient has bilateral symptoms during the Hallpike test. Use the Roll test to formally diagnose horizontal canal BPV, and use the bar-b-que treatment to treat horizontal canal BPV. </para>
+      </pgroup>
+      <pgroup>
+        <title>Roll test</title>
+        <para>Have the patient lie in the supine position on the gurney. Unlike the Hallpike test, the head does not need to hang over the edge of the gurney.</para>
+        <para>Turn the patient's head 90° to one side. The patient should experience a reproduction of symptoms and the presence of horizontal nystagmus. The fast phase should beat toward the earth (geotropic).</para>
+        <para>Now, turn the patient's head 180° (or 90° to the opposite side). The patient should again experience a reproduction of symptoms and the presence of horizontal nystagmus. The fast phase again beats toward the earth (note that it has changed direction). This is known as direction-changing nystagmus (nystagmus that changes direction based on turning the head) and is different from gaze-evoked nystagmus (which is nystagmus that changes direction depending on where the patient is looking, as in Dilantin toxicity). </para>
+        <para>Note that both sides will have nystagmus and a reproduction of symptoms, but one side will be much more symptomatic (and demonstrate stronger nystagmus) than the other side. This is considered the involved side. </para>
+        <para>A positive Roll test should be treated with the bar-b-que treatment (see Treatment and the video below).</para>
+        <figure id="40607">
+          <title/>
+          <caption>Bar-b-que maneuver. This maneuver is used to treat horizontal canal benign positional vertigo. In this example, the right horizontal canal is being treated. Each position should be held at least 20-30 seconds. </caption>
+          <graphic fileref="/07/40607.flv" format="VIDEO" id="40607" extension_format="FLV"/>
+          <graphic fileref="/07/40607tn.png" format="IMAGE_THUMB" id="40607"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Head-thrust test (head-impulse test)</title>
+        <para>The head-thrust test is used to diagnose vestibular neuritis and labyrinthitis. </para>
+        <para>In this test, the patient is told to look at the examiner's nose. The examiner places both his or her hands on the patient's head and rapidly turns it approximately 10-15° to one side. If the vestibular apparatus is functioning properly, the patient will be able to maintain his or her focus on the examiner's nose. If the vestibular apparatus is not working properly, the patient's eyes will deviate to the side and then quickly jerk back to view the examiner's nose. This jerking eye movement is called a saccade and indicates a positive head-thrust test. As a general rule, a positive head-thrust test rules in a peripheral (and hence benign) cause of vertigo. There are reported cases, however, of positive head-thrust tests in central causes of vertigo. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Procedures</title>
+      <pgroup>
+        <para>The Hallpike test, along with the patient's history, confirms the diagnosis of BPV. See Physical for details of this procedure. </para>
+        <para>The modified Epley maneuver is used to treat posterior canal BPV (see Treatment as well as the video below for a demonstration).<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+        <figure id="40605">
+          <title/>
+          <caption>Epley maneuver. In this example, the left posterior semicircular canal is being treated. In this clip, the maneuvers are performed quickly. In a real patient, each position should be held for at least 30 seconds or until resolution of the nystagmus and vertigo. </caption>
+          <graphic fileref="/05/40605.flv" format="VIDEO" id="40605" extension_format="FLV"/>
+          <graphic fileref="/05/40605tn.png" format="IMAGE_THUMB" id="40605"/>
+        </figure>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d9">
+      <title>Emergency Department Care</title>
+      <pgroup>
+        <para>If the history and physical examination are typical, no further evaluation is necessary, and the emergency physician may proceed with the modified Epley maneuver described below (see the video below).</para>
+        <figure id="40605">
+          <title/>
+          <caption>Epley maneuver. In this example, the left posterior semicircular canal is being treated. In this clip, the maneuvers are performed quickly. In a real patient, each position should be held for at least 30 seconds or until resolution of the nystagmus and vertigo. </caption>
+          <graphic fileref="/05/40605.flv" format="VIDEO" id="40605" extension_format="FLV"/>
+          <graphic fileref="/05/40605tn.png" format="IMAGE_THUMB" id="40605"/>
+        </figure>
+        <para>If the history and physical examination findings are atypical, consider other causes of positional vertigo, which may occur with tumor or infarcts in the posterior fossa.</para>
+        <para>Contraindications to performing the Epley maneuver include ongoing CNS disease (ie, <a href="http://emedicine.medscape.com/article/1916852-overview">stroke</a> or <a href="http://emedicine.medscape.com/article/1910519-overview">transient ischemic attack</a> [TIA]), unstable heart disease, severe neck disease (eg, rheumatoid arthritis) or history of cervical spine fracture or surgery, carotid bruit on examination indicating carotid stenosis, or body habitus preventing performance of the maneuver.</para>
+        <para>Further information on diagnosis and treatment guidelines and recommendations are available from the American Academy of Neurology and the American Academy of Otolaryngology-Head and Neck Surgery Foundation.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+        <para>The goal of the Epley maneuver is to move the otoliths out of the posterior semicircular canal and back into the utricle where they belong. </para>
+        <para>The success rate of the Epley maneuver is approximately 80%. When it fails, it is the author's experience that it is either being incorrectly applied to patients with vestibular neuritis or labyrinthitis, or that the patient raised his/her head too high in the 3<sup>rd</sup> part of the Epley maneuver, in which the patient rolls onto the side and looks towards the ground. </para>
+      </pgroup>
+      <pgroup>
+        <title>Epley maneuver, general guidelines</title>
+        <para>The head must be in the dependent (head-hanging) position for this maneuver to work. If the patient does not tolerate this position, put the gurney in the Trendelenburg position to simulate this head-hanging position.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>Maintain each position until the symptoms and nystagmus have disappeared or for at least 30 seconds.</para>
+        <para>If the patient cannot tolerate the maneuver because of vomiting or severity of the vertigo, premedicate with a vestibular sedative, such as 4 mg IV ondansetron (Zofran). </para>
+      </pgroup>
+      <pgroup>
+        <title>Epley maneuver steps</title>
+        <para>Have the patient sit upright on the gurney with the head turned 45° to the affected side. Recall that the affected side was predetermined by using the Hallpike test. Make sure the patient is sitting far enough back in the gurney so that the head will hang over the edge of the gurney when the patient is laid back. Make sure the guardrail on the opposite side has been lowered (the patient will eventually sit up so his or her legs overhang the edge of the gurney). See the image below.</para>
+        <figure id="40592">
+          <title>Epley maneuver. Move the patient back in the gurney such that when he lies down, his or her head...</title>
+          <caption>Epley maneuver. Move the patient back in the gurney such that when he lies down, his or her head will hang over the edge of the gurney. Emphasize to the patient to keep his or her eyes open during each position so that nystagmus can be observed. Lower the guardrails of the gurney on the opposite side from which the patient's head is turned. </caption>
+          <graphic fileref="/92/40592.jpg" format="IMAGE" id="40592" extension_format="JPG"/>
+          <graphic fileref="/92/40592tn.jpg" format="IMAGE_THUMB" id="40592"/>
+        </figure>
+        <para>Place your hands on either side of the patient's head and guide the patient down with the head dependent (as in the Hallpike test). See the image below.</para>
+        <figure id="40593">
+          <title>Epley maneuver. Turn the patient's head 45° to the side that had the most prominent symptoms...</title>
+          <caption>Epley maneuver. Turn the patient's head 45° to the side that had the most prominent symptoms during the Hallpike test. In this example, the patient's head is turned 45° to the left. With both hands holding the patient's head, gently lay the patient down in the supine position with the head hanging over the edge of the bed. Note: Each maneuver does not need to be performed rapidly. The Epley maneuver is positional, not positioning. </caption>
+          <graphic fileref="/93/40593.jpg" format="IMAGE" id="40593" extension_format="JPG"/>
+          <graphic fileref="/93/40593tn.jpg" format="IMAGE_THUMB" id="40593"/>
+        </figure>
+        <para>Rotate the head 90° to the opposite side with the patient's face upward and be sure to maintain the head-dependent position (head is hanging over the edge of the gurney).</para>
+        <para>Ask the patient to roll onto his or her side while holding the head in this position and then rotate the head so that it is facing downward (tell the patient to look to the ground). See the images below.</para>
+        <figure id="40598">
+          <title>Epley maneuver. Ask the patient to turn onto his or her shoulder. </title>
+          <caption>Epley maneuver. Ask the patient to turn onto his or her shoulder. </caption>
+          <graphic fileref="/98/40598.jpg" format="IMAGE" id="40598" extension_format="JPG"/>
+          <graphic fileref="/98/40598tn.jpg" format="IMAGE_THUMB" id="40598"/>
+        </figure>
+        <figure id="40599">
+          <title>Epley maneuver. Guide the patient's head down so that he or she is looking at the ground. Again...</title>
+          <caption>Epley maneuver. Guide the patient's head down so that he or she is looking at the ground. Again, wait for at least 30 seconds. </caption>
+          <graphic fileref="/99/40599.jpg" format="IMAGE" id="40599" extension_format="JPG"/>
+          <graphic fileref="/99/40599tn.jpg" format="IMAGE_THUMB" id="40599"/>
+        </figure>
+        <para>Raise the patient to a sitting position while maintaining head rotation (This author finds that sitting the patient up so that he or she is sitting with his or her legs hanging over the edge of the gurney is easier. This is why the side guardrails need to be lowered before the procedure is started). See the images below.</para>
+        <figure id="40601">
+          <title>Epley maneuver. The patient's head needs to be regripped again. Then, the patient needs to sit...</title>
+          <caption>Epley maneuver. The patient's head needs to be regripped again. Then, the patient needs to sit up with the legs hanging over the side of the gurney (which is why the guardrails need to be lowered before the start of the procedure). </caption>
+          <graphic fileref="/01/40601.jpg" format="IMAGE" id="40601" extension_format="JPG"/>
+          <graphic fileref="/01/40601tn.jpg" format="IMAGE_THUMB" id="40601"/>
+        </figure>
+        <figure id="40602">
+          <title>Epley maneuver. The patient is now sitting upright. </title>
+          <caption>Epley maneuver. The patient is now sitting upright. </caption>
+          <graphic fileref="/02/40602.jpg" format="IMAGE" id="40602" extension_format="JPG"/>
+          <graphic fileref="/02/40602tn.jpg" format="IMAGE_THUMB" id="40602"/>
+        </figure>
+        <para>Simultaneously rotate the head to a central position and move it 45° forward.</para>
+      </pgroup>
+      <pgroup>
+        <title>The Semont maneuver (liberatory maneuver)</title>
+        <para>This maneuver is primarily used in Europe. Although it can be used to treat classic posterior canal BPV, in the United States, it is usually reserved to treat the cupulolithiasis form of BPV (where the otoliths are not free-floating but instead are attached to the cupula of the posterior semicircular canal). Because of its somewhat violent nature (and the fact that most patients with BPV are elderly), the author does not advocate its use but includes it to be complete.</para>
+        <para>As in the side-lying test, the patient sits on the edge of the gurney with the head turned opposite to the involved side. The patient is brought rapidly down onto his or her side (this serves to dislodge the otoliths off the cupula). The patient is then rapidly brought to the other side, maintaining the head in the same position (so the patient's face will be facing the gurney). The patient is then brought to the original sitting position. See the video below.</para>
+        <figure id="40606">
+          <title/>
+          <caption>Semont maneuver. Generally reserved for the cupulolithiasis form of benign positional vertigo, in which the otoliths are attached to the cupula of the semicircular canal. This maneuver has to be performed rapidly to be effective, and it is not recommended in elderly persons. In this example, the right posterior semicircular canal is being treated. </caption>
+          <graphic fileref="/06/40606.flv" format="VIDEO" id="40606" extension_format="FLV"/>
+          <graphic fileref="/06/40606tn.png" format="IMAGE_THUMB" id="40606"/>
+        </figure>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Consultations</title>
+      <pgroup>
+        <para>Neurologic consultation is indicated for cases of positional vertigo and nystagmus that do not satisfy criteria for BPV. For example, downbeat (fast phase beating towards the feet) nystagmus is more likely to indicate a central cause of vertigo as opposed to peripheral vertigo caused by anterior semicircular canal involvement, the latter of which is extremely rare. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Medical treatment for benign positional vertigo (BPV) is generally ineffective but may be used to lessen the symptoms.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>The natural history of BPV is to resolve with time as most otoliths eventually dissolve while in the semicircular canals. </para>
+      <para>The use of vestibular suppressants is based on the sensory conflict theory, in which sensory input is compared from different systems, and if a conflict exists, then vertigo, nausea, and vomiting result. Over time, habituation occurs. Several main neurotransmitters mediate these functions: GABA, acetylcholine, and histamine/serotonin. </para>
+    </intro>
+    <cgroup id="145401">
+      <title>Antiemetic Agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>The antihistaminic antiemetics block the emetic response. For patients with severe vertigo or vomiting, intravenous promethazine (Phenergan) used to be the drug of choice; however, this medication recently received a Black Box Warning from the FDA and is now only recommended to be given intramuscularly. Prochlorperazine (Compazine) is an alternative antiemetic. Meclizine is given orally and does not work fast enough to be effective acutely. Most antiemetics have anticholinergic activity as well.</para>
+      </intro>
+      <drug did="342056" name="Promethazine (Phenergan, Anergan, Prorex)" uri="phenergan-phenadoz-promethazine-342056">
+        <title>Promethazine (Phenergan, Anergan, Prorex)</title>
+        <para>Antidopaminergic agent used to treat emesis. Blocks postsynaptic mesolimbic dopaminergic receptors in the brain and reduces stimuli to brainstem reticular system. Also has cross reactivity with the cholinergic receptors. </para>
+      </drug>
+      <drug did="343062" name="Meclizine (Antivert, Antrizine, Dramamine)" uri="antivert-bonine-meclizine-343062">
+        <title>Meclizine (Antivert, Antrizine, Dramamine)</title>
+        <para>Decreases excitability of middle ear labyrinth and blocks conduction in middle ear vestibular-cerebellar pathways. These effects are associated with relief of nausea and vomiting. </para>
+      </drug>
+      <drug did="342057" name="Scopolamine (Isopto, Scopace Tablet)" uri="transderm-scop-scopace-scopolamine-342057">
+        <title>Scopolamine (Isopto, Scopace Tablet)</title>
+        <para>Blocks action of acetylcholine at parasympathetic sites in the smooth muscle, secretory glands, and CNS. Antagonizes histamine and serotonin action.</para>
+        <para>Transdermal scopolamine may be most effective agent for motion sickness. Use in the treatment of BPV is limited by slow onset of action. </para>
+      </drug>
+      <drug did="342045" name="Dimenhydrinate (Dimetabs, Dramamine)" uri="dramamine-dimenhydrinate-342045">
+        <title>Dimenhydrinate (Dimetabs, Dramamine)</title>
+        <para>Mixture of 1:1 salt consisting of 8-chlorotheophylline and diphenhydramine. Believed to be useful, particularly in treatment of vertigo. Diminishes vestibular stimulation and depresses labyrinthine function through central anticholinergic effects. However, prolonged treatment may decrease rate of recovery of vestibular injuries. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="145402">
+      <title>Antiemetics, Selective 5-HT3 Antagonist</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents are an option for treating emesis associated with BPV. They may be administered IV, IM, or orally, including an orally disintegrating tablet and oral soluble film. </para>
+      </intro>
+      <drug did="342052" name="Ondansetron (Zofran, Zofran ODT, Zuplenz)" uri="zofran-zuplenz-ondansetron-342052">
+        <title>Ondansetron (Zofran, Zofran ODT, Zuplenz)</title>
+        <para>Ondansetron selective 5-HT3 receptor antagonist; binds to 5-HT3 receptors both in periphery and in CNS, with primary effects in GI tract. It has no effect on dopamine receptors and therefore does not cause extrapyramidal symptoms. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="145403">
+      <title>Benzodiazepines</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents block the GABA receptors and serve as the "brakes" to the system. Although they can be used acutely in the ED, they are not recommended for long-term use because they interfere with the process of vestibular rehabilitation. </para>
+      </intro>
+      <drug did="342906" name="Lorazepam (Ativan)" uri="ativan-loraz-lorazepam-342906">
+        <title>Lorazepam (Ativan)</title>
+        <para>Sedative hypnotic in benzodiazepine class that has short time to onset and relatively long half-life. Depresses all levels of CNS, including limbic and reticular formation, probably through increased action of GABA, a major inhibitory neurotransmitter. </para>
+      </drug>
+    </cgroup>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e1">
+      <title>Further Outpatient Care</title>
+      <pgroup>
+        <para>Head exercise therapy (positional exercises of Brandt and Daroff) that promotes central accommodation may be helpful for BPV, although most patients have difficulty tolerating these maneuvers. The patient can perform the following therapy:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Sit on the edge of the bed near the middle, with legs hanging down.</para>
+          </listitem>
+          <listitem>
+            <para>Turn the head 45° to the right side. Quickly lie down on the left side, with the head still turned, and touch the bed with a portion of the head behind the ear. </para>
+          </listitem>
+          <listitem>
+            <para>Maintain this position and every subsequent position for about 30 seconds.</para>
+          </listitem>
+          <listitem>
+            <para>Sit up again.</para>
+          </listitem>
+          <listitem>
+            <para>Quickly lie down to the right side after turning head 45° toward the left side.</para>
+          </listitem>
+          <listitem>
+            <para>Sit up again.</para>
+          </listitem>
+          <listitem>
+            <para>Do 6-10 repetitions, 3 times per day.</para>
+          </listitem>
+          <listitem>
+            <para>If the patient becomes confused about the direction to turn his or her head, tell the patient his or her nose should always point toward the ceiling. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e2">
+      <title>Further Inpatient Care</title>
+      <pgroup>
+        <para>Patients with persistent vomiting or intractable vertigo may require admission for hydration and vestibular suppressant medication.</para>
+        <para>Surgical elimination of posterior canal function is restricted to rare cases of long-standing refractory benign positional vertigo (BPV). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e3">
+      <title>Inpatient &amp; Outpatient Medications</title>
+      <pgroup>
+        <para>Meclizine is the most common outpatient medication. This medication is indicated for vertigo but should not be given for other categories of dizziness (near-syncope, dysequilibrium, or lightheadedness). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e4">
+      <title>Deterrence/Prevention</title>
+      <pgroup>
+        <para>Avoid provocative movements and limit activities.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Complications</title>
+      <pgroup>
+        <para>No complications (eg, neck injury, vertebral dissection) other than vomiting have been reported from the use of the Epley maneuver. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e6">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Benign positional vertigo (BPV) tends to resolve spontaneously after several days or weeks. An Italian researcher removed the otoliths from an animal, placed them in a Petri dish full of endolymph, and noted that the otoliths dissolved in approximately 100 hours. </para>
+        <para>Patients may experience recurrences months or years later (if the otoliths got out once, they can do it again).</para>
+        <para>Variants range from a single, short-lived episode to decades of vertigo with only short remissions.</para>
+        <para>A study by Kim et al assessed patients who were discharged home from the ED with a diagnosis of isolated dizziness or vertigo and determined that stroke occurs in less than 1 in 500 patients within the first month.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>Cerebrovascular risk factors should be considered for individual patients. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e7">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>For excellent patient education resources, visit eMedicine's <a href="http://www.emedicinehealth.com/collections/SU294.asp">Brain and Nervous System Center</a>. Also, see eMedicine's patient education article <a href="http://www.emedicinehealth.com/articles/9195-1.asp">Benign Positional Vertigo</a>.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="40591">
+        <title>Anatomy of the semicircular canals. </title>
+        <caption>Anatomy of the semicircular canals. </caption>
+        <graphic fileref="/91/40591.jpg" format="IMAGE" id="40591" extension_format="JPG"/>
+        <graphic fileref="/91/40591tn.jpg" format="IMAGE_THUMB" id="40591"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40592">
+        <title>Epley maneuver. Move the patient back in the gurney such that when he lies down, his or her head...</title>
+        <caption>Epley maneuver. Move the patient back in the gurney such that when he lies down, his or her head will hang over the edge of the gurney. Emphasize to the patient to keep his or her eyes open during each position so that nystagmus can be observed. Lower the guardrails of the gurney on the opposite side from which the patient's head is turned. </caption>
+        <graphic fileref="/92/40592.jpg" format="IMAGE" id="40592" extension_format="JPG"/>
+        <graphic fileref="/92/40592tn.jpg" format="IMAGE_THUMB" id="40592"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40593">
+        <title>Epley maneuver. Turn the patient's head 45° to the side that had the most prominent symptoms...</title>
+        <caption>Epley maneuver. Turn the patient's head 45° to the side that had the most prominent symptoms during the Hallpike test. In this example, the patient's head is turned 45° to the left. With both hands holding the patient's head, gently lay the patient down in the supine position with the head hanging over the edge of the bed. Note: Each maneuver does not need to be performed rapidly. The Epley maneuver is positional, not positioning. </caption>
+        <graphic fileref="/93/40593.jpg" format="IMAGE" id="40593" extension_format="JPG"/>
+        <graphic fileref="/93/40593tn.jpg" format="IMAGE_THUMB" id="40593"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40594">
+        <title>Epley maneuver. The patient's head should be at 45° and hanging off the edge of the bed. Observe...</title>
+        <caption>Epley maneuver. The patient's head should be at 45° and hanging off the edge of the bed. Observe the patient's eyes and look for torsional nystagmus. Keep the patient in this position for at least 30 seconds or until the nystagmus or symptoms resolve. </caption>
+        <graphic fileref="/94/40594.jpg" format="IMAGE" id="40594" extension_format="JPG"/>
+        <graphic fileref="/94/40594tn.jpg" format="IMAGE_THUMB" id="40594"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40595">
+        <title>Epley maneuver. Because the patient's head will be turned 90° in the other direction, the...</title>
+        <caption>Epley maneuver. Because the patient's head will be turned 90° in the other direction, the physician needs to move to the head of the gurney and regrip the patient's head so that the fingers are pointing toward the patient's feet. </caption>
+        <graphic fileref="/95/40595.jpg" format="IMAGE" id="40595" extension_format="JPG"/>
+        <graphic fileref="/95/40595tn.jpg" format="IMAGE_THUMB" id="40595"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40596">
+        <title>Epley maneuver. Turn the patient's head 90° in the opposite direction (in this case, the patient...</title>
+        <caption>Epley maneuver. Turn the patient's head 90° in the opposite direction (in this case, the patient's head is now facing to the right). Again, observe for nystagmus and hold this position for at least 30 seconds or until nystagmus or symptoms resolve. </caption>
+        <graphic fileref="/96/40596.jpg" format="IMAGE" id="40596" extension_format="JPG"/>
+        <graphic fileref="/96/40596tn.jpg" format="IMAGE_THUMB" id="40596"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40597">
+        <title>Epley maneuver. Close-up view of step shown in Media file 6. </title>
+        <caption>Epley maneuver. Close-up view of step shown in Media file 6. </caption>
+        <graphic fileref="/97/40597.jpg" format="IMAGE" id="40597" extension_format="JPG"/>
+        <graphic fileref="/97/40597tn.jpg" format="IMAGE_THUMB" id="40597"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40598">
+        <title>Epley maneuver. Ask the patient to turn onto his or her shoulder. </title>
+        <caption>Epley maneuver. Ask the patient to turn onto his or her shoulder. </caption>
+        <graphic fileref="/98/40598.jpg" format="IMAGE" id="40598" extension_format="JPG"/>
+        <graphic fileref="/98/40598tn.jpg" format="IMAGE_THUMB" id="40598"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40599">
+        <title>Epley maneuver. Guide the patient's head down so that he or she is looking at the ground. Again...</title>
+        <caption>Epley maneuver. Guide the patient's head down so that he or she is looking at the ground. Again, wait for at least 30 seconds. </caption>
+        <graphic fileref="/99/40599.jpg" format="IMAGE" id="40599" extension_format="JPG"/>
+        <graphic fileref="/99/40599tn.jpg" format="IMAGE_THUMB" id="40599"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40600">
+        <title>Epley maneuver. Close-up of view shown in Media file 9. </title>
+        <caption>Epley maneuver. Close-up of view shown in Media file 9. </caption>
+        <graphic fileref="/00/40600.jpg" format="IMAGE" id="40600" extension_format="JPG"/>
+        <graphic fileref="/00/40600tn.jpg" format="IMAGE_THUMB" id="40600"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40601">
+        <title>Epley maneuver. The patient's head needs to be regripped again. Then, the patient needs to sit...</title>
+        <caption>Epley maneuver. The patient's head needs to be regripped again. Then, the patient needs to sit up with the legs hanging over the side of the gurney (which is why the guardrails need to be lowered before the start of the procedure). </caption>
+        <graphic fileref="/01/40601.jpg" format="IMAGE" id="40601" extension_format="JPG"/>
+        <graphic fileref="/01/40601tn.jpg" format="IMAGE_THUMB" id="40601"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40602">
+        <title>Epley maneuver. The patient is now sitting upright. </title>
+        <caption>Epley maneuver. The patient is now sitting upright. </caption>
+        <graphic fileref="/02/40602.jpg" format="IMAGE" id="40602" extension_format="JPG"/>
+        <graphic fileref="/02/40602tn.jpg" format="IMAGE_THUMB" id="40602"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40603">
+        <title>Epley maneuver. Move the patient's head slightly forward. This completes the Epley maneuver. The...</title>
+        <caption>Epley maneuver. Move the patient's head slightly forward. This completes the Epley maneuver. The maneuver may be performed multiple times. </caption>
+        <graphic fileref="/03/40603.jpg" format="IMAGE" id="40603" extension_format="JPG"/>
+        <graphic fileref="/03/40603tn.jpg" format="IMAGE_THUMB" id="40603"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40604">
+        <title/>
+        <caption>Hallpike test. In this example, the right posterior semicircular canal is being tested. Note that the head extends over the edge of the gurney. The thumb can be used to help keep the eyelids open since noting the direction of the nystagmus is important. </caption>
+        <graphic fileref="/04/40604.flv" format="VIDEO" id="40604" extension_format="FLV"/>
+        <graphic fileref="/04/40604tn.png" format="IMAGE_THUMB" id="40604"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40605">
+        <title/>
+        <caption>Epley maneuver. In this example, the left posterior semicircular canal is being treated. In this clip, the maneuvers are performed quickly. In a real patient, each position should be held for at least 30 seconds or until resolution of the nystagmus and vertigo. </caption>
+        <graphic fileref="/05/40605.flv" format="VIDEO" id="40605" extension_format="FLV"/>
+        <graphic fileref="/05/40605tn.png" format="IMAGE_THUMB" id="40605"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40606">
+        <title/>
+        <caption>Semont maneuver. Generally reserved for the cupulolithiasis form of benign positional vertigo, in which the otoliths are attached to the cupula of the semicircular canal. This maneuver has to be performed rapidly to be effective, and it is not recommended in elderly persons. In this example, the right posterior semicircular canal is being treated. </caption>
+        <graphic fileref="/06/40606.flv" format="VIDEO" id="40606" extension_format="FLV"/>
+        <graphic fileref="/06/40606tn.png" format="IMAGE_THUMB" id="40606"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="40607">
+        <title/>
+        <caption>Bar-b-que maneuver. This maneuver is used to treat horizontal canal benign positional vertigo. In this example, the right horizontal canal is being treated. Each position should be held at least 20-30 seconds. </caption>
+        <graphic fileref="/07/40607.flv" format="VIDEO" id="40607" extension_format="FLV"/>
+        <graphic fileref="/07/40607tn.png" format="IMAGE_THUMB" id="40607"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Andrew K Chang, MD</contrbtr_nm>
+        <contrbtr_title>Associate Professor, Department of Emergency Medicine, Albert Einstein College of Medicine, Montefiore Medical Center</contrbtr_title>
+        <contrbtr_bio>Andrew K Chang, MD is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a>, <a href="http://www.aan.com">American Academy of Neurology</a>, <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>J Stephen Huff, MD, FACEP</contrbtr_nm>
+        <contrbtr_title>Professor of Emergency Medicine and Neurology, Department of Emergency Medicine, University of Virginia School of Medicine</contrbtr_title>
+        <contrbtr_bio>J Stephen Huff, MD, FACEP is a member of the following medical societies: <a href="http://www.aan.com">American Academy of Neurology</a>, <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert E O'Connor, MD, MPH</contrbtr_nm>
+        <contrbtr_title>Professor and Chair, Department of Emergency Medicine, University of Virginia Health System</contrbtr_title>
+        <contrbtr_bio>Robert E O'Connor, MD, MPH is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a>, <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.physicianleaders.org/">American Association for Physician Leadership</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://www.medsocdel.org">Medical Society of Delaware</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a>, <a href="http://www.wms.org">Wilderness Medical Society</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.naemsp.org">National Association of EMS Physicians</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Edward Bessman, MD, MBA</contrbtr_nm>
+        <contrbtr_title>Chairman and Clinical Director, Department of Emergency Medicine, John Hopkins Bayview Medical Center; Assistant Professor, Department of Emergency Medicine, Johns Hopkins University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Edward Bessman, MD, MBA is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a>, <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2046397">
+      <para>Froehling DA, Silverstein MD, Mohr DN, Beatty CW, Offord KP, Ballard DJ. Benign positional vertigo: incidence and prognosis in a population-based study in Olmsted County, Minnesota. <em>Mayo Clin Proc</em>. 1991 Jun. 66(6):596-601. <a href="http://reference.medscape.com/medline/abstract/2046397">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18973840">
+      <para>[Guideline] Bhattacharyya N,  Baugh RF,  Orvidas L,  Barrs D,  Bronston LJ,  Cass S, et al. Clinical practice guideline: benign paroxysmal positional vertigo. <em>Otolaryngol Head Neck Surg</em>. 2008 Nov. 139(5 Suppl 4):S47-81. <a href="http://reference.medscape.com/medline/abstract/18973840">[Medline]</a>. <a href="http://www.guideline.gov/content.aspx?id=13403">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10564690">
+      <para>Furman JM, Cass SP. Benign paroxysmal positional vertigo. <em>N Engl J Med</em>. 1999 Nov 18. 341(21):1590-6. <a href="http://reference.medscape.com/medline/abstract/10564690">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25485940">
+      <para>Hilton MP, Pinder DK. The Epley (canalith repositioning) manoeuvre for benign paroxysmal positional vertigo. <em>Cochrane Database Syst Rev</em>. 2014 Dec 8. 12:CD003162. <a href="http://reference.medscape.com/medline/abstract/25485940">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18505980">
+      <para>[Guideline] Fife TD,  Iverson DJ,  Lempert T,  Furman JM,  Baloh RW,  Tusa RJ, et al. Practice parameter: therapies for benign paroxysmal positional vertigo (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology. <em>Neurology</em>. 2008 May 27. 70(22):2067-74. <a href="http://reference.medscape.com/medline/abstract/18505980">[Medline]</a>. <a href="http://www.guideline.gov/content.aspx?id=12940">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8860930">
+      <para>Epley JM. Particle repositioning for benign paroxysmal positional vertigo. <em>Otolaryngol Clin North Am</em>. 1996 Apr. 29(2):323-31. <a href="http://reference.medscape.com/medline/abstract/8860930">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20855127">
+      <para>Kim AS, Fullerton HJ, Johnston SC. Risk of vascular events in emergency department patients discharged home with diagnosis of dizziness or vertigo. <em>Ann Emerg Med</em>. 2011 Jan. 57(1):34-41. <a href="http://reference.medscape.com/medline/abstract/20855127">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Baloh RW. Dizziness and vertigo. Samuels MA, Feske S. <em>Office Practice of Neurology</em>. London: Churchill Livingstone; 1996. 83-91. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7396795">
+      <para>Brandt T, Daroff RB. Physical therapy for benign paroxysmal positional vertigo. <em>Arch Otolaryngol</em>. 1980 Aug. 106(8):484-5. <a href="http://reference.medscape.com/medline/abstract/7396795">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15347540">
+      <para>Chang AK, Schoeman G, Hill M. A randomized clinical trial to assess the efficacy of the Epley maneuver in the treatment of acute benign positional vertigo. <em>Acad Emerg Med</em>. 2004 Sep. 11(9):918-24. <a href="http://reference.medscape.com/medline/abstract/15347540">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10907384">
+      <para>Froehling DA, Bowen JM, Mohr DN, et al. The canalith repositioning procedure for the treatment of benign paroxysmal positional vertigo: a randomized controlled trial. <em>Mayo Clin Proc</em>. 2000 Jul. 75(7):695-700. <a href="http://reference.medscape.com/medline/abstract/10907384">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24645946">
+      <para>Kim JS, Zee DS. Clinical practice. Benign paroxysmal positional vertigo. <em>N Engl J Med</em>. 2014 Mar 20. 370(12):1138-47. <a href="http://reference.medscape.com/medline/abstract/24645946">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7647646">
+      <para>Lempert T, Gresty MA, Bronstein AM. Benign positional vertigo: recognition and treatment. <em>BMJ</em>. 1995 Aug 19. 311(7003):489-91. <a href="http://reference.medscape.com/medline/abstract/7647646">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11020677">
+      <para>Marill KA, Walsh MJ, Nelson BK. Intravenous Lorazepam versus dimenhydrinate for treatment of vertigo in  the emergency department: a randomized clinical trial. <em>Ann Emerg Med</em>. 2000 Oct. 36(4):310-9. <a href="http://reference.medscape.com/medline/abstract/11020677">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8683652">
+      <para>Massoud EA, Ireland DJ. Post-treatment instructions in the nonsurgical management of benign paroxysmal positional vertigo. <em>J Otolaryngol</em>. 1996 Apr. 25(2):121-5. <a href="http://reference.medscape.com/medline/abstract/8683652">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1641134">
+      <para>Troost BT, Patton JM. Exercise therapy for positional vertigo. <em>Neurology</em>. 1992 Aug. 42(8):1441-4. <a href="http://reference.medscape.com/medline/abstract/1641134">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

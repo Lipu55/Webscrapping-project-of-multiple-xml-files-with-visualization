@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1976427" pubid="" template="Pediatrics: General Medicine" template-name="singlesection">
+  <site-meta>
+    <article-name>Pediatric Appendicitis Organism-Specific Therapy</article-name>
+    <title>
+      <page-info id="overview">Pediatric Appendicitis Organism-Specific Therapy: Organism-Specific Therapy</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Pediatric Appendicitis Organism-Specific Therapy: Organism-Specific Therapy</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Organism-Specific Therapy</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Pediatric Appendicitis Organism-Specific Therapy Overview</page-info>
+    </meta-keywords>
+    <uri>1976427-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Jul 26, 2013</posting-date>
+    <last-generated>2015-08-04-17:55</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Pediatrics: General Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1976427</artid>
+      <cg>502</cg>
+      <scg text="Abdominal Infection">6004986</scg>
+      <ssp text="Pediatrics">9</ssp>
+      <bc>age12</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_general</id>
+      <name>Pediatrics: General Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_general_gastroenterology</id>
+      <name>Gastroenterology</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Organism-specific therapeutic regimens for appendicitis in children are outlined below, including those for anaerobic organisms (including Bacteroides fragilis, Clostridium species [spp], and Prevotella spp), aerobic gram-negative bacilli (including Escherichia coli, Klebsiella spp, and Proteus mirabilis), Pseudomonas aeruginosa, streptococci...</meta_description>
+    <pediatric-article>1</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Pediatric Appendicitis Organism-Specific Therapy</title>
+  <sect1 id="a1">
+    <title>Organism-Specific Therapy</title>
+    <pgroup>
+      <para>Organism-specific therapeutic regimens for appendicitis in children are outlined below, including those for anaerobic organisms (including <em>Bacteroides fragilis, Clostridium</em> species [spp], and <em>Prevotella</em> spp), aerobic gram-negative bacilli (including <em>Escherichia coli, Klebsiella</em> spp, and <em>Proteus mirabilis</em>), <em>Pseudomonas aeruginosa,</em> streptococci, enterococci, and mixtures of aerobes and anaerobes.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Anaerobic organisms (including Bacteroides fragilis, Clostridium spp, Prevotella spp)</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/cleocin-clindesse-clindamycin-342558">Clindamycin</a> 20-40 mg/kg/day IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/flagyl-metronidazole-342566">Metronidazole</a> 30-40 mg/kg/day IV divided q8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/unasyn-ampicillin-sulbactam-342476">Ampicillin-sulbactam</a> 200 mg/kg/day (based on ampicillin component) IV/IM divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/timentin-ticarcillin-clavulanate-342487">Ticarcillin-clavulanate</a> 200-300 mg/kg/day (based on ticarcillin component) IV divided q4-6h</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Aerobic gram-negative bacilli (including Escherichia coli, Klebsiella spp, Proteus mirabilis)</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/azactam-aztreonam-342553">Aztreonam</a> 90-120 mg/kg/day IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/ampi-omnipen-ampicillin-342475">Ampicillin</a> 200 mg/kg/day IV divided q12h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/cefoxitin-342497">Cefoxitin</a> 80-160 mg/kg/day IV divided q4-6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/cefotetan-342496">Cefotetan</a> 40-80 mg/kg/day IV divided q12h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/claforan-cefotaxime-342506">Cefotaxime</a> 150-200 mg/kg/day IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/rocephin-ceftriaxone-342510">Ceftriaxone</a> 50-75 mg/kg IV q24h</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Pseudomonas aeruginosa</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Aztreonam 90-120 mg/kg/day IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/zosyn-piperacillin-tazobactam-342485">Piperacillin-tazobactam</a> 200-300 mg/kg/day (based on piperacillin component) IV divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Imipenem-cilastin 60-100 mg/kg/day IV divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/merrem-iv-meropenem-342565">Meropenem</a> 60 mg/kg/day IV divided q8h</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Streptococci and enterococci</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Ampicillin-sulbactam 200 mg/kg/day (based on ampicillin component) IV/IM divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Ticarcillin-clavulanate 200-300 mg/kg/day (based on ticarcillin component) IV divided q4-6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Piperacillin-tazobactam 200-300 mg/kg/day (based on piperacillin component) IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Imipenem-cilastin 60-100 mg/kg/day IV divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Meropenem 60 mg/kg/day IV divided q8h</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Mixtures of aerobes and anaerobes</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Cefoxitin 80-160 mg/kg/day IV divided q4-6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Cefotetan 40-80 mg/kg/day IV divided q12h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Ticarcillin-clavulanate 200-300 mg/kg/day (based on ticarcillin component) IV divided q4-6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Piperacillin-tazobactam 200-300 mg/kg/day (based on piperacillin component) IV divided q6-8h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Ampicillin-sulbactam 200 mg/kg/day (based on ampicillin component) IV/IM divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Imipenem-cilastin 60-100 mg/kg/day IV divided q6h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Meropenem 60 mg/kg/day IV divided q8h</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Kara E Hennelly, MD</contrbtr_nm>
+        <contrbtr_title>Instructor, Department of Pediatric Emergency Medicine, Children's Hospital Boston</contrbtr_title>
+        <contrbtr_bio>Kara E Hennelly, MD is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Thomas E Herchline, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Medicine, Wright State University, Boonshoft School of Medicine; Medical Director, Public Health, Dayton and Montgomery County, Ohio</contrbtr_title>
+        <contrbtr_bio>Thomas E Herchline, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://idohio.org/">Infectious Diseases Society of Ohio</a>, <a href="http://www.idsociety.org">Infectious Diseases Society of America</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Bundy DG, Byerley JS, Liles EA, Perrin EM, Katznelson J, Rice HE. Does this child have appendicitis?. <em>JAMA</em>. 2007. 298(4):438-451. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Hernanz-Schulman M. CT and US in the diagnosis of appendicitis: an argument for CT. <em>Radiology</em>. 2010. 255(1):3-7. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Katz MS, Freitas MS, Tucker JR, Glick P. Appendicitis. Medscape Reference.  Updated January 9, 2009. Available at <a href="http://emedicine.medscape.con/article/926795-overview">http://emedicine.medscape.con/article/926795-overview</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Kharbanda AB, Taylor GA, Fishman SJ, Bachur RG. A clinical decision rule to identify children at low risk for appendicitis. <em>Pediatrics</em>. 2005. 116(3):709-716. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Solomkin JS, Mazuski JE, Bradley JS, et al. Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America. <em>Clin Infect Dis</em>. 2010. 50:133-164. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Tsao K, St Peter SD, Valusek PA, et al. Management of pediatric acute appendicitis in the computed tomographic era. <em>J Surg Res</em>. 2008. 147(2):221-224. </para>
+    </ritem>
+  </refgrp>
+</article>

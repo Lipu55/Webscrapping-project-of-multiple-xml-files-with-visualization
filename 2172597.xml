@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2172597" pubid="" template="Protocols" template-name="singlesection">
+  <site-meta>
+    <article-name>CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</article-name>
+    <title>
+      <page-info id="overview">CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation: CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation: CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation Overview</page-info>
+    </meta-keywords>
+    <uri>2172597-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>May 20, 2014</posting-date>
+    <last-generated>2015-06-05-21:04</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Protocols</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="508">Tables &amp; Protocols</content-group>
+    <content-type ID="10424">Table</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2172597</artid>
+      <cg>508</cg>
+      <scg text="Atrial Fibrillation">390</scg>
+      <ssp text="Cardiology">2</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>table</id>
+      <name>Tables &amp; Protocols</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>protocols</id>
+      <name>Protocols</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>protocols_protocols</id>
+      <name>Tables and Protocols</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">First published in 2001, the CHADS-2 index (congestive heart failure, hypertension, age =75 years, diabetes mellitus, stroke) was developed to more accurately predict the risk of stroke in patients with nonvalvular atrial fibrillation. The index was derived by combining risk factors from prior studies and then testing their validity in a coho...</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</title>
+  <sect1 id="a1">
+    <title>CHADS2 Score for Stroke Risk Assessment in Atrial Fibrillation</title>
+    <pgroup>
+      <para>First published in 2001, the CHADS-2 index (congestive heart failure, hypertension, age =75 years, diabetes mellitus, stroke) was developed to more accurately predict the risk of stroke in patients with nonvalvular <a href="http://emedicine.medscape.com/article/151066-overview">atrial fibrillation</a>.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>The index was derived by combining risk factors from prior studies and then testing their validity in a cohort of 1773 Medicare-aged patients over 2121 patient years.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+      <table id="t5fe7fed39" class="datatable">
+        <caption>Table 1. CHADS<sub>2</sub> Score: Stroke Risk Assessment in Atrial Fibrillation</caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>Score </strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>CHADS<sub>2</sub> Risk Criteria </strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1 point</para>
+            </td>
+            <td>
+              <para>Congestive heart failure</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1 point</para>
+            </td>
+            <td>
+              <para>Hypertension</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1 point</para>
+            </td>
+            <td>
+              <para>Age &gt;75 years</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1 point</para>
+            </td>
+            <td>
+              <para>Diabetes mellitus</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>2 points</para>
+            </td>
+            <td>
+              <para>Stroke/transient ischemic attack</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="t7e2f187ea" class="datatable">
+        <caption>Table 2. Treatment Recommendations Based on CHADS<sub>2</sub> Score</caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>CHADS<sub>2</sub> Score </strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>Risk </strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>Recommendation </strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>0</para>
+            </td>
+            <td>
+              <para>Low</para>
+            </td>
+            <td>
+              <para>Aspirin (81-325 mg) daily</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1</para>
+            </td>
+            <td>
+              <para>Intermediate</para>
+            </td>
+            <td>
+              <para>Aspirin (81-325 mg) daily or warfarin (INR 2.0–3.0), based on patient preference</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>2 or more</para>
+            </td>
+            <td>
+              <para>High (CHADS<sub>2</sub> revised) or intermediate (CHADS<sub>2</sub> classic)</para>
+            </td>
+            <td>
+              <para>Warfarin (INR 2.0-3.0), unless there are reasons to avoid it</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="t7b0af4ff8" class="datatable">
+        <caption>Table 3. CHADS<sub>2</sub> Score and Corresponding Annual Stroke Risk</caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>CHADS<sub>2</sub> Score </strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>Annual Stroke Risk, % </strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>0</para>
+            </td>
+            <td>
+              <para>1.9</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>1</para>
+            </td>
+            <td>
+              <para>2.8</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>2</para>
+            </td>
+            <td>
+              <para>4</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>3</para>
+            </td>
+            <td>
+              <para>5.9</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>4</para>
+            </td>
+            <td>
+              <para>8.5</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>5</para>
+            </td>
+            <td>
+              <para>12.5</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>6</para>
+            </td>
+            <td>
+              <para>18.2</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <para>See also Medscape's <a href="http://reference.medscape.com/calculator/chads-2-af-stroke">Atrial Fibrillation CHADS2 Score for Stroke Risk</a> calculator.</para>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Ethan Levine, DO</contrbtr_nm>
+        <contrbtr_title>Director of Cardiac Electrophysiology, Arnot Ogden Medical Center</contrbtr_title>
+        <contrbtr_bio>Ethan Levine, DO is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://www.hrsonline.org">Heart Rhythm Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11401607">
+      <para>Gage BF, Waterman AD, Shannon W, Boechler M, Rich MW, Radford MJ. Validation of clinical classification schemes for predicting stroke: results from the National Registry of Atrial Fibrillation. <em>JAMA</em>. 2001 Jun 13. 285(22):2864-70. <a href="http://reference.medscape.com/medline/abstract/11401607">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8018000">
+      <para>Atrial Fibrillation investigators. Risk factors for stroke and efficacy of antithrombotic therapy in atrial fibrillation. Analysis of pooled data from five randomized controlled trials. <em>Arch Intern Med</em>. 1994 Jul 11. 154(13):1449-57. <a href="http://reference.medscape.com/medline/abstract/8018000">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9565007">
+      <para>Stroke Prevention Atrial Fibrillation III Writing Committee. Patients with nonvalvular atrial fibrillation at low risk of stroke during treatment with aspirin: Stroke Prevention in Atrial Fibrillation III Study. The SPAF III Writing Committee for the Stroke Prevention in Atrial Fibrillation Investigators. <em>JAMA</em>. 1998 Apr 22-29. 279(16):1273-7. <a href="http://reference.medscape.com/medline/abstract/9565007">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

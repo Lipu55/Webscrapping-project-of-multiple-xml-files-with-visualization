@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2117892" pubid="" template="Laboratory Medicine" template-name="singlepage">
+  <site-meta>
+    <article-name>Creatinine Clearance</article-name>
+    <title>
+      <page-info id="overview">Creatinine Clearance: Reference Range, Interpretation, Collection and Panels</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Creatinine Clearance: Reference Range, Interpretation, Collection and Panels</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Reference Range</section-info>
+<section-info id="a2">Interpretation</section-info>
+<section-info id="a3">Collection and Panels</section-info>
+<section-info id="a4">Background</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Creatinine Clearance Overview</page-info>
+    </meta-keywords>
+    <uri>2117892-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>May 07, 2013</posting-date>
+    <last-generated>2015-06-20-05:10</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Laboratory Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="505">Laboratory Medicine</content-group>
+    <content-type ID="10421">Lab</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2117892</artid>
+      <cg>505</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Pathology &amp; Lab Medicine">43</ssp>
+      <bc>age12</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>lab</id>
+      <name>Laboratory Medicine</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>laboratory_medicine</id>
+      <name>Laboratory Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>laboratory_medicine_labmed</id>
+      <name>Laboratory Medicine</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">creatinine clearance, creatinine, creatinine lab test, creatinine lab testing, creatinine test, glomerular filtration rate, GFR, heart failure, renal failure, hypoperfusion, hypovolemic shock, azotemia, chronic kidney disease</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Serum Male serum reference ranges are as follows: Infant - Not established Age 1-2 years - 0.1–0.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Creatinine Clearance</title>
+  <sect1 id="a1">
+    <title>Reference Range</title>
+    <pgroup>
+      <title>Serum</title>
+      <para>Male serum reference ranges are as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Infant - Not established</para>
+        </listitem>
+        <listitem>
+          <para>Age 1-2 years - 0.1–0.4 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 3-4 years - 0.1–0.5 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 5-9 years - 0.2-0.6 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 10-11 years - 0.3-0.7 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 12-13 years - 0.4-0.8 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 14-15 years - 0.5-0.9 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 16 years or older - 0.8-1.3 mg/dL</para>
+        </listitem>
+      </itemizedlist>
+      <para>Female serum reference ranges are as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Infant - Not established</para>
+        </listitem>
+        <listitem>
+          <para>Age 1-3 years - 0.1–0.4 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 4-5 years - 0.2–0.5 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 6-8 years - 0.3-0.6 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 9-15 years - 0.4-0.7 mg/dL</para>
+        </listitem>
+        <listitem>
+          <para>Age 16 years or older - 0.6-1.1 mg/dL</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Urine</title>
+      <para>The normal range for a 24-hour urine creatinine level is 500-2000 mg/day.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Interpretation</title>
+    <pgroup>
+      <para>Creatinine clearance is a widely used value to estimate the glomerular filtration rate (GFR).<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>GFR equals the sum of the filtration rates in all of the functioning nephrons; thus, the GFR gives a rough count of the number of functioning nephrons. </para>
+      <para>Decrease in creatinine clearance indicates decreased GFR and impaired renal function.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>This can be due to conditions (eg, progressive renal disease)<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>or can result from an adverse effect of renal hypoperfusion, which is often reversible, and can result from drug effects, hypotension, volume depletion, heart failure, and shock.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+      <para>Increased creatinine clearance is often called hyperfiltration and is usually seen during pregnancy or in patients with diabetes mellitus before diabetic nephropathy has occurred. It may also occur with large dietary protein intake or with plasma volume expansion.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      <para>For more information, see the Medscape Reference topics <a href="http://emedicine.medscape.com/article/238798-overview">Chronic Kidney Disease</a>, <a href="http://emedicine.medscape.com/article/243492-overview">Acute Renal Failure</a>, <a href="http://emedicine.medscape.com/article/163062-overview">Heart Failure</a>, <a href="http://emedicine.medscape.com/article/760145-overview">Hypovolemic Shock</a>, and <a href="http://emedicine.medscape.com/article/238545-overview">Azotemia</a>.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Collection and Panels</title>
+    <pgroup>
+      <para>Both serum and urine are needed. Serum collection must be obtained within 24 hours of the urine collection. </para>
+    </pgroup>
+    <pgroup>
+      <title>Serum specimen</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Container/tube: Red top or serum gel</para>
+        </listitem>
+        <listitem>
+          <para>Specimen volume: 1 mL, minimum volume 0.5 mL</para>
+        </listitem>
+        <listitem>
+          <para>Collection instructions: Label specimen serum</para>
+        </listitem>
+        <listitem>
+          <para>Specimen stability: Refrigerated (preferred), frozen</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <strong>Urine specimen</strong>
+        <sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Container: Plastic urine container, with or without 6N HCl</para>
+        </listitem>
+        <listitem>
+          <para>Specimen volume: 10-mL aliquot of entire collection</para>
+        </listitem>
+        <listitem>
+          <para>Minimum volume: 0.5-mL aliquot</para>
+        </listitem>
+        <listitem>
+          <para>Special instructions: Record total 24-hour urine volume on the request form</para>
+        </listitem>
+        <listitem>
+          <para>Collection instructions: Instruct the patient to void at 8 AM and discard the specimen; then, collect all urine, including the final specimen voided at the end of the 24-hour collection period (ie, 8 AM the next morning). Secure the container and send it to the laboratory </para>
+        </listitem>
+      </itemizedlist>
+      <para>Note: samples with gross hemolysis and gross lipemia are rejected.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Background</title>
+    <pgroup>
+      <para>Glomerular filtration rate (GFR) is most commonly assessed via creatinine clearance. The test requires measurement of serum creatinine, urine creatinine, and 24-hour urine volume. Creatinine is a product of the metabolism of dietary meat and creatine in skeletal muscle. With the exception of extreme muscle exertion or muscle breakdown (rhabdomyolysis), creatinine has a stable plasma concentration and is released into the circulation at a relatively constant rate. </para>
+      <para>Creatinine is freely filtered across the glomerulus; the kidney does not reabsorb or metabolize creatinine. The proximal tubules secrete approximately 15% of urinary creatinine in patients with a normal GFR. In patients with declining renal function, a progressively higher percentage is secreted. The net effect is progressive overestimation of the GFR, with more severe loss of renal function. </para>
+      <para>Ignoring proximal tubular secretion, all of the filtered creatinine (the GFR product and the serum creatinine concentration) is excreted (equal to product of the urine creatinine concentration [UCr] and the urine flow rate or volume [V]). </para>
+      <para>This can be expressed as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>GFR x serum creatinine concentration = UCr x V</para>
+        </listitem>
+        <listitem>
+          <para>GFR = [UCr x V]/serum creatinine concentration</para>
+        </listitem>
+      </itemizedlist>
+      <para>The formula provides the creatinine clearance; however, this formula tends to overestimate the real GFR by approximately 15% percent.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>This overestimate was offset by older colorimetric assays, which also overestimated serum creatinine owing to noncreatinine chromogens. Newer assay methods have mostly abolished the serum error, resulting in a larger discrepancy between creatinine clearance and GFR. </para>
+      <para>To maximize accuracy, the creatinine clearance is usually determined from a 24-hour urine collection. Shorter-timed collections are less accurate owing to bladder retention and variability in creatinine excretion. See the formula below: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Creatinine clearance - 70-135 mL/min/surface area (surface area)</para>
+        </listitem>
+      </itemizedlist>
+      <para>In adults younger than 50 years, daily creatinine clearance is 20-25 mg/kg ideal body weight in males and 15-20 mg/kg ideal body weight in females. In adults older than 50 years, daily creatinine clearance decreases progressively owing to reduction in muscle mass. </para>
+      <para>If the GFR suddenly decreases by 50%, the kidneys transiently filter and excrete only half as much creatinine, causing accumulation of creatinine in the body fluids and raising plasma concentrations. Plasma concentrations of creatinine continue to rise until the filtered load of creatinine (P<sub>Cr</sub> × GFR) and creatinine excretion (U<sub>Cr</sub> × V) return to normal and a balance between creatinine production and creatinine excretion is reestablished. </para>
+      <para>If the GFR falls to one fourth of normal, plasma creatinine increases to about 4 times normal and a decrease of the GFR to one eighth of normal would raise plasma creatinine to 8 times normal. Thus, under steady-state conditions, the creatinine excretion rate equals the rate of creatinine production, despite reductions in the GFR. However, this normal rate of creatinine excretion occurs at the expense of elevated plasma creatinine concentration.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      <para>Ideally, inulin clearance is an accurate measure of GFR/creatinine clearance. It is freely filtered and not reabsorbed or secreted by the kidneys. However, the main limiting factor is to administer it intravenously.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      <para>Other substances that can be used are radioactive iothalamate creatinine.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      <para>The combined creatinine–cystatin C equation performed better than equations based on either of these markers alone and may be useful as a confirmatory test for chronic kidney disease.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Indications/Applications</title>
+      <para>To assess renal function using the GFR</para>
+    </pgroup>
+    <pgroup>
+      <title>Limitations</title>
+      <para>Accurate results depend on accurately timed and complete collection. Incomplete urine collections result in underestimation of creatinine excretion and, therefore GFR. </para>
+      <para>One of the major limitations of creatinine clearance testing is that it becomes less accurate as the GFR declines because of increasing tubular secretion of creatinine. This results in the GFR being overestimated. </para>
+      <para>Sex and race can alter creatinine clearance. Women have lower serum creatinine values because they have less muscle mass and a lower rate of creatinine production. Lower values for Latinos and higher values for blacks probably indicate greater and lesser muscle mass and creatinine production, respectively. </para>
+      <para>Creatinine production differs over time. Individuals with significant variations in dietary intake (eg, vegetarian diet, creatine supplementation) or reduction in muscle mass (eg, amputation, muscle wasting, malnutrition) produce different amounts of creatinine than the general population. Amputees have reduced creatinine production proportional to the amount of muscle removed (eg, a lower extremity is more significant than an upper extremity). </para>
+      <para>Some drugs can increase the serum creatinine level by decreasing creatinine secretion. These drugs include trimethoprim (which is usually combined with sulfamethoxazole)<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup>and the H2-blocker cimetidine, which results in a self-limited and reversible increase in the serum creatinine level by as much as 0.4-0.5 mg/dL. </para>
+      <para>In advanced kidney failure, extrarenal intestinal creatinine elimination increases. The serum creatinine concentration is lower than would be expected from the GFR as a result of the intestinal bacterial overgrowth and increased bacterial creatininase activity. </para>
+      <para>The colorimetric serum creatinine assay (alkaline picrate method) cross-reacts with noncreatinine chromogens, particularly acetoacetate in patients with <a href="http://emedicine.medscape.com/article/118361-overview">diabetic ketoacidosis</a>. In these patients, serum creatinine can be falsely elevated by 0.5 mg/dL to more than 2 mg/dL. The drugs cefoxitin and flucytosine cause a similar effect. </para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="14134">
+        <title>Serum Vacuette 6-mL tube. </title>
+        <caption>Serum Vacuette 6-mL tube. </caption>
+        <graphic fileref="/34/14134.jpg" format="IMAGE" id="14134" extension_format="JPG"/>
+        <graphic fileref="/34/14134tn.jpg" format="IMAGE_THUMB" id="14134"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Rakesh Vadde, MBBS</contrbtr_nm>
+        <contrbtr_title>Fellow in Pulmonary Medicine, Interfaith Medical Center</contrbtr_title>
+        <contrbtr_bio>Rakesh Vadde, MBBS is a member of the following medical societies: <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.thoracic.org">American Thoracic Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>M Frances J Schmidt, MD</contrbtr_nm>
+        <contrbtr_title>Chief of Pulmonary Medicine, Pulmonary Fellowship Program, Teaching Attending Physician, Department of Medicine, Interfaith Medical Center</contrbtr_title>
+        <contrbtr_bio>M Frances J Schmidt, MD is a member of the following medical societies: <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Bikash Bhattarai, MD</contrbtr_nm>
+        <contrbtr_title>Fellow in Pulmonary Medicine, Interfaith Medical Center</contrbtr_title>
+        <contrbtr_bio>Bikash Bhattarai, MD is a member of the following medical societies: <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.thoracic.org">American Thoracic Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Eric B Staros, MD</contrbtr_nm>
+        <contrbtr_title>Associate Professor of Pathology, St Louis University School of Medicine; Director of Clinical Laboratories, Director of Cytopathology, Department of Pathology, St Louis University Hospital</contrbtr_title>
+        <contrbtr_bio>Eric B Staros, MD is a member of the following medical societies: <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.ascp.org">American Society for Clinical Pathology</a>, <a href="http://www.cap.org">College of American Pathologists</a>, <a href="http://www.amp.org">Association for Molecular Pathology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Rose BD, Post TW. <em>Clinical Physiology of Acid-Base and Electrolyte Disorders</em>. 5th ed. New York, NY: McGraw-Hill; 2001. 50-7. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1394976">
+      <para>Perrone RD, Madias NE, Levey AS. Serum creatinine as an index of renal function: new insights into old concepts. <em>Clin Chem</em>. 1992 Oct. 38(10):1933-53. <a href="http://reference.medscape.com/medline/abstract/1394976">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/5822077">
+      <para>Kim KE, Onesti G, Ramirez O, Brest AN, Swartz C. Creatinine clearance in renal disease. A reappraisal. <em>Br Med J</em>. 1969 Oct 4. 4(5674):11-4. <a href="http://reference.medscape.com/medline/abstract/5822077">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1629614/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2200925">
+      <para>Levey AS. Measurement of renal function in chronic renal disease. <em>Kidney Int</em>. 1990 Jul. 38(1):167-84. <a href="http://reference.medscape.com/medline/abstract/2200925">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19833901">
+      <para>Stevens LA, Levey AS. Measured GFR as a confirmatory test for estimated GFR. <em>J Am Soc Nephrol</em>. 2009 Nov. 20(11):2305-13. <a href="http://reference.medscape.com/medline/abstract/19833901">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6071183">
+      <para>Lubowitz H, Slatopolsky E, Shankel S, Rieselbach RE, Bricker NS. Glomerular filtration rate. Determination in patients with chronic renal disease. <em>JAMA</em>. 1967 Jan 23. 199(4):252-6. <a href="http://reference.medscape.com/medline/abstract/6071183">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3312696">
+      <para>Walser M. Creatinine excretion as a measure of protein nutrition in adults of varying age. <em>JPEN J Parenter Enteral Nutr</em>. 1987 Sep-Oct. 11(5 Suppl):73S-78S. <a href="http://reference.medscape.com/medline/abstract/3312696">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3285786">
+      <para>Levey AS, Perrone RD, Madias NE. Serum creatinine and renal function. <em>Annu Rev Med</em>. 1988. 39:465-90. <a href="http://reference.medscape.com/medline/abstract/3285786">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1360044">
+      <para>van Acker BA, Koomen GC, Koopman MG, de Waart DR, Arisz L. Creatinine clearance during cimetidine administration for measurement of glomerular filtration rate. <em>Lancet</em>. 1992 Nov 28. 340(8831):1326-9. <a href="http://reference.medscape.com/medline/abstract/1360044">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Guyton AC, Hall JE. <em>Gutyon and Hall Textbook of Medical Physiology</em>. 12th ed. Philadelphia, Pa: Saunders; 2010. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22762315">
+      <para>Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from serum creatinine and cystatin C. <em>N Engl J Med</em>. 2012 Jul 5. 367(1):20-9. <a href="http://reference.medscape.com/medline/abstract/22762315">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9002532">
+      <para>Dunn SR, Gabuzda GM, Superdock KR, Kolecki RS, Schaedler RW, Simenhoff ML. Induction of creatininase activity in chronic renal failure: timing of creatinine degradation and effect of antibiotics. <em>Am J Kidney Dis</em>. 1997 Jan. 29(1):72-7. <a href="http://reference.medscape.com/medline/abstract/9002532">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Mayo Medical Laboratories. Creatinine Clearance. Available at <a href="http://www.mayomedicallaboratories.com/test-info/pediatric/refvalues/reference.php?unit_code=8500">http://www.mayomedicallaboratories.com/test-info/pediatric/refvalues/reference.php?unit_code=8500</a>. Accessed: September 6, 2012.</para>
+    </ritem>
+  </refgrp>
+</article>

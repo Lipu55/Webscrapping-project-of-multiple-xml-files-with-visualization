@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="277930" pubid="" template="Oncology" template-name="multipage">
+  <site-meta>
+    <article-name>Esophageal Cancer</article-name>
+    <title>
+      <page-info id="overview">Esophageal Cancer: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Esophageal Cancer Clinical Presentation: History and Physical Examination</page-info>
+      <page-info id="workup">Esophageal Cancer Workup: Approach Considerations, Imaging Studies, Staging</page-info>
+      <page-info id="treatment">Esophageal Cancer Treatment &amp; Management: Approach Considerations, Surgical Indications and Contraindications, Esophagectomy</page-info>
+      <page-info id="medication">Esophageal Cancer Medication: Antineoplastics, Antimetabolite, Antineoplastics, Alkylating, Antineoplastics, Antimicrotubular, Antineoplastics, Anthracycline, Antineoplastics, Topoisomerase Inhibitors, Antineoplastics, Other</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Esophageal Cancer: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Esophageal Cancer Clinical Presentation: History and Physical Examination</page-info>
+      <page-info id="workup">Esophageal Cancer Workup: Approach Considerations, Imaging Studies, Staging</page-info>
+      <page-info id="treatment">Esophageal Cancer Treatment &amp; Management: Approach Considerations, Surgical Indications and Contraindications, Esophagectomy</page-info>
+      <page-info id="medication">Esophageal Cancer Medication: Antineoplastics, Antimetabolite, Antineoplastics, Alkylating, Antineoplastics, Antimicrotubular, Antineoplastics, Anthracycline, Antineoplastics, Topoisomerase Inhibitors, Antineoplastics, Other</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a3">Background</section-info>
+<section-info id="a4">Pathophysiology</section-info>
+<section-info id="a5">Etiology</section-info>
+<section-info id="a6">Epidemiology</section-info>
+<section-info id="a7">Prognosis</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b4">History and Physical Examination</section-info>
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c1">Approach Considerations</section-info>
+<section-info id="c6">Imaging Studies</section-info>
+<section-info id="c7">Staging</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d1">Approach Considerations</section-info>
+<section-info id="d10">Surgical Indications and Contraindications</section-info>
+<section-info id="d11">Esophagectomy</section-info>
+<section-info id="d12">Chemoradiotherapy</section-info>
+<section-info id="d13">Palliative Care</section-info>
+<section-info id="d14">Postoperative Care and Follow-up</section-info>
+<section-info id="d15">Prevention of Esophageal Cancer</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Esophageal Cancer Overview</page-info>
+      <page-info id="clinical">Esophageal Cancer Clinical Presentation</page-info>
+      <page-info id="workup">Esophageal Cancer Workup</page-info>
+      <page-info id="treatment">Esophageal Cancer Treatment</page-info>
+      <page-info id="medication">Esophageal Cancer Medication</page-info>
+    </meta-keywords>
+    <uri>277930-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Mar 03, 2015</posting-date>
+    <last-generated>2015-08-04-17:34</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Oncology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>277930</artid>
+      <cg>502</cg>
+      <scg text="Gastrointestinal Cancer, Noncolorectal">5005286</scg>
+      <ssp text="Hematology/Oncology">7</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology</id>
+      <name>Oncology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology_gastrointestinal</id>
+      <name>Gastrointestinal Cancers</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">esophageal cancer, esophagus cancer, Barrett epithelium, Barrett's epithelium, Barrett esophagus, Barrett's esophagus, gastrointestinal reflux disease, GERD, esophageal adenocarcinoma, esophagus adenocarcinoma, esophagus carcinoma, esophageal carcinoma, squamous cell carcinoma</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Esophageal cancer is a devastating disease. Although some patients can be cured, the treatment for esophageal cancer is protracted, diminishes quality of life, and is lethal in a significant number of cases.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Esophageal Cancer</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Esophageal cancer is a disease in epidemiologic transition. Until the 1970s, the most common type of esophageal cancer in the United States was squamous cell carcinoma, which has smoking and alcohol consumption as risk factors; since then, there has been a progressive increase in the incidence of esophageal adenocarcinoma, for which the most common predisposing factor is gastroesophageal reflux disease (GERD). See the image below.</para>
+        <figure id="38287">
+          <title>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </title>
+          <caption>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </caption>
+          <graphic fileref="/87/38287.png" format="IMAGE" id="38287" extension_format="PNG"/>
+          <graphic fileref="/87/38287tn.jpg" format="IMAGE_THUMB" id="38287"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>Presenting signs and symptoms of esophageal cancer include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Dysphagia (most common); initially for solids, eventually progressing to include liquids</para>
+          </listitem>
+          <listitem>
+            <para>Weight loss (second most common)</para>
+          </listitem>
+          <listitem>
+            <para>Bleeding</para>
+          </listitem>
+          <listitem>
+            <para>Epigastric or retrosternal pain</para>
+          </listitem>
+          <listitem>
+            <para>Bone pain with metastatic disease</para>
+          </listitem>
+          <listitem>
+            <para>Hoarseness</para>
+          </listitem>
+          <listitem>
+            <para>Persistent cough</para>
+          </listitem>
+        </itemizedlist>
+        <para>Physical findings include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Typically, normal examination results unless the cancer has metastasized</para>
+          </listitem>
+          <listitem>
+            <para>Hepatomegaly (from hepatic metastases)</para>
+          </listitem>
+          <listitem>
+            <para>Lymphadenopathy in the laterocervical or supraclavicular areas (reflecting metastasis)</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/277930-clinical">Clinical Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>Laboratory studies focus principally on patient factors that may affect treatment (eg, nutritional status).</para>
+        <para>Imaging studies used for diagnosis and staging include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Esophagogastroduodenoscopy (allows direct visualization and biopsies of the tumor)</para>
+          </listitem>
+          <listitem>
+            <para>Endoscopic ultrasonography (EUS; most sensitive test for T and N staging)</para>
+          </listitem>
+          <listitem>
+            <para>Computed tomography of the abdomen and chest (for assessing lung and liver metastasis and invasion of adjacent structures)</para>
+          </listitem>
+          <listitem>
+            <para>Positron emission tomography (PET) scanning (for staging)</para>
+          </listitem>
+          <listitem>
+            <para>Bronchoscopy (to help exclude invasion of the trachea or bronchi)</para>
+          </listitem>
+          <listitem>
+            <para>Laparoscopy and thoracoscopy (for staging regional nodes)</para>
+          </listitem>
+          <listitem>
+            <para>Barium swallow (very sensitive for detecting strictures and intraluminal masses, but now rarely used)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Current TNM classification is as follows (staging is detailed in Table 1, below):</para>
+        <itemizedlist>
+          <listitem>
+            <para>Tis - Carcinoma in situ/high-grade dysplasia</para>
+          </listitem>
+          <listitem>
+            <para>T1 - Lamina propria or submucosa</para>
+          </listitem>
+          <listitem>
+            <para>T1a - Lamina propria or muscularis mucosae</para>
+          </listitem>
+          <listitem>
+            <para>T1b - Submucosa</para>
+          </listitem>
+          <listitem>
+            <para>T2 - Muscularis propria</para>
+          </listitem>
+          <listitem>
+            <para>T3 - Adventitia</para>
+          </listitem>
+          <listitem>
+            <para>T4 - Adjacent structures</para>
+          </listitem>
+          <listitem>
+            <para>T4a - Pleura, pericardium, diaphragm, or adjacent peritoneum</para>
+          </listitem>
+          <listitem>
+            <para>T4b - Other adjacent structures (eg, aorta, vertebral body, trachea)</para>
+          </listitem>
+          <listitem>
+            <para>N0 - No regional lymph node metastasis</para>
+          </listitem>
+          <listitem>
+            <para>N1 - 1-2 regional lymph nodes (N1 is site dependent)</para>
+          </listitem>
+          <listitem>
+            <para>N2 - 3-6 regional lymph nodes</para>
+          </listitem>
+          <listitem>
+            <para>N3 - More than 6 regional lymph nodes</para>
+          </listitem>
+          <listitem>
+            <para>M0 - No distant metastasis</para>
+          </listitem>
+          <listitem>
+            <para>M1 - Distant metastasis (M1a and M1b are site dependent)</para>
+          </listitem>
+        </itemizedlist>
+        <table id="t704154552" class="datatable">
+          <caption>Table 1. Staging Classification.</caption>
+          <tbody>
+            <tr>
+              <td>
+                <para>Stage IA</para>
+              </td>
+              <td>
+                <para>T1</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IB</para>
+              </td>
+              <td>
+                <para>T2</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIA</para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIB</para>
+              </td>
+              <td>
+                <para>T1,T2</para>
+              </td>
+              <td>
+                <para>N1</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIA</para>
+              </td>
+              <td>
+                <para>T4a</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N1</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T1,T2</para>
+              </td>
+              <td>
+                <para>N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIB</para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIC</para>
+              </td>
+              <td>
+                <para>T4a</para>
+              </td>
+              <td>
+                <para>N1,N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T4b</para>
+              </td>
+              <td>
+                <para>Any N</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>Any T</para>
+              </td>
+              <td>
+                <para>N3</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IV</para>
+              </td>
+              <td>
+                <para>Any T</para>
+              </td>
+              <td>
+                <para>Any N</para>
+              </td>
+              <td>
+                <para>M1</para>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <para>See <a href="http://emedicine.medscape.com/article/277930-workup">Workup</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Treatment of esophageal cancer varies by disease stage, as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Stage I – Consideration for endoscopic therapy (eg, mucosal resection or submucosal dissection), particularly for Tis and T1aN0 by EUS; consideration for initial surgery for T1b and any N </para>
+          </listitem>
+          <listitem>
+            <para>Stages II-III – Consideration for chemoradiation followed by surgery (trimodality therapy)</para>
+          </listitem>
+          <listitem>
+            <para>Stage IV – Chemotherapy or symptomatic and supportive care</para>
+          </listitem>
+        </itemizedlist>
+        <para>Indications for surgical treatment of esophageal cancer include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Diagnosis of esophageal cancer in a patient who is a candidate for surgery</para>
+          </listitem>
+          <listitem>
+            <para>High-grade dysplasia in a patient with Barrett esophagus that cannot be adequately treated endoscopically<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Contraindications for surgical treatment include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Metastasis to N2 (celiac, cervical, supraclavicular) nodes or solid organs (eg, liver, lungs)</para>
+          </listitem>
+          <listitem>
+            <para>Invasion of adjacent structures (eg, recurrent laryngeal nerve, tracheobronchial tree, aorta, pericardium)</para>
+          </listitem>
+          <listitem>
+            <para>Severe associated comorbid conditions (eg, cardiovascular disease, respiratory disease)</para>
+          </listitem>
+          <listitem>
+            <para>Impaired cardiac or respiratory function</para>
+          </listitem>
+        </itemizedlist>
+        <para>Surgical options include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Transhiatal esophagectomy (THE)</para>
+          </listitem>
+          <listitem>
+            <para>Transthoracic esophagectomy (TTE)</para>
+          </listitem>
+          <listitem>
+            <para>Minimally invasive esophagectomy</para>
+          </listitem>
+          <listitem>
+            <para>Endoscopic mucosal resection (EMR)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Neoadjuvant therapy for esophageal cancer is as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Combination of radiotherapy and chemotherapy</para>
+          </listitem>
+          <listitem>
+            <para>Usually administered over a 45-day period, with esophageal resection after approximately 4 weeks</para>
+          </listitem>
+          <listitem>
+            <para>Most chemotherapy agents for esophageal cancer are used off-label</para>
+          </listitem>
+        </itemizedlist>
+        <para>Palliative care options for patients who are not candidates for surgery are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Chemotherapy</para>
+          </listitem>
+          <listitem>
+            <para>Radiotherapy</para>
+          </listitem>
+          <listitem>
+            <para>Laser therapy</para>
+          </listitem>
+          <listitem>
+            <para>Stents</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/277930-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/279930-medication">Medication</a> for more detail.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a3">
+      <title>Background</title>
+      <pgroup>
+        <para>Esophageal cancer is a devastating disease. Although some patients can be cured, the treatment for esophageal cancer is protracted, diminishes quality of life, and is lethal in a significant number of cases. </para>
+        <para>The principal histologic types of esophageal cancer are <a href="http://emedicine.medscape.com/article/1965430-overview">squamous cell carcinoma</a> and adenocarcinoma. As squamous cells line the entire esophagus, squamous cell carcinoma can occur in any part of the esophagus; it often arises, however, in the upper half of the esophagus. Adenocarcinoma typically develops in specialized intestinal metaplasia (Barrett metaplasia) that develops as a result of gastroesophageal reflux disease (GERD); thus, adenocarcinoma typically arises in the lower half of the distal esophagus. (See Pathophysiology and Etiology.) </para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>The most common presenting symptom of esophageal cancer is dysphagia (see Presentation). Esophagogastroduodenoscopy allows direct visualization and biopsies of the tumor, while endoscopic ultrasonography is the most sensitive test for determining the depth of penetration of the tumor and the presence of enlarged periesophageal lymph nodes. In patients who appear to have localized esophageal cancer, positron emission tomography (PET) scanning may be useful as part of the baseline staging. Other imaging studies may be valuable in selected patients. (See Workup.) </para>
+      </pgroup>
+      <pgroup>
+        <title>Treatment</title>
+        <para>Surgery has traditionally been the treatment for esophageal carcinoma. The first successful resection was performed in 1913 by Torek.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>In the 1930s, Ohsawa in Japan and Marshall in the United States were the first to perform successful single-stage transthoracic <a href="http://emedicine.medscape.com/article/1965556-overview">esophagectomies</a> with continent reconstruction.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5] </sup>Nonoperative therapy is usually reserved for patients who are not candidates for surgery because of clinical conditions or advanced disease. (See Treatment.) </para>
+        <para>The ideal treatment for localized esophageal cancer is sometimes debated across practice cultures and subspecialties. Defendants of surgical treatment argue that resection is the only treatment modality to offer curative intent; defendants of the nonsurgical approach claim that esophagectomy has a prohibitive index of mortality and that esophageal cancer is an incurable disease. </para>
+      </pgroup>
+      <pgroup>
+        <title>Differentials</title>
+        <para>Esophageal lesions other than cancer can cause dysphagia. These include peptic strictures from gastroesophageal reflux and benign esophageal tumors (principally <a href="http://emedicine.medscape.com/article/174599-overview">esophageal leiomyoma</a>). Imaging studies help to differentiate these lesions from esophageal cancer. Other differentials include the following </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/169974-overview">Achalasia</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/175098-overview">Esophageal stricture</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/278744-overview">Gastric cancer</a>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Patient education</title>
+        <para>For patient education information, see the <a href="http://www.emedicinehealth.com/heartburn-and-gerd/center.htm">Heartburn and GERD Center</a> and <a href="http://www.emedicinehealth.com/cancer_of_the_esophagus/article_em.htm">Esophageal Cancer (Cancer of the Esophagus)</a>.</para>
+      </pgroup>
+      <pgroup>
+        <title>Anatomy</title>
+        <para>The esophagus is a muscular tube that extends from the level of the 7th cervical vertebra to the 11th thoracic vertebra. The esophagus can be divided into the following anatomic parts: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Cervical esophagus</para>
+          </listitem>
+          <listitem>
+            <para>Thoracic esophagus</para>
+          </listitem>
+          <listitem>
+            <para>Abdominal esophagus</para>
+          </listitem>
+        </itemizedlist>
+        <para>The blood supply of the cervical esophagus is derived from the inferior thyroid artery, while the blood supply for the thoracic esophagus comes from the bronchial arteries and the aorta. The abdominal esophagus is supplied by branches of the left gastric artery and inferior phrenic artery. </para>
+        <para>Venous drainage of the cervical esophagus is through the inferior thyroid vein, while the thoracic esophagus drains via the azygous vein, the hemiazygous vein, and the bronchial veins. The abdominal esophagus drains through the coronary vein. </para>
+        <para>The esophagus is characterized by a rich network of lymphatic channels in the submucosa that can facilitate the longitudinal spread of neoplastic cells along the esophageal wall. Lymphatic drainage is to cervical nodes, tracheobronchial and mediastinal nodes, and gastric and celiac nodes.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>The progression of Barrett metaplasia to adenocarcinoma is associated with several changes in gene structure, gene expression, and protein structure.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6, <ref_inline id="refsrc7" name="refsrc7"/>7, <ref_inline id="refsrc8" name="refsrc8"/>8] </sup>The oncosuppressor gene <em>TP53</em> and various oncogenes, particularly <em>erb</em> -b2, have been studied as potential markers. </para>
+        <para>Casson and colleagues identified mutations in the <em>TP53</em> gene in patients with Barrett epithelium associated with adenocarcinoma.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>In addition, alterations in p16 genes and cell cycle abnormalities or aneuploidy appear to be some of the most important and well-characterized molecular changes. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Etiology</title>
+      <pgroup>
+        <para>The etiology of esophageal carcinoma is thought to be related to exposure of the esophageal mucosa to noxious or toxic stimuli, resulting in a sequence of dysplasia to carcinoma in situ to carcinoma. In Western cultures, retrospective evidence has implicated cigarette smoking and chronic alcohol exposure as the most common etiologic factors for squamous cell carcinoma. High body mass index, GERD, and resultant Barrett esophagus are often the associated factors for esophageal adenocarcinoma.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+        <para>Nutritional deficiencies have been recognized as contributing factors. In high-risk regions such as parts of China and Iran, deficiencies in vitamins (eg, riboflavin) or micronutrients may play a role in causation. </para>
+        <para>A variety of other factors may promote esophageal cancer. These include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Caustic injuries</para>
+          </listitem>
+          <listitem>
+            <para>Certain foodstuffs (eg, betel nut)</para>
+          </listitem>
+          <listitem>
+            <para>Drinking scalding-hot liquids</para>
+          </listitem>
+          <listitem>
+            <para>Environmental contributors (eg, nitrosamines in soil)</para>
+          </listitem>
+          <listitem>
+            <para>Certain fungi, molds, or yeasts</para>
+          </listitem>
+          <listitem>
+            <para>Acquired conditions (eg, achalasia)</para>
+          </listitem>
+        </itemizedlist>
+        <para>A genome-wide association study by Wu et al identified seven susceptibility loci on chromosomes 5q11, 6p21, 10q23, 12q24, and 21q22, suggesting the involvement of multiple genetic loci and gene-environment interaction in the development of esophageal cancer.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>Individuals with the genetic disorder tylosis palmaris et plantaris are at very high risk for esophageal cancer. Plummer-Vinson syndrome also increases its risk. </para>
+        <para>Bisphosphonate use can result in esophagitis and has been suggested as a risk factor for esophageal carcinoma. However, a large study found no significant difference in the frequency of esophageal or gastric cancers between the bisphosphonate cohort and the control group.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Smoking and alcohol use</title>
+        <para>The Netherlands Cohort Study, a prospective study in 120,852 participants, demonstrated the combined effects of smoking and alcohol consumption on risk of squamous cell carcinoma of the esophagus.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>Among participants who drank 30 g or more of ethanol daily, the multivariable adjusted incidence rate ratio (RR) for esophageal squamous cell carcinoma was 4.61 compared with abstainers. The RR for current smokers who consumed more than 15 g/day of ethanol was 8.05 when compared with nonsmokers who consumed less than 5 g/day of ethanol. </para>
+        <para>No associations were found between alcohol consumption and esophageal adenocarcinoma.</para>
+        <para>In contrast, the risk of squamous cell carcinoma and adenocarcinoma of the esophagus was increased among current smokers.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+        <para>A study by Steevens et al found that among current smokers, increased consumption of specific groups of vegetables and fruits were inversely associated with esophageal squamous cell carcinoma and esophageal adenocarcinoma risk.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>Total vegetable consumption nonsignificantly reduced the risk for both esophageal cancer types. Consumption of raw vegetables and of citrus fruits was inversely associated with risk for esophageal adenocarcinoma.</para>
+      </pgroup>
+      <pgroup>
+        <title>Infections</title>
+        <para>Human papillomavirus (HPV) infection has been recognized as a contributing factor to esophageal cancer. However, Sitas et al reported limited serologic evidence of an association between esophageal squamous cell carcinoma and HPV in a study of more than 4000 subjects. The study could not exclude the possibility that certain HPV types may be involved in a small subset of cancers, although HPV does not appear to be an important risk factor.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+        <para><em>Helicobacter pylori</em> infection, which can cause stomach cancer, has not been associated with esophageal cancer.</para>
+      </pgroup>
+      <pgroup>
+        <title>Adenocarcinoma and GERD</title>
+        <para><a href="http://emedicine.medscape.com/article/176595-overview">GERD</a> is the most common predisposing factor for adenocarcinoma of the esophagus. Adenocarcinoma may represent the last event of a sequence that starts with irritation caused by the reflux of acid and bile and progresses to specialized intestinal (Barrett) metaplasia, low-grade dysplasia, high-grade dysplasia, and finally adenocarcinoma. Approximately 10-15% of patients who undergo endoscopy for evaluation of GERD symptoms are found to have Barrett epithelium. (See the chart below.)</para>
+        <figure id="38287">
+          <title>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </title>
+          <caption>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </caption>
+          <graphic fileref="/87/38287.png" format="IMAGE" id="38287" extension_format="PNG"/>
+          <graphic fileref="/87/38287tn.jpg" format="IMAGE_THUMB" id="38287"/>
+        </figure>
+        <para>In 1952, Morson and Belcher published the first description of a patient with adenocarcinoma of the esophagus arising in a columnar epithelium with goblet cells.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>In 1975, Naef et al emphasized the malignant potential of Barrett esophagus.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup>The risk of adenocarcinoma among patients with Barrett metaplasia has been estimated to be 30-60 times that of the general population.</para>
+        <para>A nationwide population-based case-control study performed in Sweden found an odds ratio of 7.7 for adenocarcinoma among persons with recurrent symptoms of reflux, as compared with persons without such symptoms, and an odds ratio of 43.5 among patients with long-standing and severe symptoms of reflux.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+        <para>Although the annual risk of developing esophageal adenocarcinoma in people with GERD has been reported at 0.5%, some studies have found lower risk. Data from the Northern Ireland Barrett Esophagus Register, which is one of the largest population-based registries in the world, found that the malignant progression among patients with Barrett esophagus was 0.22% per year. This suggests that current surveillance approaches may not be cost effective.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup></para>
+        <para>A study by Hvid-Jensen et al examined a large Danish registry (11,028 patients over a median of 5.2 y) and found the incidence of esophageal adenocarcinoma to be 1.2 cases per 1000 person-years (or 0.12% annual risk). Low-grade dysplasia detected on index endoscopy was associated with an incidence rate of 5.1 cases per 1000 person-years, compared with 1 per 1000 person-years among those without dysplasia.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>United States statistics</title>
+        <para>Esophageal cancer is the seventh most common cause of cancer death in males.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup>The 5-year survival rate from 2001 to 2007 was 19%.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup></para>
+        <para>The American Cancer Society estimates that 17,990 new cases of esophageal cancer (14,440 in men and 3,550 in women) will occur in the United States in 2013; 15,210 persons (12,220 men and 2,990 women) are expected to die of the disease. </para>
+        <para>The incidence rate of adenocarcinoma of the esophagus in the United States showed an average annual increase of 1.7% in men and 1.9% in women from 1999 to 2008.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup>The incidence of esophageal carcinoma is approximately 3-6 cases per 100,000 persons, although certain endemic areas appear to have higher per-capita rates. The age-adjusted incidence is 5.8 cases per 100,000 persons.</para>
+        <para>The epidemiology of esophageal carcinoma has changed markedly over the past several decades in the United States.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup>Until the 1970s, squamous cell carcinoma was the most common type of esophageal cancer (90-95%). It was located in the thoracic esophagus and most frequently affected African-American men with a long history of smoking and alcohol consumption. </para>
+        <para>Over the last 4 decades, the incidence of adenocarcinoma of the distal esophagus and gastroesophageal junction has increased progressively. Currently, it accounts for more than 70% of all the new cases of esophageal cancer. </para>
+      </pgroup>
+      <pgroup>
+        <title>International statistics</title>
+        <para>Esophageal cancer is the seventh leading cause of cancer death worldwide. In some regions, such as areas of northern Iran, some areas of southern Russia, and northern China, the incidence of esophageal carcinoma may be as high as 800 cases per 100,000 population. Unlike in the United States, squamous cell carcinoma is responsible for 95% of all esophageal cancers worldwide. </para>
+      </pgroup>
+      <pgroup>
+        <title>Sex- and age-related demographics</title>
+        <para>Esophageal cancer is generally more common in men than in women. The male-to-female ratio is 3-4:1.</para>
+        <para>Esophageal cancer occurs most commonly during the sixth and seventh decades of life. The disease becomes more common with advancing age; it is about 20 times more common in persons older than 65 years than it is in individuals below that age. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Survival in patients with esophageal cancer depends on the stage of the disease. Squamous cell carcinoma and adenocarcinoma, stage-by-stage, appear to have equivalent survival rates.</para>
+        <para>Lymph node or solid organ metastases are associated with low survival rates. In 2001-2007, the overall 5-year survival rate for esophageal cancer was 19%.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup>Patients without lymph node involvement have a significantly better prognosis and 5-year survival rate than patients with involved lymph nodes. Stage IV lesions are associated with a 5-year survival rate of less than 5%. (See the table below.) </para>
+        <figure id="38292">
+          <title>Five-year survival for esophageal cancer based on TNM stage. </title>
+          <caption>Five-year survival for esophageal cancer based on TNM stage. </caption>
+          <graphic fileref="/92/38292.png" format="IMAGE" id="38292" extension_format="PNG"/>
+          <graphic fileref="/92/38292tn.jpg" format="IMAGE_THUMB" id="38292"/>
+        </figure>
+        <para>A report of 1085 patients who underwent transhiatal esophagectomy for cancer showed that the operation was associated with a 4% operative mortality rate and a 23% 5-year survival rate. A better 5-year survival rate (48%) was identified in a subgroup of patients who had a complete response (ie, disappearance of the tumor) following preoperative radiation and chemotherapy (ie, neoadjuvant therapy).<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup></para>
+        <para>Transhiatal and transthoracic esophagectomies have equivalent long-term survival rates.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Imaging and prognosis</title>
+        <para>Suzuki et al found that a higher initial standardized uptake value on positron emission tomography (PET) scanning is associated with poorer overall survival among patients with esophageal or gastroesophageal carcinoma receiving chemoradiation. The authors suggested that PET scanning may become useful for individualizing therapy.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        <para>A study by Gillies et al also found that PET-computed tomography (CT) scanning can be used to predict survival; in this study, the presence of fluorodeoxyglucose (FDG)-avid lymph nodes was an independent adverse prognostic factor.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>HER-2 and prognosis</title>
+        <para>A study by Prins et al of human epidermal growth factor 2 (HER-2) protein overexpression and <em>HER-2</em> gene amplification in esophageal carcinomas found that HER-2 positivity and gene amplification are independently associated with poor survival. In their study, which involved 154 patients with esophageal adenocarcinoma, HER-2 positivity was seen in 12% of these patients and overexpression was seen in 14% of them.<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b4">
+      <title>History and Physical Examination</title>
+      <pgroup>
+        <title>History</title>
+        <para>Dysphagia, the most common presenting symptom of esophageal cancer, is initially experienced for solids but eventually progresses to include liquids. A complaint of dysphagia in an adult should always prompt an endoscopy to help rule out the presence of esophageal cancer. A barium swallow study is also indicated in these cases. </para>
+        <para>Other symptoms include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Weight loss - This is the second most common symptom and occurs in more than 50% of people with esophageal carcinoma</para>
+          </listitem>
+          <listitem>
+            <para>Bleeding - Patients may experience bleeding from the tumor</para>
+          </listitem>
+          <listitem>
+            <para>Pain - Pain may be felt in the epigastric or retrosternal area; pain over bony structures indicates metastatic disease</para>
+          </listitem>
+          <listitem>
+            <para>Hoarseness - This is caused by invasion of the recurrent laryngeal nerve; it is a sign that the cancer has progressed beyond the point at which surgical resection remains possible </para>
+          </listitem>
+          <listitem>
+            <para>Persistent cough</para>
+          </listitem>
+          <listitem>
+            <para>Respiratory symptoms - These can be caused by aspiration of undigested food or by direct invasion of the tracheobronchial tree by the tumor; the latter is also a sign of unresectability </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Physical examination</title>
+        <para>Physical examination findings in patients with esophageal cancer are typically normal, unless the cancer has metastasized to neck nodes or the liver. Lymphadenopathy in the laterocervical or supraclavicular area or the presence of hepatomegaly often indicates unresectable disease. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>The goals of the workup are to establish the diagnosis and to stage the cancer. Esophagogastroduodenoscopy allows direct visualization and biopsies of the tumor. (See the image below.)</para>
+        <figure id="38286">
+          <title>Endoscopy demonstrating intraluminal esophageal cancer. </title>
+          <caption>Endoscopy demonstrating intraluminal esophageal cancer. </caption>
+          <graphic fileref="/86/38286.png" format="IMAGE" id="38286" extension_format="PNG"/>
+          <graphic fileref="/86/38286tn.jpg" format="IMAGE_THUMB" id="38286"/>
+        </figure>
+        <para>Laboratory studies in patients with esophageal cancer focus principally on patient factors that may affect treatment. Nutritional status should be evaluated in patients with dysphagia; liver function studies should be performed in alcoholic patients.</para>
+        <para>In 2013, the Society of Thoracic Surgeons released clinical practice guidelines to assist in the diagnosis and treatment of localized esophageal cancer. Their recommendations include the following<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29, <ref_inline id="refsrc30" name="refsrc30"/>30] </sup>: </para>
+        <itemizedlist>
+          <listitem>
+            <para>For the diagnosis of esophageal cancer, flexible endoscopy with biopsy is the primary method</para>
+          </listitem>
+          <listitem>
+            <para>For early-stage esophageal cancer, CT of the chest and abdomen is an optional test for staging; for locoregionalized esophageal cancer, CT of the chest and abdomen is a recommended test for staging </para>
+          </listitem>
+          <listitem>
+            <para>For early-stage esophageal cancer, PET is an optional test for staging. For locoregionalized esophageal cancer, PET is a recommended test for staging </para>
+          </listitem>
+          <listitem>
+            <para>In patients without metastatic disease, endoscopic ultrasonography is recommended to improve the accuracy of staging</para>
+          </listitem>
+          <listitem>
+            <para>In patients with small, discrete nodules or areas of dysplasia in whom disease appears limited to the mucosa or submucosa as assessed by endoscopic ultrasonography, endoscopic mucosal resection should be considered as a diagnostic/staging tool </para>
+          </listitem>
+          <listitem>
+            <para>In patients with locally advanced (T3/T4) adenocarcinoma of the esophagogastric junction infiltrating the anatomic cardia or Siewart type III esophagogastric tumors, laparoscopy is recommended to improve accuracy of staging </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <title>Ultrasonography</title>
+        <para>Endoscopic ultrasonography (EUS) is the most sensitive test for determining the depth of tumor penetration (T staging) and the presence of enlarged periesophageal lymph nodes (N staging).<sup>[<ref_inline id="refsrc31" name="refsrc31"/>31] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>CT scanning</title>
+        <para>Abdominal and chest computed tomography (CT) scans are useful for helping to exclude the presence of metastases (M staging) to the lungs and liver and may be useful for helping to determine whether adjacent structures have been invaded.<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32] </sup>(See the image below.)</para>
+        <figure id="38290">
+          <title>Chest CT scan showing invasion of the trachea by esophageal cancer. </title>
+          <caption>Chest CT scan showing invasion of the trachea by esophageal cancer. </caption>
+          <graphic fileref="/90/38290.png" format="IMAGE" id="38290" extension_format="PNG"/>
+          <graphic fileref="/90/38290tn.jpg" format="IMAGE_THUMB" id="38290"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>PET scanning</title>
+        <para>Positron emission tomography (PET) scanning is also a useful baseline imaging technique (see the image below) and is increasingly becoming standard in the staging of esophageal cancer. It may be particularly useful in detecting occult distant lymph node metastases and bone spread. In addition, the intensity of radiopharmaceutical uptake on PET scans may reflect the biology of the cancer and thus may have prognostic significance.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Bronchoscopy</title>
+        <para>Bronchoscopy is indicated for cancers of the middle and upper third of the thoracic esophagus to help exclude invasion of the trachea or bronchi. Laparoscopy and thoracoscopy have a greater than 92% accuracy in staging regional nodes. </para>
+      </pgroup>
+      <pgroup>
+        <title>Barium swallow</title>
+        <para>Barium swallow is very sensitive for detecting strictures (see the first image below) and intraluminal masses (see the second image below) but does not allow staging and biopsy. It is now rarely used, but it may be helpful for studying the distal anatomy in obstructive tumors that are inaccessible by endoscopy.</para>
+        <figure id="38288">
+          <title>Barium swallow demonstrating stricture due to cancer. </title>
+          <caption>Barium swallow demonstrating stricture due to cancer. </caption>
+          <graphic fileref="/88/38288.png" format="IMAGE" id="38288" extension_format="PNG"/>
+          <graphic fileref="/88/38288tn.jpg" format="IMAGE_THUMB" id="38288"/>
+        </figure>
+        <figure id="38289">
+          <title>Barium swallow demonstrating an endoluminal mass in the mid esophagus. </title>
+          <caption>Barium swallow demonstrating an endoluminal mass in the mid esophagus. </caption>
+          <graphic fileref="/89/38289.png" format="IMAGE" id="38289" extension_format="PNG"/>
+          <graphic fileref="/89/38289tn.jpg" format="IMAGE_THUMB" id="38289"/>
+        </figure>
+        <para>For more information, see the Medscape Reference article <a href="http://emedicine.medscape.com/article/368206-overview">Esophageal Carcinoma Imaging</a>.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Staging</title>
+      <pgroup>
+        <para>Esophageal cancer staging follows the tumor-node-metastasis (TNM) classification of the American Joint Cancer Committee/Union for International Cancer Control/ (AJCC/UICC). The classification and staging scheme was changed in the 7th edition of the AJCC/UICC manual, published in 2010.<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+        <para>No completely satisfactory method is available to clinically stage esophageal cancer. The difficulty of clinically assessing the disease is reflected by changes over time in the AJCC staging system. The 1983 system was based on the length of the intraluminal esophageal tumor, the presence of esophageal obstruction, and the involvement of palpable lymph nodes. This clinical staging system proved to be limited.</para>
+        <para>The 1988 revision defined a clinical and pathologic staging system based entirely on the depth of esophageal wall invasion and the presence or absence of local nodal involvement. Neither of these parameters is assessed easily on a clinical basis. Hofstetter et al therefore proposed incorporating the number of involved lymph nodes with regional and nonregional node location.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34] </sup>This modification, which seemed to be simpler and to better predict long-term survival, was adopted into the revised system. </para>
+        <para>The 2010 TNM classification for esophageal cancer is as follows (staging is detailed in Table 1, below):</para>
+        <itemizedlist>
+          <listitem>
+            <para>Tis - Carcinoma in situ/high-grade dysplasia</para>
+          </listitem>
+          <listitem>
+            <para>T1 - Lamina propria or submucosa</para>
+          </listitem>
+          <listitem>
+            <para>T1a - Lamina propria or muscularis mucosae</para>
+          </listitem>
+          <listitem>
+            <para>T1b - Submucosa</para>
+          </listitem>
+          <listitem>
+            <para>T2 - Muscularis propria</para>
+          </listitem>
+          <listitem>
+            <para>T3 - Adventitia</para>
+          </listitem>
+          <listitem>
+            <para>T4 - Adjacent structures</para>
+          </listitem>
+          <listitem>
+            <para>T4a - Pleura, pericardium, diaphragm, or adjacent peritoneum</para>
+          </listitem>
+          <listitem>
+            <para>T4b - Other adjacent structures (eg, aorta, vertebral body, trachea)</para>
+          </listitem>
+          <listitem>
+            <para>N0 - No regional lymph node metastasis</para>
+          </listitem>
+          <listitem>
+            <para>N1 - 1-2 regional lymph nodes (N1 is site dependent)</para>
+          </listitem>
+          <listitem>
+            <para>N2 - 3-6 regional lymph nodes</para>
+          </listitem>
+          <listitem>
+            <para>N3 - More than 6 regional lymph nodes</para>
+          </listitem>
+          <listitem>
+            <para>M0 - No distant metastasis</para>
+          </listitem>
+          <listitem>
+            <para>M1 - Distant metastasis (M1a and M1b are site dependent)</para>
+          </listitem>
+        </itemizedlist>
+        <table id="t2ea59d757" class="datatable">
+          <caption>Table 1. Staging Classification.</caption>
+          <tbody>
+            <tr>
+              <td>
+                <para>Stage IA</para>
+              </td>
+              <td>
+                <para>T1</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IB</para>
+              </td>
+              <td>
+                <para>T2</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIA</para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIB</para>
+              </td>
+              <td>
+                <para>T1,T2</para>
+              </td>
+              <td>
+                <para>N1</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIA</para>
+              </td>
+              <td>
+                <para>T4a</para>
+              </td>
+              <td>
+                <para>N0</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N1</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T1,T2</para>
+              </td>
+              <td>
+                <para>N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIB</para>
+              </td>
+              <td>
+                <para>T3</para>
+              </td>
+              <td>
+                <para>N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IIIC</para>
+              </td>
+              <td>
+                <para>T4a</para>
+              </td>
+              <td>
+                <para>N1,N2</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>T4b</para>
+              </td>
+              <td>
+                <para>Any N</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para> </para>
+              </td>
+              <td>
+                <para>Any T</para>
+              </td>
+              <td>
+                <para>N3</para>
+              </td>
+              <td>
+                <para>M0</para>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <para>Stage IV</para>
+              </td>
+              <td>
+                <para>Any T</para>
+              </td>
+              <td>
+                <para>Any N</para>
+              </td>
+              <td>
+                <para>M1</para>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <para> </para>
+        <para>All esophageal tumors, as well as tumors with epicenters within 5 cm of the esophagogastric junction that also extend into the esophagus, are classified and staged according to the AJCC/UICC esophageal scheme. Tumors with an epicenter in the stomach that are more than 5 cm from the esophagogastric junction or those within 5 cm of the esophagogastric junction without extension into the esophagus are staged using the gastric carcinoma scheme. </para>
+        <para>Other classifications—such as that of the Japanese Society for Esophageal Diseases, which is widely used in Asia—differ from that of the AJCC/UICC, especially regarding lymph node distribution and nomenclature.<sup>[<ref_inline id="refsrc35" name="refsrc35"/>35] </sup></para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>Treatment of esophageal cancer varies by disease stage.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup>Patients with stage I disease—particularly Tis and T1aN0 by endoscopic ultrasonography (EUS)—may be considered for endoscopic therapy, such as endoscopic mucosal resection (EMR) or endoscopic submucosal dissection (ESD), performed at a center with experience in these techniques. </para>
+        <para>In patients with T1b and any N, surgery may be the initial treatment; however, patients with stages beyond T1b should undergo multidisciplinary evaluation and be considered for multimodality therapy. </para>
+        <para>Trimodality (chemoradiation followed by surgery) is the recommended treatment for patients who can tolerate this regimen; this option is supported by strong level 1 evidence.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37, <ref_inline id="refsrc38" name="refsrc38"/>38, <ref_inline id="refsrc39" name="refsrc39"/>39, <ref_inline id="refsrc40" name="refsrc40"/>40, <ref_inline id="refsrc41" name="refsrc41"/>41, <ref_inline id="refsrc42" name="refsrc42"/>42] </sup>In fact, 15-30% of patients undergoing neoadjuvant chemoradiation will have a complete pathologic response (pCR), meaning that the tumor will have completely disappeared when the esophagus is examined after surgery. Patients with a pCR have a 3-year survival rate of approximately 50%, as opposed to 27% for those without a pCR.<sup>[<ref_inline id="refsrc43" name="refsrc43"/>43] </sup></para>
+        <para>Preoperative chemotherapy followed by surgery is another option. However, the evidence for this approach is weak; the chance of increase in 2-year overall survival is less than 6%, compared with approximately 13% with trimodality therapy. </para>
+        <para>Stage IV disease is treated with chemotherapy or symptomatic and supportive care, as indicated. For patients who, because of their clinical condition or owing to advanced disease, are not candidates for curative treatment, the goal of therapy is palliation of dysphagia, so that these patients can eat. No single method of palliation is best for every situation. Most patients require more than 1 kind of palliative treatment to sustain esophageal patency during the course of their disease. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Surgical Indications and Contraindications</title>
+      <pgroup>
+        <para>Surgery remains the cornerstone of treatment for esophageal cancer. Indications for surgery include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Esophageal cancer in a patient who is a candidate for surgery</para>
+          </listitem>
+          <listitem>
+            <para>High-grade dysplasia in a patient with Barrett esophagus that cannot be adequately treated endoscopically<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Contraindications to surgery include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Metastasis to N2 nodes (ie, cervical or supraclavicular lymph nodes) or solid organs (eg, liver, lungs); the treatment of patients with celiac lymph node involvement remains controversial<sup>[<ref_inline id="refsrc44" name="refsrc44"/>44] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Invasion of adjacent structures (eg, the recurrent laryngeal nerve, tracheobronchial tree, aorta, pericardium)</para>
+          </listitem>
+        </itemizedlist>
+        <para>In addition, the presence of severe, associated comorbid conditions (eg, cardiovascular disease, respiratory disease) can decrease a patient's chances of surviving an esophageal resection. Consequently, cardiac and respiratory function must be carefully evaluated preoperatively. A forced expiratory volume in 1 second of less than 1.2 L and a left ventricular ejection fraction of less than 0.4 are relative contraindications to the operation. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d11">
+      <title>Esophagectomy</title>
+      <pgroup>
+        <para>Esophageal resection (esophagectomy) remains a critical component of multimodality therapy for patients with tumors of any stage. Endoscopic mucosal resection is an experimental approach to patients with T1a disease or high-grade dysplasia that is limited to certain centers and performed only under protocol. Esophagectomy is no longer is used for palliation of symptoms because other treatment modalities have become available for relieving dysphagia. </para>
+        <para>An esophagectomy can be performed by using an abdominal and a cervical incision with blunt mediastinal dissection through the esophageal hiatus (ie, transhiatal esophagectomy [THE]) or by using an abdominal and a right thoracic incision (ie, transthoracic esophagectomy [TTE]). </para>
+        <para>THE offers the advantage of avoiding a chest incision, which can cause prolonged discomfort and can further aggravate the condition of patients with compromised respiratory function. After removal of the esophagus, continuity of the gastrointestinal tract is usually reestablished using the stomach. </para>
+        <para>Some authors have questioned the validity of THE as a cancer operation because part of the operation is not performed under direct vision and fewer lymph nodes are removed than with TTE. However, many retrospective studies and 2 prospective ones have shown no difference in survival between the operations, suggesting that the factor influencing survival is not the type of operation but, rather, the stage of the cancer at the time the operation is performed.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25, <ref_inline id="refsrc45" name="refsrc45"/>45, <ref_inline id="refsrc46" name="refsrc46"/>46, <ref_inline id="refsrc47" name="refsrc47"/>47, <ref_inline id="refsrc48" name="refsrc48"/>48] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Morbidity and mortality</title>
+        <para>Complications from esophagectomy occur in approximately 40% of patients. The morbidity associated with the surgery consists mostly of respiratory, cardiac, and septic complications, including the following: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Respiratory complications (15-20%) - Include atelectasis, pleural effusion, and pneumonia</para>
+          </listitem>
+          <listitem>
+            <para>Cardiac complications (15-20%) - Include cardiac arrhythmias and myocardial infarction</para>
+          </listitem>
+          <listitem>
+            <para>Septic complications (10%) - Include wound infection, anastomotic leak (breakdown of the new connection between the stomach and esophagus), and pneumonia </para>
+          </listitem>
+        </itemizedlist>
+        <para>Anastomotic leaks and stricture may require dilatation (20%). Leaks may be treated with endoscopic placement of self-expanding, removable plastic stents.<sup>[<ref_inline id="refsrc49" name="refsrc49"/>49] </sup></para>
+        <para>Leak rates vary depending on whether the anastomosis was performed in the chest (3-12%) or the neck (10-25%).<sup>[<ref_inline id="refsrc50" name="refsrc50"/>50] </sup>The choice of location for the anastomosis is based mostly on the location of the tumor and the surgeon’s assessment of the risks and benefits of a thoracic anastomosis. Such anastomoses have a lower leak rate, but an intrathoracic leak following esophagectomy can lead to sepsis and death. </para>
+        <para>A retrospective review of 1223 esophagectomies for cancer found that surgical management of intrathoracic leaks did not increase the patient mortality rate or effect long-term survival.<sup>[<ref_inline id="refsrc50" name="refsrc50"/>50] </sup></para>
+        <para>As with other complex operations (eg, cardiac operations, resection of the pancreas or liver), the lowest mortality rate with esophagectomy is achieved when the procedure is performed in high-volume centers by high-volume surgeons. In California from 1990-1994, for instance, 5 high-volume centers had a mortality rate of 5% or less for esophageal resection for cancer, while the state’s average mortality rate for this surgery was approximately 18%.<sup>[<ref_inline id="refsrc51" name="refsrc51"/>51] </sup></para>
+        <para>The better results in high-volume centers are due to a team approach. In these facilities, expert surgeons work with intensivists, cardiologists, pulmonologists, radiologists, and nurses who have experience and expertise. </para>
+      </pgroup>
+      <pgroup>
+        <title>Transthoracic esophagectomy</title>
+        <para>For TTE, the patient is placed supine on the operating room table. An arterial line, a central venous catheter, a Foley catheter, and a dual-lumen endotracheal tube are placed. Preoperative antibiotics are administered. An upper midline incision is made. </para>
+        <para>After exploring the peritoneal cavity for metastatic disease (if metastases are found, the operation is not continued), the stomach is mobilized. The right gastric and the right gastroepiploic arteries are preserved, while the short gastric vessels and the left gastric artery are divided. </para>
+        <para>Next, the gastroesophageal junction is mobilized, and the esophageal hiatus is enlarged. A pyloromyotomy is performed, and a feeding jejunostomy is placed for postoperative nutritional support. </para>
+        <para>After closure of the abdominal incision, the patient is repositioned in the left lateral decubitus position and a right posterolateral thoracotomy is performed in the fifth intercostal space. </para>
+        <para>The azygos vein is divided to allow full mobilization of the esophagus. The stomach is delivered into the chest through the hiatus and is then divided approximately 5 cm below the gastroesophageal junction. </para>
+        <para>An anastomosis (hand-sewn or stapled) is performed between the esophagus and the stomach at the apex of the right chest cavity. Then, the chest incision is closed. </para>
+      </pgroup>
+      <pgroup>
+        <title>Transhiatal esophagectomy</title>
+        <para>For THE, the preoperative details are similar to those of TTE, except that a single-lumen, rather than a double-lumen, endotracheal tube is used. The neck is prepared in the operative field. </para>
+        <para>The abdominal part of the operation is identical to the TTE; however, dissection of the esophagus is performed through the enlarged esophageal hiatus without opening the right chest. The esophagus is mobilized in this fashion all the way to the thoracic inlet. </para>
+        <para>Then, a 6-cm incision is made in the left side of the neck. The internal jugular vein and carotid artery are retracted laterally, and the esophagus is identified and isolated posterior to the airway. To prevent injury to the left recurrent laryngeal nerve, no mechanical retractors are used to retract the trachea. </para>
+        <para>Next, after resection of the proximal stomach and thoracic esophagus, the remaining stomach is pulled up through the posterior mediastinum until it reaches the remaining esophagus at the cervical level. Then, a hand-sewn anastomosis is performed, and a small drain is placed in the neck alongside the anastomosis. The abdominal and neck incisions are closed. (See the image below.)</para>
+        <figure id="38291">
+          <title>Transhiatal esophagectomy in which (a) is the abdominal incision, (b) is the cervical incision,...</title>
+          <caption>Transhiatal esophagectomy in which (a) is the abdominal incision, (b) is the cervical incision, and (c) is the stomach stretching from abdomen to the neck. </caption>
+          <graphic fileref="/91/38291.png" format="IMAGE" id="38291" extension_format="PNG"/>
+          <graphic fileref="/91/38291tn.jpg" format="IMAGE_THUMB" id="38291"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Minimally invasive surgery techniques in esophagectomy</title>
+        <para>The use of laparoscopic and thoracoscopic techniques has revolutionized the treatment of benign esophageal disorders such as achalasia and gastroesophageal reflux disease (GERD). Advantages of minimally invasive surgery include a shorter hospital stay, less postoperative discomfort, and much faster recovery time than with open surgery. These techniques are finding a place in the treatment of esophageal cancer.<sup>[<ref_inline id="refsrc52" name="refsrc52"/>52] </sup></para>
+        <para>Video-assisted thoracoscopy (VATS) is being used in many centers for the thoracic mobilization of the esophagus, reducing the size of the chest incision. In addition, laparoscopy can be used to mobilize the gastric conduit in the abdomen, reducing abdominal incision size as well. </para>
+        <para>A study by Uenosono et al found that sentinel node mapping can be applied to patients with clinical T1 and N0 esophageal cancer. Use of this technique may facilitate less invasive surgery, with reduction of lymphadenectomy.<sup>[<ref_inline id="refsrc53" name="refsrc53"/>53] </sup></para>
+        <para>Endoscopic mucosal resection (EMR) is a modern, attractive option for the treatment of superficial esophageal cancers. High-grade dysplasia and mucosa-limited neoplasms are candidates for EMR, because of the low risk of node metastasis in these cases. A population-based study of 1618 patients with grade Tis, T1a, or T1b esophageal cancer found that overall survival times and esophageal-cancer-specific survival times with endoscopic therapy were similar to those with surgery, after adjustment for patient and tumor factors.<sup>[<ref_inline id="refsrc54" name="refsrc54"/>54, <ref_inline id="refsrc55" name="refsrc55"/>55] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Salvage endoscopic resection</title>
+        <para>In patients with local failure after definitive chemoradiotherapy (CRT) for esophageal squamous cell carcinoma (ESCC), salvage endoscopic treatment (SET) may be a viable option, according to a study reported at the 2014 Gastrointestinal Cancers Symposium.<sup>[<ref_inline id="refsrc56" name="refsrc56"/>56] </sup>The study included 716 ESCC patients treated with CRT, 417 of whom experienced local failure (incomplete response or local recurrence); of these 417 patients, 164 underwent SET (either photodynamic therapy or endoscopic resection). </para>
+        <para>Curative resection was achieved in 88% of the patients who underwent endoscopic resection, and a complete response was achieved in 57.5% of those who underwent photodynamic therapy.<sup>[<ref_inline id="refsrc56" name="refsrc56"/>56] </sup>Overall survival and relapse-free survival rates at 5 years were 38.6% and 28%, respectively. The factors most strongly predictive of improved survival were (1) an absence of lymph node metastasis before CRT and (2) an elapsed time of 6 months or longer between the initiation of CRT and the performance of SET.<sup>[<ref_inline id="refsrc56" name="refsrc56"/>56] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d12">
+      <title>Chemoradiotherapy</title>
+      <pgroup>
+        <para>Chemotherapy and radiotherapy for esophageal cancer are delivered preoperatively. No survival benefit is obtained when radiation and chemotherapy are administered postoperatively; however, postoperative continuance of chemotherapy started preoperatively may be beneficial.<sup>[<ref_inline id="refsrc57" name="refsrc57"/>57] </sup>The aims of preoperative (neoadjuvant) chemotherapy and radiotherapy are to reduce the bulk of the primary tumor before surgery to facilitate higher curative resection rates and to eliminate or delay the appearance of distant metastases. </para>
+        <para>Most chemotherapy that is currently used for the treatment of esophageal cancer, including alkylating, antimetabolite, anthracycline, and antimicrotubular agents, are not approved for this indication by the US Food and Drug Administration (FDA). Chemotherapy for squamous cell esophageal carcinoma, as with squamous cell carcinomas in general, is based on cisplatin, while chemotherapy for esophageal adenocarcinoma has been extrapolated from experience in patients with adenocarcinoma of the stomach. </para>
+        <para>Neoadjuvant chemotherapy alone appears to offer a limited benefit at best. A North American randomized trial found that preoperative chemotherapy with a combination of cisplatin and fluorouracil did not improve overall survival among patients with squamous cell cancer or adenocarcinoma of the esophagus. In a larger trial, British investigators found that preoperative chemotherapy with those 2 agents resulted in a 5-year survival rate of 23.0%, compared with 17.1% for surgery alone.<sup>[<ref_inline id="refsrc58" name="refsrc58"/>58] </sup></para>
+        <para>In contrast, the Chemoradiotherapy for Oesophageal Cancer Followed by Surgery Study (CROSS) demonstrated considerable benefit from preoperative chemoradiation over surgery alone in selected patients with esophageal or esophagogastric-junction cancer (tumor stage T1N1 or T2–T3 with any N).<sup>[<ref_inline id="refsrc59" name="refsrc59"/>59] </sup>Median overall survival with chemoradiation therapy followed by surgery was 49.4 months, compared with 24.0 months with surgery alone.</para>
+        <para>An analysis of data from CROSS I and II showed that preoperative chemoradiotherapy (CRT) plus surgery was superior to surgery alone in preventing local, regional, and distant recurrence, particularly hematogenous metastasis and peritoneal carcinomatosis.<sup>[<ref_inline id="refsrc60" name="refsrc60"/>60, <ref_inline id="refsrc61" name="refsrc61"/>61, <ref_inline id="refsrc62" name="refsrc62"/>62] </sup>Overall recurrence rates were 35% for CRT plus surgery and 58% for surgery alone. The rates of locoregional recurrence, peritoneal carcinomatosis, and hematogenous dissemination were all lower for the former as well (14% vs 34%, 4% vs 14%, and 29% vs 35%, respectively).</para>
+        <para>Neoadjuvant therapy consists of a combination of radiotherapy (approximately 45 Gy) and chemotherapy with cisplatin and 5-fluorouracil. While the radiotherapy acts locally at the tumor site, the chemotherapy acts on tumor cells that have already spread. This combination therapy is usually administered over a 45-day period; esophageal resection is performed after an interval of approximately 4 weeks. </para>
+        <para>Rohatgi et al reported that the response to preoperative chemoradiotherapy correlated strongly with overall survival and disease-free survival in patients with esophageal cancer. In their review of 235 cases, survival decreased progressively between patients who achieved a pathologic complete response, those who had a partial response (1-50% residual carcinoma in the resected specimen), and those with no response (greater than 50% residual carcinoma).<sup>[<ref_inline id="refsrc63" name="refsrc63"/>63] </sup></para>
+        <para>A study by Rao et al identified groups of esophageal tumors with distinct gene expression profiles, which in future may allow for tailored treatment protocols.<sup>[<ref_inline id="refsrc64" name="refsrc64"/>64] </sup>Similarly, Alexander et al identified DNA-repair biomarkers that predict response to neoadjuvant chemotherapy.<sup>[<ref_inline id="refsrc65" name="refsrc65"/>65] </sup></para>
+        <para>A trial involving 111 patients undergoing chemoradiotherapy for head-and-neck or esophageal cancer indicated that enteral nutrition enriched with n-3 fatty acids helps to preserve body mass and improve nutritional and functional status parameters during chemoradiotherapy.<sup>[<ref_inline id="refsrc66" name="refsrc66"/>66, <ref_inline id="refsrc67" name="refsrc67"/>67] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d13">
+      <title>Palliative Care</title>
+      <pgroup>
+        <para>In patients who, because of their clinical condition or advanced disease, are not candidates for surgery, treatment focuses on control of dysphagia. The most appropriate method to control dysphagia should be determined for each patient individually, depending on tumor characteristics, patient preference, and the specific expertise of the physician. </para>
+        <para>The following treatment modalities are available to help achieve this goal:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Chemotherapy</para>
+          </listitem>
+          <listitem>
+            <para>Radiotherapy</para>
+          </listitem>
+          <listitem>
+            <para>Laser therapy</para>
+          </listitem>
+          <listitem>
+            <para>Stents<sup>[<ref_inline id="refsrc68" name="refsrc68"/>68] </sup></para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Chemotherapy</title>
+        <para>Chemotherapy as a single modality has limited use. Only a few patients achieve a modest and short-lived response.</para>
+        <para>A phase 3 study from the United Kingdom suggests that docetaxel may be useful as a second-line treatment for patients with esophageal cancer who have progressed after first-line chemotherapy.<sup>[<ref_inline id="refsrc69" name="refsrc69"/>69, <ref_inline id="refsrc70" name="refsrc70"/>70] </sup>Median overall survival was significantly better in patients treated with docetaxel than in those managed with active symptom control (5.2 versus 3.6 months, respectively). </para>
+        <para>Because survival in these patients is measured in months, quality of life is an important consideration. In the UK study, quality-of-life questionnaires demonstrated no differences between the 2 groups on global and functioning scores but did indicate an improvement in symptom scores, with the docetaxel group reporting less pain.<sup>[<ref_inline id="refsrc69" name="refsrc69"/>69, <ref_inline id="refsrc70" name="refsrc70"/>70] </sup></para>
+        <para>In 2006, a Cochrane review tried to assess the effectiveness of chemotherapy versus best supportive care, as well as that of different chemotherapy regimens against each other, in metastatic esophageal carcinoma. The authors found that no consistent benefit with any specific chemotherapy regimen.<sup>[<ref_inline id="refsrc71" name="refsrc71"/>71] </sup>Cisplatin, 5-fluorouracil (5-FU), paclitaxel, and anthracyclines had promising response rates and tolerable toxicity. </para>
+      </pgroup>
+      <pgroup>
+        <title>Radiotherapy</title>
+        <para>Radiation therapy is successful in relieving dysphagia in approximately 50% of patients. In patients with advanced esophageal cancer, the preoperative combination of chemotherapy and radiotherapy has shown good results.</para>
+        <para>In a large, multicenter study, Herskovic and colleagues reported a 2-year survival rate of 38%, with a median survival period of 12.5 months, for patients treated with radiotherapy in combination with chemotherapy (fluorouracil and cisplatin), compared with a 2-year-survival rate of 10% and a median survival period of 8.5 months in patients treated with radiotherapy alone.<sup>[<ref_inline id="refsrc68" name="refsrc68"/>68, <ref_inline id="refsrc72" name="refsrc72"/>72] </sup></para>
+        <para>In a study, Folkert et al found that high-dose-rate (HDR) endoluminal brachytherapy was well tolerated in medically inoperable patients with superficial primary or recurrent esophageal cancer. Over the course of 3 years, 14 patients were treated with HDR intraluminal brachytherapy; 10 had recurrent esophageal cancer and 4 had previously unirradiated lesions. The overall freedom from failure (OFFF) and the overall survival (OS) rate at 18 months were 30.8% and 72.7%, respectively. Patients with recurrent disease had an 11.1% OFFF and a 55.6% OS rate at 18 months. For patients with previously unirradiated disease, the OFFF was 75% and the OS rate was 100%.<sup>[<ref_inline id="refsrc73" name="refsrc73"/>73] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Laser therapy</title>
+        <para>Laser therapy (Nd:YAG laser) can help to achieve temporary relief of dysphagia in as many as 70% of patients. Multiple sessions are usually required to keep the esophageal lumen patent. The photosensitizer porfimer (Photofrin) is FDA approved for palliation of patients with completely obstructing esophageal cancer or partially obstructing cancer that cannot be satisfactorily treated with Nd:YAG laser therapy. Intravenous injection of porfimer is followed 40–50 hours later with delivery of 630 nm wavelength laser light; a second laser light treatment may be given 96–120 hours after the injection. </para>
+      </pgroup>
+      <pgroup>
+        <title>Stents</title>
+        <para>Patients may be intubated with expandable metallic stents, which can be deployed by endoscopy under fluoroscopic guidance and can keep the esophageal lumen patent. Stents are particularly useful for patients with a tracheoesophageal fistula.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d14">
+      <title>Postoperative Care and Follow-up</title>
+      <pgroup>
+        <para>The average length of postoperative hospital stay for patients with esophageal cancer is 9-14 days. Patients usually spend the first postoperative night in the intensive care unit (ICU). </para>
+        <para>Patients can be extubated immediately after the operation, but mechanical ventilation should be continued if any concerns about the respiratory status are present. Respiratory complications (eg, atelectasis, pleural effusion, pneumonia) and cardiac complications (eg, cardiac arrhythmias) usually occur in the first postoperative days. Patients leave the ICU and are transferred to the surgical ward only when their respiratory status and cardiac status are satisfactory. </para>
+        <para>Feeding through the feeding jejunostomy begins on postoperative day 1. On postoperative day 6, a swallow study is performed to check for anastomotic leakage. If no leak is present, patients start oral feedings. If a leak is present, the drainage tubes are left in place and nutrition is provided entirely through the feeding jejunostomy until the leak closes spontaneously. </para>
+        <para>Approximately 85-90% of patients go home after discharge. The remaining patients may need additional time in a skilled nursing facility if they live alone and if they cannot take care of themselves. </para>
+        <para>Patients are seen by the responsible surgeon at 2 weeks and 4 weeks after discharge from the hospital and subsequently every 6 months by an oncologist. Most patients return to their regular level of activities within 2 months. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d15">
+      <title>Prevention of Esophageal Cancer</title>
+      <pgroup>
+        <para>For squamous cell carcinoma, prevention consists of smoking cessation, efforts to reduce alcohol abuse, and consumption of a diet containing an adequate amount of fruits, vegetables, and vitamins. For esophageal adenocarcinomas, prevention involves stopping the sequence of events leading from gastroesophageal reflux disease (GERD) to Barrett esophagus to adenocarcinoma. </para>
+        <para>Better control of gastroesophageal reflux can prevent the development of Barrett metaplasia in patients with GERD and can discourage the development of high-grade dysplasia in patients with metaplasia. Endoscopic follow-up evaluations should be performed at 1- to 2-year intervals to detect the presence of dysplasia, allowing intervention before cancer develops. </para>
+        <para>Dysplasia in Barrett esophagus can be treated with endoscopic ablation, using radiofrequency ablation (RFA), photodynamic therapy (PDT), or cryotherapy. </para>
+        <para>If high-grade dysplasia does develop, esophagectomy is indicated. The operation must be performed by experienced surgeons in high-volume centers in order to keep the mortality rate at less than 5%. </para>
+      </pgroup>
+      <pgroup>
+        <title>Radiofrequency ablation</title>
+        <para>RFA has been gaining popularity as a treatment for Barrett esophagus with dysplasia. Shaheen et al reported complete eradication of all dysplasia 2 years after RFA in 101 of 106 patients (95%). After 3 years, dysplasia remained eradicated in more than 85% of patients, without maintenance RFA. The rate of serious adverse events was 3.4%, and the rate of esophageal stricture was 7.6%.<sup>[<ref_inline id="refsrc74" name="refsrc74"/>74] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Photodynamic therapy</title>
+        <para>PDT involves the administration of photosensitizing chromophores, which are selectively retained by dysplastic malignant tissue. Light is then delivered in the area. The photosensitizer absorbs photons, becomes photoexcited, and transfers its energy to a chemical substrate that causes biologic damage to the abnormal tissue. A drawback of PDT is the formation of esophageal strictures in 34% of patients. The photosensitizer porfimer is FDA approved for ablation of high-grade dysplasia in Barrett esophagus. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Chemotherapy of squamous cell carcinoma of the esophagus, like squamous cell malignancies in general, is based on cisplatin. The chemotherapeutic choices in esophageal adenocarcinoma have been extrapolated from chemotherapy experience in patients with adenocarcinoma of the stomach. Most of the chemotherapy regimens currently used for the treatment of esophageal cancer, including alkylating, antimetabolite, anthracycline, and antimicrotubular agents, have not been approved by the US Food and Drug Administration (FDA). </para>
+    </intro>
+    <cgroup id="137196">
+      <title>Antineoplastics, Antimetabolite</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents inhibit cell growth and proliferation. They interfere with DNA synthesis by blocking the methylation of deoxyuridylic acid. </para>
+      </intro>
+      <drug did="342092" name="Fluorouracil (Adrucil)" uri="adrucil-fluorouracil-342092">
+        <title>Fluorouracil (Adrucil)</title>
+        <para>Fluorouracil is a pyrimidine antimetabolite. Several mechanisms of action have been proposed, including inhibition of thymidylate synthase and inhibition of RNA synthesis. This agent is also a potent radiosensitizer.</para>
+      </drug>
+      <drug did="342211" name="Capecitabine (Xeloda)" uri="xeloda-capecitabine-342211">
+        <title>Capecitabine (Xeloda)</title>
+        <para>Capecitabine is a pyrimidine antimetabolite and a prodrug of fluorouracil. It forms the active moiety, fluorouracil, by undergoing hydrolysis in the liver and tissues. Capecitabine is used for the treatment of esophageal cancer, which is an off-label indication. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="137197">
+      <title>Antineoplastics, Alkylating</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents inhibit cell growth and proliferation, interfering with DNA synthesis by the formation of DNA cross-links. Alkylating agents can have serious adverse effects such as bone marrow suppression, anaphylactic-like reactions, ototoxicity, renal toxicity, and vomiting. </para>
+      </intro>
+      <drug did="342108" name="Cisplatin" uri="platinol-aq-cisplatin-342108">
+        <title>Cisplatin</title>
+        <para>Intrastrand cross-linking of DNA and inhibition of DNA precursors are among the proposed mechanisms of action for cisplatin. This agent is used in combination with radiation therapy. Cisplatin has black box warnings for adverse reactions, including anaphylactic-like reactions, ototoxicity, and renal toxicity.</para>
+      </drug>
+      <drug did="342107" name="Carboplatin" uri="paraplatin-carboplatin-342107">
+        <title>Carboplatin</title>
+        <para>Carboplatin is a platinum alkylating agent that interferes with the function of DNA by producing interstrand DNA cross-links. It can be used in combination with paclitaxel for the treatment of esophageal cancer, which is an off-label indication. Carboplatin has black box warnings including bone marrow suppression, anaphylactic reactions, and vomiting. </para>
+      </drug>
+      <drug did="342106" name="Oxaliplatin (Eloxatin)" uri="eloxatin-oxaliplatin-342106">
+        <title>Oxaliplatin (Eloxatin)</title>
+        <para>Oxaliplatin is a platinum alkylating agent that inhibits DNA replication and transcription, resulting in cell death. It can be used in combination chemotherapy for the treatment of esophageal cancer, which is an off-label indication. It has a black box warning for anaphylactic reactions, which can be managed with epinephrine, corticosteroids, and antihistamines. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="137198">
+      <title>Antineoplastics, Antimicrotubular</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents prevent cell growth and proliferation. They work by enhancing tubulin dimers, stabilizing existing microtubules, and inhibiting microtubule disassembly. </para>
+      </intro>
+      <drug did="342192" name="Docetaxel (Taxotere, Docefrez)" uri="taxotere-docefrez-docetaxel-342192">
+        <title>Docetaxel (Taxotere, Docefrez)</title>
+        <para>Docetaxel inhibits the depolymerization of tubulin, which inhibits DNA, RNA, and protein synthesis. It can be used in combination with cisplatin and fluorouracil for the treatment of esophageal cancer, which is an off-label indication. It has several black box warnings such as bone marrow suppression, fluid retention, and hypersensitivity reactions.</para>
+        <para>Use of docetaxel is not recommended in certain patients with hepatic impairment. Patients receiving treatment with docetaxel should be premedicated with corticosteroids the day before administration to help reduce fluid retention and hypersensitivity reactions. </para>
+      </drug>
+      <drug did="342187" name="Paclitaxel" uri="taxol-paclitaxel-342187">
+        <title>Paclitaxel</title>
+        <para>Paclitaxel promotes microtubule assembly, interferes with the G2 mitotic phase, and inhibits cell replication. Although not FDA approved, it has been used in combination chemotherapy for the treatment of esophageal cancer. Paclitaxel has an off-label indication for the treatment of adenocarcinoma. Black box warnings for this drug include bone marrow suppression and hypersensitivity reactions. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="137199">
+      <title>Antineoplastics, Anthracycline</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Anthracycline antineoplastics inhibit DNA and RNA synthesis by steric obstruction. They intercalate between DNA base pairs and trigger DNA cleavage by topoisomerase II. </para>
+      </intro>
+      <drug did="342251" name="Epirubicin (Ellence)" uri="epirubicin-342251">
+        <title>Epirubicin (Ellence)</title>
+        <para>Epirubicin inhibits DNA and RNA synthesis. It can be used off label as part of a combination chemotherapy regimen for the treatment of esophageal cancer. It has several black box warnings, including bone marrow suppression, extravasation, myocardial toxicity, and secondary malignancy. Dosage reduction is recommended in patients with mild to moderate hepatic impairment.</para>
+      </drug>
+    </cgroup>
+    <cgroup id="137200">
+      <title>Antineoplastics, Topoisomerase Inhibitors</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents prevent cell growth and proliferation. They work by binding to topoisomerase and causing single-strand DNA breaks.</para>
+      </intro>
+      <drug did="342252" name="Irinotecan (Camptosar)" uri="camptosar-irinotecan-342252">
+        <title>Irinotecan (Camptosar)</title>
+        <para>Irinotecan binds reversibly to the topoisomerase I–DNA complex and prevents the ligation of the cleaved DNA strand. It can be used as part of combination chemotherapy for the treatment of esophageal cancer, which is an off-label indication. Black box warnings for irinotecan include bone marrow suppression and diarrhea.</para>
+      </drug>
+    </cgroup>
+    <cgroup id="137201">
+      <title>Antineoplastics, Other</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>This category includes miscellaneous antineoplastic agents that cause cytotoxic activity by various mechanisms of action.</para>
+      </intro>
+      <drug did="342226" name="Porfimer (Photofrin)" uri="photofrin-porfimer-342226">
+        <title>Porfimer (Photofrin)</title>
+        <para>Porfimer is a photodynamic therapy that causes cytotoxic activity by producing oxygen free-radicals in the presence of laser light. It also can release thromboxane A2, leading to necrosis and vascular occlusion. It is indicated for palliation in patients with partially or completely obstructing esophageal cancer.</para>
+      </drug>
+    </cgroup>
+  </msect>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="38286">
+        <title>Endoscopy demonstrating intraluminal esophageal cancer. </title>
+        <caption>Endoscopy demonstrating intraluminal esophageal cancer. </caption>
+        <graphic fileref="/86/38286.png" format="IMAGE" id="38286" extension_format="PNG"/>
+        <graphic fileref="/86/38286tn.jpg" format="IMAGE_THUMB" id="38286"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38287">
+        <title>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </title>
+        <caption>Cascade of events that lead from gastroesophageal reflux disease to adenocarcinoma. </caption>
+        <graphic fileref="/87/38287.png" format="IMAGE" id="38287" extension_format="PNG"/>
+        <graphic fileref="/87/38287tn.jpg" format="IMAGE_THUMB" id="38287"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38288">
+        <title>Barium swallow demonstrating stricture due to cancer. </title>
+        <caption>Barium swallow demonstrating stricture due to cancer. </caption>
+        <graphic fileref="/88/38288.png" format="IMAGE" id="38288" extension_format="PNG"/>
+        <graphic fileref="/88/38288tn.jpg" format="IMAGE_THUMB" id="38288"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38289">
+        <title>Barium swallow demonstrating an endoluminal mass in the mid esophagus. </title>
+        <caption>Barium swallow demonstrating an endoluminal mass in the mid esophagus. </caption>
+        <graphic fileref="/89/38289.png" format="IMAGE" id="38289" extension_format="PNG"/>
+        <graphic fileref="/89/38289tn.jpg" format="IMAGE_THUMB" id="38289"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38290">
+        <title>Chest CT scan showing invasion of the trachea by esophageal cancer. </title>
+        <caption>Chest CT scan showing invasion of the trachea by esophageal cancer. </caption>
+        <graphic fileref="/90/38290.png" format="IMAGE" id="38290" extension_format="PNG"/>
+        <graphic fileref="/90/38290tn.jpg" format="IMAGE_THUMB" id="38290"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38291">
+        <title>Transhiatal esophagectomy in which (a) is the abdominal incision, (b) is the cervical incision,...</title>
+        <caption>Transhiatal esophagectomy in which (a) is the abdominal incision, (b) is the cervical incision, and (c) is the stomach stretching from abdomen to the neck. </caption>
+        <graphic fileref="/91/38291.png" format="IMAGE" id="38291" extension_format="PNG"/>
+        <graphic fileref="/91/38291tn.jpg" format="IMAGE_THUMB" id="38291"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38292">
+        <title>Five-year survival for esophageal cancer based on TNM stage. </title>
+        <caption>Five-year survival for esophageal cancer based on TNM stage. </caption>
+        <graphic fileref="/92/38292.png" format="IMAGE" id="38292" extension_format="PNG"/>
+        <graphic fileref="/92/38292tn.jpg" format="IMAGE_THUMB" id="38292"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38293">
+        <title>H and E, high power, showing junction of benign glands in the lower right, Barrett's columnar...</title>
+        <caption>H and E, high power, showing junction of benign glands in the lower right, Barrett's columnar cell metaplasia with a large goblet cell containing blue mucin in the lower center and adenocarcinoma on the left. </caption>
+        <graphic fileref="/93/38293.jpg" format="IMAGE" id="38293" extension_format="JPG"/>
+        <graphic fileref="/93/38293tn.jpg" format="IMAGE_THUMB" id="38293"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38294">
+        <title>Macroscopic image of a resection of the gastroesophageal junction. On the right is non-...</title>
+        <caption>Macroscopic image of a resection of the gastroesophageal junction. On the right is non-neoplastic esophagus, consisting of tan, smooth mucosa. On the left is the non-neoplastic rugal folds of the stomach. In the center of the picture is an ulcer with a yellow-green fibrinous exudate surrounded by irregular, heaped-up margins with almost a cobblestone appearance. The latter represents mucosal adenocarcinoma with probably some Barrett's metaplasia in the background. </caption>
+        <graphic fileref="/94/38294.jpg" format="IMAGE" id="38294" extension_format="JPG"/>
+        <graphic fileref="/94/38294tn.jpg" format="IMAGE_THUMB" id="38294"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38295">
+        <title>H and E, high power, demonstrating invasive esophageal squamous cell carcinoma. This carcinoma...</title>
+        <caption>H and E, high power, demonstrating invasive esophageal squamous cell carcinoma. This carcinoma does not form glands and instead shows features of squamous differentiation, including keratinization and intercellular bridges. </caption>
+        <graphic fileref="/95/38295.jpg" format="IMAGE" id="38295" extension_format="JPG"/>
+        <graphic fileref="/95/38295tn.jpg" format="IMAGE_THUMB" id="38295"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38296">
+        <title>Macroscopic image of an esophageal resection. A polypoid squamous cell carcinoma is visible...</title>
+        <caption>Macroscopic image of an esophageal resection. A polypoid squamous cell carcinoma is visible protruding from the esophageal mucosal surface (left center of specimen). </caption>
+        <graphic fileref="/96/38296.jpg" format="IMAGE" id="38296" extension_format="JPG"/>
+        <graphic fileref="/96/38296tn.jpg" format="IMAGE_THUMB" id="38296"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="38297">
+        <title>On this positron emission computed tomography (PET) scan, esophageal cancer is evident as a...</title>
+        <caption>On this positron emission computed tomography (PET) scan, esophageal cancer is evident as a golden lesion in the chest. </caption>
+        <graphic fileref="/97/38297.jpg" format="IMAGE" id="38297" extension_format="JPG"/>
+        <graphic fileref="/97/38297tn.jpg" format="IMAGE_THUMB" id="38297"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Keith M Baldwin, DO</contrbtr_nm>
+        <contrbtr_title>IMPH, Assistant Professor of Surgery, Boston University School of Medicine; Endocrine and Surgical Oncologist, Department of General Surgery, Roger Williams Cancer Center</contrbtr_title>
+        <contrbtr_bio>Keith M Baldwin, DO is a member of the following medical societies: <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.surgonc.org">Society of Surgical Oncology</a>, <a href="http://www.endocrinesurgery.org">American Association of Endocrine Surgeons</a>, <a href="http://www.ahpba.org">Americas Hepato-Pancreato-Biliary Association</a>, <a href="http://www.surgeonsoverseas.org">Society of International Humanitarian Surgeons/Surgeons OverSeas (SOS)</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Marco G Patti, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Surgery, Director, Center for Esophageal Diseases, University of Chicago Pritzker School of Medicine</contrbtr_title>
+        <contrbtr_bio>Marco G Patti, MD is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.americansurgical.info">American Surgical Association</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.gastro.org">American Gastroenterological Association</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.aasurg.org">Association for Academic Surgery</a>, Pan-Pacific Surgical Association, <a href="http://www.ssat.com">Society for Surgery of the Alimentary Tract</a>, <a href="http://www.sages.org">Society of American Gastrointestinal and Endoscopic Surgeons</a>, <a href="http://www.swscongress.org">Southwestern Surgical Congress</a>, <a href="http://www.westernsurgical.org">Western Surgical Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>N Joseph Espat, MD, MS, FACS</contrbtr_nm>
+        <contrbtr_title>Harold J Wanebo Professor and Chief of Surgical Oncology, Director, Adele R Decof Cancer Center, Vice-Chair of Department of Surgery, Roger Williams Medical Center, Boston University School of Medicine</contrbtr_title>
+        <contrbtr_bio>N Joseph Espat, MD, MS, FACS is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.aacr.org">American Association for Cancer Research</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.nutritioncare.org">American Society for Parenteral and Enteral Nutrition</a>, <a href="http://www.aasurg.org">Association for Academic Surgery</a>, <a href="http://www.centralsurg.org">Central Surgical Association</a>, <a href="http://www.cmsdocs.org">Chicago Medical Society</a>, <a href="http://www.ihpba.org">International Hepato-Pancreato-Biliary Association</a>, <a href="http://www.sigmaxi.org/">Sigma Xi</a>, <a href="http://www.ssat.com">Society for Surgery of the Alimentary Tract</a>, <a href="http://www.sages.org">Society of American Gastrointestinal and Endoscopic Surgeons</a>, <a href="http://www.surgonc.org">Society of Surgical Oncology</a>, <a href="http://www.susweb.org">Society of University Surgeons</a>, <a href="http://www.sesc.org/aws/SESC/pt/sp/home_page">Southeastern Surgical Congress</a>, <a href="http://sma.org">Southern Medical Association</a>, <a href="http://www.ahpba.org">Americas Hepato-Pancreato-Biliary Association</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a>, <a href="http://www.sisna.org">Surgical Infection Society</a>, <a href="http://leukocytebiology.org">Society for Leukocyte Biology</a>, <a href="http://pancreasclub.com/">Pancreas Club</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Fernando AM Herbella, MD, PhD</contrbtr_nm>
+        <contrbtr_title>TCBC, Affiliate Professor, Attending Surgeon in Gastrointestinal Surgery, Esophagus and Stomach Division, Department of Surgery, Federal University of Sao Paulo, Brazil; Private Practice; Medical Examiner, Sao Paulo's Medical Examiner's Office Headquarters, Brazil</contrbtr_title>
+        <contrbtr_bio>Fernando AM Herbella, MD, PhD is a member of the following medical societies: <a href="http://www.ssat.com">Society for Surgery of the Alimentary Tract</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jules E Harris, MD, FACP, FRCPC</contrbtr_nm>
+        <contrbtr_title>Clinical Professor of Medicine, Section of Hematology/Oncology, University of Arizona College of Medicine, Arizona Cancer Center</contrbtr_title>
+        <contrbtr_bio>Jules E Harris, MD, FACP, FRCPC is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.hematology.org">American Society of Hematology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para><strong>Philip Schulman, MD</strong> Chief, Medical Oncology, Department of Medicine, Memorial Sloan-Kettering Cancer Center</para>
+      <para>Philip Schulman, MD, is a member of the following medical societies: <a href="http://www.aacr.org/">American Association for Cancer Research</a>, <a href="http://www.acponline.org/">American College of Physicians</a>, <a href="http://www.hematology.org/">American Society of Hematology</a>, and <a href="http://www.mssny.org/">Medical Society of the State of New York</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Francisco Talavera, PharmD, PhD</strong> Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</para>
+      <para>Disclosure: Medscape Salary Employment </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8651749">
+      <para>Edwards MJ, Gable DR, Lentsch AB, et al. The rationale for esophagectomy as the optimal therapy for Barrett's esophagus with high-grade dysplasia. <em>Ann Surg</em>. 1996 May. 223(5):585-9; discussion 589-91. <a href="http://reference.medscape.com/medline/abstract/8651749">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11986015">
+      <para>Ferguson MK, Durkin A. Long-term survival after esophagectomy for Barrett's adenocarcinoma in endoscopically surveyed and nonsurveyed patients. <em>J Gastrointest Surg</em>. 2002 Jan-Feb. 6(1):29-35; discussion 36. <a href="http://reference.medscape.com/medline/abstract/11986015">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Torek F. The first successful resection of the thoracic portion of the esophagus for carcinoma. <em>Surg Gynecol Obstet</em>. 1913. 16:614-17. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Ohsawa T. Surgery of the esophagus. <em>Arch Jpn Chir</em>. 1933. 10:605-8. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Marshall SF. Carcinoma of the esophagus: successful resection of lower end of esophagus with reestablishment of esophageal gastric continuity. <em>Surg Clin North Amer</em>. 1938. 18:643. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8578231">
+      <para>Tilanus HW. Changing patterns in the treatment of carcinoma of the esophagus. <em>Scand J Gastroenterol Suppl</em>. 1995. 212:38-42. <a href="http://reference.medscape.com/medline/abstract/8578231">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10233832">
+      <para>Jankowski JA, Wright NA, Meltzer SJ, et al. Molecular evolution of the metaplasia-dysplasia-adenocarcinoma sequence in the esophagus. <em>Am J Pathol</em>. 1999 Apr. 154(4):965-73. <a href="http://reference.medscape.com/medline/abstract/10233832">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16299787">
+      <para>Koppert LB, Wijnhoven BP, van Dekken H, et al. The molecular biology of esophageal adenocarcinoma. <em>J Surg Oncol</em>. 2005 Dec 1. 92(3):169-90. <a href="http://reference.medscape.com/medline/abstract/16299787">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8311140">
+      <para>Casson AG, Manolopoulos B, Troster M, et al. Clinical implications of p53 gene mutation in the progression of Barrett's epithelium to invasive esophageal cancer. <em>Am J Surg</em>. 1994 Jan. 167(1):52-7. <a href="http://reference.medscape.com/medline/abstract/8311140">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10080844">
+      <para>Lagergren J, Bergstrom R, Lindgren A, et al. Symptomatic gastroesophageal reflux as a risk factor for esophageal adenocarcinoma. <em>N Engl J Med</em>. 1999 Mar 18. 340(11):825-31. <a href="http://reference.medscape.com/medline/abstract/10080844">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21642993">
+      <para>Wu C, Hu Z, He Z, et al. Genome-wide association study identifies three new susceptibility loci for esophageal squamous-cell carcinoma in Chinese populations. <em>Nat Genet</em>. 2011 Jun 5. 43(7):679-84. <a href="http://reference.medscape.com/medline/abstract/21642993">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20699457">
+      <para>Cardwell CR, Abnet CC, Cantwell MM, Murray LJ. Exposure to oral bisphosphonates and risk of esophageal cancer. <em>JAMA</em>. 2010 Aug 11. 304(6):657-63. <a href="http://reference.medscape.com/medline/abstract/20699457">[Medline]</a>. <a href="http://www.medscape.com/medline/abstract/20699457?cid=med&amp;src=nlbest">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19828467">
+      <para>Steevens J, Schouten LJ, Goldbohm RA, van den Brandt PA. Alcohol consumption, cigarette smoking and risk of subtypes of oesophageal and gastric cancer: a prospective cohort study. <em>Gut</em>. 2010 Jan. 59(1):39-48. <a href="http://reference.medscape.com/medline/abstract/19828467">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21960262">
+      <para>Steevens J, Schouten LJ, Goldbohm RA, van den Brandt PA. Vegetables and fruits consumption and risk of esophageal and gastric cancer subtypes in the Netherlands Cohort Study. <em>Int J Cancer</em>. 2011 Dec 1. 129(11):2681-93. <a href="http://reference.medscape.com/medline/abstract/21960262">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22228147">
+      <para>Sitas F, Egger S, Urban MI, et al. InterSCOPE study: associations between esophageal squamous cell carcinoma and human papillomavirus serological markers. <em>J Natl Cancer Inst</em>. 2012 Jan 18. 104(2):147-58. <a href="http://reference.medscape.com/medline/abstract/22228147">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3260131/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14954081">
+      <para>Morson BC, Belcher JR. Adenocarcinoma of the oesophagus and ectopic gastric mucosa. <em>Br J Cancer</em>. 1952 Jun. 6(2):127-30. <a href="http://reference.medscape.com/medline/abstract/14954081">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1186274">
+      <para>Naef AP, Savary M, Ozzello L. Columnar-lined lower esophagus: an acquired lesion with malignant predisposition. Report on 140 cases of Barrett's esophagus with 12 adenocarcinomas. <em>J Thorac Cardiovasc Surg</em>. 1975 Nov. 70(5):826-35. <a href="http://reference.medscape.com/medline/abstract/1186274">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21680910">
+      <para>Bhat S, Coleman HG, Yousef F, et al. Risk of malignant progression in Barrett's esophagus patients: results from a large population-based study. <em>J Natl Cancer Inst</em>. 2011 Jul 6. 103(13):1049-57. <a href="http://reference.medscape.com/medline/abstract/21680910">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21995385">
+      <para>Hvid-Jensen F, Pedersen L, Drewes AM, et al. Incidence of adenocarcinoma among patients with Barrett's esophagus. <em>N Engl J Med</em>. 2011 Oct 13. 365(15):1375-83. <a href="http://reference.medscape.com/medline/abstract/21995385">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>American Cancer Society. Cancer Facts &amp; Figures 2013. Available at <a href="http://www.cancer.org/acs/groups/content/@epidemiologysurveilance/documents/document/acspc-036845.pdf">http://www.cancer.org/acs/groups/content/@epidemiologysurveilance/documents/document/acspc-036845.pdf</a>. Accessed: February 6, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22237781">
+      <para>Siegel R, Naishadham D, Jemal A. Cancer statistics, 2012. <em>CA Cancer J Clin</em>. 2012 Jan-Feb. 62(1):10-29. <a href="http://reference.medscape.com/medline/abstract/22237781">[Medline]</a>. <a href="http://onlinelibrary.wiley.com/doi/10.3322/caac.20138/full">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8049992">
+      <para>Kirby TJ, Rice TW. The epidemiology of esophageal carcinoma. The changing face of a disease. <em>Chest Surg Clin N Am</em>. 1994 May. 4(2):217-25. <a href="http://reference.medscape.com/medline/abstract/8049992">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10493486">
+      <para>Orringer MB, Marshall B, Iannettoni MD. Transhiatal esophagectomy: clinical experience and refinements. <em>Ann Surg</em>. 1999 Sep. 230(3):392-400; discussion 400-3. <a href="http://reference.medscape.com/medline/abstract/10493486">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18222237">
+      <para>Chang AC, Ji H, Birkmeyer NJ, et al. Outcomes after transhiatal and transthoracic esophagectomy for cancer. <em>Ann Thorac Surg</em>. 2008 Feb. 85(2):424-9. <a href="http://reference.medscape.com/medline/abstract/18222237">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9324146">
+      <para>Chu KM, Law SY, Fok M, et al. A prospective randomized comparison of transhiatal and transthoracic resection for lower-third esophageal carcinoma. <em>Am J Surg</em>. 1997 Sep. 174(3):320-4. <a href="http://reference.medscape.com/medline/abstract/9324146">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21456015">
+      <para>Suzuki A, Xiao L, Hayashi Y, et al. Prognostic significance of baseline positron emission tomography and importance of clinical complete response in patients with esophageal or gastroesophageal junction cancer treated with definitive chemoradiotherapy. <em>Cancer</em>. 2011 Nov 1. 117(21):4823-33. <a href="http://reference.medscape.com/medline/abstract/21456015">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144261/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Gillies RS, Middleton MR, Han C, et al. Role of positron emission tomography–computed tomography in predicting survival after neoadjuvant chemotherapy and surgery for oesophageal adenocarcinoma. <em>Brit J Surg</em>. Feb 2012. 99(2):239-45. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23334118">
+      <para>Prins MJ, Ruurda JP, van Diest PJ, van Hillegersberg R, Ten Kate FJ. The significance of the HER-2 status in esophageal adenocarcinoma for survival: an immunohistochemical and an in situ hybridization study. <em>Ann Oncol</em>. 2013 Jan 18. <a href="http://reference.medscape.com/medline/abstract/23334118">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nelson R. New Clinical Guidelines Issued for Esophageal Cancer. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/807141">http://www.medscape.com/viewarticle/807141</a>. Accessed: July 16, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23752201">
+      <para>Varghese TK Jr,  Hofstetter WL,  Rizk NP,  Low DE,  Darling GE,  Watson TJ, et al. The society of thoracic surgeons guidelines on the diagnosis and staging of patients with esophageal cancer. <em>Ann Thorac Surg</em>. 2013 Jul. 96(1):346-56. <a href="http://reference.medscape.com/medline/abstract/23752201">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8491132">
+      <para>Dittler HJ, Siewert JR. Role of endoscopic ultrasonography in esophageal carcinoma. <em>Endoscopy</em>. 1993 Feb. 25(2):156-61. <a href="http://reference.medscape.com/medline/abstract/8491132">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8049994">
+      <para>O'Donovan PB. The radiographic evaluation of the patient with esophageal carcinoma. <em>Chest Surg Clin N Am</em>. 1994 May. 4(2):241-56. <a href="http://reference.medscape.com/medline/abstract/8049994">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20564099">
+      <para>Rice TW, Rusch VW, Ishwaran H, Blackstone EH. Cancer of the esophagus and esophagogastric junction: data-driven staging for the seventh edition of the American Joint Committee on Cancer/International Union Against Cancer Cancer Staging Manuals. <em>Cancer</em>. 2010 Aug 15. 116(16):3763-73. <a href="http://reference.medscape.com/medline/abstract/20564099">[Medline]</a>. <a href="http://onlinelibrary.wiley.com/doi/10.1002/cncr.25146/full">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17643602">
+      <para>Hofstetter W, Correa AM, Bekele N, et al. Proposed modification of nodal status in AJCC esophageal cancer staging system. <em>Ann Thorac Surg</em>. 2007 Aug. 84(2):365-73; discussion 374-5. <a href="http://reference.medscape.com/medline/abstract/17643602">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12707817">
+      <para>Herbella FA, Del Grande JC, Colleoni R. Japanese Society for Disease of the Esophagus. Anatomical analysis of the mediastinal lymph nodes of normal Brazilian subjects according to the classification of the Japanese Society for Diseases of the Esophagus. <em>Surg Today</em>. 2003. 33(4):249-53. <a href="http://reference.medscape.com/medline/abstract/12707817">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>NCCN Clinical Practice Guidelines in Oncology. Esophageal and Esophagogastric Junction Cancers (Excluding the proximal 5 cm of the stomach). Available at <a href="http://www.nccn.org/professionals/physician_gls/pdf/esophageal.pdf">http://www.nccn.org/professionals/physician_gls/pdf/esophageal.pdf</a>. Accessed: May 14, 2012.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10235156">
+      <para>Cooper JS, Guo MD, Herskovic A, et al. Chemoradiotherapy of locally advanced esophageal cancer: long-term follow-up of a prospective randomized trial (RTOG 85-01). Radiation Therapy Oncology Group. <em>JAMA</em>. 1999 May 5. 281(17):1623-7. <a href="http://reference.medscape.com/medline/abstract/10235156">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8501498">
+      <para>Forastiere AA, Orringer MB, Perez-Tamayo C, et al. Preoperative chemoradiation followed by transhiatal esophagectomy for carcinoma of the esophagus: final report. <em>J Clin Oncol</em>. 1993 Jun. 11(6):1118-23. <a href="http://reference.medscape.com/medline/abstract/8501498">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21684205">
+      <para>Sjoquist KM,  Burmeister BH,  Smithers BM,  Zalcberg JR,  Simes RJ,  Barbour A, et al. Survival after neoadjuvant chemotherapy or chemoradiotherapy for resectable oesophageal carcinoma: an updated meta-analysis. <em>Lancet Oncol</em>. 2011 Jul. 12(7):681-92. <a href="http://reference.medscape.com/medline/abstract/21684205">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8137201">
+      <para>Le Prise E, Etienne PL, Meunier B, et al. A randomized study of chemotherapy, radiation therapy, and surgery versus surgery for localized squamous cell carcinoma of the esophagus. <em>Cancer</em>. 1994 Apr 1. 73(7):1779-84. <a href="http://reference.medscape.com/medline/abstract/8137201">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6538224">
+      <para>Leichman L, Steiger Z, Seydel HG, et al. Preoperative chemotherapy and radiation therapy for patients with cancer of the esophagus: a potentially curative approach. <em>J Clin Oncol</em>. 1984 Feb. 2(2):75-9. <a href="http://reference.medscape.com/medline/abstract/6538224">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1455880">
+      <para>Nygaard K, Hagen S, Hansen HS, et al. Pre-operative radiotherapy prolongs survival in operable esophageal carcinoma: a randomized, multicenter study of pre-operative radiotherapy and chemotherapy. The second Scandinavian trial in esophageal cancer. <em>World J Surg</em>. 1992 Nov-Dec. 16(6):1104-9; discussion 1110. <a href="http://reference.medscape.com/medline/abstract/1455880">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17457163">
+      <para>Reynolds JV,  Muldoon C,  Hollywood D,  Ravi N,  Rowley S,  O'Byrne K, et al. Long-term outcomes following neoadjuvant chemoradiotherapy for esophageal cancer. <em>Ann Surg</em>. 2007 May. 245(5):707-16. <a href="http://reference.medscape.com/medline/abstract/17457163">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1877071/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19515184">
+      <para>Schomas DA, Quevedo JF, Donahue JM, Nichols FC 3rd, Romero Y, Miller RC. The prognostic importance of pathologically involved celiac node metastases in node-positive patients with carcinoma of the distal esophagus or gastroesophageal junction: a surgical series from the Mayo Clinic. <em>Dis Esophagus</em>. 2010 Apr. 23(3):232-9. <a href="http://reference.medscape.com/medline/abstract/19515184">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9933699">
+      <para>Gluch L, Smith RC, Bambach CP, et al. Comparison of outcomes following transhiatal or Ivor Lewis esophagectomy for esophageal carcinoma. <em>World J Surg</em>. 1999 Mar. 23(3):271-5; discussion 275-6. <a href="http://reference.medscape.com/medline/abstract/9933699">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8472154">
+      <para>Goldminc M, Maddern G, Le Prise E, et al. Oesophagectomy by a transhiatal approach or thoracotomy: a prospective randomized trial. <em>Br J Surg</em>. 1993 Mar. 80(3):367-70. <a href="http://reference.medscape.com/medline/abstract/8472154">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2730191">
+      <para>Hankins JR, Attar S, Coughlin TR Jr, et al. Carcinoma of the esophagus: a comparison of the results of transhiatal versus transthoracic resection. <em>Ann Thorac Surg</em>. 1989 May. 47(5):700-5. <a href="http://reference.medscape.com/medline/abstract/2730191">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Stiles BM, Altorki NK. Traditional techniques of esophagectomy. <em>Surg Clin North Am</em>. 2012 Oct. 92(5):1249-63. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21167516">
+      <para>Dai Y, Chopra SS, Kneif S, Hunerbein M. Management of esophageal anastomotic leaks, perforations, and fistulae with self-expanding plastic stents. <em>J Thorac Cardiovasc Surg</em>. 2011 May. 141(5):1213-7. <a href="http://reference.medscape.com/medline/abstract/21167516">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16135925">
+      <para>Martin LW, Swisher SG, Hofstetter W, et al. Intrathoracic leaks following esophagectomy are no longer associated with increased mortality. <em>Ann Surg</em>. 2005 Sep. 242(3):392-9; discussion 399-402. <a href="http://reference.medscape.com/medline/abstract/16135925">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9834415">
+      <para>Patti MG, Corvera CU, Glasgow RE, et al. A hospital's annual rate of esophagectomy influences the operative mortality rate. <em>J Gastrointest Surg</em>. 1998 Mar-Apr. 2(2):186-92. <a href="http://reference.medscape.com/medline/abstract/9834415">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14644277">
+      <para>Nguyen NT, Roberts P, Follette DM, et al. Thoracoscopic and laparoscopic esophagectomy for benign and malignant disease: lessons learned from 46 consecutive procedures. <em>J Am Coll Surg</em>. 2003 Dec. 197(6):902-13. <a href="http://reference.medscape.com/medline/abstract/14644277">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21503793">
+      <para>Uenosono Y, Arigami T, Yanagita S, et al. Sentinel node navigation surgery is acceptable for clinical T1 and N0 esophageal cancer. <em>Ann Surg Oncol</em>. 2011 Jul. 18(7):2003-9. <a href="http://reference.medscape.com/medline/abstract/21503793">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23735443">
+      <para>Ngamruengphong S, Wolfsen HC, Wallace MB. Survival of Patients With Superficial Esophageal Adenocarcinoma After Endoscopic Treatment vs Surgery. <em>Clin Gastroenterol Hepatol</em>. 2013 Nov. 11(11):1424-1429.e2. <a href="http://reference.medscape.com/medline/abstract/23735443">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brooks M. Endoscopic Therapy a Good Option in Early Esophageal Cancer. Medscape [serial online]. Available at <a href="http://www.medscape.com/viewarticle/814817">http://www.medscape.com/viewarticle/814817</a>. Accessed: November 25, 2013.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Novak B. Salvage endoscopy viable for some esophageal cancers. <em>Medscape Medical News</em>. January 29, 2014. <a href="http://www.medscape.com/viewarticle/819920">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16822992">
+      <para>Cunningham D, Allum WH, Stenning SP, et al. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer. <em>N Engl J Med</em>. 2006 Jul 6. 355(1):11-20. <a href="http://reference.medscape.com/medline/abstract/16822992">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19770374">
+      <para>Allum WH, Stenning SP, Bancewicz J, Clark PI, Langley RE. Long-term results of a randomized trial of surgery with or without preoperative chemotherapy in esophageal cancer. <em>J Clin Oncol</em>. 2009 Oct 20. 27(30):5062-7. <a href="http://reference.medscape.com/medline/abstract/19770374">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22646630">
+      <para>van Hagen P,  Hulshof MC,  van Lanschot JJ,  Steyerberg EW,  van Berge Henegouwen MI,  Wijnhoven BP, et al. Preoperative chemoradiotherapy for esophageal or junctional cancer. <em>N Engl J Med</em>. 2012 May 31. 366(22):2074-84. <a href="http://reference.medscape.com/medline/abstract/22646630">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brooks M. Preop chemoradiation benefits confirmed in esophageal cancer. <em>Medscape Medical News</em>. January 16, 2014. <a href="http://www.medscape.com/viewarticle/819320">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24419108">
+      <para>Oppedijk V,  van der Gaast A,  van Lanschot JJ,  van Hagen P,  van Os R,  van Rij CM, et al. Patterns of Recurrence After Surgery Alone Versus Preoperative Chemoradiotherapy and Surgery in the CROSS Trials. <em>J Clin Oncol</em>. 2014 Jan 13. <a href="http://reference.medscape.com/medline/abstract/24419108">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24419110">
+      <para>Mamon HJ, Tepper JE. Combination Chemoradiation Therapy: The Whole Is More Than the Sum of the Parts. <em>J Clin Oncol</em>. 2014 Jan 13. <a href="http://reference.medscape.com/medline/abstract/24419110">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16130133">
+      <para>Rohatgi PR,  Swisher SG,  Correa AM,  Wu TT,  Liao Z,  Komaki R, et al. Failure patterns correlate with the proportion of residual carcinoma after preoperative chemoradiotherapy for carcinoma of the esophagus. <em>Cancer</em>. 2005 Oct 1. 104(7):1349-55. <a href="http://reference.medscape.com/medline/abstract/16130133">[Medline]</a>. <a href="http://onlinelibrary.wiley.com/doi/10.1002/cncr.21346/abstract;jsessionid=A3A15AF05B48112514E45660232D2D57.d03t01">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21609936">
+      <para>Rao S, Welsh L, Cunningham D, et al. Correlation of overall survival with gene expression profiles in a prospective study of resectable esophageal cancer. <em>Clin Colorectal Cancer</em>. 2011 Mar 1. 10(1):48-56. <a href="http://reference.medscape.com/medline/abstract/21609936">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22000749">
+      <para>Alexander BM,  Wang XZ,  Niemierko A,  Weaver DT,  Mak RH,  Roof KS, et al. DNA repair biomarkers predict response to neoadjuvant chemoradiotherapy in esophageal cancer. <em>Int J Radiat Oncol Biol Phys</em>. 2012 May 1. 83(1):164-71. <a href="http://reference.medscape.com/medline/abstract/22000749">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23765693">
+      <para>Fietkau R, Lewitzki V, Kuhnt T, et al. A disease-specific enteral nutrition formula improves nutritional status and functional performance in patients with head and neck and esophageal cancer undergoing chemoradiotherapy: results of a randomized, controlled, multicenter trial. <em>Cancer</em>. 2013 Jun 13. <a href="http://reference.medscape.com/medline/abstract/23765693">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Tailored Enteral Formula During Chemoradiotherapy Curbs Body Mass Loss. <em>Medscape</em>. Jun 21 2013. <a href="http://www.medscape.com/viewarticle/806749">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12605971">
+      <para>[Guideline] Wong RK, Malthaner RA, Zuraw L, Rumble RB,. Combined modality radiotherapy and chemotherapy in nonsurgical management of localized carcinoma of the esophagus: a practice guideline. <em>Int J Radiat Oncol Biol Phys</em>. 2003 Mar 15. 55(4):930-42. <a href="http://reference.medscape.com/medline/abstract/12605971">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Chustecka Z. Second-line docetaxel affirmed for esophagogastric cancer. Medscape Medical News. Jan 23, 2013. Available at <a href="http://www.medscape.com/viewarticle/778031">http://www.medscape.com/viewarticle/778031</a>. Accessed: January 28, 2013.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Ford H, Marshall A, Wadsley J, et al. Cougar-02: a randomized phase III study of docetaxel versus active symptom control in advanced esophagogastric adenocarcinoma. <em>J Clin Oncol</em>. 2012. 30:(suppl 34 abstr LBA4). </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17054195">
+      <para>Homs MY, v d Gaast A, Siersema PD, et al. Chemotherapy for metastatic carcinoma of the esophagus and gastro-esophageal junction. <em>Cochrane Database Syst Rev</em>. 2006 Oct 18. CD004063. <a href="http://reference.medscape.com/medline/abstract/17054195">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1584260">
+      <para>Herskovic A, Martz K, al-Sarraf M, et al. Combined chemotherapy and radiotherapy compared with radiotherapy alone in patients with cancer of the esophagus. <em>N Engl J Med</em>. 1992 Jun 11. 326(24):1593-8. <a href="http://reference.medscape.com/medline/abstract/1584260">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23434221">
+      <para>Folkert MR, Cohen GN, Wu AJ, et al. Endoluminal high-dose-rate brachytherapy for early stage and recurrent esophageal cancer in medically inoperable patients. <em>Brachytherapy</em>. 2013 Feb 20. <a href="http://reference.medscape.com/medline/abstract/23434221">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21679712">
+      <para>Shaheen NJ,  Overholt BF,  Sampliner RE,  Wolfsen HC,  Wang KK,  Fleischer DE, et al. Durability of radiofrequency ablation in Barrett's esophagus with dysplasia. <em>Gastroenterology</em>. 2011 Aug. 141(2):460-8. <a href="http://reference.medscape.com/medline/abstract/21679712">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152658/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24556041">
+      <para>Conroy T, Galais MP, Raoul JL, et al. Definitive chemoradiotherapy with FOLFOX versus fluorouracil and cisplatin in patients with oesophageal cancer (PRODIGE5/ACCORD17): final results of a randomised, phase 2/3 trial. <em>Lancet Oncol</em>. 2014 Mar. 15(3):305-14. <a href="http://reference.medscape.com/medline/abstract/24556041">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17329193">
+      <para>Gebski V, Burmeister B, Smithers BM, et al. Survival benefits from neoadjuvant chemoradiotherapy or chemotherapy in oesophageal carcinoma: a meta-analysis. <em>Lancet Oncol</em>. 2007 Mar. 8(3):226-34. <a href="http://reference.medscape.com/medline/abstract/17329193">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9869669">
+      <para>Kelsen DP,  Ginsberg R,  Pajak TF,  Sheahan DG,  Gunderson L,  Mortimer J, et al. Chemotherapy followed by surgery compared with surgery alone for localized esophageal cancer. <em>N Engl J Med</em>. 1998 Dec 31. 339(27):1979-84. <a href="http://reference.medscape.com/medline/abstract/9869669">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7692297">
+      <para>Knyrim K, Wagner HJ, Bethge N, Keymling M, Vakil N. A controlled trial of an expansile metal stent for palliation of esophageal obstruction due to inoperable cancer. <em>N Engl J Med</em>. 1993 Oct 28. 329(18):1302-7. <a href="http://reference.medscape.com/medline/abstract/7692297">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lowry F. FOLFOX: More convenient for esophageal cancer?. <em>Medscape Medical News</em>. April 2, 2014. <a href="http://www.medscape.com/viewarticle/822970">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20584580">
+      <para>Scheer RV, Fakiris AJ, Johnstone PA. Quantifying the benefit of a pathologic complete response after neoadjuvant chemoradiotherapy in the treatment of esophageal cancer. <em>Int J Radiat Oncol Biol Phys</em>. 2011 Jul 15. 80(4):996-1001. <a href="http://reference.medscape.com/medline/abstract/20584580">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

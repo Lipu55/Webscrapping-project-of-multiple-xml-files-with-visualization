@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="288016" pubid="" template="Psychiatry" template-name="multipage">
+  <site-meta>
+    <article-name>Phobic Disorders</article-name>
+    <title>
+      <page-info id="overview">Phobic Disorders: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Phobic Disorders Clinical Presentation: History, Physical Examination, Complications</page-info>
+      <page-info id="differential">Phobic Disorders Differential Diagnoses</page-info>
+      <page-info id="workup">Phobic Disorders Workup: Approach Considerations</page-info>
+      <page-info id="treatment">Phobic Disorders Treatment &amp; Management: Approach Considerations, Pharmacotherapy, Psychotherapy</page-info>
+      <page-info id="medication">Phobic Disorders Medication: Antidepressants, SSRIs, Antidepressants, SNRIs, Benzodiazepines, Antianxiety Agents, Antihypertensive Agents, Antidepressants, TCAs, Antidepressants, MAO Inhibitors, Anticonvulsants</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Phobic Disorders: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Phobic Disorders Clinical Presentation: History, Physical Examination, Complications</page-info>
+      <page-info id="differential">Phobic Disorders Differential Diagnoses</page-info>
+      <page-info id="workup">Phobic Disorders Workup: Approach Considerations</page-info>
+      <page-info id="treatment">Phobic Disorders Treatment &amp; Management: Approach Considerations, Pharmacotherapy, Psychotherapy</page-info>
+      <page-info id="medication">Phobic Disorders Medication: Antidepressants, SSRIs, Antidepressants, SNRIs, Benzodiazepines, Antianxiety Agents, Antihypertensive Agents, Antidepressants, TCAs, Antidepressants, MAO Inhibitors, Anticonvulsants</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a2">Background</section-info>
+<section-info id="a3">Pathophysiology</section-info>
+<section-info id="a4">Etiology</section-info>
+<section-info id="a5">Epidemiology</section-info>
+<section-info id="a6">Prognosis</section-info>
+<section-info id="a7">Patient Education</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b2">Physical Examination</section-info>
+<section-info id="b3">Complications</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c1">Approach Considerations</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d1">Approach Considerations</section-info>
+<section-info id="d7">Pharmacotherapy</section-info>
+<section-info id="d8">Psychotherapy</section-info>
+<section-info id="d9">Diet and Activity</section-info>
+<section-info id="d10">Prevention</section-info>
+<section-info id="d11">Consultations</section-info>
+<section-info id="d12">Long-Term Monitoring</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Phobic Disorders Overview</page-info>
+      <page-info id="clinical">Phobic Disorders Clinical Presentation</page-info>
+      <page-info id="differential">Phobic Disorders Differential Diagnoses</page-info>
+      <page-info id="workup">Phobic Disorders Workup</page-info>
+      <page-info id="treatment">Phobic Disorders Treatment</page-info>
+      <page-info id="medication">Phobic Disorders Medication</page-info>
+    </meta-keywords>
+    <uri>288016-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Jul 30, 2014</posting-date>
+    <last-generated>2015-06-20-01:28</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Psychiatry</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>288016</artid>
+      <cg>502</cg>
+      <scg text="Depression">1440</scg>
+      <ssp text="Psychiatry">12</ssp>
+      <bc>f41_f40_f33</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>psychiatry</id>
+      <name>Psychiatry</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>psychiatry_adult</id>
+      <name>Adult</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">phobic disorders, phobias, simple phobia, specific phobia, anxiety disorders, social phobia, social anxiety disorder, agoraphobia, panic, phobic neurosis, phobic reaction, fear, mood disorders</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">A phobia is defined as an irrational fear that produces a conscious avoidance of the feared subject, activity, or situation. The affected person usually recognizes that the reaction is excessive.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Phobic Disorders</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Collectively, phobic disorders (including social anxiety disorder [social phobia], specific phobia, and agoraphobia) are the most common forms of psychiatric illness, surpassing the rates of mood disorders and substance abuse. Severity can range from mild and unobtrusive to severe and can result in incapacity to work, travel, or interact with others. </para>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>In obtaining a history from a patient with symptoms of a phobic disorder, the physician should inquire about the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Other anxiety disorders</para>
+          </listitem>
+          <listitem>
+            <para>Depression</para>
+          </listitem>
+          <listitem>
+            <para>Suicidal ideation</para>
+          </listitem>
+          <listitem>
+            <para>Substance-related disorders</para>
+          </listitem>
+          <listitem>
+            <para>Caffeine intake</para>
+          </listitem>
+          <listitem>
+            <para>Alcohol intake</para>
+          </listitem>
+          <listitem>
+            <para>Difficulties in social situations (in suspected social anxiety disorder)</para>
+          </listitem>
+          <listitem>
+            <para>Irrational and out-of-proportion fear or avoidance of particular objects or situations (in suspected specific phobia)</para>
+          </listitem>
+          <listitem>
+            <para>Intense anxiety reactions with exposure to specific situations (in suspected agoraphobia)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Anxiety is the most common feature in phobic disorders. Manifestations include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Elevated heart rate</para>
+          </listitem>
+          <listitem>
+            <para>Elevated blood pressure</para>
+          </listitem>
+          <listitem>
+            <para>Tremor</para>
+          </listitem>
+          <listitem>
+            <para>Palpitations</para>
+          </listitem>
+          <listitem>
+            <para>Diarrhea</para>
+          </listitem>
+          <listitem>
+            <para>Sweating</para>
+          </listitem>
+          <listitem>
+            <para>Dyspnea</para>
+          </listitem>
+          <listitem>
+            <para>Paresthesias</para>
+          </listitem>
+          <listitem>
+            <para>Dizziness</para>
+          </listitem>
+        </itemizedlist>
+        <para>Because anxiety manifests with a number of physical symptoms, any patient who presents with a de novo complaint of physical symptoms suggestive of an anxiety disorder should undergo a physical examination to help rule out medical conditions that might present with anxietylike symptoms. </para>
+        <para>For a patient with a suspected phobic disorder, the mental status examination should include assessment of the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Appearance</para>
+          </listitem>
+          <listitem>
+            <para>Behavior</para>
+          </listitem>
+          <listitem>
+            <para>Ability to cooperate with the examination</para>
+          </listitem>
+          <listitem>
+            <para>level of activity</para>
+          </listitem>
+          <listitem>
+            <para>Speech</para>
+          </listitem>
+          <listitem>
+            <para>Mood and affect</para>
+          </listitem>
+          <listitem>
+            <para>Thought processes and content</para>
+          </listitem>
+          <listitem>
+            <para>Insight</para>
+          </listitem>
+          <listitem>
+            <para>Judgment</para>
+          </listitem>
+        </itemizedlist>
+        <para>Findings in a patient with a phobic disorder may include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Neurovegetative signs</para>
+          </listitem>
+          <listitem>
+            <para>Anxious affect upon abrupt confrontation with the object of the phobia</para>
+          </listitem>
+          <listitem>
+            <para>Anxious mood</para>
+          </listitem>
+          <listitem>
+            <para>Ability to identify the reason for the anxiety</para>
+          </listitem>
+          <listitem>
+            <para>Thought content that is significant for phobic ideation (unrealistic and out-of-proportion fears)</para>
+          </listitem>
+          <listitem>
+            <para>Preserved insight (usually; may be impaired, especially during exposure)</para>
+          </listitem>
+          <listitem>
+            <para>If comorbid conditions are present, possible suicidal or homicidal ideation</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/288016-clinical">Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>To rule out anxiety secondary to medical conditions, the following tests may be helpful:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Thyroid function tests</para>
+          </listitem>
+          <listitem>
+            <para>Fasting glucose</para>
+          </listitem>
+          <listitem>
+            <para>Calcium</para>
+          </listitem>
+          <listitem>
+            <para>24-hour urine for 5-hydroxyindoleacetic acid (5-HIAA)</para>
+          </listitem>
+          <listitem>
+            <para>Drug screen</para>
+          </listitem>
+          <listitem>
+            <para>Electrocardiography (ECG) and cardiac enzyme tests</para>
+          </listitem>
+          <listitem>
+            <para>Electroencephalography (EEG) - Seizure disorders (these conditions may mimic anxiety)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Where medical illness, such as a seizure disorder, is suspected, the following Imaging studies may be considered:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Computed tomography (CT) of the head</para>
+          </listitem>
+          <listitem>
+            <para>Magnetic resonance imaging (MRI)</para>
+          </listitem>
+          <listitem>
+            <para>Echocardiography</para>
+          </listitem>
+          <listitem>
+            <para>Positron emission tomography (PET)</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/288016-workup">Workup</a><strong>f</strong> or more detail. </para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Treatment of phobic disorders usually consists of pharmacotherapy, psychotherapy, or some combination thereof.</para>
+        <para>Pharmacotherapy for social anxiety disorder may include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Paroxetine and sertraline (FDA-approved)</para>
+          </listitem>
+          <listitem>
+            <para>Venlafaxine (FDA-approved)</para>
+          </listitem>
+          <listitem>
+            <para>Escitalopram, fluoxetine, and fluvoxamine</para>
+          </listitem>
+          <listitem>
+            <para>Phenelzine</para>
+          </listitem>
+          <listitem>
+            <para>Moclobemide (not approved in the United States)</para>
+          </listitem>
+          <listitem>
+            <para>Tricyclic antidepressants (TCAs)</para>
+          </listitem>
+          <listitem>
+            <para>Beta-blockers (eg, propranolol)</para>
+          </listitem>
+          <listitem>
+            <para>Selected anticonvulsants (eg, gabapentin, pregabalin, valproic acid, topiramate, and tiagabine)</para>
+          </listitem>
+        </itemizedlist>
+        <para>No controlled studies have demonstrated the efficacy of psychopharmacologic intervention for specific phobias. As-needed administration of a short-acting benzodiazepine may be useful for temporary anxiety relief in specific situations. </para>
+        <para>Agents that may be considered for agoraphobia include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>SSRIs (eg, escitalopram, citalopram, fluoxetine, fluvoxamine, paroxetine, and sertraline),</para>
+          </listitem>
+          <listitem>
+            <para>Venlafaxine and reboxetine</para>
+          </listitem>
+          <listitem>
+            <para>Some TCAs (eg, clomipramine and imipramine)</para>
+          </listitem>
+          <listitem>
+            <para>Some benzodiazepines (eg, alprazolam, lorazepam, diazepam, and clonazepam)</para>
+          </listitem>
+          <listitem>
+            <para>Mirtazapine</para>
+          </listitem>
+          <listitem>
+            <para>Moclobemide</para>
+          </listitem>
+        </itemizedlist>
+        <para>Psychotherapeutic interventions that may be helpful for treating phobic disorders include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Social anxiety disorder (social phobia) - Self-exposure monotherapy, computer-based exposure training, clinician-led exposure, or combination therapies (eg, self-exposure and cognitive-behavioral therapy (CBT)/self-help manual) </para>
+          </listitem>
+          <listitem>
+            <para>Specific phobia - CBT-based approach, including gradual desensitization; relaxation and breathing control techniques; exposure therapy </para>
+          </listitem>
+          <listitem>
+            <para>Agoraphobia - Combination of exposure therapy, relaxation, and breathing retraining</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/288016-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/288016-medication">Medication</a> for more detail.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a2">
+      <title>Background</title>
+      <pgroup>
+        <para>A phobia is defined as an irrational fear that produces a conscious avoidance of the feared subject, activity, or situation. The affected person usually recognizes that the reaction is excessive. </para>
+        <para>Collectively, phobic disorders are the most common forms of psychiatric illness, surpassing the rates of mood disorders and substance abuse. Severity can range from mild and unobtrusive to severe and can result in incapacity to work, travel, or interact with others. </para>
+        <para>Treatment of phobic disorders usually consists of pharmacotherapy, psychotherapy, or some combination thereof. As a rule, a selected medication regimen should be continued for at least 6-12 months. If the symptoms have resolved and the patient is not experiencing excessive stress, the physician can gradually taper the patient off the medication. Psychotherapy usually helps make the transition away from medication more successful.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnostic criteria (DSM-5)</title>
+        <para>According to the American Psychiatric Association’s <em>Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)</em>, phobic disorders are no longer a distinct group of anxiety disorders<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>; nonetheless, they may still constitute a useful conceptual category. The 3 diagnoses that may be thought of as belonging to this category are as follows: </para>
+        <itemizedlist>
+          <listitem>
+            <para><a href="http://emedicine.medscape.com/article/290854-overview">Social anxiety disorder (social phobia)</a> - A strong, persisting fear of an interpersonal situation in which embarrassment can occur</para>
+          </listitem>
+          <listitem>
+            <para>Specific phobia - An overwhelming, persisting fear of an object or situation; it differs from other anxiety disorders in that the fear and anxiety is induced by the presence of the phobic situation or object </para>
+          </listitem>
+          <listitem>
+            <para>Agoraphobia - The fear of being alone in public places, particularly places from which a rapid exit would be difficult or help might not be available in the course of a panic attack or other embarrassing symptoms </para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Social anxiety disorder (social phobia)</em>
+        </para>
+        <para>The specific <em>DSM-5</em> criteria for social anxiety disorder (social phobia) are as follows<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Marked fear or anxiety about 1 or more social situations in which the individual might be scrutinized by others, such as social interactions (eg, having a conversation or meeting unfamiliar people), being observed (eg, eating or drinking), and performing in front of others (eg, giving a speech); in children, the anxiety may occur in peer settings and not just during interactions with adults </para>
+          </listitem>
+          <listitem>
+            <para>The individual fears acting in a way or showing anxiety symptoms that will be negatively evaluated (eg, will be humiliating or embarrassing, will lead to rejection, or will offend others) </para>
+          </listitem>
+          <listitem>
+            <para>The social situation almost always provokes immediate fear or anxiety; in children, anxiety may be expressed by crying, tantrums, freezing, clinging shrinking, or failing to speak in social situations </para>
+          </listitem>
+          <listitem>
+            <para>The social situations are actively avoided or endured with intense fear or anxiety</para>
+          </listitem>
+          <listitem>
+            <para>The fear or anxiety is out of proportion to the actual threat posed by the social situation and to the sociocultural context</para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety, or avoidance persists, typically for 6 months or longer</para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety or avoidance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning </para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety or avoidance cannot be attributed to the physiologic effects of a substance (eg, a drug of abuse or medication) or another medical condition </para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety or avoidance cannot be better explained by the symptoms of another mental disorder (eg, panic disorder, body dysmorphic disorder, or autism spectrum disorder) </para>
+          </listitem>
+          <listitem>
+            <para>If another medical condition (eg, Parkinson disease, obesity, or disfigurement caused by a burn or injury) is present, the fear, anxiety, or avoidance is clearly unrelated or is excessive </para>
+          </listitem>
+        </itemizedlist>
+        <para>Performance-only subtype is specified when fear is restricted to speaking or performing in public. Individuals with performance-only social phobia do not fear or avoid nonperformance in generic social situations; their phobic reaction is typically restricted to professional performance (eg, musicians, dancers, performers, or athletes or public speaking).</para>
+        <para>
+          <em>Specific phobia</em>
+        </para>
+        <para>The specific <em>DSM-5</em> criteria for specific phobia are as follows<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Marked fear or anxiety about a specific object or situation (eg, flying, heights, animals, receiving an injection, or seeing blood); in children, this fear or anxiety may be expressed by crying, tantrums, freezing or clinging </para>
+          </listitem>
+          <listitem>
+            <para>The phobic object or situation almost always provokes immediate fear or anxiety</para>
+          </listitem>
+          <listitem>
+            <para>The phobic object or situation is actively avoided or endured with intense fear or anxiety</para>
+          </listitem>
+          <listitem>
+            <para>The fear or anxiety is out of proportion to the actual danger posed by the specific object or situation and to the sociocultural context </para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety, or avoidance persists, typically for 6 months or longer</para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety or avoidance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning </para>
+          </listitem>
+          <listitem>
+            <para>The disturbance cannot be better explained by the symptoms of another mental disorder, including fear, anxiety, and avoidance of situations associated with paniclike symptoms or other incapacitating symptoms (as in agoraphobia); objects or situations related to obsessions (as in obsessive-compulsive disorder [OCD]); reminders of traumatic events (as in posttraumatic stress disorder [PTSD]); separation from home or attachment figures (as in separation anxiety disorder); or social situations (as in social anxiety disorder) </para>
+          </listitem>
+        </itemizedlist>
+        <para>The following specifiers are used, according to the phobic stimulus present<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Animal - Fear of dogs (cynophobia), cats (ailurophobia), bees (apiphobia), spiders (arachnophobia), snakes (ophidiophobia), or other animals </para>
+          </listitem>
+          <listitem>
+            <para>Natural environment - Fear of heights (acrophobia), water (hydrophobia), or thunderstorms (astraphobia)</para>
+          </listitem>
+          <listitem>
+            <para>Blood-injection-injury - Fear of needles or invasive medical procedures</para>
+          </listitem>
+          <listitem>
+            <para>Situational - Fear of flying, elevators, or enclosed spaces</para>
+          </listitem>
+          <listitem>
+            <para>Other - Fear of situations that may lead to choking or vomiting; in children, loud sounds or costumed characters</para>
+          </listitem>
+        </itemizedlist>
+        <para>Many individuals have multiple specific phobias. The average individual with specific phobia fears 3 objects or situations, and approximately 75% of individuals with specific phobia fear more than 1 situation or object. In such instances, multiple specific phobia diagnoses, each with its own diagnostic code reflecting the phobic stimulus, should be applied. </para>
+        <para>
+          <em>Agoraphobia</em>
+        </para>
+        <para>The specific <em>DSM-5</em> criteria for agoraphobia are as follows<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Marked fear or anxiety about at least 2 of the following 5 situations: (1) using public transportation (e.g. automobiles, buses, trains, ships, or planes), (2) being in open spaces (eg, parking lots, marketplaces, or bridges), (3) being in enclosed places (eg, shops, theaters, or cinemas), (4) standing in line or being in a crowd, and (5) being outside the home alone </para>
+          </listitem>
+          <listitem>
+            <para>The individual avoids these situations because of thoughts that escape might be difficult or help unavailable if paniclike symptoms or other embarrassing symptoms (eg, fear of falling in the elderly or fear of incontinence) should develop </para>
+          </listitem>
+          <listitem>
+            <para>The agoraphobic situations almost always provokes immediate fear or anxiety</para>
+          </listitem>
+          <listitem>
+            <para>The agoraphobic situations are actively avoided, necessitate the presence of a companion, or are endured with intense fear or anxiety </para>
+          </listitem>
+          <listitem>
+            <para>The fear or anxiety is out of proportion to the actual threat posed by the agoraphobic situation and to the sociocultural context </para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety, or avoidance persists, typically for 6 months or longer</para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety or avoidance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning </para>
+          </listitem>
+          <listitem>
+            <para>If another medical condition (eg, inflammatory bowel disease or Parkinson disease) is present, the fear, anxiety, or avoidance is clearly excessive </para>
+          </listitem>
+          <listitem>
+            <para>The fear, anxiety, or avoidance cannot be better explained by the symptoms of another mental disorder—for example, the symptoms are not confined to specific phobia, situational type; do not involve only social situations (as in social anxiety disorder); are not related exclusively to obsessions (as in OCD), perceived defects or flaws in physical appearance (as in body dysmorphic disorder), reminders of traumatic events (as in PTSD), or fear of separation (as in separation anxiety disorder) </para>
+          </listitem>
+        </itemizedlist>
+        <para>Although agoraphobia may be associated with panic disorder, it is diagnosed irrespective of the presence of panic disorder. In cases where the presentation meets the criteria for both panic disorder and agoraphobia, both diagnoses should be applied. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a3">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Several biologic theories are postulated for the pathogenesis of phobic disorders, most focusing on the dysregulation of endogenous biogenic amines. Sympathetic nervous system activation is common in phobic disorders, resulting in elevations in heart rate and blood pressure, as well as symptoms such as tremor, palpitations, sweating, dyspnea, dizziness, and paresthesias.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+        <para>Psychological theories range from explaining anxiety as a displacement of an intrapsychic conflict (psychodynamic models) to conditioning (learned) paradigms (cognitive-behavior models). Many of these theories capture portions of the disorder. </para>
+        <para>A psychoanalyst would likely conceptualize social anxiety as a symptom of a deeper conflict—for instance, low self-esteem or unresolved conflicts with internal objects. The treatment uses exploration with the goal of understanding the underlying conflict. </para>
+        <para>A behaviorist would see phobia as a learned, conditioned response resulting from a past association with a situation that had negative emotional valence at the time of association (eg, social situations are avoided because intense anxiety was originally experienced in that setting). Even if no danger is posed in most social encounters, an avoidance response has been linked to these situations. Treatment from this perspective aims to weaken and eventually separate the specific response from the stimulus. </para>
+        <para>Genetic factors seem to play a role in both social anxiety disorder (social phobia) and specific phobia. On the basis of family and twin studies, the risks for specific phobia and social anxiety disorder appear to be moderately heritable.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+        <para>Preliminary neuroimaging evidence indicates that while different patterns of brain activation might be associated with the different phobias,<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup>there is an overall increased activation in the prefrontal and orbitofrontal cortex, anterior cingulate cortex, insula, and amygdala in phobic patients exposed to phobia-related triggers compared with healthy controls.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Etiology</title>
+      <pgroup>
+        <para>Neurobiologic and psychological theories, as well as familial patterns, have contributed to understanding the underlying causes of phobic disorders. </para>
+      </pgroup>
+      <pgroup>
+        <title>Neurobiologic theories</title>
+        <para>
+          <em>Social anxiety disorder (social phobia)</em>
+        </para>
+        <para>Functional brain imaging studies of individuals engaged in public speaking suggest that patients with social anxiety disorder tend to overactivate a circuit involving the amygdala (related to face recognition and negative emotions) and the hippocampus; this may be the substrate for the exaggerated fear response.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>At the same time, patients with social anxiety disorder show a relative increase in dorsolateral prefrontal and temporal activation, which may be the result of impaired ability to process (inhibit) the excessive fear response efficiently.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+        <para>Positron emission tomography (PET) has shown lower serotonin (5-HT) 1A binding in the amygdala and mesiofrontal areas, and negative correlations between cortisol plasma levels and 5-HT1A binding in the amygdala, hippocampus, and retrosplenial cortex have been reported in patients with social anxiety disorder.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10, <ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+        <para>A review of 48 neuroimaging articles involving social anxiety disorder concluded that increased activity in the limbic and paralimbic regions is the most consistent finding (across imaging techniques) in social anxiety disorder.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+        <para>
+          <em>Specific phobia</em>
+        </para>
+        <para>Phobic reactions may result from activation of object recognition and emotional processing areas occurring in conjunction with inhibition of the prefrontal areas that are responsible for cognitive control over emotion-triggering.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+        <para>A PET study showed that the phobic response in spider phobia (SpP) and snake phobia (SnP) phobia increased regional cerebral blood flow (rCBF) in the right amygdala, the cerebellum, and the left visual cortex but reduced rCBF in the prefrontal, orbitofrontal, ventromedial, primary somatosensory cortex, as well as auditory cortices. A positive correlation between amygdala activation and the subjective fear response emphasizes the importance of amygdala in this fear-phobia circuit.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+        <para>Partially distinct neurobiologic substrates have been suggested for different types of phobias. A functional magnetic resonance imaging (fMRI) study of patients with SpP and blood-injection-injury phobia (BiiP) reported similar activation in several common regions across the 2 groups (thalamus, cerebellum, and occipitotemporal regions) but also group-specific activation in the dorsal anterior cingulate gyrus and the anterior insula in patients with SpP.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+        <para>Increased fMRI activation of the dorsal anterior cingulate cortex (ACC), insula, thalamus, and visual areas, as well as the bed nucleus of the stria terminalis, has been reported in patients with SpP as compared with normal controls during an anticipatory task of phobia-relevant versus neutral stimulation.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Psychological theories</title>
+        <para>Social anxiety disorder can be initiated by traumatic social experience (eg, embarrassment) or by social-skills deficits that produce recurring negative experiences. Hypersensitivity to rejection, perhaps related to serotonergic or dopaminergic dysfunction, is present. It is theorized that social anxiety disorder represents an interaction between biologic and genetic factors and environmental events. </para>
+        <para>Specific phobia can be acquired through conditioning, modeling, or a traumatic experience; it may even have a genetic component (eg, blood-injury phobia). </para>
+        <para>Agoraphobia may be the result of repeated and unexpected panic attacks, which, in turn, may be linked to cognitive distortions, conditioned responses, or abnormalities in noradrenergic, serotonergic, or gamma-aminobutyric acid (GABA)–related neurotransmission. </para>
+      </pgroup>
+      <pgroup>
+        <title>Familial patterns</title>
+        <para>A familial pattern has been reported for both social anxiety disorder and specific phobia. Generalized social anxiety disorder further increases the risk of familial transmission. With respect to specific phobia, first-degree relatives appear to have an increased risk for the subtype of the phobia rather than for the specific trigger. For example, a given family may exhibit an increased rate of animal phobias rather than share a phobia of a specific animal.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>United States statistics</title>
+        <para>The 12-month prevalence rates for the United States are estimated as follows<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Social anxiety disorder (social phobia) - 7%</para>
+          </listitem>
+          <listitem>
+            <para>Specific phobia - 7-9%</para>
+          </listitem>
+          <listitem>
+            <para>Agoraphobia - 1.7%</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>International statistics</title>
+        <para>Social anxiety disorder appears to be less common in much of the world than it is in the United States, with 12-month prevalence estimates clustering in the range of 0.5-2.0%; median prevalence in Europe is 2.3%. Prevalence estimates for specific phobia in European countries are close to those in the United States (~6%) but are generally lower in Asian, African, and Latin American countries (2-4%).<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Age-related demographics</title>
+        <para>In the United States, social anxiety disorder tends to start early in life, with 75% of the patients experiencing its onset between ages 8 and 15 years and a median age at onset of 13 years.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>The 12-month prevalence estimates for social anxiety disorder in children and adolescents are comparable to those in adults.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>Prevalence decreases with advancing age<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup>; the 12-month prevalence for older adults is in approximately 7%.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc20" name="refsrc20"/>20] </sup></para>
+        <para>In general, specific phobia appears earlier than either social anxiety disorder or agoraphobia does. Most such phobias develop during childhood and eventually disappear. The estimated prevalence of specific phobia is approximately 5% in younger children<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup>and 16% in children aged 13-17 years.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>The prevalence is lower (3-5%) in older individuals, possibly reflecting a decrease in severity to subclinical levels.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+        <para>The 12-month prevalence of agoraphobia in adolescents and adults is approximately 1.7%.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc22" name="refsrc22"/>22] </sup>Agoraphobia may occur in childhood, but the incidence peaks in late adolescence and early adulthood.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>The 12-month prevalence in individuals older than 65 years is 0.4%.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Sex-related demographics</title>
+        <para>The phobic disorders appear to have a higher incidence among women. Higher rates of social anxiety disorder are found in females in the general population (with female-to-male ratios ranging from 1.5:1 to 2.2:1),<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup>and the sex difference in prevalence is more pronounced in adolescents and young adults.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        <para>Females are more frequently affected by specific phobia than males, at a rate of approximately 2:1, though rates vary across different phobic stimuli. Animal, natural environment, and situational specific phobias are predominately experienced by females, whereas blood-injection-injury phobia is experienced equally by the 2 sexes.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>Agoraphobia has a female-to-male ratio of 2-3:1.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Race-related demographics</title>
+        <para>The prevalence of social anxiety disorder in the United States is higher in American Indians and lower in persons of Asian, Latino, African American, and Afro-Caribbean descent as compared with non-Hispanic white individuals. Prevalence figures for specific phobia and agoraphobia appear not to vary substantially across cultural or racial groups.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Most patients respond to treatment, with good resolution of symptoms. Patients with specific phobia often regain the highest level of functioning, whereas those with agoraphobia or social anxiety disorders may have residual symptoms or run a greater risk of relapse even after successful treatment. In fact, patients with social anxiety disorders with extensive deficits in social skills may not respond well to treatment; in one study, social anxiety disorder had the smallest probability of recovery after 12 years of follow-up.<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+        <para>The prognosis is determined by several factors, including the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Severity of diagnosis</para>
+          </listitem>
+          <listitem>
+            <para>level of functioning before onset of symptoms</para>
+          </listitem>
+          <listitem>
+            <para>Degree of motivation for treatment</para>
+          </listitem>
+          <listitem>
+            <para>level of support (eg, from family, friends, work, or school)</para>
+          </listitem>
+          <listitem>
+            <para>Ability to comply with medication regimens, psychotherapeutic regimens, or both</para>
+          </listitem>
+        </itemizedlist>
+        <para>Considerable evidence shows that social anxiety disorder results in significant functional impairment and decreased quality of life.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29, <ref_inline id="refsrc30" name="refsrc30"/>30] </sup>Despite evidence of impairment, only a minority of individuals with specific phobia ever seek professional treatment. </para>
+        <para>Phobias are highly comorbid, social anxiety disorder in particular. Most comorbid social anxiety disorders and specific phobias are temporally primary, whereas most comorbid agoraphobia is temporally secondary. Comorbid phobias are generally more severe than pure phobias. Social anxiety disorder is also frequently comorbid with <a href="http://emedicine.medscape.com/article/286759-overview">major depressive disorder</a> (MDD) and atypical depression, which results in increased disability.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31] </sup></para>
+        <para>There has been some controversy regarding whether <a href="http://emedicine.medscape.com/article/286227-overview">anxiety disorders</a> in general and phobic disorders in particular are independently associated with suicidal ideation and suicide attempts (ie, after comorbid mental disorders are adjusted for). </para>
+        <para>Current evidence suggests that even after adjustment for sociodemographic factors and other mental disorders, the baseline presence of any anxiety disorder—including agoraphobia, social anxiety disorder, and specific phobia—is significantly associated with suicidal ideation and suicide attempts. Additionally, the presence of any anxiety disorder(again, including any phobic disorder) in combination with a mood disorder appears to increase the likelihood of suicide attempts over what would be expected with a mood disorder alone.<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32] </sup></para>
+        <para>Significant morbidity is also possible in terms of work and relationships, especially in social phobia and agoraphobia. Patients with severe agoraphobia may be housebound and therefore unable to seek out medical attention when needed. Patients with concomitant panic attacks are at higher risk for substance abuse and suicide. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>The treating physician should begin a process of education, not only for the patient but also for family and friends who may be confused about the diagnosis and the need for treatment. </para>
+        <para>Commonplace abilities such as socializing at gatherings or riding in a small elevator are taken for granted by most people, but patients who experience phobias may have tremendous difficulty in these areas and can be greatly helped significantly by a caring support system. Family and friends can encourage patients to confront fears and help them when necessary (eg, with medication compliance); they can also assist by learning when to stay out of the way and allow patients to venture forth on their own. </para>
+        <para>Numerous books and self-help groups are available. In addition, patient advocacy groups exist nationwide that provide patients with information, give presentations, and hold conferences. The following Web sites are helpful: </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              <a href="http://www.socialphobia.org/">Social Phobia/Social Anxiety Association</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://www.psych.org/">American Psychiatric Association</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://www.adaa.org/">Anxiety Disorders Association of America</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>MedlinePlus, <a href="http://www.nlm.nih.gov/medlineplus/phobias.html">Phobias</a></para>
+          </listitem>
+          <listitem>
+            <para>MayoClinic.com, <a href="http://www.mayoclinic.com/health/phobias/DS00272">Phobias</a></para>
+          </listitem>
+          <listitem>
+            <para>US Food and Drug Administration (FDA), <a href="http://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/1997/297_bump.html">Fighting Phobias, The Things That Go Bump in the Mind</a></para>
+          </listitem>
+        </itemizedlist>
+        <para>For patient education information, see the <a href="http://www.emedicinehealth.com/collections/CO1587.asp">Mental Health Center</a>, as well as <a href="http://www.emedicinehealth.com/articles/18885-1.asp">Anxiety</a>, <a href="http://www.emedicinehealth.com/articles/18973-1.asp">Panic Attacks</a>, and <a href="http://www.emedicinehealth.com/articles/18951-1.asp">Hyperventilation</a>.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Phobic disorders can be disabling and cause severe emotional distress, leading to other anxiety disorders, depression, suicidal ideation, and substance-related disorders, especially alcohol abuse or dependence. The physician must inquire about these areas as well. </para>
+        <para>Inquire about the amount of caffeine intake (including coffee, caffeinated teas, or sodas). Considering the overall noradrenergic hyperdrive of this group of patients, even moderate amounts of coffee might exacerbate the anxiety response and symptoms. </para>
+        <para>If social anxiety disorder (social phobia) is suspected, ask the patient about any difficulties in social situations, such as speaking in public, eating in a restaurant, or using public washrooms. Fear of scrutiny by others or of being embarrassed or humiliated is commonly described by people with this disorder. </para>
+        <para>If a specific phobia is suspected, ask about irrational and out-of-proportion fear or avoidance of particular objects or situations (eg, animals, insects, blood, needles, flying, or heights). Assess intensity and course of fear. </para>
+        <para>If agoraphobia is suspected, inquire about any intense anxiety and avoidance of the feared object/situation following exposure to specific situations such as heights, animals, small spaces, or storms. Other areas of inquiry should include fear of being trapped without escape (eg, being outside the home and alone, in a crowd of unfamiliar people, on a bridge, in a tunnel, or in a moving vehicle). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b2">
+      <title>Physical Examination</title>
+      <pgroup>
+        <para>Anxiety is the most common feature in phobic disorders. Manifestations include the following (all of which should be asked about and assessed): </para>
+        <itemizedlist>
+          <listitem>
+            <para>Elevated heart rate</para>
+          </listitem>
+          <listitem>
+            <para>Elevated blood pressure</para>
+          </listitem>
+          <listitem>
+            <para>Tremor</para>
+          </listitem>
+          <listitem>
+            <para>Palpitations</para>
+          </listitem>
+          <listitem>
+            <para>Diarrhea</para>
+          </listitem>
+          <listitem>
+            <para>Sweating</para>
+          </listitem>
+          <listitem>
+            <para>Dyspnea</para>
+          </listitem>
+          <listitem>
+            <para>Paresthesias</para>
+          </listitem>
+          <listitem>
+            <para>Dizziness</para>
+          </listitem>
+        </itemizedlist>
+        <para>Because anxiety manifests with a number of physical symptoms, any patient who presents with a de novo complaint of physical symptoms suggestive of an anxiety disorder should undergo a physical examination to help rule out medical conditions that might present with anxietylike symptoms (see Differentials). If a patient presents for a repeat visit with similar complaints, after medical contributors have been ruled out, a careful <a href="http://emedicine.medscape.com/article/293402-overview">mental status examination</a> might be preferable to repeat physical examination and laboratory investigations. </para>
+        <para>When considering anxiety as the primary suspect, the physician should always remember that over time, patients with anxiety are just as likely to develop medical conditions as other patients are. Accordingly, a diagnosis of anxiety, though changing the threshold for investigation of physical symptoms, should not keep the patient from receiving regular follow-up examinations as otherwise indicated. </para>
+        <para>More than 75% of patients with blood-injection-injury type phobia report a history of fainting in situations where they are presented with a trigger. Initial increases in heart rate and blood pressure are followed by decreases in both parameters, resulting in fainting. This physiologic response differs from the typical response seen in other phobias, in which exposure is followed by increased heart rate and blood pressure.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Mental status examination</title>
+        <para>The physician should assess the patient’s appearance, behavior, ability to cooperate with the examination, level of activity, speech, mood and affect, thought processes and content, insight, and judgment. </para>
+        <para>In a situation where the patient is abruptly confronted with the object of his or her phobia, his or her mental status examination will be significant for an anxious affect, with a restricted range. Neurovegetative signs (eg, tremor or diaphoresis) may be present. The patient also reports feeling anxious (mood) and can clearly identify the reason for his/her anxiety (thought content). The thought content is significant for phobic ideation (unrealistic and out-of-proportion fears). </para>
+        <para>Insight may be impaired, especially during exposure, but in most cases, insight is preserved. Although patients still report that they cannot control their feelings, they also acknowledge that the severity of their fears is not justified. </para>
+        <para>At any other time, the mental status of a patient with phobic disorder is within normal limits, except for thought content positive for phobic ideation. These phobic ideas may remain undisclosed unless specific questions about phobias are asked. Phobic disorders themselves do not present with suicidal or homicidal ideation, but comorbid conditions commonly associated with them (eg, depression and other anxiety disorders) often do. If comorbid conditions exist, the suicidal and homicidal risk should also be specifically assessed. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b3">
+      <title>Complications</title>
+      <pgroup>
+        <para>If left untreated, social anxiety disorder or agoraphobia can result in tremendous morbidity. The patient becomes restricted to the most familiar surroundings (eg, a house) or the most trusted people (eg, a family member or spouse), and his or her ability to work and relate to other people is substantially impaired. In addition, there is a considerable risk of substance abuse with this degree of isolation,<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup>and social anxiety disorder has been associated with an increased risk of subsequent depression.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34] </sup></para>
+        <para>Specific phobia has been associated with increased risk for suicide attempts and possibly suicidal ideation.<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32] </sup>Individuals with this disorder may also be limited by having to avoid buildings (in the case of acrophobia), elevators (in the case of claustrophobia), or even their own lawn (eg, for fear of snakes). As a general rule, less impairment is observed in specific phobia than in social anxiety disorder or agoraphobia. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Anxiety secondary to medical conditions must be excluded. Many anxiety attack symptoms resemble those found in life-threatening medical disorders (eg, myocardial infarction), which must be ruled out first. </para>
+      <para>Phobic disorders in general have a higher female preponderance, though a higher percentage of men tend to seek treatment for social anxiety disorder. Earlier median ages at illness onset are reported for specific phobia and social anxiety disorder than for agoraphobia.<sup>[<ref_inline id="refsrc35" name="refsrc35"/>35] </sup>Most specific phobias develop during childhood and eventually disappear. Those that persist into adulthood rarely go away without treatment.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup></para>
+      <para>In addition to the conditions listed in the differential diagnosis, other problems to be considered include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Alcoholism</para>
+        </listitem>
+        <listitem>
+          <para>Body dysmorphic disorder</para>
+        </listitem>
+        <listitem>
+          <para>Bulimia nervosa</para>
+        </listitem>
+        <listitem>
+          <para>Delusional disorder</para>
+        </listitem>
+        <listitem>
+          <para>Depersonalization disorder</para>
+        </listitem>
+        <listitem>
+          <para>Depression</para>
+        </listitem>
+        <listitem>
+          <para>Eating disorder, anorexia</para>
+        </listitem>
+        <listitem>
+          <para>Hyperhidrosis</para>
+        </listitem>
+        <listitem>
+          <para>Hypochondriasis</para>
+        </listitem>
+        <listitem>
+          <para>Hypoglycemia</para>
+        </listitem>
+        <listitem>
+          <para>Mitral valve prolapse</para>
+        </listitem>
+        <listitem>
+          <para>Paruresis</para>
+        </listitem>
+        <listitem>
+          <para>Pervasive developmental disorder</para>
+        </listitem>
+        <listitem>
+          <para>Pheochromocytoma</para>
+        </listitem>
+        <listitem>
+          <para>Schizophrenia</para>
+        </listitem>
+        <listitem>
+          <para>Seizure</para>
+        </listitem>
+        <listitem>
+          <para>Somatoform disorders</para>
+        </listitem>
+        <listitem>
+          <para>Stimulants</para>
+        </listitem>
+        <listitem>
+          <para>Ventricular premature complexes</para>
+        </listitem>
+        <listitem>
+          <para>Vertigo</para>
+        </listitem>
+        <listitem>
+          <para>Vestibular dysfunction</para>
+        </listitem>
+      </itemizedlist>
+    </intro>
+    <ddlist>
+      <dditem ref="150215">
+        <title>Angina Pectoris</title>
+        <desc/>
+      </dditem>
+      <dditem ref="286227">
+        <title>Anxiety Disorders</title>
+        <desc/>
+      </dditem>
+      <dditem ref="127351">
+        <title>Hyperparathyroidism</title>
+        <desc/>
+      </dditem>
+      <dditem ref="121865">
+        <title>Hyperthyroidism</title>
+        <desc/>
+      </dditem>
+      <dditem ref="287913">
+        <title>Panic Disorder</title>
+        <desc/>
+      </dditem>
+      <dditem ref="917147">
+        <title>Pediatric Social Phobia and Selective Mutism</title>
+        <desc/>
+      </dditem>
+      <dditem ref="294307">
+        <title>Personality Disorders</title>
+        <desc/>
+      </dditem>
+      <dditem ref="288154">
+        <title>Posttraumatic Stress Disorder</title>
+        <desc/>
+      </dditem>
+      <dditem ref="916737">
+        <title>Separation Anxiety and School Refusal</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>Any patient who presents with a new complaint of physical symptoms suggesting an anxiety disorder should undergo a basic laboratory workup to help rule out medical conditions that might present with anxietylike symptoms, such as those in the differential diagnosis (see Differentials). </para>
+        <para>To rule out anxiety secondary to medical conditions, the following laboratory tests may be helpful:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Thyroid function tests - Hypothyroidism or hyperthyroidism</para>
+          </listitem>
+          <listitem>
+            <para>Fasting glucose - Hypoglycemia</para>
+          </listitem>
+          <listitem>
+            <para>Calcium - Hyperparathyroidism</para>
+          </listitem>
+          <listitem>
+            <para>24-hour urine for 5-hydroxyindoleacetic acid (5-HIAA) - Pheochromocytoma</para>
+          </listitem>
+          <listitem>
+            <para>Drug screen - Substance-induced anxiety</para>
+          </listitem>
+        </itemizedlist>
+        <para>The following studies may also be considered:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Electrocardiography (ECG) and cardiac enzyme tests - Myocardial infarction or arrhythmia</para>
+          </listitem>
+          <listitem>
+            <para>Electroencephalography (EEG) - Seizure disorders (these conditions may mimic anxiety)</para>
+          </listitem>
+        </itemizedlist>
+        <para>At present, provocation studies with carbon dioxide, sodium lactate, or yohimbine are reserved for research purposes.</para>
+        <para>Imaging studies are limited to presentations where medical illness, such as a seizure disorder, is suspected.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Computed tomography (CT) of the head - Suspected intracranial abnormality</para>
+          </listitem>
+          <listitem>
+            <para>Magnetic resonance imaging (MRI) - Intracranial abnormality</para>
+          </listitem>
+          <listitem>
+            <para>Echocardiography - Mitral valve prolapse</para>
+          </listitem>
+          <listitem>
+            <para>Positron emission tomography (PET) - This is currently reserved for research purposes</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>Anxiety often is not a significantly pathologic condition but simply a physiologic reaction that can be expected to occur under stressful life circumstances. Most anxiety reactions do not result in dysfunction or disability and will remit spontaneously over time. In addition, high placebo response rates have been documented across a range of anxiety disorders.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>Accordingly, when an anxiety disorder is mild (ie, not associated with disability), a wait-and-see, supportive type of intervention is recommended. </para>
+        <para>Treatment of phobic disorders usually consists of pharmacotherapy, psychotherapy, or some combination thereof.<sup>[<ref_inline id="refsrc38" name="refsrc38"/>38] </sup>As a general rule, a selected medication regimen should be continued for at least 6-12 months. If the symptoms have resolved and the patient is not experiencing excessive stress, the physician can gradually taper the patient off the medication. Psychotherapy usually helps make the transition away from medication more successful. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d7">
+      <title>Pharmacotherapy</title>
+      <pgroup>
+        <title>Social anxiety disorder (social phobia)</title>
+        <para>At present, 3 drugs are approved by the US Food and Drug Administration (FDA) for the treatment of social anxiety disorder, as follows: </para>
+        <itemizedlist>
+          <listitem>
+            <para>The selective serotonin reuptake inhibitors (SSRIs) paroxetine and sertraline</para>
+          </listitem>
+          <listitem>
+            <para>The selective serotonin/norepinephrine reuptake inhibitor (SNRI) venlafaxine</para>
+          </listitem>
+        </itemizedlist>
+        <para>In addition, placebo-controlled, randomized controlled trials and systematic reviews show that social anxiety disorder responds to the following agents: </para>
+        <itemizedlist>
+          <listitem>
+            <para>The SSRIs escitalopram,<sup>[<ref_inline id="refsrc39" name="refsrc39"/>39, <ref_inline id="refsrc40" name="refsrc40"/>40] </sup>fluoxetine, and fluvoxamine </para>
+          </listitem>
+          <listitem>
+            <para>The monoamine oxidase inhibitor (MAOI) phenelzine</para>
+          </listitem>
+          <listitem>
+            <para>The reversible inhibitor of monoamine oxidase A (RIMA) moclobemide (not approved in the United States)<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Overall, SSRIs appear to be more effective than MAOIs for the treatment of social anxiety disorder.<sup>[<ref_inline id="refsrc41" name="refsrc41"/>41] </sup>SSRIs and venlafaxine are generally considered first-line agents, whereas benzodiazepines, tricyclic antidepressants (TCAs), and MAOIs are considered second-line agents.<sup>[<ref_inline id="refsrc42" name="refsrc42"/>42, <ref_inline id="refsrc43" name="refsrc43"/>43] </sup>MAOIs and TCAs are not commonly used in this setting. Although both are effective, the former carry a risk of drug-to-drug and dietary interactions, and the latter have tolerability issues. </para>
+        <para>Antihypertensive beta-blocker therapy can be used as an augmentation strategy. Propranolol may be useful for the circumscribed treatment of situational/performance anxiety on an as-needed basis.<sup>[<ref_inline id="refsrc44" name="refsrc44"/>44] </sup></para>
+        <para>Selected anticonvulsants (eg, gabapentin, pregabalin, valproic acid, topiramate, and tiagabine) have been shown to be effective for social anxiety disorder in mostly open-label, uncontrolled clinical trials.<sup>[<ref_inline id="refsrc43" name="refsrc43"/>43] </sup>The evidence regarding the serotonin 1 (5HT-1) agonist buspirone in this setting is conflicting.<sup>[<ref_inline id="refsrc43" name="refsrc43"/>43] </sup>A few other medications, including the second-generation antipsychotics levetiracetam and D-cycloserine, have been considered, but at present, the evidence is insufficient evidence to permit any clear recommendations.<sup>[<ref_inline id="refsrc42" name="refsrc42"/>42, <ref_inline id="refsrc43" name="refsrc43"/>43] </sup></para>
+        <para>
+          <em>Acute treatment</em>
+        </para>
+        <para>Treatment of social anxiety disorder should be initiated with an SSRI, titrated to the minimum effective dosage. If the response is partial or nonexistent at 6 weeks, the dosage may be increased; this may be done every 2 weeks until the maximum dose is reached. </para>
+        <para>Patients in whom SSRI therapy fails will sometimes respond to treatment with a high-potency benzodiazepine (eg, clonazepam), an alpha-2-delta calcium channel blocker (eg, gabapentin or pregabalin), the antiepileptic levetiracetam, or the antipsychotic olanzapine; they may also respond to combined SSRI-benzodiazepine therapy.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37, <ref_inline id="refsrc44" name="refsrc44"/>44, <ref_inline id="refsrc45" name="refsrc45"/>45] </sup></para>
+        <para>Buspirone, the beta-blocker atenolol, and the TCA imipramine are all of unproven efficacy in this setting.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+        <para>
+          <em>Long-term treatment</em>
+        </para>
+        <para>Long-term treatment data from double-blind, randomized controlled trials addressing social anxiety disorder show that continuing SSRI or venlafaxine therapy for up to 6 months can result in increased treatment response rates.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>Long-term treatment data on clonazepam are limited but support the long-term efficacy of this drug.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37, <ref_inline id="refsrc44" name="refsrc44"/>44, <ref_inline id="refsrc46" name="refsrc46"/>46] </sup></para>
+        <para>Beta-blockers, clonidine, and buspirone usually are not helpful for long-term treatment of social anxiety disorder. After 6-12 months of full response, slow tapering of pharmacotherapy should be considered. If symptoms recur after tapering, therapy should be restarted and continued indefinitely.<sup>[<ref_inline id="refsrc46" name="refsrc46"/>46] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Specific phobia</title>
+        <para>To date, no controlled studies have demonstrated the efficacy of psychopharmacologic intervention for specific phobias. Clinical lore suggests that as-needed administration of a short-acting benzodiazepine might be useful for temporary anxiety relief in specific situations (eg, right before boarding a plane, for patients with a fear of flying). </para>
+      </pgroup>
+      <pgroup>
+        <title>Agoraphobia</title>
+        <para>Randomized, double-blind, placebo-controlled trials have shown that agoraphobia, specifically the panic symptoms, responds to treatment with SSRIs (eg, escitalopram, citalopram, fluoxetine, fluvoxamine, paroxetine, and sertraline),<sup>[<ref_inline id="refsrc47" name="refsrc47"/>47, <ref_inline id="refsrc48" name="refsrc48"/>48, <ref_inline id="refsrc49" name="refsrc49"/>49] </sup>venlafaxine and reboxetine, some TCAs (eg, clomipramine and imipramine), and some benzodiazepines (eg, alprazolam, lorazepam, diazepam, and clonazepam).<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>Data from comparator-controlled trials suggest that mirtazapine and moclobemide are reasonable alternatives.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+        <para>
+          <em>Acute treatment</em>
+        </para>
+        <para>Treatment for agoraphobia should be started with an SSRI at a low dosage, which is then titrated to the minimum dosage that effectively controls the patient’s panic. Benzodiazepines can be used either as an adjunct or as primary treatment; however, they are usually not chosen as first-line therapy because of the potential for abuse.<sup>[<ref_inline id="refsrc50" name="refsrc50"/>50] </sup>If the patient has frequent panic attacks and no history of substance abuse, a benzodiazepine may be considered until the SSRI takes effect. </para>
+        <para>If the response is minimal or nonexistent after 6 weeks, the SSRI dosage may be further increased every 2 weeks until a response is achieved or the maximal dosage reached. If the response is partial or absent at the highest SSRI dosage, the following alternatives should be considered: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Switch to a different SSRI</para>
+          </listitem>
+          <listitem>
+            <para>Switch to an agent from a different drug class (eg, venlafaxine, reboxetine, or a TCA</para>
+          </listitem>
+        </itemizedlist>
+        <para>Long-acting benzodiazepines (eg, diazepam and clonazepam) prescribed on a standing rather than an as-needed basis are preferred because of the reduced addictive potential; the dosage can be increased every 2-3 days until either the panic symptoms are controlled or the maximum dosage is reached. The short-acting agent alprazolam may be considered for short-term use to control acute symptoms of panic. </para>
+        <para>Agents with unproven efficacy in this setting include buspirone, propranolol, antihistaminic drugs, and antipsychotic agents.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+        <para>
+          <em>Long-term treatment</em>
+        </para>
+        <para>Double-blind studies show that continuing an SSRI or clomipramine from 12 to 52 weeks results in increased treatment response rates.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>For a patient with good response, treatment should be continued for 9-12 months before slow tapering of the medications is considered. If symptoms recur after tapering, treatment should be resumed and continued indefinitely. </para>
+      </pgroup>
+      <pgroup>
+        <title>Pediatric, adolescent, and young adult suicidality</title>
+        <para>Suicide risk must always be considered, particularly in the treatment of a child or adolescent with a mood disorder. Physicians are advised to be aware of the following information and use appropriate caution when considering treatment with SSRIs in the pediatric and geriatric populations. </para>
+        <para>In October 2003, the FDA issued a public health advisory regarding reports of suicidality in pediatric patients being treated with antidepressant medications for major depressive disorder. This advisory reported suicidality (both ideation and attempts) in clinical trials of various antidepressant drugs in pediatric patients. The FDA asked that additional studies be performed, because suicidality occurred in both treated and untreated patients with major depression and thus could not be definitively linked to drug treatment. </para>
+        <para>In December 2003, the UK Medicines and Healthcare Products Regulatory Agency (MHRA) issued an advisory stating that most SSRIs are not suitable for use by persons younger than 18 years for treatment of “depressive illness.” After review, the MHRA decided that the risks that SSRI therapy posed to pediatric patients outweighed the benefits, except in the case of fluoxetine, which appeared to have a positive risk-benefit ratio in the treatment of depressive illness in patients younger than 18 years. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d8">
+      <title>Psychotherapy</title>
+      <pgroup>
+        <para>Controlled studies have found behavioral therapy and cognitive behavioral therapy (CBT) to be effective in treating phobic disorders.<sup>[<ref_inline id="refsrc51" name="refsrc51"/>51] </sup>Computerized CBT (FearFighter) has been recommended for panic and phobia by the National Institute for Health and Clinical Excellence guidelines (NICE).<sup>[<ref_inline id="refsrc52" name="refsrc52"/>52] </sup></para>
+        <para>Psychodynamic therapy (or insight-oriented therapy) is rarely indicated as an exclusive treatment for phobias and is now mostly reserved for cases of phobic disorders that overlap personality disorders. Deciding which treatment or combination of treatments to prescribe depends on a careful interview and assessment of the patient’s goals and level of pathology. </para>
+      </pgroup>
+      <pgroup>
+        <title>Social anxiety disorder (social phobia)</title>
+        <para>For treatment of social anxiety disorder, self-exposure monotherapy has been shown to work as well as computer-based exposure training, clinician-led exposure, or combination therapies of self-exposure and CBT/self-help manual.<sup>[<ref_inline id="refsrc53" name="refsrc53"/>53] </sup>In a small, 12-week randomized trial, school-based training combining exposure therapy and social skills training was highly effective for adolescents aged 14-16 years with social anxiety disorder.<sup>[<ref_inline id="refsrc54" name="refsrc54"/>54, <ref_inline id="refsrc55" name="refsrc55"/>55] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Specific phobia</title>
+        <para>A CBT-based approach, including gradual desensitization, is the most commonly used treatment for specific phobia. Other treatments include relaxation and breathing control techniques. </para>
+        <para>Randomized controlled clinical trials indicate that specific phobias respond to exposure therapy.<sup>[<ref_inline id="refsrc56" name="refsrc56"/>56] </sup>A small, randomized controlled clinical trial showed that virtual reality exposure therapy is as effective as standard exposure for treating fear of flying, with gains maintained for up to 1 year after treatment.<sup>[<ref_inline id="refsrc57" name="refsrc57"/>57] </sup></para>
+        <para>In one study, after the successful completion of a 4-session CBT course, patients with specific phobias no longer showed significant functional magnetic resonance imaging (fMRI) activation in the prefrontal or parahippocampal areas<sup>[<ref_inline id="refsrc58" name="refsrc58"/>58] </sup>; this finding supports the view that effective psychotherapy can normalize dysfunction in the neurocircuitry associated with anxiety and phobias. </para>
+        <para>In another study, a single 4-hour CBT session, combined in vivo exposure, and modeling resulted in increased/improved medial orbitofrontal cortex activity and decreased/improved activation in the amygdala and the insula patients with specific phobias as compared with untreated control subjects.<sup>[<ref_inline id="refsrc59" name="refsrc59"/>59] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Agoraphobia</title>
+        <para>A 2010 meta-analysis showed that a combination of exposure therapy, relaxation, and breathing retraining worked better than other psychological interventions for panic disorder with and without agoraphobia.<sup>[<ref_inline id="refsrc60" name="refsrc60"/>60] </sup>Furthermore, the inclusion of homework and a follow-up program have been shown to improve outcomes. Early intervention is recommended on the grounds that the shorter the duration of illness is, the better the response will be.<sup>[<ref_inline id="refsrc60" name="refsrc60"/>60] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Diet and Activity</title>
+      <pgroup>
+        <para>The patient’s intake of caffeine (eg, in coffee, caffeinated teas, or sodas) should be assessed; even moderate amounts of caffeine may exacerbate the anxiety response and symptoms. In a small, double-blind, placebo-controlled study, a tryptophan-rich diet was shown to have a positive effect on social anxiety disorder.<sup>[<ref_inline id="refsrc61" name="refsrc61"/>61] </sup>Dietary restrictions (a tyramine-free diet) are necessary for patients taking MAOIs. </para>
+        <para>Activity should not be restricted. Patients should be encouraged to confront anxiety-producing stimuli in the context of a behavioral therapy treatment plan. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Prevention</title>
+      <pgroup>
+        <para>Overwhelming exposure in early childhood (eg, a frightening experience with an aggressive dog) may predispose the child to the development of phobic symptoms. Intervention (eg, psychotherapy or medication) in the early stages of symptom development may be beneficial in preventing the worsening of symptoms. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d11">
+      <title>Consultations</title>
+      <pgroup>
+        <para>Physicians without expertise in conducting behavioral therapy may want to consult with a psychiatric center specializing in treatment of anxiety disorders, either for guidance on developing a treatment plan or, in more difficult cases, for referral. </para>
+        <para>Consultation with an internist or a neurologist may be helpful for sorting through the nonpsychiatric differential diagnosis, especially if rare disorders, such as pheochromocytoma, are suspected (see Differentials). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d12">
+      <title>Long-Term Monitoring</title>
+      <pgroup>
+        <para>Inpatient treatment is indicated only for patients with a severe phobic disorder who presenting with acute suicidal ideation or attempts. In addition, inpatient treatment (including detoxification, rehabilitation, or both) may be recommended for treatment of secondary drug or alcohol abuse or dependence. </para>
+        <para>Outpatient follow-up is usually required until the patient’s symptoms have resolved. After the resolution of the symptoms, the physician can attempt to taper pharmacotherapy, as well as monitor for relapse. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Pharmacotherapy for phobic disorders (ie, social anxiety disorder, specific phobia, and agoraphobia) includes antidepressant agents (eg, selective serotonin reuptake inhibitors [SSRIs] and selective serotonin/norepinephrine reuptake inhibitors [SNRIs]), benzodiazepines, serotonin (5HT) 1 agonists, antihypertensive agents, tricyclic antidepressants (TCAs), and monoamine oxidase inhibitors (MAOIs). </para>
+    </intro>
+    <cgroup id="138034">
+      <title>Antidepressants, SSRIs</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>SSRIs can help prevent panic attacks and alleviate symptoms of anxiety and depression. These drugs may require 2-6 weeks of daily use to become effective, usually with side effects appearing first. SSRIs have been shown to be effective in controlled clinical trials, and as a class, these medications tend to have the fewest adverse effects. However, the SSRIs can produce drug-drug interactions by inhibiting cytochrome P450 enzymes and by displacing other drugs from protein-binding sites.</para>
+        <para>SSRIs are greatly preferred to other classes of antidepressants for the treatment of anxiety disorders, and they all appear to be similarly efficacious. The choice of an SSRI depends on adverse effects, drug interactions, and history of previous response.</para>
+        <para>The relatively benign adverse effect profile of SSRIs (including minimal anticholinergic effects) facilitates compliance. Common adverse effects include insomnia, ejaculation disorder (primarily ejaculatory delay), nausea, sweating, fatigue, somnolence, and sexual dysfunction. SSRIs do not carry the cardiac arrhythmia risk associated with TCAs.</para>
+      </intro>
+      <drug did="342958" name="Citalopram hydrobromide (Celexa)" uri="celexa-citalopram-342958">
+        <title>Citalopram hydrobromide (Celexa)</title>
+        <para>Citalopram enhances serotonin activity through selective reuptake inhibition at the neuronal membrane. This agent is not approved by the US Food and Drug Administration (FDA) for treatment of anxiety disorders, but data from randomized, controlled trials support its use for treatment of agoraphobia. </para>
+      </drug>
+      <drug did="342961" name="Escitalopram oxalate (Lexapro)" uri="lexapro-escitalopram-342961">
+        <title>Escitalopram oxalate (Lexapro)</title>
+        <para>Escitalopram is an S-enantiomer of citalopram. The onset of depression relief may be obtained after 1-2 weeks, which is sooner than relief can be obtained with other antidepressants, suggesting that escitalopram may work faster than similar drugs.</para>
+        <para>Although this agent is not approved by the FDA for treatment of phobic disorders, its class membership and good tolerability make it an attractive option for long-term treatment. Off-label use of escitalopram for anxiety disorders includes social anxiety disorder (social phobia), panic disorder, and obsessive-compulsive disorder (OCD). Escitalopram is not approved for use in children younger than 12 years. </para>
+      </drug>
+      <drug did="342959" name="Paroxetine hydrochloride (Paxil, Paxil CR, Pexeva)" uri="paxil-brisdelle-paroxetine-342959">
+        <title>Paroxetine hydrochloride (Paxil, Paxil CR, Pexeva)</title>
+        <para>Paroxetine is a potent selective inhibitor of neuronal serotonin reuptake, but it has a weak effect on norepinephrine and dopamine neuronal reuptake. This agent is a low-affinity antagonist at some subtypes of muscarinic acetylcholine receptors and is a nitric oxide synthase inhibitor. The anticholinergic effects of paroxetine may result in sedation or cardiovascular effects.</para>
+        <para>Paroxetine is FDA-approved for use in social anxiety disorder (social phobia), panic disorder, generalized anxiety disorder, OCD, major depressive disorder (MDD), premenstrual dysphoric disorder (PMDD), and posttraumatic stress disorder (PTSD). </para>
+      </drug>
+      <drug did="342962" name="Sertraline hydrochloride (Zoloft)" uri="zoloft-sertraline-342962">
+        <title>Sertraline hydrochloride (Zoloft)</title>
+        <para>Sertraline selectively inhibits presynaptic serotonin reuptake and is a low-potency dopamine and norepinephrine reuptake inhibitor. It is-FDA approved for use in social anxiety disorder; panic disorder; major depressive disorder; OCD in adults, children, and adolescents; PMDD; and PTSD. </para>
+      </drug>
+      <drug did="342955" name="Fluoxetine (Prozac, Prozac Weekly)" uri="prozac-sarafem-fluoxetine-342955">
+        <title>Fluoxetine (Prozac, Prozac Weekly)</title>
+        <para>Fluoxetine selectively inhibits presynaptic serotonin reuptake but has minimal or no effect on reuptake of norepinephrine or dopamine. A common side effect is sexual dysfunction, which may impact long-term compliance. Fluoxetine is FDA-approved for use in panic disorder (with and without agoraphobia) and OCD, as well as other disorders. </para>
+      </drug>
+      <drug did="342956" name="Fluvoxamine (Luvox CR)" uri="luvox-cr-fluvoxamine-342956">
+        <title>Fluvoxamine (Luvox CR)</title>
+        <para>Fluvoxamine enhances serotonin activity through selective reuptake inhibition at the neuronal membrane. Because this drug does not significantly bind to alpha-adrenergic, histamine, or cholinergic receptors, it has fewer side effects than TCAs do. Fluvoxamine is FDA-approved for treating OCD in children (8-17 years) and adults; it is also approved for treating social anxiety disorder. Fluvoxamine may be helpful for other anxiety disorders as well. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138035">
+      <title>Antidepressants, SNRIs</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>SNRIs can help prevent panic attacks and alleviate symptoms of anxiety and depression.</para>
+      </intro>
+      <drug did="342963" name="Venlafaxine hydrochloride (Effexor XR)" uri="effexor-venlafaxine-342963">
+        <title>Venlafaxine hydrochloride (Effexor XR)</title>
+        <para>Venlafaxine is a reuptake inhibitor of both serotonin and norepinephrine. It is FDA-approved (in the extended-release capsule only) for the treatment of social phobia, panic disorder with or without agoraphobia, and generalized anxiety disorder. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138036">
+      <title>Benzodiazepines</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>In general, this category of medication should not be prescribed to patients with a history of alcohol/drug abuse or emotional dependence. Some psychiatrists feel that the longer-acting benzodiazepines (eg, diazepam, clonazepam) have advantages such as less frequent dosing and more consistent levels throughout the day. Slowly taper benzodiazepines (usually after 6 mo) to avoid withdrawal and to avoid precipitating panic. </para>
+      </intro>
+      <drug did="342896" name="Alprazolam (Xanax, Xanax XR, Niravam)" uri="xanax-niravam-alprazolam-342896">
+        <title>Alprazolam (Xanax, Xanax XR, Niravam)</title>
+        <para>Alprazolam is the best-studied benzodiazepine. It has a rapid onset (20 minutes) and a short half-life, which can contribute to increased dependency during tapering attempts. Alprazolam is FDA approved for use in panic disorder, with or without agoraphobia, generalized anxiety disorder, and anxiety disorders (in the immediate-release tablet). </para>
+      </drug>
+      <drug did="342906" name="Lorazepam (Ativan)" uri="ativan-loraz-lorazepam-342906">
+        <title>Lorazepam (Ativan)</title>
+        <para>Lorazepam is a sedative hypnotic with a short onset of effects and a relatively long half-life. By increasing the action of gamma aminobutyric acid (GABA), which is a major inhibitory neurotransmitter in the brain, lorazepam may depress all levels of the central nervous system (CNS), including the limbic and reticular formation. This agent is FDA-approved for use in anxiety disorders.</para>
+        <para>When a patient must be sedated for longer than 24 hours, lorazepam is an excellent choice. It is not significantly metabolized by the liver, and it can be administered either intravenously (IV) or intramuscularly (IM). </para>
+      </drug>
+      <drug did="342900" name="Clonazepam (Klonopin)" uri="klonopin-clonazepam-342900">
+        <title>Clonazepam (Klonopin)</title>
+        <para>Clonazepam is a long-acting benzodiazepine that increases presynaptic GABA inhibition and reduces monosynaptic and polysynaptic reflexes. This drug also suppresses muscle contractions by facilitating inhibitory GABA neurotransmission and other inhibitory transmitters. Clonazepam reaches peak plasma concentration at 2-4 hours after oral or rectal administration.</para>
+        <para>Clonazepam has multiple indications, including suppression of myoclonic, akinetic, or petit mal seizure activity and focal or generalized dystonias (eg, tardive dystonia). This agent is FDA-approved for use in anxiety disorders. </para>
+      </drug>
+      <drug did="342902" name="Diazepam (Diastat AcuDial, Diastat Pediatric, Valium)" uri="valium-diastat-diazepam-342902">
+        <title>Diazepam (Diastat AcuDial, Diastat Pediatric, Valium)</title>
+        <para>Diazepam modulates the postsynaptic effects of GABA-A transmission, thereby bringing about an increase in presynaptic inhibition. This agent appears to act on part of the limbic system, the thalamus, and hypothalamus to induce a calming effect and has also been found to be an effective adjunct for the relief of skeletal muscle spasm caused by upper motor neuron disorders. This agent is FDA-approved for use in anxiety disorders.</para>
+        <para>Diazepam is rapidly distributed to other body fat stores. To avoid adverse effects, the diazepam dosage should be individualized and increased cautiously; the serum concentration of the drug drops to 20% of its peak value 20 minutes after the initial IV infusion. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138037">
+      <title>Antianxiety Agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Serotonin agonists such as buspirone may be used to treat anxiety.</para>
+      </intro>
+      <drug did="342913" name="Buspirone" uri="buspar-buspirone-342913">
+        <title>Buspirone</title>
+        <para>Buspirone is an antianxiety agent that is not chemically or pharmacologically related to the benzodiazepines, barbiturates, or other sedative or anxiolytic drugs. Rather, it is a 5-HT1 agonist with serotonergic neurotransmission and some dopaminergic effects in the CNS. Buspirone has an anxiolytic effect but may take up to 2-3 weeks to reach its full efficacy. Buspirone is approved for the treatment of anxiety disorders or short-term relief of the symptoms of anxiety. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138038">
+      <title>Antihypertensive Agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Antihypertensive agents are useful for the circumscribed treatment of situational/performance anxiety on an as-needed basis.</para>
+        <para>Beta-adrenergic blockers reduce the inotropic state of the left ventricle (LV), decrease diastolic dysfunction, and increase LV compliance, thereby reducing the pressure gradient across the LV outflow tract. Decreasing myocardial oxygen consumption reduces myocardial ischemia potential, and lowering the heart rate reduces myocardial oxygen consumption and myocardial ischemia potential.</para>
+      </intro>
+      <drug did="342356" name="Atenolol (Tenormin)" uri="tenormin-atenolol-342356">
+        <title>Atenolol (Tenormin)</title>
+        <para>Atenolol acts by selectively blocking beta1 receptors, with little or no effect on beta2 receptors. Beta-blockers affect blood pressure via multiple mechanisms, including a negative chronotropic effect that decreases heart rate at rest and after exercise, a negative inotropic effect that decreases cardiac output, reduction of sympathetic outflow from the CNS, and suppression of renin release from the kidneys.</para>
+        <para>Atenolol is used to improve and preserve hemodynamic status by acting on myocardial contractility, reducing congestion, and decreasing myocardial energy expenditure. During IV administration, the patient's blood pressure, heart rate, and electrocardiogram (ECG) must be carefully monitored. </para>
+      </drug>
+      <drug did="342364" name="Propranolol (Inderal LA, InnoPran XL)" uri="inderal-inderal-la-propranolol-342364">
+        <title>Propranolol (Inderal LA, InnoPran XL)</title>
+        <para>Propranolol is recommended for situational social anxiety (stage fright) on an as-needed basis. An oral (PO) dose of 10-20 mg is given </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138039">
+      <title>Antidepressants, TCAs</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>The tricyclic antidepressants (TCAs) clomipramine and imipramine have demonstrated efficacy for the treatment of panic disorder with and without agoraphobia. These are also relatively inexpensive medications. However, due to their broad spectrum of action and their inhibition of multiple neurotransmitter systems, the TCAs have more side effects, such as anticholinergic and cardiovascular side effects, and therefore, these agents present problems for long-term treatment. The treatment response of TCAs occurs on the same order as the Selective serotonin reuptake inhibitors (SSRIs), within 2-6 weeks. </para>
+        <para>TCAs have a black box warning that states that patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications. </para>
+      </intro>
+      <drug did="342938" name="Clomipramine hydrochloride (Anafranil)" uri="anafranil-clomipramine-342938">
+        <title>Clomipramine hydrochloride (Anafranil)</title>
+        <para>Clomipramine is a dibenzazepine compound that belongs to the TCA family. It acts by inhibiting the membrane pump mechanism responsible for norepinephrine and serotonin uptake in adrenergic and serotonergic neurons. Clomipramine affects serotonin uptake; it also affects norepinephrine uptake when converted into its metabolite desmethylclomipramine. Clomipramine acts as an antagonist at muscarinic acetylcholine receptors and is also an antagonist at histamine H1 receptors.</para>
+        <para>Clomipramine is approved by the FDA for use in the treatment of OCD (adult and pediatric, age ≥10 years). </para>
+      </drug>
+      <drug did="342941" name="Imipramine hydrochloride (Tofranil, Tofranil-PM)" uri="tofranil-pm-imipramine-342941">
+        <title>Imipramine hydrochloride (Tofranil, Tofranil-PM)</title>
+        <para>Imipramine hydrochloride inhibits reuptake of norepinephrine or serotonin at the presynaptic neuron. This agent is an antagonist at histamine H1 and alpha1 adrenoceptors, as well as at M2 muscarinic acetylcholine receptors. Parenteral administration can be used for starting therapy only in patients unable or unwilling to use oral medication. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138040">
+      <title>Antidepressants, MAO Inhibitors</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>MAOIs are most commonly prescribed for patients with social anxiety disorder (social phobia). Their main advantages are a low risk of dependence and a lesser anticholinergic effect than is seen with TCAs. Their main disadvantage is the higher number of adverse effects, including sexual difficulty, hypotension, and weight gain. A diet low in tyramine must be followed to avoid a hypertensive crisis. Use concomitant medications, including over-the-counter medications, with great caution. Because of the high risk for serotonin syndrome or hypertensive crisis, MAOIs are contraindicated in patients taking selective serotonin reuptake inhibitors; dual serotonin and norepinephrine reuptake inhibitors; tricyclic antidepressants; bupropion (Wellbutrin); mirtazapine (Remeron); buspirone (Buspar); and certain analgesics, vasoconstrictors, sympathomimetics, and anticonvulsants. </para>
+      </intro>
+      <drug did="342951" name="Phenelzine (Nardil)" uri="nardil-phenelzine-342951">
+        <title>Phenelzine (Nardil)</title>
+        <para>Phenelzine is the most commonly used MAOI for anxiety disorders. (Tranylcypromine 30-60 mg/day is also effective.) Phenelzine is usually reserved for patients who cannot tolerate or do not respond to TCAs or SSRIs. </para>
+      </drug>
+      <drug did="343052" name="Selegiline (Emsam)" uri="eldepryl-zelapar-selegiline-343052">
+        <title>Selegiline (Emsam)</title>
+        <para>Selegiline is a selective MAO-B inhibitor at lower therapeutic doses. As such, at the target dose of 6 mg per 24 hours, special dietary restrictions are not needed. In addition, the selegiline transdermal patch has the advantage of avoiding the first pass effect, which decreases the impact of CYP high/low-metabolizer status in terms of medication effects and tolerability. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="138041">
+      <title>Anticonvulsants</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Selected anticonvulsants have been shown to be effective for social anxiety disorder in mostly open-label, uncontrolled clinical trials and may also be useful in the treatment of other phobic disorders. </para>
+      </intro>
+      <drug did="343011" name="Gabapentin (Neurontin, Gralise)" uri="neurontin-gralise-gabapentin-343011">
+        <title>Gabapentin (Neurontin, Gralise)</title>
+        <para>Gabapentin is a membrane stabilizer and a structural analogue of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), which, paradoxically, is thought not to exert effects on GABA receptors. It appears to exert action via the alpha-2-delta1 and alpha-2-delta2 auxiliary subunits of voltage-gated calcium channels and has apparent anxiolytic properties.</para>
+      </drug>
+      <drug did="343368" name="Pregabalin (Lyrica)" uri="lyrica-pregabalin-343368">
+        <title>Pregabalin (Lyrica)</title>
+        <para>Pregabalin is a structural derivative of GABA. Its mechanism of action is unknown. It binds with high affinity to alpha-2-delta calcium channel subunits. In vitro, it reduces the calcium-dependent release of several neurotransmitters, possibly by modulating calcium channel function.</para>
+      </drug>
+      <drug did="343024" name="Valproic acid (Depakote, Depakote ER, Depakene, Stavzor)" uri="depakene-stavzor-valproic-acid-343024">
+        <title>Valproic acid (Depakote, Depakote ER, Depakene, Stavzor)</title>
+        <para>The mechanism of action of valproic acid is not established; its activity may be related to increased brain levels of GABA or enhanced GABA action. Valproic acid may also potentiate postsynaptic GABA responses, affect the potassium channel, or exert a direct membrane-stabilizing effect.</para>
+      </drug>
+    </cgroup>
+  </msect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Adrian Preda, MD</contrbtr_nm>
+        <contrbtr_title>Health Sciences Clinical Professor of Psychiatry and Human Behavior, University of California Irvine School of Medicine</contrbtr_title>
+        <contrbtr_bio>Adrian Preda, MD is a member of the following medical societies: <a href="http://www.sobp.org/i4a/pages/index.cfm?pageid=1">Society of Biological Psychiatry</a>, <a href="http://www.schizophreniacongress.org">International Congress of Schizophrenia Research</a>, <a href="http://www.schizophreniaresearchsociety.org">Schizophrenia International Research Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Iqbal Ahmed, MBBS, FRCPsych (UK)</contrbtr_nm>
+        <contrbtr_title>Faculty, Department of Psychiatry, Tripler Army Medical Center; Clinical Professor of Psychiatry, Uniformed Services University of the Health Sciences; Clinical Professor of Psychiatry, Clinical Professor of Geriatric Medicine, University of Hawaii, John A Burns School of Medicine</contrbtr_title>
+        <contrbtr_bio>Iqbal Ahmed, MBBS, FRCPsych (UK) is a member of the following medical societies: <a href="http://www.apm.org">Academy of Psychosomatic Medicine</a>, <a href="http://www.anpaonline.org">American Neuropsychiatric Association</a>, <a href="http://www.ascpp.org">American Society of Clinical Psychopharmacology</a>, Royal College of Psychiatrists, <a href="http://www.aagponline.org">American Association for Geriatric Psychiatry</a>, <a href="http://www.psychiatry.org/">American Psychiatric Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para><strong>Mohammed A Memon, MD</strong> Chairman and Attending Geriatric Psychiatrist, Department of Psychiatry, Spartanburg Regional Medical Center</para>
+      <para>Mohammed A Memon, MD is a member of the following medical societies: <a href="http://www.aagpgpa.org/">American Association for Geriatric Psychiatry</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, and <a href="http://www.psych.org/">American Psychiatric Association</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Francisco Talavera, PharmD, PhD</strong> Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</para>
+      <para>Disclosure: Medscape Salary Employment </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="">
+      <para>American Psychiatric Association. <em>Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR)</em>. Washington, DC: American Psychiatric Association Press; 2000. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11578981">
+      <para>Mathew SJ, Coplan JD, Gorman JM. Neurobiological mechanisms of social anxiety disorder. <em>Am J Psychiatry</em>. 2001 Oct. 158(10):1558-67. <a href="http://reference.medscape.com/medline/abstract/11578981">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10405076">
+      <para>Kendler KS, Karkowski LM, Prescott CA. Fears and phobias: reliability and heritability. <em>Psychol Med</em>. 1999 May. 29(3):539-53. <a href="http://reference.medscape.com/medline/abstract/10405076">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8466390">
+      <para>Fyer AJ, Mannuzza S, Chapman TF, Liebowitz MR, Klein DF. A direct interview family study of social phobia. <em>Arch Gen Psychiatry</em>. 1993 Apr. 50(4):286-93. <a href="http://reference.medscape.com/medline/abstract/8466390">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23774007">
+      <para>Van Houtem CM, Laine ML, Boomsma DI, Ligthart L, van Wijk AJ, De Jongh A. A review and meta-analysis of the heritability of specific phobia subtypes and corresponding fears. <em>J Anxiety Disord</em>. 2013 May. 27(4):379-88. <a href="http://reference.medscape.com/medline/abstract/23774007">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20099272">
+      <para>LeBeau RT, Glenn D, Liao B, et al. Specific phobia: a review of DSM-IV specific phobia and preliminary recommendations for DSM-V. <em>Depress Anxiety</em>. 2010 Feb. 27(2):148-67. <a href="http://reference.medscape.com/medline/abstract/20099272">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22392396">
+      <para>Linares IM, Trzesniak C, Chagas MH, Hallak JE, Nardi AE, Crippa JA. Neuroimaging in specific phobia disorder: a systematic review of the literature. <em>Rev Bras Psiquiatr</em>. 2012 Mar. 34(1):101-11. <a href="http://reference.medscape.com/medline/abstract/22392396">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12460694">
+      <para>Tillfors M, Furmark T, Marteinsdottir I, Fredrikson M. Cerebral blood flow during anticipation of public speaking in social phobia: a PET study. <em>Biol Psychiatry</em>. 2002 Dec 1. 52(11):1113-9. <a href="http://reference.medscape.com/medline/abstract/12460694">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11481154">
+      <para>Tillfors M,  Furmark T,  Marteinsdottir I,  Fischer H,  Pissiota A,  Långström B, et al. Cerebral blood flow in subjects with social phobia during stressful speaking tasks: a PET study. <em>Am J Psychiatry</em>. 2001 Aug. 158(8):1220-6. <a href="http://reference.medscape.com/medline/abstract/11481154">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16979141">
+      <para>Lanzenberger RR,  Mitterhauser M,  Spindelegger C,  Wadsak W,  Klein N,  Mien LK, et al. Reduced serotonin-1A receptor binding in social anxiety disorder. <em>Biol Psychiatry</em>. 2007 May 1. 61(9):1081-9. <a href="http://reference.medscape.com/medline/abstract/16979141">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20519060">
+      <para>Lanzenberger R,  Wadsak W,  Spindelegger C,  Mitterhauser M,  Akimova E,  Mien LK, et al. Cortisol plasma levels in social anxiety disorder patients correlate with serotonin-1A receptor binding in limbic brain regions. <em>Int J Neuropsychopharmacol</em>. 2010 Oct. 13(9):1129-43. <a href="http://reference.medscape.com/medline/abstract/20519060">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20206659">
+      <para>Freitas-Ferrari MC,  Hallak JE,  Trzesniak C,  Filho AS,  Machado-de-Sousa JP,  Chagas MH, et al. Neuroimaging in social anxiety disorder: a systematic review of the literature. <em>Prog Neuropsychopharmacol Biol Psychiatry</em>. 2010 May 30. 34(4):565-80. <a href="http://reference.medscape.com/medline/abstract/20206659">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19321315">
+      <para>Ahs F,  Pissiota A,  Michelgård A,  Frans O,  Furmark T,  Appel L, et al. Disentangling the web of fear: amygdala reactivity and functional connectivity in spider and snake phobia. <em>Psychiatry Res</em>. 2009 May 15. 172(2):103-8. <a href="http://reference.medscape.com/medline/abstract/19321315">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19435544">
+      <para>Caseras X,  Giampietro V,  Lamas A,  Brammer M,  Vilarroya O,  Carmona S, et al. The functional neuroanatomy of blood-injection-injury phobia: a comparison with spider phobics and healthy controls. <em>Psychol Med</em>. 2010 Jan. 40(1):125-34. <a href="http://reference.medscape.com/medline/abstract/19435544">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17681799">
+      <para>Straube T, Mentzel HJ, Miltner WH. Waiting for spiders: brain activation during anticipatory anxiety in spider phobics. <em>Neuroimage</em>. 2007 Oct 1. 37(4):1427-36. <a href="http://reference.medscape.com/medline/abstract/17681799">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22865617">
+      <para>Kessler RC, Petukhova M, Sampson NA, Zaslavsky AM, Wittchen HU. Twelve-month and lifetime prevalence and lifetime morbid risk of anxiety and mood disorders in the United States. <em>Int J Methods Psychiatr Res</em>. 2012 Sep. 21(3):169-84. <a href="http://reference.medscape.com/medline/abstract/22865617">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005415/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20037918">
+      <para>Lewis-Fernández R, Hinton DE, Laria AJ, et al. Culture and the anxiety disorders: recommendations for DSM-V. <em>Depress Anxiety</em>. 2010 Feb. 27(2):212-29. <a href="http://reference.medscape.com/medline/abstract/20037918">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15939837">
+      <para>Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. <em>Arch Gen Psychiatry</em>. 2005 Jun. 62(6):593-602. <a href="http://reference.medscape.com/medline/abstract/15939837">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20099273">
+      <para>Wolitzky-Taylor KB, Castriotta N, Lenze EJ, Stanley MA, Craske MG. Anxiety disorders in older adults: a comprehensive review. <em>Depress Anxiety</em>. 2010 Feb. 27(2):190-211. <a href="http://reference.medscape.com/medline/abstract/20099273">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17976249">
+      <para>Ruscio AM, Brown TA, Chiu WT, Sareen J, Stein MB, Kessler RC. Social fears and social phobia in the USA: results from the National Comorbidity Survey Replication. <em>Psychol Med</em>. 2008 Jan. 38(1):15-28. <a href="http://reference.medscape.com/medline/abstract/17976249">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262178/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Ollendick TH, King NJ, Muris P. Fears and phobias in children: phenomenology, epidemiology and aetiology. <em>Child Adolesc Ment Health</em>. 2002. 7:98–106. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21896369">
+      <para>Wittchen HU, Jacobi F, Rehm J, et al. The size and burden of mental disorders and other disorders of the brain in Europe 2010. <em>Eur Neuropsychopharmacol</em>. 2011 Sep. 21(9):655-79. <a href="http://reference.medscape.com/medline/abstract/21896369">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19716988">
+      <para>Beesdo K, Knappe S, Pine DS. Anxiety and anxiety disorders in children and adolescents: developmental issues and implications for DSM-V. <em>Psychiatr Clin North Am</em>. 2009 Sep. 32(3):483-524. <a href="http://reference.medscape.com/medline/abstract/19716988">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3018839/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16585471">
+      <para>Kessler RC, Chiu WT, Jin R, Ruscio AM, Shear K, Walters EE. The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. <em>Arch Gen Psychiatry</em>. 2006 Apr. 63(4):415-24. <a href="http://reference.medscape.com/medline/abstract/16585471">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1958997/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15921898">
+      <para>Fehm L, Pelissolo A, Furmark T, Wittchen HU. Size and burden of social phobia in Europe. <em>Eur Neuropsychopharmacol</em>. 2005 Aug. 15(4):453-62. <a href="http://reference.medscape.com/medline/abstract/15921898">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10218923">
+      <para>Wittchen HU, Stein MB, Kessler RC. Social fears and social phobia in a community sample of adolescents and young adults: prevalence, risk factors and co-morbidity. <em>Psychol Med</em>. 1999 Mar. 29(2):309-23. <a href="http://reference.medscape.com/medline/abstract/10218923">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20143426">
+      <para>Wittchen HU, Gloster AT, Beesdo-Baum K, Fava GA, Craske MG. Agoraphobia: a review of the diagnostic classificatory position and criteria. <em>Depress Anxiety</em>. 2010 Feb. 27(2):113-33. <a href="http://reference.medscape.com/medline/abstract/20143426">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15930067">
+      <para>Bruce SE,  Yonkers KA,  Otto MW,  Eisen JL,  Weisberg RB,  Pagano M, et al. Influence of psychiatric comorbidity on recovery and recurrence in generalized anxiety disorder, social phobia, and panic disorder: a 12-year prospective study. <em>Am J Psychiatry</em>. 2005 Jun. 162(6):1179-87. <a href="http://reference.medscape.com/medline/abstract/15930067">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8071299">
+      <para>Schneier FR,  Heckelman LR,  Garfinkel R,  Campeas R,  Fallon BA,  Gitow A, et al. Functional impairment in social phobia. <em>J Clin Psychiatry</em>. 1994 Aug. 55(8):322-31. <a href="http://reference.medscape.com/medline/abstract/8071299">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14571055">
+      <para>Lochner C, Mogotsi M, du Toit PL, Kaminer D, Niehaus DJ, Stein DJ. Quality of life in anxiety disorders: a comparison of obsessive-compulsive disorder, social anxiety disorder, and panic disorder. <em>Psychopathology</em>. 2003 Sep-Oct. 36(5):255-62. <a href="http://reference.medscape.com/medline/abstract/14571055">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12912765">
+      <para>Matza LS, Revicki DA, Davidson JR, Stewart JW. Depression with atypical features in the National Comorbidity Survey: classification, description, and consequences. <em>Arch Gen Psychiatry</em>. 2003 Aug. 60(8):817-26. <a href="http://reference.medscape.com/medline/abstract/12912765">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16275812">
+      <para>Sareen J,  Cox BJ,  Afifi TO,  de Graaf R,  Asmundson GJ,  ten Have M, et al. Anxiety disorders and risk for suicidal ideation and suicide attempts: a population-based longitudinal study of adults. <em>Arch Gen Psychiatry</em>. 2005 Nov. 62(11):1249-57. <a href="http://reference.medscape.com/medline/abstract/16275812">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18374843">
+      <para>Stein MB, Stein DJ. Social anxiety disorder. <em>Lancet</em>. 2008 Mar 29. 371(9618):1115-25. <a href="http://reference.medscape.com/medline/abstract/18374843">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17679635">
+      <para>Beesdo K,  Bittner A,  Pine DS,  Stein MB,  Höfler M,  Lieb R, et al. Incidence of social anxiety disorder and the consistent risk for secondary depression in the first three decades of life. <em>Arch Gen Psychiatry</em>. 2007 Aug. 64(8):903-12. <a href="http://reference.medscape.com/medline/abstract/17679635">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8629891">
+      <para>Magee WJ, Eaton WW, Wittchen HU, McGonagle KA, Kessler RC. Agoraphobia, simple phobia, and social phobia in the National Comorbidity Survey. <em>Arch Gen Psychiatry</em>. 1996 Feb. 53(2):159-68. <a href="http://reference.medscape.com/medline/abstract/8629891">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24037602">
+      <para>Liotti G. Phobias of Attachment-Related Inner States in the Psychotherapy of Adult Survivors of Childhood Complex Trauma. <em>J Clin Psychol</em>. 2013 Aug 28. <a href="http://reference.medscape.com/medline/abstract/24037602">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16272179">
+      <para>Baldwin DS,  Anderson IM,  Nutt DJ,  Bandelow B,  Bond A,  Davidson JR, et al. Evidence-based guidelines for the pharmacological treatment of anxiety disorders: recommendations from the British Association for Psychopharmacology. <em>J Psychopharmacol</em>. 2005 Nov. 19(6):567-96. <a href="http://reference.medscape.com/medline/abstract/16272179">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10066008">
+      <para>de Beurs E, van Balkom AJ, Van Dyck R, Lange A. Long-term outcome of pharmacological and psychological treatment for panic disorder with agoraphobia: a 2-year naturalistic follow-up. <em>Acta Psychiatr Scand</em>. 1999 Jan. 99(1):59-67. <a href="http://reference.medscape.com/medline/abstract/10066008">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18922243">
+      <para>Pelissolo A. [Efficacy and tolerability of escitalopram in anxiety disorders: a review]. <em>Encephale</em>. 2008 Sep. 34(4):400-8. <a href="http://reference.medscape.com/medline/abstract/18922243">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>National Prescribing Service Limited. Escitalopram (Lexapro, Esipram) for generalised anxiety disorder and social anxiety disorder (social phobia). NPS RADAR. Available at <a href="http://bit.ly/dOARMJ">http://bit.ly/dOARMJ</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Stein DJ, Ipser JC, van Balkom AJ. Pharmacotherapy for social anxiety disorder. <em>Cochrane Review</em>. Chichester, UK: John Wiley and Sons, Ltd; 2009. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19238127">
+      <para>Westenberg HG. Recent advances in understanding and treating social anxiety disorder. <em>CNS Spectr</em>. 2009 Feb. 14(2 Suppl 3):24-33. <a href="http://reference.medscape.com/medline/abstract/19238127">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20667290">
+      <para>Ravindran LN, Stein MB. The pharmacologic treatment of anxiety disorders: a review of progress. <em>J Clin Psychiatry</em>. 2010 Jul. 71(7):839-54. <a href="http://reference.medscape.com/medline/abstract/20667290">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17092192">
+      <para>Davidson JR. Pharmacotherapy of social anxiety disorder: what does the evidence tell us?. <em>J Clin Psychiatry</em>. 2006. 67 Suppl 12:20-6. <a href="http://reference.medscape.com/medline/abstract/17092192">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24061211">
+      <para>Offidani E, Guidi J, Tomba E, Fava GA. Efficacy and Tolerability of Benzodiazepines versus Antidepressants in Anxiety Disorders: A Systematic Review and Meta-Analysis. <em>Psychother Psychosom</em>. 2013 Sep 20. 82(6):355-362. <a href="http://reference.medscape.com/medline/abstract/24061211">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14767397">
+      <para>Van Ameringen M,  Allgulander C,  Bandelow B,  Greist JH,  Hollander E,  Montgomery SA, et al. WCA recommendations for the long-term treatment of social phobia. <em>CNS Spectr</em>. 2003 Aug. 8(8 Suppl 1):40-52. <a href="http://reference.medscape.com/medline/abstract/14767397">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9585731">
+      <para>Practice guideline for the treatment of patients with panic disorder. Work Group on Panic Disorder. American Psychiatric Association. <em>Am J Psychiatry</em>. 1998 May. 155(5 Suppl):1-34. <a href="http://reference.medscape.com/medline/abstract/9585731">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9734541">
+      <para>Pohl RB, Wolkow RM, Clary CM. Sertraline in the treatment of panic disorder: a double-blind multicenter trial. <em>Am J Psychiatry</em>. 1998 Sep. 155(9):1189-95. <a href="http://reference.medscape.com/medline/abstract/9734541">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9812120">
+      <para>Michelson D,  Lydiard RB,  Pollack MH,  Tamura RN,  Hoog SL,  Tepner R, et al. Outcome assessment and clinical improvement in panic disorder: evidence from a randomized controlled trial of fluoxetine and placebo. The Fluoxetine Panic Disorder Study Group. <em>Am J Psychiatry</em>. 1998 Nov. 155(11):1570-7. <a href="http://reference.medscape.com/medline/abstract/9812120">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10356648">
+      <para>Uhlenhuth EH, Balter MB, Ban TA, Yang K. International study of expert judgment on therapeutic use of benzodiazepines and other psychotherapeutic medications: VI. Trends in recommendations for the pharmacotherapy of anxiety disorders, 1992-1997. <em>Depress Anxiety</em>. 1999. 9(3):107-16. <a href="http://reference.medscape.com/medline/abstract/10356648">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9811429">
+      <para>Shear MK, Beidel DC. Psychotherapy in the overall management strategy for social anxiety disorder. <em>J Clin Psychiatry</em>. 1998. 59 Suppl 17:39-46. <a href="http://reference.medscape.com/medline/abstract/9811429">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16513692">
+      <para>[Guideline] Mayor S. NICE advocates computerised CBT. <em>BMJ</em>. 2006 Mar 4. 332(7540):504. <a href="http://reference.medscape.com/medline/abstract/16513692">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1388153/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15740463">
+      <para>Barlow JH, Ellard DR, Hainsworth JM, Jones FR, Fisher A. A review of self-management interventions for panic disorders, phobias and obsessive-compulsive disorders. <em>Acta Psychiatr Scand</em>. 2005 Apr. 111(4):272-85. <a href="http://reference.medscape.com/medline/abstract/15740463">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17593148">
+      <para>Masia Warner C, Fisher PH, Shrout PE, Rathor S, Klein RG. Treating adolescents with social anxiety disorder in school: an attention control trial. <em>J Child Psychol Psychiatry</em>. 2007 Jul. 48(7):676-86. <a href="http://reference.medscape.com/medline/abstract/17593148">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24094791">
+      <para>Bunnell BE, Beidel DC, Mesa F. A Randomized Trial of Attention Training for Generalized Social Phobia: Does Attention Training Change Social Behavior?. <em>Behav Ther</em>. 2013 Dec. 44(4):662-673. <a href="http://reference.medscape.com/medline/abstract/24094791">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19464700">
+      <para>Ayala ES, Meuret AE, Ritz T. Treatments for blood-injury-injection phobia: a critical review of current evidence. <em>J Psychiatr Res</em>. 2009 Oct. 43(15):1235-42. <a href="http://reference.medscape.com/medline/abstract/19464700">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16942963">
+      <para>Rothbaum BO, Anderson P, Zimand E, Hodges L, Lang D, Wilson J. Virtual reality exposure therapy and standard (in vivo) exposure therapy in the treatment of fear of flying. <em>Behav Ther</em>. 2006 Mar. 37(1):80-90. <a href="http://reference.medscape.com/medline/abstract/16942963">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12595193">
+      <para>Paquette V,  Lévesque J,  Mensour B,  Leroux JM,  Beaudoin G,  Bourgouin P, et al. "Change the mind and you change the brain": effects of cognitive-behavioral therapy on the neural correlates of spider phobia. <em>Neuroimage</em>. 2003 Feb. 18(2):401-9. <a href="http://reference.medscape.com/medline/abstract/12595193">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17902000">
+      <para>Schienle A, Schäfer A, Hermann A, Rohrmann S, Vaitl D. Symptom provocation and reduction in patients suffering from spider phobia: an fMRI study on exposure therapy. <em>Eur Arch Psychiatry Clin Neurosci</em>. 2007 Dec. 257(8):486-93. <a href="http://reference.medscape.com/medline/abstract/17902000">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19775792">
+      <para>Sánchez-Meca J, Rosa-Alcázar AI, Marín-Martínez F, Gómez-Conesa A. Psychological treatment of panic disorder with or without agoraphobia: a meta-analysis. <em>Clin Psychol Rev</em>. 2010 Feb. 30(1):37-50. <a href="http://reference.medscape.com/medline/abstract/19775792">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18066139">
+      <para>Hudson C, Hudson S, MacKenzie J. Protein-source tryptophan as an efficacious treatment for social anxiety disorder: a pilot study. <em>Can J Physiol Pharmacol</em>. 2007 Sep. 85(9):928-32. <a href="http://reference.medscape.com/medline/abstract/18066139">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2007095" pubid="" template="Oncology" template-name="singlesection">
+  <site-meta>
+    <article-name>Prostate Cancer Treatment Protocols</article-name>
+    <title>
+      <page-info id="overview">Prostate Cancer Treatment Protocols: Treatment Protocols</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Prostate Cancer Treatment Protocols: Treatment Protocols</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Treatment Protocols</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Prostate Cancer Treatment Protocols Overview</page-info>
+    </meta-keywords>
+    <uri>2007095-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Oct 07, 2014</posting-date>
+    <last-generated>2015-08-04-17:30</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Oncology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2007095</artid>
+      <cg>502</cg>
+      <scg text="Prostate Cancer">3003438</scg>
+      <ssp text="Hematology/Oncology">7</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology</id>
+      <name>Oncology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology_genitourinary</id>
+      <name>Genitourinary Cancers</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Treatment protocols for prostate cancer are provided below, including general treatment recommendations and those for localized prostate cancer, for recurrent disease, and for advanced or metastatic disease. See Prostate Cancer: Diagnosis and Staging, a Critical Images slideshow, to help determine the best diagnostic approach for this potenti...</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Prostate Cancer Treatment Protocols</title>
+  <sect1 id="a1">
+    <title>Treatment Protocols</title>
+    <pgroup>
+      <para>Treatment protocols for prostate cancer are provided below, including general treatment recommendations and those for localized prostate cancer, for recurrent disease, and for advanced or metastatic disease.</para>
+      <para>See <a href="http://reference.medscape.com/features/slideshow/prostatecancer">Prostate Cancer: Diagnosis and Staging</a>, a Critical Images slideshow, to help determine the best diagnostic approach for this potentially deadly disease.</para>
+      <para>Also, see the <a href="http://reference.medscape.com/features/slideshow/advanced-prostate-cancer">Advanced Prostate Cancer: Signs of Metastatic Disease</a> slideshow for help identifying the signs of metastatic disease.</para>
+    </pgroup>
+    <pgroup>
+      <title>General treatment recommendations for prostate cancer</title>
+      <para>Selecting initial treatment requires assessing the risk of the disease spreading or progressing, which is based on evaluating the patient's life expectancy, comorbidities, biopsy grade (Gleason score), clinical stage, and prostate-specific antigen (PSA) level. </para>
+    </pgroup>
+    <pgroup>
+      <title>Treatment recommendations for clinically localized prostate cancer</title>
+      <para>
+        <em>Very low risk of recurrence:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Patients with clinical stage T1c, Gleason score ≤6, PSA &lt; 10 ng/mL, fewer than three positive prostate cores, ≤50% cancer in each core, and PSA density &lt; 0.15 ng/mL/g, with a life expectancy &lt; 20 y, should be treated with active surveillance; they should also be referred for observation </para>
+        </listitem>
+        <listitem>
+          <para>Surveillance includes periodic PSA, prostate exam, and prostate biopsy</para>
+        </listitem>
+        <listitem>
+          <para>Optimal protocol for surveillance is still unknown<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: PSA as often as every 3 mo or at least every 6 mo; digital rectal examination (DRE) as often as every 6 mo but at least every 12 mo; repeat biopsy within 18 mo but as often as every 12 mo or if PSA and DRE change<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        </listitem>
+        <listitem>
+          <para>For treatment recommendations for patients with a life expectancy ≥20 y, see initial therapy for Low Risk of Recurrence, below </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Low risk of recurrence:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Treatment for patients with clinical stage T1-T2a, Gleason score 2-6, PSA &lt; 10 ng/mL, with a life expectancy &lt; 10 y, includes active surveillance </para>
+        </listitem>
+        <listitem>
+          <para>Treatment for patients with a life expectancy ≥10y includes active surveillance <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radical prostatectomy (RP) with or without pelvic lymph node dissection (PLND) if predicted probability of lymph node metastases ≥2%; RP is the standard therapy for localized prostate cancer, involving the removal of the prostate and seminal vesicles with or without pelvic lymph nodes; this may be done using either open or laparoscopic (robotic-assisted) technique<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc7" name="refsrc7"/>7, <ref_inline id="refsrc8" name="refsrc8"/>8] </sup><strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy is a standard therapy for patients with localized disease, and 3-dimensional (3D) techniques such as 3D conformal radiation treatment (3D-CRT), which offer benefits such as reduced toxicity and the use of higher doses; second-generation techniques, including intensity-modulated radiation therapy (IMRT), are also required, especially if doses ≥78 Gy are administered<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy doses of 75.6-79 Gy in conventional 36-41 Gy fractions to the prostate<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>with 3D-CRT/IMRT with daily image-guided radiotherapy (IGRT) or brachytherapy (recommended dose rate: 145 Gy for iodine-125 and 125 Gy for palladium-103): A study by Haverkort et al found that position verification using gold markers and reduced planning target volume margins yielded adequate treatment of the prostate and a lower rectal wall dose in patients treated with curative external beam radiotherapy<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Patients with low-risk cancer are not candidates for pelvic lymph node irradiation or androgen deprivation therapy (ADT)<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Intermediate risk of recurrence:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Treatment options for patients with clinical stage T2b-T2c, Gleason score 7, PSA 10-20 ng/mL, who have a life expectancy &lt; 10 y, include active surveillance <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT with daily IGRT with or without short-term neoadjuvant/concomitant/adjuvant ADT for 4-6 mo with or without brachytherapy (recommended dose rate: 145 Gy for iodine-125 and 125 Gy for palladium-103)<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12, <ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Treatment recommendations for patients with a life expectancy ≥10 y include RP with PLND if predicted probability of lymph node metastasis ≥2% <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT with daily IGRT with or without short-term neoadjuvant/concomitant/adjuvant ADT for 4-6 mo with or without brachytherapy (recommended dose rate: 145 Gy for iodine-125 and 125 Gy for palladium-103) </para>
+        </listitem>
+        <listitem>
+          <para>Intermediate-risk cancers consider combining brachytherapy (recommended dose rate: 145 Gy for iodine-125 and 125 Gy for palladium-103) with external beam radiation therapy (EBRT)(40-50 Gy) with or without 4-6 mo neoadjuvant/concomitant/adjuvant ADT </para>
+        </listitem>
+        <listitem>
+          <para>Administering ADT before, during, and after radiation prolongs survival</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>High risk of recurrence:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Clinical stage T3a, Gleason score 8-10, PSA &gt;20 ng/mL</para>
+        </listitem>
+        <listitem>
+          <para>Treatment options include radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT plus long-term neoadjuvant/concomitant/adjuvant ADT for 2-3 y <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT with daily IGRT plus brachytherapy (recommended dose rate: 145 Gy for iodine-125 and 125 Gy for palladium-103) with or without short-term neoadjuvant/concomitant/adjuvant ADT for 4-6 mo <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>RP plus PLND for selected patients with no fixation</para>
+        </listitem>
+        <listitem>
+          <para>High-risk cancers may be treated with combination EBRT (40-50 Gy) and brachytherapy with or without 4-6 mo neoadjuvant/concomitant/adjuvant ADT </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Alternative treatment recommendations for localized prostate cancer</title>
+      <para>Other treatments that have been used in the initial management of localized prostate cancer include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Cryotherapy</para>
+        </listitem>
+        <listitem>
+          <para>High-intensity focused ultrasound</para>
+        </listitem>
+        <listitem>
+          <para>Particle beam therapy</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Cryotherapy:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Cryotherapy (also known as cryosurgery or cryoablation) involves using transrectal ultrasonographic guidance; percutaneous cryoprobes are placed and used to freeze prostate tissue </para>
+        </listitem>
+        <listitem>
+          <para>This treatment is not optimal but may be used in select patients with localized prostate cancer or as focal therapy in low-risk patients (experimental)<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Can also be considered as salvage therapy after failed radiation therapy<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Complications include tissue sloughing, perineal ecchymosis, stricture or contracture, incontinence, impotence, and fistula formation between the urinary and gastrointestinal tracts </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>High-intensity focused ultrasound:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Acoustic ablative technique that uses ultrasound to destroy prostate tissue</para>
+        </listitem>
+        <listitem>
+          <para>Not yet FDA approved in the United States, pending multicenter trials</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Particle beam therapy:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Similar to radiation therapy but uses protons for energy; however, long-term follow-up data on this technique are lacking</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Biochemical failure</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Approximately 50% of patients treated with intent for cure will have biochemical recurrence, which most commonly manifests as a rising PSA level<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Biopsy of the prostatic bed is usually not recommended unless the patient is a candidate for salvage therapy</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Post–radical prostatectomy recurrence</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Defined as a detectable PSA that increases on two subsequent measurements or a PSA that fails to fall to undetectable levels</para>
+        </listitem>
+        <listitem>
+          <para>Best PSA threshold unknown but probably between 0.2 and 0.4 ng/mL<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Treatment options include salvage radiation therapy, androgen deprivation, and surveillance</para>
+        </listitem>
+        <listitem>
+          <para>Adjuvant radiation therapy may be more beneficial than salvage radiation therapy in men with poor pathologic features<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Post–radiation therapy recurrence</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Defined as a rise in PSA of 2 ng/ml or more above the nadir<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18, <ref_inline id="refsrc19" name="refsrc19"/>19, <ref_inline id="refsrc20" name="refsrc20"/>20] </sup></para>
+        </listitem>
+        <listitem>
+          <para>PSA can bounce up and down after radiation</para>
+        </listitem>
+        <listitem>
+          <para>Treatment options include salvage prostatectomy, ADT, surveillance, high-intensity focused ultrasound (HIFU) (trials), cryotherapy, repeat irradiation </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Treatment recommendations for locally advanced prostate cancer</title>
+      <para>
+        <em>Very high risk:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Clinical stage T3b-T4 treatment options include radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT plus long-term neoadjuvant/concomitant/adjuvant androgen deprivation therapy (ADT) for 2-3 y <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT with daily IGRT plus brachytherapy with or without short-term neoadjuvant/concomitant/ADT for 4-6 mo <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>RP plus PLND for selected patients with no fixation <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>ADT in selected patients</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Metastatic disease:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Any T, N1: Treatment includes ADT <strong>or</strong> radiation therapy (doses of 78-80+ Gy) with 3D-CRT/IMRT with IGRT plus long-term neoadjuvant/concomitant/adjuvant ADT for 2-3y </para>
+        </listitem>
+        <listitem>
+          <para>Any T, any N, M1: Treatment includes only ADT for patients with M1</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Androgen deprivation therapy (ADT) recommendations for advanced or metastatic disease</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>ADT is the preferred initial treatment for symptomatic metastatic prostate cancer because androgenic effects promote the growth and malignant transformation of prostatic tissue<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup></para>
+        </listitem>
+        <listitem>
+          <para>ADTs include luteinizing hormone (LH) receptor agonists (eg, histrelin, leuprolide), gonadotropin-releasing hormone (GnRH) receptor agonists (eg, goserelin, histrelin, leuprolide, triptorelin) and antagonists (eg, degarelix), and complete androgen blockade (CAB) </para>
+        </listitem>
+        <listitem>
+          <para>CAB includes medical or surgical castration with an oral antiandrogen (eg, bicalutamide, flutamide, nilutamide)<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Patients who do not show an adequate suppression of serum testosterone (&lt; 50 ng/dL) may be considered for CAB</para>
+        </listitem>
+        <listitem>
+          <para>Monotherapy with nonsteroidal antiandrogens is less effective but these agents are associated with fewer hot flashes and fatigue and do not impair libido </para>
+        </listitem>
+        <listitem>
+          <para>If hormone therapy fails, that therapy should be continued into and through the next hormone manipulation</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Gonadotropin-releasing hormone agonists:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Therapy with GnRH analogs may induce medical castration by suppressing luteinizing hormone (LH) production</para>
+        </listitem>
+        <listitem>
+          <para>These agonists can potentially cause a transient surge of LH when therapy is initiated before the LH levels fall (flare phenomenon)</para>
+        </listitem>
+        <listitem>
+          <para>GnRH agonists are offered in 1 mo, 3 mo, and once-yearly depots; premedication with antiandrogen is necessary to prevent flare phenomenon </para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/lupron-leuprolide-342221">Leuprolide</a>: 7.5 mg intramuscularly (IM) monthly <strong>or</strong> 22.5 mg IM every 3 mo <strong>or</strong> 30 mg IM every 4 mo <strong>or</strong> 45 mg intravenously (IV) every 6 mo <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/supprelin-la-vantas-histrelin-342758">Histrelin</a>: one 50-mg subcutaneous (SC) implant every 12 mo<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>; continue therapy until disease progression <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/zoladex-la-goserelin-342129">Goserelin</a>: 3.6-mg implant SC monthly <strong>or</strong> a 10.8-mg implant<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>SC every 3 mo <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/trelstar-depot-triptorelin-342230">Triptorelin</a>: 3.75 mg IM monthly <strong>or</strong> 11.25 mg IM every 3 mo <strong>or</strong> 22.5 mg IM every 6 mo </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Gonadotropin-releasing hormone antagonists:</em>
+      </para>
+      <para>Pure GnRH antagonists suppress testosterone and avoid the flare phenomenon associated with GnRH agonists.</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/firmagon-degarelix-999105">Degarelix</a>: 120 mg SC x two doses (ie, two separate injections totaling 240 mg), and <strong>then</strong>, after 28 days, begin monthly maintenance dose of 80 mg SC </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Nonsteroidal antiandrogens:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Antiandrogens bind to androgen receptors and competitively inhibit their interaction with testosterone and dihydrotestosterone</para>
+        </listitem>
+        <listitem>
+          <para>These agents do not decrease LH levels and androgen production</para>
+        </listitem>
+        <listitem>
+          <para>Antiandrogens are usually used in combination with a GnRH agonist, to prevent a disease flare caused by the transient increase in testosterone levels </para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/drogenil-euflex-flutamide-342223">Flutamide</a> 250 mg orally (PO) TID <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/casodex-bicalutamide-342210">Bicalutamide</a> 50 mg PO daily; patients refractory to other antiandrogen agents may start with 150 mg PO daily <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/nilandron-nilutamide-342222">Nilutamide</a> 300 mg PO daily for 30 days, and <strong>then</strong> 150 mg PO daily <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Enzalutamide 160 mg PO daily</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Hormone-refractory prostate cancer:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>Taxanes alone or in combination with other agents have demonstrated efficacy in the treatment of hormone-refractory prostate cancer </para>
+        </listitem>
+        <listitem>
+          <para>Recommended dose is <a href="http://reference.medscape.com/drug/taxol-paclitaxel-342187">paclitaxel</a> 135 mg/m<sup>2</sup> IV as a 24-h infusion on day 1; repeat every 21 days <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para>Paclitaxel 150 mg/m<sup>2</sup> IV as a 1-h infusion weekly for 6 wk; repeat cycle every 8 wk</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Management of castration-recurrent prostate cancer</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>All patients with metastatic disease become resistant to ADT</para>
+        </listitem>
+        <listitem>
+          <para>The median time to symptomatic progression after a rise in PSA level of more than 4 ng/mL is approximately 6-8 mo, with a median time to death of 12-18 mo </para>
+        </listitem>
+        <listitem>
+          <para>Symptomatic patients have a median survival of 1 y</para>
+        </listitem>
+        <listitem>
+          <para>Radiation may be used for palliation in patients with painful bone metastases or impending spinal cord compression</para>
+        </listitem>
+        <listitem>
+          <para>Surgical intervention may be necessary for weight-bearing bones involved in pathologic fracture</para>
+        </listitem>
+        <listitem>
+          <para>Therapeutic options are limited, and the focus is on improving quality of life using single or multimodal therapies</para>
+        </listitem>
+        <listitem>
+          <para>Docetaxel every 3 wk plus prednisone is the treatment of choice for men with symptomatic castration-recurrent prostate cancer;<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25, <ref_inline id="refsrc26" name="refsrc26"/>26] </sup>recommended dose is <a href="http://reference.medscape.com/drug/taxotere-docefrez-docetaxel-342192">docetaxel</a> 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong><a href="http://reference.medscape.com/drug/prednisone-intensol-342747">prednisone</a> 5 mg PO BID; repeat cycle every 21 days for up to a total of 10 cycles (premedicate with oral corticosteroids starting 1 day before docetaxel administration to reduce incidence of hypersensitivity reactions and fluid retention) </para>
+        </listitem>
+        <listitem>
+          <para>Symptomatic men who are not candidates for docetaxel-based regimens may be candidates for <a href="http://reference.medscape.com/drug/mitoxantrone-342186">mitoxantrone</a> 12 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> prednisone 5 mg PO BID daily; repeat cycle every 21 days<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25, <ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Men with less advanced disease, good performance status, life expectancy &gt;6 mo, no visceral disease, and no or minimal symptoms and who are resistant to standard hormone treatment may be candidates for autologous immunotherapy with sipuleucel-T<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/provenge-sipuleucelt-999559">Sipuleucel-T</a> requires three complete doses IV given at approximately 2 wk intervals (median dosing interval, 2 wk; range, 1-15 wk); infuse IV over 60 min; premedicate with oral <a href="http://reference.medscape.com/drug/tylenol-acetaminophen-343346">acetaminophen</a> and an antihistamine approximately 30 min prior to administration<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27, <ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/zytiga-abiraterone-999651">Abiraterone</a> has been approved for the treatment of patients with metastatic castration-resistant prostate cancer who are either chemotherapy-naïve or who have had prior docetaxel therapy; recommended dose is 1000 mg PO once daily plus prednisone 5 mg PO BID<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29, <ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31, <ref_inline id="refsrc32" name="refsrc32"/>32] </sup></para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Treatment recommendations for late-stage castration-resistant prostate cancer with prior docetaxel chemotherapy</em><sup>[<ref_inline id="refsrc29" name="refsrc29"/>29, <ref_inline id="refsrc30" name="refsrc30"/>30] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Abiraterone has been approved for the treatment of patients with metastatic castration-resistant prostate cancer who are either chemotherapy-naive or those who have had prior docetaxel therapy; recommended dose is 1000 mg PO once daily <strong>plus</strong> prednisone 5 mg PO BID;<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29, <ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31, <ref_inline id="refsrc32" name="refsrc32"/>32] </sup>a study by de Bono et al found that abiraterone acetate prolonged overall survival among patients with metastatic castration-resistant prostate cancer who had received chemotherapy prior to administration<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Alternative regimens include cabazitaxel with prednisone for patients who have hormone-refractory metastatic prostate cancer that was previously treated with a docetaxel-containing treatment regimen; <a href="http://reference.medscape.com/drug/jevtana-cabazitaxel-999571">cabazitaxel</a> 25 mg/m<sup>2</sup> IV every 3 wk; infuse IV over 1 h; use inline filter (0.22 µm) during administration <strong>plus</strong> prednisone 10 mg PO daily; reduce cabazitaxel dose to 20 mg/m<sup>2</sup> with prolonged or febrile neutropenia or with persistent or severe diarrhea </para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/xtandi-enzalutamide-999769">Enzalutamide</a> (160 mg PO daily) is an androgen receptor inhibitor that was indicated only for metastatic castration-resistant prostate cancer in patients who previously received docetaxel; it is now approved also for patients who have not received chemotherapy </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Treatment recommendations for patients with castration-recurrent prostate cancer and bone metastases</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Bisphosphonates are recommended for all men with hormone-refractory prostate cancer and bone metastases<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34, <ref_inline id="refsrc35" name="refsrc35"/>35] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Bisphosphonates have been shown to reduce skeleton-related events such as pathologic fracture</para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/reclast-zometa-zoledronic-acid-342858">Zoledronic acid</a> 4 mg IV annually over no less than 15 min <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/fosamax-binosto-alendronate-342810">Alendronate</a> 70 mg PO weekly <strong>OR</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/prolia-denosumab-999566">Denosumab</a> 120 mg SC every 4 wk</para>
+        </listitem>
+      </itemizedlist>
+      <para>The radiopharmaceutical radium-223 dichloride (Xofigo) was approved in May 2013 for men with castration-resistant prostate cancer with symptomatic bone metastases and no known visceral metastatic disease.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup></para>
+      <itemizedlist>
+        <listitem>
+          <para>50 kBq (1.36 microcurie) per kg IV infused over 1 minute; repeat q 4 wk for six cycles total; dosage calculation must be based on decay correction factor of radium-223 (listed in prescribing information) </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Reza Ghavamian, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Clinical Urology, Albert Einstein College of Medicine; Director of Urologic Oncology, Director of Minimally Invasive and Robotic Urologic Surgery, Montefiore Medical Center</contrbtr_title>
+        <contrbtr_bio>Reza Ghavamian, MD is a member of the following medical societies: <a href="http://www.auanet.org/">American Urological Association</a>, <a href="http://suonet.org">Society of Urologic Oncology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Christopher D Braden, DO</contrbtr_nm>
+        <contrbtr_title>Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jules E Harris, MD, FACP, FRCPC</contrbtr_nm>
+        <contrbtr_title>Clinical Professor of Medicine, Section of Hematology/Oncology, University of Arizona College of Medicine, Arizona Cancer Center</contrbtr_title>
+        <contrbtr_bio>Jules E Harris, MD, FACP, FRCPC is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.hematology.org">American Society of Hematology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14532779">
+      <para>Cagiannos I, Karakiewicz P, Eastham JA, et al. A preoperative nomogram identifying decreased risk of positive pelvic lymph nodes in patients with prostate cancer. <em>J Urol</em>. 2003 Nov. 170(5):1798-803. <a href="http://reference.medscape.com/medline/abstract/14532779">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17448592">
+      <para>Heidenreich A, Ohlmann CH, Polyakov S. Anatomical extent of pelvic lymphadenectomy in patients undergoing radical prostatectomy. <em>Eur Urol</em>. 2007 Jul. 52(1):29-37. <a href="http://reference.medscape.com/medline/abstract/17448592">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19826025">
+      <para>Hu JC,  Gu X,  Lipsitz SR,  Barry MJ,  D'Amico AV,  Weinberg AC, et al. Comparative effectiveness of minimally invasive vs open radical prostatectomy. <em>JAMA</em>. 2009 Oct 14. 302(14):1557-64. <a href="http://reference.medscape.com/medline/abstract/19826025">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17936806">
+      <para>Carter HB, Kettermann A, Warlick C, et al. Expectant management of prostate cancer with curative intent: an update of the Johns Hopkins experience. <em>J Urol</em>. 2007 Dec. 178(6):2359-64; discussion 2364-5. <a href="http://reference.medscape.com/medline/abstract/17936806">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11912384">
+      <para>Choo R, Klotz L, Danjoux C, Morton GC, et al. Feasibility study: watchful waiting for localized low to intermediate grade prostate carcinoma with selective delayed intervention based on prostate specific antigen, histological and/or clinical progression. <em>J Urol</em>. 2002 Apr. 167(4):1664-9. <a href="http://reference.medscape.com/medline/abstract/11912384">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19506163">
+      <para>O'Brien MF, Cronin AM, Fearn PA, et al. Pretreatment prostate-specific antigen (PSA) velocity and doubling time are associated with outcome but neither improves prediction of outcome beyond pretreatment PSA alone in patients treated with radical prostatectomy. <em>J Clin Oncol</em>. 2009 Aug 1. 27(22):3591-7. <a href="http://reference.medscape.com/medline/abstract/19506163">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720078/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15870412">
+      <para>Albertsen PC, Hanley JA, Fine J. 20-year outcomes following conservative management of clinically localized prostate cancer. <em>JAMA</em>. 2005 May 4. 293(17):2095-101. <a href="http://reference.medscape.com/medline/abstract/15870412">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9749479">
+      <para>Albertsen PC, Hanley JA, Gleason DF, Barry MJ. Competing risk analysis of men aged 55 to 74 years at diagnosis managed conservatively for clinically localized prostate cancer. <em>JAMA</em>. 1998 Sep 16. 280(11):975-80. <a href="http://reference.medscape.com/medline/abstract/9749479">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17765406">
+      <para>Kuban DA, Tucker SL, Dong L, et al. Long-term results of the M. D. Anderson randomized dose-escalation trial for prostate cancer. <em>Int J Radiat Oncol Biol Phys</em>. 2008 Jan 1. 70(1):67-74. <a href="http://reference.medscape.com/medline/abstract/17765406">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20656865">
+      <para>Stief P, Behrendt A, Lavik G, De Beer D. Combined gel probe and isotope labeling technique for measuring dissimilatory nitrate reduction to ammonium in sediments at millimeter-level resolution. <em>Appl Environ Microbiol</em>. 2010 Sep. 76(18):6239-47. <a href="http://reference.medscape.com/medline/abstract/20656865">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937481/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18612114">
+      <para>Lu-Yao GL, Albertsen PC, Moore DF, et al. Survival following primary androgen deprivation therapy among men with localized prostate cancer. <em>JAMA</em>. 2008 Jul 9. 300(2):173-81. <a href="http://reference.medscape.com/medline/abstract/18612114">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645653/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12126818">
+      <para>Bolla M, Collette L, Blank L, et al. Long-term results with immediate androgen suppression and external irradiation in patients with locally advanced prostate cancer (an EORTC study): a phase III randomised trial. <em>Lancet</em>. 2002 Jul 13. 360(9327):103-6. <a href="http://reference.medscape.com/medline/abstract/12126818">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15491715">
+      <para>Merrick GS, Butler WM, Wallner KE, Galbreath RW, Adamovich E. Permanent interstitial brachytherapy in younger patients with clinically organ-confined prostate cancer. <em>Urology</em>. 2004 Oct. 64(4):754-9. <a href="http://reference.medscape.com/medline/abstract/15491715">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18817934">
+      <para>Babaian RJ, Donnelly B, Bahn D, et al. Best practice statement on cryosurgery for the treatment of localized prostate cancer. <em>J Urol</em>. 2008 Nov. 180(5):1993-2004. <a href="http://reference.medscape.com/medline/abstract/18817934">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17662081">
+      <para>Ismail M, Ahmed S, Kastner C, Davies J. Salvage cryotherapy for recurrent prostate cancer after radiation failure: a prospective case series of the first 100 patients. <em>BJU Int</em>. 2007 Oct. 100(4):760-4. <a href="http://reference.medscape.com/medline/abstract/17662081">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17509277">
+      <para>Freedland SJ, Moul JW. Prostate specific antigen recurrence after definitive therapy. <em>J Urol</em>. 2007 Jun. 177(6):1985-91. <a href="http://reference.medscape.com/medline/abstract/17509277">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11257657">
+      <para>Amling CL, Bergstralh EJ, Blute ML, Slezak JM, Zincke H. Defining prostate specific antigen progression after radical prostatectomy: what is the most appropriate cut point?. <em>J Urol</em>. 2001 Apr. 165(4):1146-51. <a href="http://reference.medscape.com/medline/abstract/11257657">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19433689">
+      <para>Wiegel T, Bottke D, Steiner U, et al. Phase III postoperative adjuvant radiotherapy after radical prostatectomy compared with radical prostatectomy alone in pT3 prostate cancer with postoperative undetectable prostate-specific antigen: ARO 96-02/AUO AP 09/95. <em>J Clin Oncol</em>. 2009 Jun 20. 27(18):2924-30. <a href="http://reference.medscape.com/medline/abstract/19433689">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17878474">
+      <para>Van der Kwast TH, Bolla M, Van Poppel H, et al. Identification of patients with prostate cancer who benefit from immediate postoperative radiotherapy: EORTC 22911. <em>J Clin Oncol</em>. 2007 Sep 20. 25(27):4178-86. <a href="http://reference.medscape.com/medline/abstract/17878474">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16798415">
+      <para>Roach M 3rd, Hanks G, Thames H Jr, et al. Defining biochemical failure following radiotherapy with or without hormonal therapy in men with clinically localized prostate cancer: recommendations of the RTOG-ASTRO Phoenix Consensus Conference. <em>Int J Radiat Oncol Biol Phys</em>. 2006 Jul 15. 65(4):965-74. <a href="http://reference.medscape.com/medline/abstract/16798415">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17404365">
+      <para>Loblaw DA, Virgo KS, Nam R, et al. Initial hormonal management of androgen-sensitive metastatic, recurrent, or progressive prostate cancer: 2006 update of an American Society of Clinical Oncology practice guideline. <em>J Clin Oncol</em>. 2007 Apr 20. 25(12):1596-605. <a href="http://reference.medscape.com/medline/abstract/17404365">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10801170">
+      <para>Prostate Cancer Trialists Collaborative Group. Maximum androgen blockade in advanced prostate cancer: an overview of the randomised trials. Prostate Cancer Trialists' Collaborative Group. <em>Lancet</em>. 2000 Apr 29. 355(9214):1491-8. <a href="http://reference.medscape.com/medline/abstract/10801170">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9751358">
+      <para>Terk MD, Stock RG, Stone NN. Identification of patients at increased risk for prolonged urinary retention following radioactive seed implantation of the prostate. <em>J Urol</em>. 1998 Oct. 160(4):1379-82. <a href="http://reference.medscape.com/medline/abstract/9751358">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15470214">
+      <para>Petrylak DP, Tangen CM, Hussain MH, et al. Docetaxel and estramustine compared with mitoxantrone and prednisone for advanced refractory prostate cancer. <em>N Engl J Med</em>. 2004 Oct 7. 351(15):1513-20. <a href="http://reference.medscape.com/medline/abstract/15470214">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15470213">
+      <para>Tannock IF, de Wit R, Berry WR, Horti J, Pluzanska A, Chi KN. Docetaxel plus prednisone or mitoxantrone plus prednisone for advanced prostate cancer. <em>N Engl J Med</em>. 2004 Oct 7. 351(15):1502-12. <a href="http://reference.medscape.com/medline/abstract/15470213">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18182665">
+      <para>Berthold DR, Pond GR, Soban F, de Wit R, Eisenberger M, Tannock IF. Docetaxel plus prednisone or mitoxantrone plus prednisone for advanced prostate cancer: updated survival in the TAX 327 study. <em>J Clin Oncol</em>. 2008 Jan 10. 26(2):242-5. <a href="http://reference.medscape.com/medline/abstract/18182665">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20818862">
+      <para>Kantoff PW, Higano CS, Shore ND, et al. Sipuleucel-T immunotherapy for castration-resistant prostate cancer. <em>N Engl J Med</em>. 2010 Jul 29. 363(5):411-22. <a href="http://reference.medscape.com/medline/abstract/20818862">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16809734">
+      <para>Small EJ, Schellhammer PF, Higano CS, et al. Placebo-controlled phase III trial of immunologic therapy with sipuleucel-T (APC8015) in patients with metastatic, asymptomatic hormone refractory prostate cancer. <em>J Clin Oncol</em>. 2006 Jul 1. 24(19):3089-94. <a href="http://reference.medscape.com/medline/abstract/16809734">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20805462">
+      <para>Attard G, Reid AH, de Bono JS. Abiraterone acetate is well tolerated without concomitant use of corticosteroids. <em>J Clin Oncol</em>. 2010 Oct 10. 28(29):e560-1; author reply e562. <a href="http://reference.medscape.com/medline/abstract/20805462">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21243537">
+      <para>Salem M, Garcia JA. Abiraterone acetate, a novel adrenal inhibitor in metastatic castration-resistant prostate cancer. <em>Curr Oncol Rep</em>. 2011 Apr. 13(2):92-6. <a href="http://reference.medscape.com/medline/abstract/21243537">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Ryan CJ, Smith MR, De Bono JS, Molina A, Logothetis C, De Souza PL, et al. Interim analysis results of COU-AA-302, a randomized, phase III study of abiraterone acetate in chemotherapy-naïve patients with metastatic castration-resistant prostate cancer. Presented at the American Society of Clinical Oncology (ASCO) 2012 Annual Meeting.  June 1-5, 2012, Chicago, IL. <a href="http://www.asco.org/ASCOv2/Meetings/Abstracts?&amp;vmview=abst_detail_view&amp;confID=114&amp;abstractID=95300">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>US Food and Drug Administration (FDA). FDA expands Zytiga’s use for late-stage prostate cancer – drug can now be used before treatment with chemotherapy. December 10, 2012. Available at <a href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm331492.htm">http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm331492.htm</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20646865">
+      <para>Haverkort MA, van de Kamer JB, Pieters BR, et al. Position verification for the prostate: effect on rectal wall dose. <em>Int J Radiat Oncol Biol Phys</em>. 2011 Jun 1. 80(2):462-8. <a href="http://reference.medscape.com/medline/abstract/20646865">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12359855">
+      <para>Saad F, Gleason DM, Murray R, et al. A randomized, placebo-controlled trial of zoledronic acid in patients with hormone-refractory metastatic prostate carcinoma. <em>J Natl Cancer Inst</em>. 2002 Oct 2. 94(19):1458-68. <a href="http://reference.medscape.com/medline/abstract/12359855">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>NCCN Clinical Practice Guidelines in Oncology: Prostate Cancer. Version 1.2014. Available at <a href="http://www.nccn.org/professionals/physician_gls/pdf/prostate.pdf">http://www.nccn.org/professionals/physician_gls/pdf/prostate.pdf</a>. Accessed: January 3, 2014.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Parker C, Heinrich D, O’Sullivan JM, et al. Overall survival benefit and safety profile of radium-223 chloride, a first-in-class alpha-pharmaceutical: results from a phase III randomized trial (ALSYMPCA) in patients with castration-resistant prostate cancer (CRPC) with bone metastases. J Clin Oncol. 2012; 30 (supp 5). Abstract 8. </para>
+    </ritem>
+  </refgrp>
+</article>

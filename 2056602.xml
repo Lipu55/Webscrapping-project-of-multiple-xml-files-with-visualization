@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2056602" pubid="" template="Urology" template-name="multipage">
+  <site-meta>
+    <article-name>Nonbacterial and Noninfectious Cystitis</article-name>
+    <title>
+      <page-info id="overview">Nonbacterial and Noninfectious Cystitis: Background, Anatomy, Pathophysiology</page-info>
+      <page-info id="differential">Nonbacterial and Noninfectious Cystitis Differential Diagnoses</page-info>
+      <page-info id="workup">Nonbacterial and Noninfectious Cystitis Workup: Approach Considerations</page-info>
+      <page-info id="treatment">Nonbacterial and Noninfectious Cystitis Treatment &amp; Management: Approach Considerations, Treatment of Infectious Nonbacterial Cystitis, Treatment of Noninfectious Nonbacterial Cystitis</page-info>
+      <page-info id="medication">Nonbacterial and Noninfectious Cystitis Medication: Antibiotics, Other, Antifungal, Systemic, Antivirals, Others, Antiparasitic Agents, Antidotes, Other</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Nonbacterial and Noninfectious Cystitis: Background, Anatomy, Pathophysiology</page-info>
+      <page-info id="differential">Nonbacterial and Noninfectious Cystitis Differential Diagnoses</page-info>
+      <page-info id="workup">Nonbacterial and Noninfectious Cystitis Workup: Approach Considerations</page-info>
+      <page-info id="treatment">Nonbacterial and Noninfectious Cystitis Treatment &amp; Management: Approach Considerations, Treatment of Infectious Nonbacterial Cystitis, Treatment of Noninfectious Nonbacterial Cystitis</page-info>
+      <page-info id="medication">Nonbacterial and Noninfectious Cystitis Medication: Antibiotics, Other, Antifungal, Systemic, Antivirals, Others, Antiparasitic Agents, Antidotes, Other</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a3">Background</section-info>
+<section-info id="a4">Anatomy</section-info>
+<section-info id="a5">Pathophysiology</section-info>
+<section-info id="a6">Etiology</section-info>
+<section-info id="a7">Epidemiology</section-info>
+<section-info id="a8">Prognosis</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c1">Approach Considerations</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d1">Approach Considerations</section-info>
+<section-info id="d10">Treatment of Infectious Nonbacterial Cystitis</section-info>
+<section-info id="d11">Treatment of Noninfectious Nonbacterial Cystitis</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Nonbacterial and Noninfectious Cystitis Overview</page-info>
+      <page-info id="differential">Nonbacterial and Noninfectious Cystitis Differential Diagnoses</page-info>
+      <page-info id="workup">Nonbacterial and Noninfectious Cystitis Workup</page-info>
+      <page-info id="treatment">Nonbacterial and Noninfectious Cystitis Treatment</page-info>
+      <page-info id="medication">Nonbacterial and Noninfectious Cystitis Medication</page-info>
+    </meta-keywords>
+    <uri>2056602-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Apr 28, 2015</posting-date>
+    <last-generated>2015-06-18-16:15</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Urology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2056602</artid>
+      <cg>502</cg>
+      <scg text="Urinary Tract Infection (UTI)">720</scg>
+      <ssp text="Urology">15</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 18, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>urology</id>
+      <name>Urology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>urology_infections</id>
+      <name>Infections and Related Inflammatory Conditions</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">nonbacterial and noninfectious cystitis, interstitial cystitis, noninfectious cystitis, urgency-frequency syndrome, chemical cystitis, radiation cystitis, autoimmune cystitis, viral cystitis, mycobacterial cystitis, chlamydial cystitis, fungal cystitis, hypersensitivity cystitis, nonbacterial infectious cystitis, potassium leak test, chronic pelvic pain syndrome, painful bladder syndrome, infectious cystitis, tuberculous cystitis, eosinophilic cystitis</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Nonbacterial cystitis is a catchall term that encompasses various medical disorders, including infectious and noninfectious cystitis, as well as painful bladder syndrome/interstitial cystitis (PBS/IC). PBS/IC describes a syndrome of pain and genitourinary symptoms (eg, frequency, urgency, pain, dysuria, nocturia) for which no etiology can be ...</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Nonbacterial and Noninfectious Cystitis</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a3">
+      <title>Background</title>
+      <pgroup>
+        <para>Nonbacterial <a href="http://emedicine.medscape.com/article/233101-overview">cystitis</a> is a catchall term that encompasses various medical disorders, including infectious and <a href="http://emedicine.medscape.com/article/442190-overview">noninfectious cystitis</a>, as well as painful bladder syndrome/<a href="http://emedicine.medscape.com/article/2055505-overview">interstitial cystitis</a> (PBS/IC). PBS/IC describes a syndrome of pain and genitourinary symptoms (eg, frequency, urgency, pain, dysuria, nocturia) for which no etiology can be found. There are many controversies regarding nonbacterial <a href="http://emedicine.medscape.com/article/2055346-overview">cystitis</a>, including possible etiologic agents, methods of diagnosis, and treatment, especially for noninfectious causes. </para>
+        <para>Infectious nonbacterial cystitis includes the following forms of the disease:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Viral</para>
+          </listitem>
+          <listitem>
+            <para>Mycobacterial</para>
+          </listitem>
+          <listitem>
+            <para>Chlamydial</para>
+          </listitem>
+          <listitem>
+            <para>Fungal</para>
+          </listitem>
+          <listitem>
+            <para>Schistosomal</para>
+          </listitem>
+        </itemizedlist>
+        <para>Candidal infection of the bladder is shown in the image below.</para>
+        <figure id="36687">
+          <title>Gross pathology of the bladder with candidal infection and hemorrhage. </title>
+          <caption>Gross pathology of the bladder with candidal infection and hemorrhage. </caption>
+          <graphic fileref="/87/36687.png" format="IMAGE" id="36687" extension_format="PNG"/>
+          <graphic fileref="/87/36687tn.jpg" format="IMAGE_THUMB" id="36687"/>
+        </figure>
+        <para>Noninfectious <a href="http://emedicine.medscape.com/article/440225-overview">nonbacterial cystitis</a> includes the following forms of the disease:</para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/2055124-overview">Radiation induced</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Chemical</para>
+          </listitem>
+          <listitem>
+            <para>Autoimmune</para>
+          </listitem>
+          <listitem>
+            <para>Hypersensitivity</para>
+          </listitem>
+        </itemizedlist>
+        <para>General symptoms of cystitis include urgency, frequency, dysuria, and, occasionally, hematuria, dyspareunia, abdominal cramps, and/or bladder pain and spasms. Establishing or excluding a specific diagnosis often requires repeated cultures and various urologic procedures, including cystoscopy with bladder biopsies, various bladder tests, and immune system function examinations. Some conditions, such as <a href="http://emedicine.medscape.com/article/1951847-overview">carcinoma in situ</a>, <a href="http://emedicine.medscape.com/article/2120102-overview">bladder calculi</a>, and urethral foreign bodies, may result in symptoms that mimic those of nonbacterial cystitis. </para>
+        <para>For patient education information, see the <a href="http://www.emedicinehealth.com/collections/SU310.asp">Women's Health Center</a>, as well as <a href="http://www.emedicinehealth.com/Articles/8806-1.asp">Bladder Control Problems</a>, <a href="http://www.emedicinehealth.com/Articles/8828-1.asp">Blood in the Urine</a>, <a href="http://www.emedicinehealth.com/Articles/6557-1.asp">Cystoscopy</a>, and <a href="http://www.emedicinehealth.com/articles/6736-1.asp">Pain During Intercourse</a>.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Anatomy</title>
+      <pgroup>
+        <para>The images below demonstrate the anatomy of the female pelvis, the gross anatomy of the bladder, and the muscles of the pelvic floor that may be involved in nonbacterial cystitis.</para>
+        <figure id="36688">
+          <title>Gross anatomy of the female pelvis. </title>
+          <caption>Gross anatomy of the female pelvis. </caption>
+          <graphic fileref="/88/36688.jpg" format="IMAGE" id="36688" extension_format="JPG"/>
+          <graphic fileref="/88/36688tn.jpg" format="IMAGE_THUMB" id="36688"/>
+        </figure>
+        <figure id="36689">
+          <title>Gross anatomy of the bladder. </title>
+          <caption>Gross anatomy of the bladder. </caption>
+          <graphic fileref="/89/36689.jpg" format="IMAGE" id="36689" extension_format="JPG"/>
+          <graphic fileref="/89/36689tn.jpg" format="IMAGE_THUMB" id="36689"/>
+        </figure>
+        <figure id="36690">
+          <title>Female perineal anatomy. The urogenital diaphragm and levator ani muscles have been removed,...</title>
+          <caption>Female perineal anatomy. The urogenital diaphragm and levator ani muscles have been removed, revealing the internal pudendal nerves and vessels, the rectum, and the posterior vaginal wall. </caption>
+          <graphic fileref="/90/36690.jpg" format="IMAGE" id="36690" extension_format="JPG"/>
+          <graphic fileref="/90/36690tn.jpg" format="IMAGE_THUMB" id="36690"/>
+        </figure>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>The pathophysiology of the disorder depends on its etiology.</para>
+        <para>Advances in understanding the pathophysiology of complex pain syndromes have demonstrated growth of bridging neurons in the dorsal horns of the spinal cord between the type C pain fibers and the type A pain fibers, indicating perception of pain started by stimulus that is usually nonpainful. </para>
+        <para>Another example of neural cross-talk is an experiment in rats that demonstrated increased muscle spasm in the bladder with colonic irritation and in the colon with bladder irritation. This may help to explain the concomitant occurrences of irritable bowel syndrome, pelvic pain syndrome, and interstitial cystitis.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Infectious cystitis</title>
+        <para>
+          <em>Viruses</em>
+        </para>
+        <para>Cytopathologic viruses, such as herpes simplex virus–1 (HSV-1) and HSV-2, live integrated into the host genome in the nervous system. Impairment of immune surveillance, which can be caused by comorbid diseases, drugs, or chronic activation of the neuroendocrine pathways involved with corticosteroid production, allow the virus to activate, travel down the peripheral nerves, and cause an outbreak of the disease. Viruses normally do not cause cystitis in immunocompetent adults. In a given patient, however, whether the infection is due to primary infection or reactivation of latent virus is unclear. </para>
+        <para>
+          <em>Chlamydia</em>
+        </para>
+        <para>Chlamydiae are obligate, intracellular parasites with a unique reproductive cycle that involves 2 forms: (1) an extracellular form adapted to survival in the environment, which allows the infection to be transmitted from one person to another, and (2) an intracellular form that replicates and produces more extracellular forms. <em>Chlamydia trachomatis</em> is the organism most commonly identified; in addition to cystitis, it can cause the following disorders: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Urethritis</para>
+          </listitem>
+          <listitem>
+            <para>Cervicitis</para>
+          </listitem>
+          <listitem>
+            <para>Pelvic inflammatory disease</para>
+          </listitem>
+          <listitem>
+            <para>Proctitis</para>
+          </listitem>
+          <listitem>
+            <para>Epididymitis</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Mycobacteria</em>
+        </para>
+        <para>Initial infection with mycobacteria generally elicits a mild inflammatory response with few or no symptoms. Weeks after the primary infection, with continued replication of the bacilli, development of cell-mediated immunity leads to macrophage infiltration and ingestion of the pathogen. </para>
+        <para>While mycobacteria can persist within macrophages, replication usually ceases, and spread of the disease is contained. Individuals with disturbances in cell-mediated immune responses are therefore at higher risk for dissemination of the infection. </para>
+        <para>
+          <em>Other infections</em>
+        </para>
+        <para>Fungal infections can occur in immunocompetent hosts, but they are more likely to occur in individuals with abnormal immune systems. Species of fungi associated with urogenital fungal infections include <a href="http://emedicine.medscape.com/article/296870-overview"><em>Blastomyces dermatitidis</em></a>, <a href="http://emedicine.medscape.com/article/213853-overview"><em>Candida</em></a> species, and <em>Torulopsis glabrata</em>. </para>
+        <para><a href="http://emedicine.medscape.com/article/228392-overview">Schistosomiasis</a> can cause symptoms of cystitis, including frequency, urgency, and dysuria. <em>Schistosoma</em> eggs are deposited within the bladder wall as part of their life cycle. An eosinophilic immune reaction is generated in response to the eggs, leading to chronic inflammation. Chronic schistosomiasis can eventually result in small bladder capacity, obstructive uropathy, and bladder cancer. </para>
+      </pgroup>
+      <pgroup>
+        <title>Noninfectious cystitis</title>
+        <para>Radiation cystitis is presumably due to the ionizing radiation administered for treatment for pelvic and urogenital cancers. In a study by Perez et al,<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>the volume of space irradiated and the total dose of radiation were important factors that influenced morbidity. Patients treated with stationary radiation portals that delivered higher doses of radiation to the bladder had a significantly higher incidence of morbidity than did patients treated with rotating portals (18% vs 5%, respectively). </para>
+        <para>Eosinophilic cystitis has been associated with various etiologic factors, such as allergies, bladder tumors, and parasitic infections, which stimulate antigen formation, leading to antigen-antibody complexes that stimulate inflammatory cascades. This, in turn, leads to eosinophil infiltration and chemokine release, causing fibrosis.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>Chemical cystitis, which is due to chemotherapy with alkylating agents such as cyclophosphamide, is thought to be due to metabolites excreted in the urine. The effects appear to be related to the dose and duration of therapy. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Etiology</title>
+      <pgroup>
+        <title>Infectious etiologies</title>
+        <para>Viruses normally do not cause cystitis in immunocompetent adults. Improved molecular detection techniques have allowed the recognition of viral infections, such as the following, in immunocompromised patients: </para>
+        <itemizedlist>
+          <listitem>
+            <para>BK polyomavirus infections<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Cytomegalovirus (CMV) infections (associated with hemorrhagic cystitis after bone marrow transplantation<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6] </sup>) </para>
+          </listitem>
+          <listitem>
+            <para>Adenovirus infections<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Herpes and chlamydial cystitis are sexually transmitted, while other types, such as fungal cystitis, occur mainly in immunocompromised hosts.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc9" name="refsrc9"/>9] </sup><em>Corynebacterium urealyticum</em> has been associated with a very rare chronic inflammatory disorder, encrusted cystitis, which is characterized by precipitation and encrustation of phosphate ammonium magnesium salts on the bladder mucosa.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>Yeast infiltration of the bladder is shown in the image below.</para>
+        <figure id="36692">
+          <title>Infiltration of yeast in the bladder wall. </title>
+          <caption>Infiltration of yeast in the bladder wall. </caption>
+          <graphic fileref="/92/36692.png" format="IMAGE" id="36692" extension_format="PNG"/>
+          <graphic fileref="/92/36692tn.jpg" format="IMAGE_THUMB" id="36692"/>
+        </figure>
+        <para><a href="http://emedicine.medscape.com/article/228392-overview">Schistosomiasis</a> (shown in the image below) can cause severe cystitis and lower urinary tract symptoms, due to an inflammatory reaction to <em>Schistosoma</em> eggs embedded in the host's bladder.</para>
+        <figure id="36691">
+          <title>Schistosomiasis of the ureter. </title>
+          <caption>Schistosomiasis of the ureter. </caption>
+          <graphic fileref="/91/36691.png" format="IMAGE" id="36691" extension_format="PNG"/>
+          <graphic fileref="/91/36691tn.jpg" format="IMAGE_THUMB" id="36691"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Noninfectious etiologies</title>
+        <para>Cystitis may occur following radiation therapy to the pelvis for cancer treatment. The average time from the beginning of radiation therapy to initial symptoms can be several months to several years. Symptoms can include anything from mild bleeding to severe, recurrent bleeding and pain requiring hospitalization for treatment. </para>
+        <para>Autoimmune diseases such as systemic lupus erythematosus (SLE) or Sjögren syndrome can also be associated with irritative bladder symptoms, such as frequency or pain. Eosinophilic cystitis is a rare pathologic condition characterized by transmural inflammation of the bladder predominantly by eosinophils and fibrosis, with or without muscle necrosis.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>Cystitis may also be caused by chemicals and medications. Intravenous and oral cyclophosphamide, used to treat malignancies and vasculitides (eg, SLE, <a href="http://emedicine.medscape.com/article/1146811-overview">Wegener granulomatosis</a>) can cause hemorrhagic cystitis.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>Low-dose methotrexate, used to treat rheumatoid arthritis, has also been reported to cause hemorrhagic cystitis.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+        <para>Reports have documented cystitis arising after the recreational abuse of ketamine, an anesthetic agent. Such cases are characterized by marked frequency, urgency, and dysuria and display cystoscopic evidence of inflammation throughout the bladder.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Infectious cystitis</title>
+        <para>The frequency of viral and herpetic cystitis is unclear because culture results can be falsely negative. For example, it has been proposed that both HSV-1 and HSV-2 may initially cause asymptomatic infections, so the incidence of herpetic cystitis may be higher than culture-positive results indicate. </para>
+        <para>Hemorrhagic cystitis due to adenoviral infections is common in immunocompromised hosts, especially bone marrow transplant recipients or those with acquired immunodeficiency syndrome (AIDS). Hemorrhagic cystitis due to infection with adenoviruses or BK polyomavirus has been reported in 20% and 8% of pediatric bone marrow transplant patients, respectively. </para>
+        <para>The frequency of chlamydial genitourinary infections may also be higher than cultures indicate. A study of 130 patients aged 14-25 years in an urban outpatient clinic demonstrated a 21% frequency of <em>C trachomatis</em> infection; one third were asymptomatic. Risk factors for <em>Chlamydia</em> infection in this group included younger age, more than one sexual partner, and international travel. In another study, of 36 cases of bladder biopsies performed to evaluate cystitis, antigen from <em>C trachomatis</em> was detected by immunochemistry in one third of the specimens. </para>
+        <para>Mycobacterial cystitis or urogenital tuberculosis is more common in underdeveloped countries and continues to be a major urologic problem in places such as North Africa, mainly because of diagnosis delays. The tuberculosis vaccine, bacillus Calmette-Guérin (BCG), which may be instilled into the bladder to treat bladder tumors, has also been reported to cause cystitis. </para>
+        <para>Fungal cystitis, most commonly due to <em>Candida</em> species,<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>is more common in immunocompromised hosts, such as those with diabetes mellitus, those who have received chemotherapy, older subjects, women, and those with indwelling catheters who have received multiple courses of antibiotics. </para>
+        <para>Schistosomiasis most frequently occurs in the developing world, although it is estimated that 400,000 cases exist in the United States. There are five different species of schistosomes; <em>Schistosoma haematobium</em> often causes urinary tract infections.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Noninfectious cystitis</title>
+        <para>Radiation cystitis was reported to occur in 6.5% of 1784 patients treated with a combination of external beam and intracavitary radiotherapy for stage Ib carcinoma of the cervix. Perez et al reported moderate-to-severe cystitis occurring in 12% of 738 patients treated with definitive irradiation therapy for prostate cancer after 10 years.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+        <para>Autoimmune disease related to cystitis is another entity that may be more common than previously realized. A review in Sweden demonstrated that 17% of all patients diagnosed with interstitial cystitis had rheumatoid arthritis, 47% had hypersensitivity reactions or allergies, and 2.3% had either ulcerative colitis or Crohn disease, a rate more than 30 times the prevalence rate in the general population. </para>
+        <para>Both Sjögren syndrome and SLE have been associated with urinary symptoms. In one study by Haarala et al of 121 patients and 121 age- and sex-matched controls, more than 60% of patients had some urinary symptoms, compared with 20% of controls.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Prognosis</title>
+      <pgroup>
+        <title>Infectious etiologies</title>
+        <para>Infectious causes of nonbacterial cystitis, such as HSV-1 or HSV-2, can be treated; however, the treatment does not eliminate the dormant virus integrated into the host genome, so the disease can recur. </para>
+        <para>Both chlamydial and mycobacterial infections can be cured. For chlamydial disease, cure is not protective and the disease can be reacquired. In addition, while mycobacterial infections can generally be cured with regimens containing 3 or 4 drugs, a review by Mnif et al of 60 cases of urogenital tuberculosis found that only 2 were cured by medical therapy alone.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+        <para>Of the remaining patients, 54 required one of the following surgical interventions:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Nephrectomy (43 patients)</para>
+          </listitem>
+          <listitem>
+            <para>Ureterovesical reimplantation (7)</para>
+          </listitem>
+          <listitem>
+            <para>Augmentation enterocystoplasty (11)</para>
+          </listitem>
+          <listitem>
+            <para>Other ureteral diversions (5)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Two patients whose medical status and nutritional status were poor to begin with died despite aggressive therapy.</para>
+        <para>Fungal infections are usually curable, depending on the underlying health status of the patient. Because patients with severe immunosuppression (eg, those with untreatable malignancies, AIDS, poorly controlled diabetes, transplant recipients) are the ones most likely to develop these infections, some patients may require continued treatment to ensure that the infection does not recur. </para>
+      </pgroup>
+      <pgroup>
+        <title>Noninfectious etiologies</title>
+        <para>Radiation cystitis, when it does occur, is usually mild and does not require specific therapy.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>However, the incidence of bleeding, scarring, and/or obstruction increases over time, and symptoms may occur for the first time many years after the radiation treatment. Some patients with heavy bleeding, strictures, or obstruction may require urinary diversion surgery for symptom relief.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+        <para>Chemical cystitis due to chemotherapy agents is generally mild, with no long-term consequences, and resolves when the medications are stopped. No known cures exist for autoimmune disease–associated cystitis, but symptoms can often be controlled with anti-inflammatory agents or corticosteroids. Eosinophilic cystitis often recurs despite resection of the lesion and anti-inflammatory treatments, so long-term follow-up is required.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Chronic pelvic pain syndrome is a common and debilitating condition of multifactorial etiology, including social, psychological, and biologic factors. This is a diagnosis of exclusion, after other etiologies of pelvic pain have been eliminated from the differential.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup></para>
+    </intro>
+    <ddlist>
+      <dditem ref="437745">
+        <title>Chronic Pelvic Pain in Men</title>
+        <desc/>
+      </dditem>
+      <dditem ref="258334">
+        <title>Chronic Pelvic Pain in Women</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <title>Infectious etiologies</title>
+        <para>
+          <em>Viruses</em>
+        </para>
+        <para>Viral infections are often difficult to diagnose, and viral culture results can be falsely negative. Some viruses can be detected by polymerase chain reaction (PCR) assay or by detection of antibodies to the virus. Also, <em>Chlamydia</em> can be difficult to grow, and chlamydial culture results may be falsely negative. <em>Chlamydia</em> infection can also be diagnosed by cell cytology, enzyme-linked immunoassays, and PCR assay. Of all of these tests, PCR assay is probably the most reliable.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup></para>
+        <para>
+          <em>Mycobacteria</em>
+        </para>
+        <para>Prior mycobacterial infection, such as <em>Mycobacterium tuberculosis</em>, can be detected by intracutaneous injection of a dose of intermediate-strength, tuberculin-purified protein derivative. The test is considered positive if an induration of at least 10mm develops at the injection site within 48-72 hours. An assay has been developed that quantifies interferon-gamma released from T cells sensitized to tuberculosis antigens (the QuantiFERON test); the second-generation assay uses antigens almost completely specific for <em>M tuberculosis</em> and can be performed using whole blood samples. </para>
+        <para>Mycobacteria can also be detected with examination of tissue stained with the acid-fast dye carbolfuchsin as slender, curved, polychromatic, beaded rods in pairs or small clumps. Growing the bacteria on highly selective media allows cultivation within 1-2 weeks, although identification and antibiotic sensitivity testing may take longer.</para>
+        <para>Finally, mycobacterial infection can be detected with PCR assay. In a study by Moussa et al, the sensitivity of acid-fast bacilli (AFB) staining was 52% versus 96% for PCR assay, when compared with cultures.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        <para>Intravenous urography remains the primary imaging modality for mycobacterial cystitis, although ultrasonography, computed tomography (CT) scanning, or magnetic resonance imaging (MRI) may also be used. However, all imaging findings may be normal in early disease. For more information, see the Medscape Reference article <a href="http://emedicine.medscape.com/article/381509-overview">Imaging of Tuberculosis in the Genitourinary Tract</a>. </para>
+        <para>
+          <em>Other infections</em>
+        </para>
+        <para>Fungal infection can be indicated by the findings of hyphae and/or spores on microscopic evaluation of wet smears or histopathologic sections or by culture. Microbiologic diagnosis of funguria is based on a fungal concentration of more than 10<sup>3</sup>/µL in the urine.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>Some fungi, such as <em>Candida</em> species, grow on many media, while others, such as <em>Blastomyces dermatitidis,</em> require specialized culture techniques. Deoxyribonucleic acid (DNA) probes for detection of numerous fungal infections by PCR assay are also available.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24] </sup></para>
+        <para>Schistosomal infection is detected by searching for terminally spined eggs in urinary sediment. Histopathologic analysis can also be performed with a squash preparation on a glass slide. Urinary, urethral, and/or vaginal or prostatic cultures can also be performed. Special stains or PCR assays for viruses, chlamydia, fungi, and mycobacteria should be included in selected patients. </para>
+      </pgroup>
+      <pgroup>
+        <title>Noninfectious etiologies</title>
+        <para>The diagnosis of cystitis due to radiation therapy, chemicals, or autoimmune disease can be established in part by obtaining the relevant history. In patients with radiation cystitis, associated urinary tract infections are not uncommon. Cystoscopy may be required to exclude other causes of bleeding, such as recurrent tumor, a new primary tumor, or benign prostatic hyperplasia. Cystoscopy with biopsy is the criterion standard for diagnosing eosinophilic cystitis.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>Some patients may also have peripheral eosinophilia. </para>
+        <para>Diagnosis of autoimmune diseases relies on a compatible history supported by serologic or tissue confirmation. Detection of antinuclear antibodies (ANA) is often used as a screening test for connective tissue disease; positive test results are subjected to assays that are more specific.</para>
+        <para>Serologic tests likely to be positive in patients with systemic lupus erythematosus (SLE) include low C3, anti–double stranded (ds) DNA, anti-Smith (Sm), and antiribonucleoprotein (anti-RNP) antibodies. In patients with SLE and bladder involvement, abdominal CT scanning may demonstrate thickening of the bladder wall, hydronephrosis, ascites, and bowel-wall thickening.<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+        <para>Biopsy of other affected organs may show vasculitis. Tests likely to have positive results in patients with Sj ö gren syndrome include the Schirmer tear test, anti-Ro(SS-A) and anti-La(SS-B), and minor lacrimal gland biopsy. Urine cytology can be a useful first step in the diagnosis of genitourinary malignancies. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>Treatment of nonbacterial cystitis addresses the specific cause. Noninfectious etiologies that require separate consideration are radiation cystitis, chemical cystitis, autoimmune cystitis, and interstitial cystitis. For treatment options in painful bladder syndrome/interstitial cystitis, see the Medscape Reference article <a href="http://emedicine.medscape.com/article/2055505-overview">Interstitial Cystitis</a>. Surgical treatment is rarely needed for nonbacterial cystitis. </para>
+        <para>With infectious cystitis, the cause may be viral, chlamydial, mycobacterial, schistosomal, or fungal. Most infectious cases are treated with systemic and, in some cases, local pharmacotherapy. If the patient is taking immunosuppressive medication, the treatment regimen may need to be adjusted. </para>
+        <para>Some types of infectious, recurrent, nonbacterial cystitis are being treated with transfer factor (TF) specific for the kind of infection (<em>Candida,</em> herpes). De Vinci and associates demonstrated a marked decrease in the number of recurrences in females treated with TF for this disorder.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Treatment of Infectious Nonbacterial Cystitis</title>
+      <pgroup>
+        <title>Viral cystitis</title>
+        <para>Treatment for immunocompetent adults with cystitis from herpes simplex virus–1 (HSV-1) or HSV-2 includes acyclovir 400mg 5 times daily for 7 days or valacyclovir 500mg twice daily for 5-10 days. Acyclovir requires dose adjustment for patients with a decreased glomerular filtration rate. </para>
+        <para>Ganciclovir and vidarabine have been used in some cases of hemorrhagic cystitis from cytomegalovirus (CMV) or adenovirus in patients who have undergone bone marrow transplantation.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27, <ref_inline id="refsrc28" name="refsrc28"/>28] </sup>Valganciclovir is an oral prodrug with greater intestinal absorption than ganciclovir. </para>
+        <para>Cystitis due to BK polyomavirus reportedly resolved without treatment in 9 pediatric patients. However, in adults who have undergone renal transplantation, cidofovir and a decrease in the dose of immunosuppressants are usually recommended, because of the concern of renal parenchymal damage from the virus. Mycophenolate mofetil has been associated with more adenoviral infections than azathioprine. </para>
+      </pgroup>
+      <pgroup>
+        <title>Chlamydial cystitis</title>
+        <para>Treatment regimens for cystitis caused by <em>Chlamydia</em> include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Doxycycline, 100mg twice daily for 7 days</para>
+          </listitem>
+          <listitem>
+            <para>Azithromycin, 1g orally as a single dose</para>
+          </listitem>
+          <listitem>
+            <para>Erythromycin, 500mg 4 times daily for 7 days</para>
+          </listitem>
+          <listitem>
+            <para>A fluoroquinolone (eg, ofloxacin, 300mg twice daily for 7 days)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Erythromycin, azithromycin, and amoxicillin can also be used in pregnant women.</para>
+      </pgroup>
+      <pgroup>
+        <title>Mycobacterial cystitis</title>
+        <para>Mycobacterial treatment begins with 3 or 4 agents, generally including isoniazid (INH) and rifampin (RIF), depending on the probable sensitivities of the organism and the underlying state of the immune system. A standard regimen is as follows: </para>
+        <itemizedlist>
+          <listitem>
+            <para>INH 300mg/day</para>
+          </listitem>
+          <listitem>
+            <para>RIF 600 mg once daily</para>
+          </listitem>
+          <listitem>
+            <para>Ethambutol (EMB) 15mg/kg/day</para>
+          </listitem>
+          <listitem>
+            <para>Pyrazinamide 2g/day</para>
+          </listitem>
+        </itemizedlist>
+        <para>Other drugs that can be used include streptomycin 0.75-1g/day, ethionamide (ETH) 1g/day, or one of the fluoroquinolones. Treatment regimens are modified when the actual drug sensitivities are determined. Drug toxicities sufficient to require a change in regimen occur in up to 5% of patients. </para>
+        <para>Surgery is rarely needed to treat <a href="http://emedicine.medscape.com/article/450651-overview">tuberculosis of the genitourinary system</a>. When surgery is necessary, complex reconstruction is often required.</para>
+      </pgroup>
+      <pgroup>
+        <title>Fungal cystitis</title>
+        <para>Treatment is recommended only when the funguria is symptomatic or in cases of fungal colonization when host factors increase the risk of fungemia.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup>Fungal cystitis in immunocompetent patients with indwelling catheters may respond to removal of the catheter without further treatment of the infection. If removal of the catheter is not an option, treatment with oral azole antifungal agents or bladder irrigations containing amphotericin B 50mcg/mL for 5 days can be instituted. </para>
+        <para>In immunosuppressed patients, another option may be intravenous amphotericin B, depending on the degree of dissemination of the infection. Azole antifungal agents are often not effective against <em>Candida</em> species.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>Testing for susceptibility to antifungal agents may be necessary if patients have previously received therapy for fungal infections. Measures to reduce risk factors include removing urinary catheters; limiting antibiotic treatment; and, in patients with diabetes, optimizing management of glycemia.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup></para>
+        <para>Echinocandins (eg, caspofungin, micafungin), a newer class of agents that are active against azole- and polyene-resistant fungi, are a possible alternative. One trial that compared caspofungin with amphotericin B for invasive candidiasis demonstrated similar efficacy and markedly fewer side effects for caspofungin. Some infectious disease specialists consider caspofungin to be first-line therapy against invasive non-<em>albicans</em> candidal species. Micafungin can often be used against fungi that are resistant to azole antifungal agents. </para>
+        <para>If bladder outlet obstruction is suspected in the setting of severe funguria, a Foley catheter or suprapubic tube can be placed. After resolution of the infection, benign prostatic hyperplasia should be managed surgically. </para>
+      </pgroup>
+      <pgroup>
+        <title>Schistosomal cystitis</title>
+        <para>All patients with schistosomiasis should be treated, regardless of disease severity.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup>The current recommended treatment for schistosomiasis is 2 oral doses of praziquantel 40mg/kg for 1 day. This regimen results in cure rates of 83-100%. </para>
+        <para>Surgery should be reserved for cases that do not respond to medical therapy or for patients with intractable gross hematuria. Schistosomiasis can cause large granulomas in the bladder, which may warrant surgical extirpation. </para>
+        <para>Obstructive uropathy due to ureteral strictures is the most common sequela. Management of ureteral stricture is based on the stricture length and location. Deep, nonhealing bladder ulcers may require partial cystectomy, while biopsy-proven bladder cancer often requires radical cystectomy. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d11">
+      <title>Treatment of Noninfectious Nonbacterial Cystitis</title>
+      <pgroup>
+        <title>Radiation cystitis</title>
+        <para>While minor bleeding episodes due to radiation treatment stop without treatment, severe bleeding may require hospitalization for therapy. Clot evacuation and continuous bladder irrigation are the standard treatment for heavy bleeding. A small number of patients with severe bleeding require further treatment. Methods that have been tried include hyperbaric oxygen therapy and chemical therapy. <a href="http://emedicine.medscape.com/article/451882-overview">Urinary diversion</a> surgery is the surgical treatment of choice in patients whose symptoms fail to resolve.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31, <ref_inline id="refsrc32" name="refsrc32"/>32] </sup></para>
+        <para>In a study by Del Pizzo et al of long-term results of hyperbaric oxygen in 11 patients, 3 had complete resolution of symptoms, 3 had persistent symptoms, and 5 had initial improvement but then relapsed.<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup>In a review by Chong et al of hyperbaric oxygen therapy in 60 patients with radiation cystitis, 80% had complete or partial resolution of the hematuria, and 96% (27 of 28) of patients treated within 6 months of the onset of hematuria had complete resolution of symptoms.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34] </sup></para>
+        <para>Srisupundit and colleagues reported good short-term results (follow-up, 1-9mo) in 13 of 20 patients treated with an intravenous infusion of a chemically stabilized chlorite matrix tetrachlorodecaoxygen (TCDO).<sup>[<ref_inline id="refsrc35" name="refsrc35"/>35] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Chemical cystitis</title>
+        <para>Chemical cystitis from chemotherapy agents, such as cyclophosphamide, may resolve with hydration or with discontinuation of the drug. Another alternative is mesna, a semisynthetic sulfhydryl compound that reacts chemically with the drug metabolites that cause urotoxicity, detoxifying them in a manner similar to the physiologic cysteine-cystine system. </para>
+        <para>Ballen and colleagues suggested that extremely aggressive hydration with intravenous fluids and diuretics to maintain a urine output greater than 150mL/h may be as effective a therapy as mesna, as well as being much less expensive.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Autoimmune cystitis</title>
+        <para>Treatment of autoimmune diseases generally relies on a combination of symptomatic relief, anti-inflammatory drugs, and immunosuppressive agents. In the last several years, monoclonal antibodies to tumor necrosis factor (TNF)–alpha and several of the interleukins have markedly improved symptoms in some of the rheumatic diseases. The greater variety of immunologic targets amenable to treatment modification has allowed rheumatologists to tailor combinations of drugs to yield improved efficacy with fewer symptoms. </para>
+        <para>At present, no therapy for eosinophilic cystitis is curative. Treatments that have been tried include anti-inflammatory therapies with nonsteroidal anti-inflammatory drugs and steroids and transurethral resection of the bladder lesion.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>Other anti-inflammatory agents are under investigation, such as IPD-1151T, an immunoregulatory agent that suppresses T cell–mediated cytokines responsible for immunoglobulin-E (IgE) production and eosinophilia, as well as interleukin-4 (IL-4) and IL-5. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>The goals of pharmacotherapy are to eradicate the infection, to reduce morbidity, and to prevent complications. Depending on the cause, the agents used may include antimicrobials, antifungals, antivirals, anthelmintics, or antidotes.</para>
+      <para>A combination of the antibiotics isoniazid (INH), rifampin (RIF), ethambutol, and pyrazinamide are commonly used to treat mycobacterial cystitis, while oral fluconazole or bladder irrigations containing amphotericin B can be used against fungal cystitis.</para>
+      <para>The antiviral agents acyclovir and valacyclovir are administered for the treatment of cystitis caused by herpes simplex virus-1 (HSV-1) or HSV-2. Ganciclovir and the prodrug valganciclovir are employed against hemorrhagic cystitis caused by cytomegalovirus (CMV).</para>
+      <para>Praziquantel kills the parasites responsible for schistosomiasis, with the current recommended therapy being 2 oral doses of praziquantel 40mg/kg for 1 day; this regimen has an 83-100% cure rate. </para>
+    </intro>
+    <cgroup id="131392">
+      <title>Antibiotics, Other</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Empiric antimicrobial therapy must be comprehensive and should cover all likely pathogens in the context of the clinical setting.</para>
+      </intro>
+      <drug did="342570" name="Rifampin (Rifadin)" uri="rifadin-rimactane-rifampin-342570">
+        <title>Rifampin (Rifadin)</title>
+        <para>Rifampin inhibits ribonucleic acid (RNA) synthesis in bacteria by binding to the beta subunit of DNA-dependent RNA polymerase, which in turn blocks RNA transcription. The dosage in adults is 600mg orally once daily for 6 months. Rifampin induces microsomal enzymes, which may decrease the effects of other drugs. Blood pressure may increase with coadministration of enalapril. Coadministration with isoniazid or pyrazinamide may result in a higher rate of hepatotoxicity than with either agent alone (discontinue 1 or both agents if alterations in liver function test results occur).</para>
+        <para>Obtain complete blood counts (CBCs) and baseline clinical chemistries prior to and throughout rifampin therapy. In liver disease, weigh the benefits of rifampin use against the risk of further liver damage. Interruption of therapy and high-dose, intermittent therapy are associated with thrombocytopenia that is reversible if therapy is discontinued as soon as purpura occurs; if treatment is continued or resumed after the appearance of purpura, cerebral hemorrhage or death may occur. Rifampin is a pregnancy category C drug. </para>
+      </drug>
+      <drug did="342564" name="Isoniazid" uri="isoniazid-342564">
+        <title>Isoniazid</title>
+        <para>Isoniazid is an isonicotinic acid hydrazide. This agent is used as part of a triple-drug regimen. The adult dosage is 300 mg orally once daily for 6 months. Previous isoniazid-associated hepatic injury or other severe adverse reactions are contraindications. Daily alcohol ingestion may predispose patients to isoniazid-related hepatitis.</para>
+        <para>Aluminum salts may decrease isoniazid serum levels (administer 1-2 hours before taking aluminum salts). Isoniazid may increase anticoagulants' effects with coadministration and may inhibit the metabolic clearance of benzodiazepines. Carbamazepine toxicity or isoniazid hepatotoxicity may result from concurrent use (monitor carbamazepine concentrations and liver function).</para>
+        <para>Coadministration with cycloserine may increase central nervous system (CNS) side effects (eg, dizziness). Acute behavioral and coordination changes may occur with coadministration of disulfiram. Coadministration with rifampin after halothane anesthesia may result in hepatotoxicity and hepatic encephalopathy.</para>
+        <para>Isoniazid may inhibit hepatic microsomal enzymes and increase toxicity of hydantoin. Monitor patients with active chronic liver disease or severe renal dysfunction; periodic ophthalmologic examinations during isoniazid therapy are recommended even when visual symptoms do not occur. Isoniazid is a pregnancy category C drug. </para>
+      </drug>
+      <drug did="342678" name="Pyrazinamide" uri="pyrazinamide-342678">
+        <title>Pyrazinamide</title>
+        <para>Pyrazinamide is used only in combination with other effective antituberculous agents. Its mechanism of action is unknown. It is well absorbed from the gastrointestinal (GI) tract and hydrolyzed to its active metabolite in the liver. Note that 70% is excreted in urine within 24 hours.</para>
+        <para>Treat patients with drug-resistant disease with individualized regimens. The adult dose is 2g orally once daily for 2 months. Contraindications include severe hepatic damage and acute gout. Coadministration with rifampin may result in a higher rate of hepatotoxicity than with either agent alone (discontinue if alterations in liver function test results occur).</para>
+        <para>Pyrazinamide inhibits the renal excretion of urates and may result in hyperuricemia (usually asymptomatic). Perform baseline serum uric acid determinations, and discontinue the drug upon signs of hyperuricemia with acute gouty arthritis. Perform baseline liver function tests (closely monitor in liver disease) and discontinue the drug if signs of hepatocellular damage appear. Observe caution when there is a history of diabetes mellitus. Pyrazinamide is a pregnancy category C drug. </para>
+      </drug>
+      <drug did="342677" name="Ethambutol (Myambutol)" uri="myambutol-ethambutol-342677">
+        <title>Ethambutol (Myambutol)</title>
+        <para>Ethambutol diffuses into actively growing mycobacterial cells, such as tubercle bacilli. It impairs cell metabolism by inhibiting synthesis of 1 or more metabolites, which in turn causes cell death. No cross-resistance has been demonstrated. Mycobacterial resistance is frequent with previous therapy. Use in these patients in combination with previously unadministered second-line drugs.</para>
+        <para>The adult dosage of ethambutol is 15mg/kg orally once daily for 2 months. Aluminum salts may delay and reduce absorption (give several hours before or after ethambutol dose). Reduce the dose in patients with impaired renal function. Optic neuritis may develop but is reversible if the drug is promptly discontinued. Ethambutol is a pregnancy category C drug. </para>
+      </drug>
+      <drug did="342548" name="Doxycycline (Adoxa, Doryx, Periostat, Vibramycin, Monodox)" uri="vibramycin-monodox-doxycycline-342548">
+        <title>Doxycycline (Adoxa, Doryx, Periostat, Vibramycin, Monodox)</title>
+        <para>Doxycycline is a broad-spectrum, synthetically derived, bacteriostatic antibiotic in the tetracycline class. It is almost completely absorbed, concentrates in bile, and is excreted in urine and feces as a biologically active metabolite in high concentrations.</para>
+        <para>It inhibits protein synthesis and, thus, bacterial growth by binding to 30S and, possibly, 50S ribosomal subunits of susceptible bacteria. It may block dissociation of peptidyl transfer RNA (tRNA) from ribosomes, causing RNA-dependent protein synthesis to arrest. The adult dosage is 100mg orally twice daily. Severe hepatic dysfunction is a contraindication.</para>
+        <para>The bioavailability of doxycycline decreases with antacids containing aluminum, calcium, magnesium, iron, or bismuth subsalicylate. Tetracyclines can increase the hypoprothrombinemic effects of anticoagulants and can decrease the efficacy of oral contraceptives, causing breakthrough bleeding and increased risk of pregnancy. Photosensitivity may occur with prolonged exposure to sunlight or tanning equipment.</para>
+        <para>Reduce the dose in patients with renal impairment. Consider drug serum level determinations in prolonged therapy. Tetracycline use during tooth development (the last half of pregnancy through age 8 years) can permanently discolor teeth. Fanconi-like syndrome may occur with outdated tetracyclines. Doxycycline is a pregnancy category D drug. </para>
+      </drug>
+      <drug did="342523" name="Azithromycin (Zithromax, Zmax)" uri="zithromax-zmax-azithromycin-342523">
+        <title>Azithromycin (Zithromax, Zmax)</title>
+        <para>Azithromycin is used to treat mild to moderate microbial infections. In adults, it is given in a single dose of 1g orally. Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and blocks dissociation of peptidyl tRNA from ribosomes, causing RNA-dependent protein synthesis to arrest. Nucleic acid synthesis is not affected. It concentrates in phagocytes and fibroblasts, as demonstrated by in vitro incubation techniques. In vivo studies suggest that the concentration in phagocytes may contribute to drug distribution to inflamed tissues.</para>
+        <para>Contraindications to azithromycin use include hepatic impairment. Do not administer with pimozide. Azithromycin may increase the toxicity of theophylline, warfarin, and digoxin; effects are reduced with coadministration of aluminum and/or magnesium antacids.</para>
+        <para>Nephrotoxicity and neurotoxicity may occur when this agent is coadministered with cyclosporine. Site reactions can occur when it is given by the IV route. Bacterial or fungal overgrowth may result from prolonged antibiotic use.</para>
+        <para>Azithromycin may increase hepatic enzymes and cholestatic jaundice. Use this agent with caution in patients with impaired hepatic function or prolonged QT intervals. Azithromycin is a pregnancy category B drug. </para>
+      </drug>
+      <drug did="342539" name="Ofloxacin" uri="floxin-ofloxacin-342539">
+        <title>Ofloxacin</title>
+        <para>Ofloxacin penetrates the prostate well and is effective against <em>Neisseria gonorrhoeae</em> and <em>Chlamydia trachomatis</em>. It is a pyridine carboxylic acid derivative with a broad-spectrum bactericidal effect. The adult dosage is 300mg orally twice daily for 7 days.</para>
+        <para>Antacids, iron salts, and zinc salts may reduce serum levels. Patients should take antacids 2-4 hours before or after taking fluoroquinolones. Cimetidine may interfere with the metabolism of fluoroquinolones.</para>
+        <para>Ofloxacin may increase the toxicity of theophylline, caffeine, cyclosporine, and digoxin (monitor digoxin levels) and may increase the effects of anticoagulants (monitor the prothrombin time). In prolonged therapy, periodically evaluate organ system functions (eg, renal, hepatic, hematopoietic). Adjust the dose in patients with impaired renal function. Superinfections may occur with prolonged or repeated antibiotic therapy. Ofloxacin is a pregnancy category C drug. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="131393">
+      <title>Antifungal, Systemic</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>The mechanism of action of antifungal agents may involve an alteration of RNA and DNA metabolism or an intracellular accumulation of peroxide that is toxic to the fungal cell. </para>
+      </intro>
+      <drug did="342582" name="Amphotericin B deoxycholate" uri="fungizone-amphotericin-b-conventional-amphotericin-b-deoxycholate-342582">
+        <title>Amphotericin B deoxycholate</title>
+        <para>Amphotericin B is produced from a strain of <em>Streptomyces nodosus</em>. The antifungal activity of amphotericin B results from its ability to insert itself into the fungal cytoplasmic membrane at sites containing ergosterol or other sterols. Aggregates of amphotericin B accumulate at sterol sites, resulting in an increase in cytoplasmic membrane permeability to monovalent ions (eg, potassium, sodium).</para>
+        <para>At low concentrations, the main effect of this agent is increased intracellular loss of potassium, resulting in reversible fungistatic activity; however, at higher concentrations, pores of 40-105nm in the cytoplasmic membrane are produced, leading to large losses of ions and other molecules.</para>
+        <para>A second effect of amphotericin B is its ability to cause auto-oxidation of the cytoplasmic membrane and the release of lethal free radicals. The main fungicidal activity of amphotericin B may reside in its ability to cause auto-oxidation of cell membranes. The adult dose is 0.5mg/kg intravenously once daily for 7-14 days; 50mcg/mL can be given as bladder irrigation continuously for 5 days.</para>
+        <para>Antineoplastic agents may enhance the potential of amphotericin B for renal toxicity, bronchospasm, and hypotension. Corticosteroids, digitalis, and thiazides may potentiate hypokalemia. The risk of renal toxicity is increased with cyclosporine. Monitor renal function, serum electrolytes (eg, magnesium, potassium), liver function, CBCs, and hemoglobin concentrations. Resume therapy at the lowest dose level (eg, 0.25mg/kg) when therapy is interrupted for more than 7 days.</para>
+        <para>Hypoxemia, acute dyspnea, and interstitial infiltrates may occur in neutropenic patients receiving leukocyte transfusions (give amphotericin infusions at different times than leukocyte transfusions). Fever and chills are not uncommon after the first few doses of the drug. Rare acute reactions may include hypotension, bronchospasm, arrhythmias, and shock. Amphotericin B is a pregnancy category B drug.</para>
+      </drug>
+      <drug did="342587" name="Fluconazole (Diflucan)" uri="diflucan-fluconazole-342587">
+        <title>Fluconazole (Diflucan)</title>
+        <para>Fluconazole is a synthetic oral antifungal (broad-spectrum bistriazole) that selectively inhibits fungal cytochrome P-450 and sterol C-14 alpha-demethylation; this prevents the conversion of lanosterol to ergosterol, thereby disrupting cellular membranes. The drug has little affinity for mammalian cytochromes, which is believed to explain its low toxicity.</para>
+        <para>Fluconazole is available in tablet form for oral administration, as a powder for oral suspension, and as a sterile solution for intravenous use. It has fewer adverse effects and better tissue distribution than older systemic imidazoles. The adult dosage is 200mg orally or intravenously once daily for 7-14 days. Probenecid, zidovudine, or cimetidine coadministration prolongs the half-life and increases CNS toxicity. Adjust the dose for renal insufficiency; closely monitor if rashes develop, and discontinue the drug if lesions progress.</para>
+        <para>Fluconazole may cause clinical hepatitis, cholestasis, and fulminant hepatic failure (including death) in patients with certain underlying medical conditions (eg, AIDS, malignancy) or in those taking multiple, concomitant medications. It is not recommended for breastfeeding mothers.</para>
+        <para>The convenience and efficacy of a single-dose regimen for treatment of vaginal yeast infections should be weighed against the difficulties resulting from the higher incidence of adverse reactions reported with oral fluconazole versus intravaginal agents. Fluconazole is a pregnancy category C drug. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="131394">
+      <title>Antivirals, Others</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Nucleoside analogues are initially phosphorylated by viral thymidine kinase to eventually form a nucleoside triphosphate. These molecules inhibit HSV polymerase with 30-50 times the potency of human alpha-DNA polymerase. </para>
+      </intro>
+      <drug did="342601" name="Acyclovir (Zovirax)" uri="zovirax-acyclovir-342601">
+        <title>Acyclovir (Zovirax)</title>
+        <para>Acyclovir is activated via phosphorylation by virus-specific thymidine kinase. Guanylate kinase converts the monophosphate form into diphosphate and triphosphate analogues that inhibit viral DNA replication. Acyclovir has affinity for viral thymidine kinase and, once phosphorylated, causes DNA-chain termination when acted on by DNA polymerase.</para>
+        <para>Acyclovir inhibits the activity of HSV-1 and HSV-2. Patients experience less pain and faster resolution of cutaneous lesions when this agent is started within 48 hours of rash onset. It may prevent recurrent outbreaks. Early initiation of therapy is imperative. The adult dosage is 400mg orally 5 times daily for 7 days.</para>
+        <para>Concomitant use of probenecid or zidovudine prolongs the half-life and increases the CNS toxicity of acyclovir. Use this agent with caution in patients with renal failure or those using nephrotoxic drugs. Acyclovir is a pregnancy category B drug.</para>
+      </drug>
+      <drug did="342631" name="Valacyclovir (Valtrex)" uri="valtrex-valacyclovir-342631">
+        <title>Valacyclovir (Valtrex)</title>
+        <para>Valacyclovir is a prodrug that is rapidly converted to the active drug acyclovir. It is more expensive than acyclovir but has a more convenient dosing regimen. The adult dosage is 500mg orally twice daily for 5-10 days.</para>
+        <para>The risk of hyperkalemia is increased in patients taking angiotensin-converting enzyme (ACE) inhibitors, cyclosporine, and potassium-sparing diuretics. Use valacyclovir with caution in patients with renal failure (decrease the dose) and in patients who are also taking nephrotoxic drugs. Valacyclovir is associated with the onset of hemolytic uremic syndrome. Valacyclovir is a pregnancy category B drug.</para>
+      </drug>
+      <drug did="342632" name="Valganciclovir (Valcyte)" uri="valcyte-valganciclovir-342632">
+        <title>Valganciclovir (Valcyte)</title>
+        <para>Valganciclovir is an L-valyl ester prodrug of ganciclovir used for CMV disease prophylaxis in various solid organ transplants. Ganciclovir is a synthetic analogue of 2'-deoxyguanosine, which inhibits replication of human CMV in vitro and in vivo. Viral activity is halted due to the inhibition of viral DNA synthesis.</para>
+        <para>This agent has the advantage of once- or twice-daily oral administration. It achieves serum levels comparable to those obtained with intravenous ganciclovir. The adult dosage is 450mg orally twice daily for 21 days. Contraindications include severe renal dysfunction or hemodialysis, pregnancy, breastfeeding, or an absolute neutrophil count of less than 500 cells/µL, a platelet count of less than 25,000/µL, or a hemoglobin level of less than 8g/dL.</para>
+        <para>Interactions with valganciclovir are similar to those reported with ganciclovir. Coadministration with cytotoxic drugs such as dapsone, vinblastine, doxorubicin, pentamidine, flucytosine, vincristine, amphotericin B, trimethoprim/sulfamethoxazole combinations, or other nucleoside analogues may result in additive toxicity of rapidly dividing cell populations, including bone marrow, spermatogonia, germinal layers of skin, and GI mucosa. Coadminister with these agents only if the benefits outweigh the risks.</para>
+        <para>Coadministration with imipenem-cilastatin may cause generalized seizures (use only if the benefits outweigh the risks). Serum creatinine levels may increase following concurrent use of ganciclovir with either cyclosporine or amphotericin B. In the presence of probenecid, ganciclovir renal clearance is reduced; bioavailability may increase when didanosine is administered either 2 hours before or simultaneously with ganciclovir.</para>
+        <para>The bioavailability of ganciclovir may decrease in the presence of zidovudine, while the bioavailability of zidovudine is increased in the presence of ganciclovir.</para>
+        <para>Strict adherence to dosage guidelines of valganciclovir is essential to avoid overdose. Valganciclovir tablets may not be substituted for ganciclovir capsules on a one-to-one basis; adjust the dose according to the creatinine clearance (CrCl) in patients with impaired renal function.</para>
+        <para>Valganciclovir may cause granulocytopenia, anemia, and thrombocytopenia. It is not indicated for CMV disease prevention in liver transplantation (the incidence of CMV disease in liver transplant recipients is higher with valganciclovir than with ganciclovir). Valganciclovir is a pregnancy category C drug. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="131395">
+      <title>Antiparasitic Agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>The biochemical pathways of schistosomes are sufficiently different from those of the human host to allow selective interference by chemotherapeutic agents in relatively small doses. </para>
+      </intro>
+      <drug did="342666" name="Praziquantel (Biltricide)" uri="biltricide-praziquantel-342666">
+        <title>Praziquantel (Biltricide)</title>
+        <para>Praziquantel increases cell membrane permeability in susceptible worms, resulting in the loss of intracellular calcium, massive contractions, and paralysis of musculature. In addition, it produces vacuolization and disintegration of schistosome tegument. This is followed by attachment of phagocytes to the parasite and death.</para>
+        <para>Tablets should be swallowed whole with some liquid during meals. Keeping the tablets in the mouth may reveal their bitter taste, which can produce nausea or vomiting. The adult dosage is 40mg/kg orally twice daily for 1 day.</para>
+        <para>Ocular cysticercosis is a contraindication. Hydantoins may reduce serum praziquantel concentrations, possibly leading to treatment failures.</para>
+        <para>Destruction of parasites within the eyes can cause irreparable lesions (ocular cysticercosis should not be treated with praziquantel). Patients should use caution while driving or performing other tasks requiring alertness on the day of treatment and on the following day. Minimal increases in liver enzymes have been reported. When schistosomiasis or fluke infection is associated with cerebral cysticercosis, hospitalize the patient for duration of treatment. Praziquantel is a pregnancy category B drug. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="131396">
+      <title>Antidotes, Other</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents counteract the toxic effects of drugs.</para>
+      </intro>
+      <drug did="342126" name="Mesna (Mesnex)" uri="mesnex-mesna-342126">
+        <title>Mesna (Mesnex)</title>
+        <para>In the kidney, mesna disulfide is reduced to free mesna. Free mesna has thiol groups that react with acrolein, the ifosfamide and cyclophosphamide metabolite considered responsible for urotoxicity. It inactivates acrolein and prevents urothelial toxicity without affecting cytostatic activity. The adult dosage is 240mg intravenously at 0, 4, 8 hours after the ifosfamide or cyclophosphamide dose.</para>
+        <para>Mesna may increase warfarin effects. Mesna does not prevent hemorrhagic cystitis in all patients (monitoring for hematuria in the morning prior to ifosfamide or cyclophosphamide dose is required). It does not prevent or alleviate other toxicities associated with ifosfamide or cyclophosphamide. Common adverse effects include hypotension, headache, GI toxicity, and limb pain. Mesna is a pregnancy category B drug.</para>
+      </drug>
+    </cgroup>
+  </msect>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="36687">
+        <title>Gross pathology of the bladder with candidal infection and hemorrhage. </title>
+        <caption>Gross pathology of the bladder with candidal infection and hemorrhage. </caption>
+        <graphic fileref="/87/36687.png" format="IMAGE" id="36687" extension_format="PNG"/>
+        <graphic fileref="/87/36687tn.jpg" format="IMAGE_THUMB" id="36687"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36688">
+        <title>Gross anatomy of the female pelvis. </title>
+        <caption>Gross anatomy of the female pelvis. </caption>
+        <graphic fileref="/88/36688.jpg" format="IMAGE" id="36688" extension_format="JPG"/>
+        <graphic fileref="/88/36688tn.jpg" format="IMAGE_THUMB" id="36688"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36689">
+        <title>Gross anatomy of the bladder. </title>
+        <caption>Gross anatomy of the bladder. </caption>
+        <graphic fileref="/89/36689.jpg" format="IMAGE" id="36689" extension_format="JPG"/>
+        <graphic fileref="/89/36689tn.jpg" format="IMAGE_THUMB" id="36689"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36690">
+        <title>Female perineal anatomy. The urogenital diaphragm and levator ani muscles have been removed,...</title>
+        <caption>Female perineal anatomy. The urogenital diaphragm and levator ani muscles have been removed, revealing the internal pudendal nerves and vessels, the rectum, and the posterior vaginal wall. </caption>
+        <graphic fileref="/90/36690.jpg" format="IMAGE" id="36690" extension_format="JPG"/>
+        <graphic fileref="/90/36690tn.jpg" format="IMAGE_THUMB" id="36690"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36691">
+        <title>Schistosomiasis of the ureter. </title>
+        <caption>Schistosomiasis of the ureter. </caption>
+        <graphic fileref="/91/36691.png" format="IMAGE" id="36691" extension_format="PNG"/>
+        <graphic fileref="/91/36691tn.jpg" format="IMAGE_THUMB" id="36691"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36692">
+        <title>Infiltration of yeast in the bladder wall. </title>
+        <caption>Infiltration of yeast in the bladder wall. </caption>
+        <graphic fileref="/92/36692.png" format="IMAGE" id="36692" extension_format="PNG"/>
+        <graphic fileref="/92/36692tn.jpg" format="IMAGE_THUMB" id="36692"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Lynda A Frassetto, MD</contrbtr_nm>
+        <contrbtr_title>Clinical Professor, Department of Internal Medicine, University of California, San Francisco, School of Medicine</contrbtr_title>
+        <contrbtr_bio>Lynda A Frassetto, MD is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Benjamin Newell Breyer, MD, MS</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Trauma and Reconstruction, Department of Urology, University of California, San Francisco, School of Medicine</contrbtr_title>
+        <contrbtr_bio>Benjamin Newell Breyer, MD, MS is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.auanet.org/">American Urological Association</a>, <a href="http://www.endourology.org/">Endourological Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Edward David Kim, MD, FACS</contrbtr_nm>
+        <contrbtr_title>Professor of Surgery, Division of Urology, University of Tennessee Graduate School of Medicine; Consulting Staff, University of Tennessee Medical Center</contrbtr_title>
+        <contrbtr_bio>Edward David Kim, MD, FACS is a member of the following medical societies: <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.tnmed.org">Tennessee Medical Association</a>, <a href="http://www.smsna.org">Sexual Medicine Society of North America</a>, <a href="http://www.asrm.org/?vs=1">American Society for Reproductive Medicine</a>, <a href="http://www.andrologysociety.com">American Society of Andrology</a>, <a href="http://www.auanet.org/">American Urological Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received honoraria from Lilly for speaking and teaching; Received honoraria from Astellas for speaking and teaching; Received honoraria from Actavis for speaking and teaching; Received honoraria from Auxilium for speaking and teaching.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para><strong>Erik T Goluboff, MD</strong> Professor, Department of Urology, College of Physicians and Surgeons, Columbia University College of Physicians and Surgeons; Director of Urology, Allen Pavilion, New York Presbyterian Hospital</para>
+      <para>Erik T Goluboff, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, <a href="http://www.auanet.org/">American Urological Association</a>, <a href="http://www.mssny.org/">Medical Society of the State of New York</a>, <a href="http://www.nyam.org/">New York Academy of Medicine</a>, <a href="http://www.pbk.org/">Phi Beta Kappa</a>, and <a href="http://www.sbur.org/">Society for Basic Urologic Research</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Stephen W Leslie, MD, FACS</strong> Founder and Medical Director, Lorain Kidney Stone Research Center; Associate Professor of Surgery at Creighton University School of Medicine, Chief of Urology at Creighton University Medical Center</para>
+      <para>Stephen W Leslie, MD, FACS is a member of the following medical societies: <a href="http://www.facs.org/">American College of Surgeons</a>, <a href="http://www.auanet.org/">American Urological Association</a>, <a href="http://www.kidney.org/">National Kidney Foundation</a>, and <a href="http://www.osma.org/i4a/pages/index.cfm?pageid=1">Ohio State Medical Association</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Grannum R Sant, MD</strong> Residency Program Director, Charles M Whitney Professor and Chairman, Department of Urology, Tufts University School of Medicine </para>
+      <para>Grannum R Sant, MD is a member of the following medical societies: American Urological Association, International Association for the Study of Pain, Massachusetts Medical Society, Society for Basic Urologic Research, and Society of University Urologists </para>
+      <para>Disclosure: Nothing to disclose.</para>
+      <para><strong>Francisco Talavera, PharmD, PhD</strong> Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</para>
+      <para>Disclosure: Medscape Salary Employment </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15940629">
+      <para>Pezzone MA, Liang R, Fraser MO. A model of neural cross-talk and irritation in the pelvis: implications for the overlap of chronic pelvic pain disorders. <em>Gastroenterology</em>. 2005 Jun. 128(7):1953-64. <a href="http://reference.medscape.com/medline/abstract/15940629">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8138433">
+      <para>Perez CA, Lee HK, Georgiou A, Lockett MA. Technical factors affecting morbidity in definitive irradiation for localized carcinoma of the prostate. <em>Int J Radiat Oncol Biol Phys</em>. 1994 Mar 1. 28(4):811-9. <a href="http://reference.medscape.com/medline/abstract/8138433">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15857336">
+      <para>Teegavarapu PS, Sahai A, Chandra A, Dasgupta P, Khan MS. Eosinophilic cystitis and its management. <em>Int J Clin Pract</em>. 2005 Mar. 59(3):356-60. <a href="http://reference.medscape.com/medline/abstract/15857336">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21798289">
+      <para>Sharma BN, Li R, Bernhoff E, et al. Fluoroquinolones inhibit human polyomavirus BK (BKV) replication in primary human kidney cells. <em>Antiviral Res</em>. 2011 Oct. 92(1):115-23. <a href="http://reference.medscape.com/medline/abstract/21798289">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16305617">
+      <para>Boeckh M, Erard V, Zerr D, Englund J. Emerging viral infections after hematopoietic cell transplantation. <em>Pediatr Transplant</em>. 2005 Dec. 9 Suppl 7:48-54. <a href="http://reference.medscape.com/medline/abstract/16305617">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15888253">
+      <para>Fioriti D,  Degener AM,  Mischitelli M,  Videtta M,  Arancio A,  Sica S, et al. BKV infection and hemorrhagic cystitis after allogeneic bone marrow transplant. <em>Int J Immunopathol Pharmacol</em>. 2005 Apr-Jun. 18(2):309-16. <a href="http://reference.medscape.com/medline/abstract/15888253">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10868146">
+      <para>Carrigan DR. Adenovirus infections in immunocompromised patients. <em>Am J Med</em>. 1997 Mar 17. 102(3A):71-4. <a href="http://reference.medscape.com/medline/abstract/10868146">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9772318">
+      <para>Bavastrelli M,  Midulla M,  Rossi D,  Salzano M,  Calzolari E,  Midulla C, et al. Sexually active adolescents and young adults: a high-risk group for Chlamydia trachomatis infection. <em>J Travel Med</em>. 1998 Jun. 5(2):57-60. <a href="http://reference.medscape.com/medline/abstract/9772318">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10727588">
+      <para>Wald A,  Zeh J,  Selke S,  Warren T,  Ryncarz AJ,  Ashley R, et al. Reactivation of genital herpes simplex virus type 2 infection in asymptomatic seropositive persons. <em>N Engl J Med</em>. 2000 Mar 23. 342(12):844-50. <a href="http://reference.medscape.com/medline/abstract/10727588">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17515676">
+      <para>Pierciaccante A, Pompeo ME, Fabi F, Venditti M. Successful treatment of Corynebacterium urealyticum encrusted cystitis: a case report and literature review. <em>Infez Med</em>. 2007 Mar. 15(1):56-8. <a href="http://reference.medscape.com/medline/abstract/17515676">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9306871">
+      <para>Martin-Suarez I, D'Cruz D, Mansoor M, Fernandes AP, Khamashta MA, Hughes GR. Immunosuppressive treatment in severe connective tissue diseases: effects of low dose intravenous cyclophosphamide. <em>Ann Rheum Dis</em>. 1997 Aug. 56(8):481-7. <a href="http://reference.medscape.com/medline/abstract/9306871">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1752422/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8779788">
+      <para>Kawabe Y,  Eguchi K,  Tsuboi M,  Kita M,  Tsukada T,  Takashima H, et al. [Untoward effects of low dose methotrexate therapy in rheumatoid arthritis]. <em>Ryumachi</em>. 1996 Jun. 36(3):514-21. <a href="http://reference.medscape.com/medline/abstract/8779788">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18680495">
+      <para>Chu PS,  Ma WK,  Wong SC,  Chu RW,  Cheng CH,  Wong S, et al. The destruction of the lower urinary tract by ketamine abuse: a new syndrome?. <em>BJU Int</em>. 2008 Dec. 102(11):1616-22. <a href="http://reference.medscape.com/medline/abstract/18680495">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24484575">
+      <para>Kauffman CA. Diagnosis and management of fungal urinary tract infection. <em>Infect Dis Clin North Am</em>. 2014 Mar. 28(1):61-74. <a href="http://reference.medscape.com/medline/abstract/24484575">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12563599">
+      <para>Barsoum RS. Schistosomiasis and the kidney. <em>Semin Nephrol</em>. 2003 Jan. 23(1):34-41. <a href="http://reference.medscape.com/medline/abstract/12563599">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10805264">
+      <para>Haarala M, Alanen A, Hietarinta M, Kiilholma P. Lower urinary tract symptoms in patients with Sjögren's syndrome and systemic lupus erythematosus. <em>Int Urogynecol J Pelvic Floor Dysfunct</em>. 2000. 11(2):84-6. <a href="http://reference.medscape.com/medline/abstract/10805264">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9827199">
+      <para>Mnif A, Loussaief H, Ben Hassine L, Chebil M, Ayed M. [Aspects of evolving urogenital tuberculosis. 60 cases]. <em>Ann Urol (Paris)</em>. 1998. 32(5):283-9. <a href="http://reference.medscape.com/medline/abstract/9827199">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9607338">
+      <para>Beard CJ,  Lamb C,  Buswell L,  Schneider L,  Propert KJ,  Gladstone D, et al. Radiation-associated morbidity in patients undergoing small-field external beam irradiation for prostate cancer. <em>Int J Radiat Oncol Biol Phys</em>. 1998 May 1. 41(2):257-62. <a href="http://reference.medscape.com/medline/abstract/9607338">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7959285">
+      <para>Levenback C, Eifel PJ, Burke TW, Morris M, Gershenson DM. Hemorrhagic cystitis following radiotherapy for stage Ib cancer of the cervix. <em>Gynecol Oncol</em>. 1994 Nov. 55(2):206-10. <a href="http://reference.medscape.com/medline/abstract/7959285">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23141933">
+      <para>Wagenlehner FM,  van Till JW,  Magri V,  Perletti G,  Houbiers JG,  Weidner W, et al. National Institutes of Health Chronic Prostatitis Symptom Index (NIH-CPSI) symptom evaluation in multinational cohorts of patients with chronic prostatitis/chronic pelvic pain syndrome. <em>Eur Urol</em>. 2013 May. 63(5):953-9. <a href="http://reference.medscape.com/medline/abstract/23141933">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1689942">
+      <para>Shurbaji MS, Dumler JS, Gage WR, Pettis GL, Gupta PK, Kuhadja FP. Immunohistochemical detection of chlamydial antigens in association with cystitis. <em>Am J Clin Pathol</em>. 1990 Mar. 93(3):363-6. <a href="http://reference.medscape.com/medline/abstract/1689942">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10893648">
+      <para>Moussa OM, Eraky I, El-Far MA, Osman HG, Ghoneim MA. Rapid diagnosis of genitourinary tuberculosis by polymerase chain reaction and non-radioactive DNA hybridization. <em>J Urol</em>. 2000 Aug. 164(2):584-8. <a href="http://reference.medscape.com/medline/abstract/10893648">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17544611">
+      <para>Etienne M, Caron F. [Management of fungal urinary tract infections]. <em>Presse Med</em>. 2007 Dec. 36(12 Pt 3):1899-906. <a href="http://reference.medscape.com/medline/abstract/17544611">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8576345">
+      <para>Sandhu GS, Kline BC, Stockman L, Roberts GD. Molecular probes for diagnosis of fungal infections. <em>J Clin Microbiol</em>. 1995 Nov. 33(11):2913-9. <a href="http://reference.medscape.com/medline/abstract/8576345">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC228606/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10714091">
+      <para>Min JK,  Byun JY,  Lee SH,  Hong YS,  Park SH,  Cho CS, et al. Urinary bladder involvement in patients with systemic lupus erythematosus: with review of the literature. <em>Korean J Intern Med</em>. 2000 Jan. 15(1):42-50. <a href="http://reference.medscape.com/medline/abstract/10714091">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8993771">
+      <para>De Vinci C,  Pizza G,  Cuzzocrea D,  Menniti D,  Aiello E,  Maver P, et al. Use of transfer factor for the treatment of recurrent non-bacterial female cystitis (NBRC): a preliminary report. <em>Biotherapy</em>. 1996. 9(1-3):133-8. <a href="http://reference.medscape.com/medline/abstract/8993771">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17890268">
+      <para>Egli A,  Binggeli S,  Bodaghi S,  Dumoulin A,  Funk GA,  Khanna N, et al. Cytomegalovirus and polyomavirus BK posttransplant. <em>Nephrol Dial Transplant</em>. 2007 Sep. 22 Suppl 8:viii72-viii82. <a href="http://reference.medscape.com/medline/abstract/17890268">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16624030">
+      <para>Xu HG,  Fang JP,  Huang SL,  Zhou DH,  Chen C,  Huang K, et al. [Risk factors and treatment of hemorrhagic cystitis in children after hematopoietic stem cell transplantation]. <em>Zhonghua Er Ke Za Zhi</em>. 2006 Feb. 44(2):126-30. <a href="http://reference.medscape.com/medline/abstract/16624030">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3938926">
+      <para>Mott KE, Dixon H, Osei-Tutu E, England EC, Davis A. Effect of praziquantel on hematuria and proteinuria in urinary schistosomiasis. <em>Am J Trop Med Hyg</em>. 1985 Nov. 34(6):1119-26. <a href="http://reference.medscape.com/medline/abstract/3938926">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20562794">
+      <para>Sommariva ML, Sandri SD, Ceriani V. Efficacy of sodium hyaluronate in the management of chemical and radiation cystitis. <em>Minerva Urol Nefrol</em>. 2010 Jun. 62(2):145-50. <a href="http://reference.medscape.com/medline/abstract/20562794">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22046200">
+      <para>Damiano R, Cicione A. The role of sodium hyaluronate and sodium chondroitin sulphate in the management of bladder disease. <em>Ther Adv Urol</em>. 2011 Oct. 3(5):223-32. <a href="http://reference.medscape.com/medline/abstract/22046200">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199589/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22246598">
+      <para>Allen S, Kilian C, Phelps J, et al. The use of hyperbaric oxygen for treating delayed radiation injuries in gynecologic malignancies: a review of literature and report of radiation injury incidence. <em>Support Care Cancer</em>. 2012 Jan 14. <a href="http://reference.medscape.com/medline/abstract/22246598">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9720533">
+      <para>Del Pizzo JJ, Chew BH, Jacobs SC, Sklar GN. Treatment of radiation induced hemorrhagic cystitis with hyperbaric oxygen: long-term followup. <em>J Urol</em>. 1998 Sep. 160(3 Pt 1):731-3. <a href="http://reference.medscape.com/medline/abstract/9720533">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15833500">
+      <para>Chong KT, Hampson NB, Corman JM. Early hyperbaric oxygen therapy improves outcome for radiation-induced hemorrhagic cystitis. <em>Urology</em>. 2005 Apr. 65(4):649-53. <a href="http://reference.medscape.com/medline/abstract/15833500">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10511788">
+      <para>Srisupundit S, Kraiphibul P, Sangruchi S, Linasmita V, Chingskol K, Veerasarn V. The efficacy of chemically-stabilized chlorite-matrix (TCDO) in the management of late postradiation cystitis. <em>J Med Assoc Thai</em>. 1999 Aug. 82(8):798-802. <a href="http://reference.medscape.com/medline/abstract/10511788">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10575313">
+      <para>Ballen KK,  Becker P,  Levebvre K,  Emmons R,  Lee K,  Levy W, et al. Safety and cost of hyperhydration for the prevention of hemorrhagic cystitis in bone marrow transplant recipients. <em>Oncology</em>. 1999 Nov. 57(4):287-92. <a href="http://reference.medscape.com/medline/abstract/10575313">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

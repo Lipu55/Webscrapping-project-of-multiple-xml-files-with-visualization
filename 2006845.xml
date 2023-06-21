@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2006845" pubid="" template="Oncology" template-name="singlesection">
+  <site-meta>
+    <article-name>Kaposi Sarcoma Treatment Protocols</article-name>
+    <title>
+      <page-info id="overview">Kaposi Sarcoma Treatment Protocols: Treatment Protocols</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Kaposi Sarcoma Treatment Protocols: Treatment Protocols</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Treatment Protocols</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Kaposi Sarcoma Treatment Protocols Overview</page-info>
+    </meta-keywords>
+    <uri>2006845-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Oct 15, 2014</posting-date>
+    <last-generated>2015-08-04-17:30</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Oncology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2006845</artid>
+      <cg>502</cg>
+      <scg text="Sarcoma">3029380</scg>
+      <ssp text="Hematology/Oncology">7</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology</id>
+      <name>Oncology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>oncology_bonesofttissue</id>
+      <name>Bone and Soft Tissue Cancers</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Because the natural history of Kaposi sarcoma (KS) is variable, assessment of therapy may be difficult. Treatment usually is based on the extent of disease and the patient’s immune status.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Kaposi Sarcoma Treatment Protocols</title>
+  <sect1 id="a1">
+    <title>Treatment Protocols</title>
+    <pgroup>
+      <para>Because the natural history of Kaposi sarcoma (KS) is variable, assessment of therapy may be difficult. Treatment usually is based on the extent of disease and the patient’s immune status. Optimal therapy for KS and acquired immune deficiency syndrome (KS-AIDS) is yet to be determined. The challenge is to treat KS-AIDS effectively without immunocompromising the patient further—or, better, with reconstitution of the immune system.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6, <ref_inline id="refsrc7" name="refsrc7"/>7, <ref_inline id="refsrc8" name="refsrc8"/>8] </sup></para>
+      <para>Management of childhood HIV-associated KS in resource-poor settings is challenging.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>In addition, no randomized controlled studies of chemotherapy for KS in children have been published. </para>
+    </pgroup>
+    <pgroup>
+      <title>General treatment approach</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Observation is preferred over beginning treatment for patients with limited asymptomatic lesions</para>
+        </listitem>
+        <listitem>
+          <para>Localized nodular disease may respond well to surgical excision, radiotherapy, and intralesional and outpatient low-dose vinblastine chemotherapy </para>
+        </listitem>
+        <listitem>
+          <para>The choice of topical therapy depends on the site and extent of the disease and on individual patient status</para>
+        </listitem>
+        <listitem>
+          <para>Kaposi sarcoma-associated paradoxical immune reconstitution inflammatory syndrome (KS-IRIS) in antiretroviral (ART)-naïve HIV-infected patients is a major contributor to KS-associated mortality in Africa. Increased awareness of this entity is important<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In children with both KS and HIV infection in sub-Saharan Africa, ART together with a chemotherapy regimen appears to be better than the use of either ART or chemotherapy alone<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Radiotherapy</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Radiotherapy often produces good therapeutic results with classic nodular KS but tends to be only palliative in patients with KS-AIDS </para>
+        </listitem>
+        <listitem>
+          <para>In localized nodular KS, conventional radiotherapy is highly effective</para>
+        </listitem>
+        <listitem>
+          <para>Electron beam radiation therapy (EBRT) has limited penetration beyond the dermis; it may be a good modality for superficial lesions </para>
+        </listitem>
+        <listitem>
+          <para>Deeper or unresponsive KS may be treated with standard non–electron beam radiation therapy or other approaches</para>
+        </listitem>
+        <listitem>
+          <para>Initial response to radiotherapy usually is complete or demonstrates marked regression of the nodules; the more extensive the involvement, the less responsive it tends to be </para>
+        </listitem>
+        <listitem>
+          <para>Radiotherapy may be more effective on new lesions than on chronic ones and may provide local KS control in patients with KS-AIDS</para>
+        </listitem>
+        <listitem>
+          <para>Radioisotope scanning using technetium-99m may detect occult KS infiltration in the subcutaneous and muscular tissues and draining lymph nodes; this allows improved efficiency of large-field radiotherapy </para>
+        </listitem>
+        <listitem>
+          <para>Argon laser photocoagulation therapy also may be beneficial in classic KS lesions</para>
+        </listitem>
+        <listitem>
+          <para>Low-voltage (100 kV) photon radiation: 8-10 Gy as a single dose or 15-20 Gy over 1wk<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+        </listitem>
+        <listitem>
+          <para>EBRT: 4 Gy once weekly for 6-8wk consecutively<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Chemotherapy</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Systemic <a href="http://reference.medscape.com/drug/velban-vinblastine-342096">vinblastine</a> 4-10 mg IV weekly,<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>at times with one intralesional 0.1 mg injection, is usually best for patients with classic KS and occasionally best for patients with KS-AIDS </para>
+        </listitem>
+        <listitem>
+          <para>Treatment of classic KS may also be accomplished with topical <a href="http://reference.medscape.com/drug/aldara-zyclara-imiquimod-343508">imiquimod</a> 5% cream applied 3 times weekly for 24 wk<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In those with KS-AIDS, highly active antiretroviral therapy (HAART), with or without local KS therapy, is employed with interferon alfa if the CD4 cell count is &lt; 200/µL or if it is early in the disease course<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/intron-a-interferon-alfa-2b-interferon-alfa-2b-342615">Interferon alfa-2b</a> 5-10 million units SC or IM daily (total weekly dose, 35-70 million units) <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Interferon alfa-2b 5-10 million units SC or IM 3 times weekly (total weekly dose, 15-30 million units) <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Interferon alfa-2b 1 million units SC daily or twice weekly (total weekly dose, 2-7 million units)<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17, <ref_inline id="refsrc18" name="refsrc18"/>18] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In those who have a CD4 cell count &lt; 200/µL or who have advanced KS-AIDS, pegylated liposomal doxorubicin (PLD) 20 mg/m<sup>2</sup> every 2-3 wk is added<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Nonresponders are given other cytotoxic agents, such as <a href="http://reference.medscape.com/drug/taxol-paclitaxel-342187">paclitaxel</a></para>
+        </listitem>
+        <listitem>
+          <para>Paclitaxel and PLD were compared in a randomized trial that showed comparable response rates, median progression-free survival (PFS), and 2-y survival rates for the 2 agents but somewhat more grade 3-5 toxicity for paclitaxel<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup></para>
+        </listitem>
+        <listitem>
+          <para>The efficacy of taxanes such as paclitaxel and <a href="http://reference.medscape.com/drug/taxotere-docefrez-docetaxel-342192">docetaxel</a>, as agents with antiangiogenic properties, has been shown for patients with AIDS-associated KS and in those with refractory or life-threatening KS without HIV infection<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup></para>
+        </listitem>
+        <listitem>
+          <para>PLD is now being used as a second-line therapy in the treatment of patients with advanced classic KS<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In iatrogenic KS, cessation of immunosuppressive therapy may be the most effective treatment</para>
+        </listitem>
+        <listitem>
+          <para>Patients on immunosuppressive therapy—specifically, corticosteroids and cytotoxic drugs—may experience partial or complete regression when therapy is discontinued </para>
+        </listitem>
+        <listitem>
+          <para>If possible, immunosuppressive medication doses should be reduced or discontinued before specific therapy for iatrogenic KS is initiated </para>
+        </listitem>
+        <listitem>
+          <para>An open label, randomized trial in Malawi that included 92 children (46% of them naïve to ART, 11% of them HIV negative) found that oral etoposide was a safe and effective treatment for containing KS and improving quality of life, compared with either intravenous vincristine or vincristine and bleomycin<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Follow-up and prevention</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Reducing the human herpesvirus-8 (HHV-8; or Kaposi sarcoma–associated herpesvirus [KSHV]) infection rate should diminish the incidence of KS </para>
+        </listitem>
+        <listitem>
+          <para>Screening transplant recipients for HHV-8 infection may be beneficial</para>
+        </listitem>
+        <listitem>
+          <para>Use of <a href="http://reference.medscape.com/drug/rapamune-sirolimus-343206">sirolimus</a> (rapamycin) for transplant recipients provides an approach both immunosuppressive and antioncogenic<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In comparison with other immunosuppressants—namely, calcineurin inhibitors—sirolimus has the advantage of being associated with a decreased risk of malignancies, including KS; it may also lead to regression of KS </para>
+        </listitem>
+        <listitem>
+          <para>Antiviral therapy with <a href="http://reference.medscape.com/drug/foscavir-phosphonoformic-acid-foscarnet-342614">foscarnet</a> not only may slow the progression of KS in patients but also may substantially reduce the occurrence of KS in patients with HIV disease </para>
+        </listitem>
+        <listitem>
+          <para>Use of HAART appears to reduce the risk of developing new KS significantly<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        </listitem>
+        <listitem>
+          <para>After treatment is initiated, follow-up care is important to check for recurrence or visceral spread; follow-up care recommendations may include imaging procedures, laboratory tests (eg, complete blood count [CBC], urinalysis, liver function studies) and monitoring of symptoms potentially related to return of cancer </para>
+        </listitem>
+        <listitem>
+          <para>Screening for other types of cancers, particularly lymphomas, is important during follow-up</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Survival data</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>The clinical KS type (localized nodular disease, locally aggressive disease, or generalized KS) may be the best predictor of prognosis </para>
+        </listitem>
+        <listitem>
+          <para>Cutaneous skin testing for anergy has been employed for decades as a good correlate with clinical disease type and prognosis; in addition, the degree of immunosuppression also correlates with clinical type and prognosis<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27, <ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Localized nodular KS has a favorable prognosis, with few deaths attributable to KS</para>
+        </listitem>
+        <listitem>
+          <para>The prognosis is also excellent when iatrogenic KS in transplant recipients shows regression after suitable therapeutic modification; thus, classic KS has long been regarded as a disorder that most immunocompetent people die <em>with</em> rather than <em>of</em></para>
+        </listitem>
+        <listitem>
+          <para>Locally aggressive KS is not so favorable in prognosis; the African 3-y survival rate of about two thirds, calculated decades ago, remains accurate </para>
+        </listitem>
+        <listitem>
+          <para>Generalized KS, the type most common with KS-AIDS, has a 3-y survival rate closer to 0% without therapy, with people dying either of disseminated KS or of an intervening opportunistic infection within 3y of diagnosis, regardless of therapeutic intervention </para>
+        </listitem>
+        <listitem>
+          <para>In one African country, the median survival with KS has been &lt; 3.5 mo</para>
+        </listitem>
+        <listitem>
+          <para>In HIV-associated advanced KS, median survival is 31 mo (range, 1.8-48 mo) in patients treated with protease inhibitor–based HAART, compared with only 7 mo (range, 1-28 mo) in those not receiving HAART<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Importantly, 81% in the HAART group were alive at 18 mo after the start of chemotherapy, compared with only 12% in the non-HAART group </para>
+        </listitem>
+        <listitem>
+          <para>Another analysis documented that when KS does develop in patients on HAART, it exhibits a less aggressive clinical pattern in patients already receiving HAART than in those naive to this treatment, but the natural history and outcome are unaltered<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31] </sup></para>
+        </listitem>
+        <listitem>
+          <para>A 3-y survival rate of 64% with KS-HAART is comparable to the 78% without HAART; median survivals of HIV-infected homosexual men in the good- and poor-risk categories were 27 mo and 15 mo, respectively, for tumor extent; 40 mo and 13 mo for degree of immunosuppression; and 22 mo and 16 mo for HIV-associated systemic disorders, with multivariate analysis indicating that severity of immunosuppression gave the most predictive information<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32] </sup></para>
+        </listitem>
+        <listitem>
+          <para>In one study of KS-AIDS patients, the overall 5-year survival was 92% for those with early-stage KS and 83% for those with advanced-stage KS; for 140 patients with advanced-stage KS treated with combination antiretroviral therapy and liposomal anthracycline chemotherapy, 5-year overall survival was 85%<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert A Schwartz, MD, MPH</contrbtr_nm>
+        <contrbtr_title>Professor and Head of Dermatology, Professor of Pathology, Pediatrics, Medicine, and Preventive Medicine and Community Health, Rutgers New Jersey Medical School; Visiting Professor, Rutgers University School of Public Affairs and Administration</contrbtr_title>
+        <contrbtr_bio>Robert A Schwartz, MD, MPH is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.nyam.org">New York Academy of Medicine</a>, <a href="http://www.aad.org">American Academy of Dermatology</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.sigmaxi.org/">Sigma Xi</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jasmeet Anand, PharmD, RPh</contrbtr_nm>
+        <contrbtr_title>Adjunct Instructor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Christopher D Braden, DO</contrbtr_nm>
+        <contrbtr_title>Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jules E Harris, MD, FACP, FRCPC</contrbtr_nm>
+        <contrbtr_title>Clinical Professor of Medicine, Section of Hematology/Oncology, University of Arizona College of Medicine, Arizona Cancer Center</contrbtr_title>
+        <contrbtr_bio>Jules E Harris, MD, FACP, FRCPC is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.hematology.org">American Society of Hematology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18638627">
+      <para>Schwartz RA, Micali G, Nasca MR, Scuderi L. Kaposi sarcoma: a continuing conundrum. <em>J Am Acad Dermatol</em>. 2008 Aug. 59(2):179-206; quiz 207-8. <a href="http://reference.medscape.com/medline/abstract/18638627">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2671281">
+      <para>Krown SE, Metroka C, Wernz JC. Kaposi's sarcoma in the acquired immune deficiency syndrome: a proposal for uniform evaluation, response, and staging criteria. AIDS Clinical Trials Group Oncology Committee. <em>J Clin Oncol</em>. 1989 Sep. 7(9):1201-7. <a href="http://reference.medscape.com/medline/abstract/2671281">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3603056">
+      <para>Mitsuyasu RT. Clinical variants and staging of Kaposi's sarcoma. <em>Semin Oncol</em>. 1987 Jun. 14(2 Suppl 3):13-8. <a href="http://reference.medscape.com/medline/abstract/3603056">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Schwartz RA, Volpe JA, Lambert MW, Lambert WC. aposi’s sarcoma. <em>Semin Dermatol</em>. 1984. 3:303-15. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19039297">
+      <para>O'Mahony D, Gandjbakche A, Hassan M, Vogel A, Yarchoan R. Imaging techniques for Kaposi's sarcoma. <em>J HIV Ther</em>. 2008 Sep. 13(3):65-71. <a href="http://reference.medscape.com/medline/abstract/19039297">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600536/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17940761">
+      <para>Theron S,  Andronikou S,  Du Plessis J,  Goussard P,  George R,  Mapukata A, et al. Pulmonary Kaposi sarcoma in six children. <em>Pediatr Radiol</em>. 2007 Dec. 37(12):1224-9. <a href="http://reference.medscape.com/medline/abstract/17940761">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7353196">
+      <para>Klein E, Schwartz RA, Laor Y, Milgrom H, Burgess GH, Holtermann OA. Treatment of Kaposi's sarcoma with vinblastine. <em>Cancer</em>. 1980 Feb. 45(3):427-31. <a href="http://reference.medscape.com/medline/abstract/7353196">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19076206">
+      <para>Goiriz R, Ríos-Buceta L, De Arriba AG, Aragüés M, García-Diez A. Treatment of classic Kaposi's sarcoma with topical imiquimod. <em>Dermatol Surg</em>. 2009 Jan. 35(1):147-9. <a href="http://reference.medscape.com/medline/abstract/19076206">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23255282">
+      <para>Molyneux E,  Davidson A,  Orem J,  Hesseling P,  Balagadde-Kambugu J,  Githanga J, et al. The management of children with Kaposi sarcoma in resource limited settings. <em>Pediatr Blood Cancer</em>. 2013 Apr. 60(4):538-42. <a href="http://reference.medscape.com/medline/abstract/23255282">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23462220">
+      <para>Letang E,  Lewis JJ,  Bower M,  Mosam A,  Borok M,  Campbell TB, et al. Immune reconstitution inflammatory syndrome associated with kaposi sarcoma: higher incidence and mortality in Africa than in the UK. <em>AIDS</em>. 2013 Mar 4. <a href="http://reference.medscape.com/medline/abstract/23462220">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24464843">
+      <para>Anglemyer A, Agrawal AK, Rutherford GW. Treatment of Kaposi sarcoma in children with HIV-1 infection. <em>Cochrane Database Syst Rev</em>. 2014 Jan 27. 1:CD009826. <a href="http://reference.medscape.com/medline/abstract/24464843">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Hamilton CR, Cummings BJ, Harwood AR. Radiotherapy of Kaposi’s sarcoma. <em>Int J Radiat Oncol Biol Phys</em>. 1986. 12(11):1931-5. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nisce LZ, Safai B, Poussin-Rosillo H. Once weekly total and subtotal skin electron beam therapy for Kaposi’s sarcoma. <em>Cancer</em>. 1981. 47(4):640-4. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Solan AJ, Greenwald ES, Silvay O. Long-term complete remissions of Kaposi’s sarcoma with vinblastine therapy. <em>Cancer</em>. 1981. 47(4):637-9. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Célestin Schartz NE, Chevret S, Paz C, et al. Imiquimod 5% cream for treatment of HIV-negative Kaposi’s sarcoma skin lesions: a phase I to II, open-label trial in 17 patients. <em>J Am Acad Dermatol</em>. 2008 Apr. 58(4):585-91. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Hengge UR, Ruzicka T, Stuschke M, Roggendorf M, Schwartz RA, Seeber S. Update on Kaposi’s sarcoma and other HHV8 associated diseases. Part 1: epidemiology, environmental predispositions, clinical manifestations, and therapy. <em>Lancet Infect Dis</em>. 2002. 2:281-309. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Krown SE. Management of Kaposi sarcoma: the role of interferon and thalidomide. <em>Curr Opin Oncol</em>. 2001. 13:374-81. </para>
+    </ritem>
+    <ritem ref="">
+      <para>VonRoenn JH. Clinical presentations and standard therapy of AIDS-associated Kaposi's sarcoma. <em>Hematol Oncol Clin North Am</em>. 2003. 17:747-62. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Northfelt DW, Dezube BJ, Thommes JA, et al. Pegylated-liposomal doxorubicin versus doxorubicin, bleomycin, and vincristine in the treatment of AIDS-related Kaposi’s sarcoma: results of a randomized phase III clinical trial. <em>J Clin Oncol</em>. 1998 Jul. 16(7):2445-51. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20564162">
+      <para>Cianfrocca M,  Lee S,  Von Roenn J,  Tulpule A,  Dezube BJ,  Aboulafia DM, et al. Randomized trial of paclitaxel versus pegylated liposomal doxorubicin for advanced human immunodeficiency virus-associated Kaposi sarcoma: evidence of symptom palliation from chemotherapy. <em>Cancer</em>. 2010 Aug 15. 116(16):3969-77. <a href="http://reference.medscape.com/medline/abstract/20564162">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18098221">
+      <para>Di Lorenzo G,  Di Trolio R,  Montesarchio V,  Palmieri G,  Nappa P,  Delfino M, et al. Pegylated liposomal doxorubicin as second-line therapy in the treatment of patients with advanced classic Kaposi sarcoma: a retrospective study. <em>Cancer</em>. 2008 Mar 1. 112(5):1147-52. <a href="http://reference.medscape.com/medline/abstract/18098221">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16534786">
+      <para>Fardet L,  Stoebner PE,  Bachelez H,  Descamps V,  Kerob D,  Meunier L, et al. Treatment with taxanes of refractory or life-threatening Kaposi sarcoma not associated with human immunodeficiency virus infection. <em>Cancer</em>. 2006 Apr 15. 106(8):1785-9. <a href="http://reference.medscape.com/medline/abstract/16534786">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24636877">
+      <para>Chagaluka G,  Stanley C,  Banda K,  Depani S,  Nijram'madzi J,  Katangwe T, et al. Kaposi's sarcoma in children: an open randomised trial of vincristine, oral etoposide and a combination of vincristine and bleomycin. <em>Eur J Cancer</em>. 2014 May. 50(8):1472-81. <a href="http://reference.medscape.com/medline/abstract/24636877">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17583372">
+      <para>Paghdal KV, Schwartz RA. Sirolimus (rapamycin): from the soil of Easter Island to a bright future. <em>J Am Acad Dermatol</em>. 2007 Dec. 57(6):1046-50. <a href="http://reference.medscape.com/medline/abstract/17583372">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18021973">
+      <para>Boratynska M, Watorek E, Smolska D, Patrzalek D, Klinger M. Anticancer effect of sirolimus in renal allograft recipients with de novo malignancies. <em>Transplant Proc</em>. 2007 Nov. 39(9):2736-9. <a href="http://reference.medscape.com/medline/abstract/18021973">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18156387">
+      <para>Leder HA, Galor A, Peters GB, Kedhar SR, Dunn JP, Thorne JE. Resolution of conjunctival Kaposi sarcoma after institution of highly active antiretroviral therapy alone. <em>Br J Ophthalmol</em>. 2008 Jan. 92(1):151. <a href="http://reference.medscape.com/medline/abstract/18156387">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Morgan D, Malamba SS, Orem J, Mayanja B, Okongo M, Whitworth JA. Survival by AIDS defining condition in rural Uganda. <em>Sex Transm Infect</em>. 2000. 76:193-7. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Templeton AC, Bhana D. Prognosis in Kaposi’s sarcoma. <em>J Natl Cancer Inst</em>. 1975. 55:1301-4. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Leitch H, Trudeau M, Routy JP. Effect of protease inhibitor-based highly active antiretroviral therapy on survival in HIV-associated advanced Kaposi’s sarcoma patients treated with chemotherapy. <em>HIV Clin Trials</em>. 2003. 4:107-14. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nasti G, Talamini R, Antinori A, et al. AIDS-related Kaposi’s sarcoma: evaluation of potential new prognostic factors and assessment of the AIDS Clinical Trial Group Staging System in the HAART Era—the Italian Cooperative Group on AIDS and Tumors and the Italian Cohort of Patients Naive From Antiretrovirals. <em>J Clin Oncol</em>. 2003. 21:2876-82. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nasti G, Martellotta F, Berretta M, et al. Impact of highly active antiretroviral therapy on the presenting features and outcome of patients with acquired immunodeficiency syndrome-related Kaposi sarcoma. <em>Cancer</em>. 2003. 98:2440-6. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lodi S, Guiguet M, Costagliola D, et al. Kaposi sarcoma incidence and survival among HIV-infected homosexual men after HIV seroconversion. <em>J Natl Cancer Inst</em>. 2010. 102:784-92. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24378415">
+      <para>Bower M,  Dalla Pria A,  Coyle C,  Andrews E,  Tittle V,  Dhoot S, et al. Prospective stage-stratified approach to AIDS-related Kaposi's sarcoma. <em>J Clin Oncol</em>. 2014 Feb 10. 32(5):409-14. <a href="http://reference.medscape.com/medline/abstract/24378415">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

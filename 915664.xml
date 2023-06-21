@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="915664" pubid="" template="Pediatrics: Developmental and Behavioral Articles" template-name="multipage">
+  <site-meta>
+    <article-name>Physical Child Abuse</article-name>
+    <title>
+      <page-info id="overview">Physical Child Abuse: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Physical Child Abuse Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Physical Child Abuse Differential Diagnoses</page-info>
+      <page-info id="workup">Physical Child Abuse Workup: Laboratory Studies, Imaging Studies, Procedures</page-info>
+      <page-info id="treatment">Physical Child Abuse Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="followup">Physical Child Abuse Follow-up: Patient Education</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Physical Child Abuse: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Physical Child Abuse Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Physical Child Abuse Differential Diagnoses</page-info>
+      <page-info id="workup">Physical Child Abuse Workup: Laboratory Studies, Imaging Studies, Procedures</page-info>
+      <page-info id="treatment">Physical Child Abuse Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="followup">Physical Child Abuse Follow-up: Patient Education</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a4">Background</section-info>
+<section-info id="a5">Pathophysiology</section-info>
+<section-info id="a6">Epidemiology</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c5">Laboratory Studies</section-info>
+<section-info id="c6">Imaging Studies</section-info>
+<section-info id="c7">Procedures</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d7">Medical Care</section-info>
+<section-info id="d8">Surgical Care</section-info>
+<section-info id="d9">Consultations</section-info>
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e4">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Physical Child Abuse Overview</page-info>
+      <page-info id="clinical">Physical Child Abuse Clinical Presentation</page-info>
+      <page-info id="differential">Physical Child Abuse Differential Diagnoses</page-info>
+      <page-info id="workup">Physical Child Abuse Workup</page-info>
+      <page-info id="treatment">Physical Child Abuse Treatment</page-info>
+      <page-info id="followup">Physical Child Abuse Follow-up</page-info>
+    </meta-keywords>
+    <uri>915664-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>May 14, 2015</posting-date>
+    <last-generated>2015-07-02-11:41</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Pediatrics: Developmental and Behavioral Articles</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>915664</artid>
+      <cg>502</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Pediatrics">9</ssp>
+      <bc>r458_diet1_f33_f1_age12</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jul 02, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_development</id>
+      <name>Pediatrics: Developmental and Behavioral Articles</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_development_development</id>
+      <name>Developmental and Behavioral Articles</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">physical abuse, child maltreatment, child abuse, victimization, physical maltreatment, intentional injury, nonaccidental injury, inflicted injury, fracture, burn, bruise, subdural hematoma, SDH, abusive head trauma, AHT, shaken baby syndrome, SBS, shaking-impact syndrome, maltreatment, domestic violence, corporal punishment, fractures, corner fracture, battered child syndrome, whiplash syndrome, smoking, severe obesity, physical inactivity, depressed mood, suicide attempts, alcoholism, drug abuse, ischemic heart disease, cancer, stroke, chronic bronchitis, emphysema, diabetes, hepatitis, skeletal fractures</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Physical abuse, a subset of child abuse, is defined in various ways by different states. However, common to all definitions is the presence of an injury that the child sustains at the hands of his or her caregiver.</meta_description>
+    <pediatric-article>1</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Physical Child Abuse</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Physical child abuse (ie, nonaccidental injury that a child sustains at the hands of his or her caregiver) can result in skeletal injury, burns, bruising (see the first image below), and central nervous system injury from head trauma (see the second image below). To determine whether a child's injury was likely to have been inflicted rather than accidental, the clinician must establish the full extent of the injury and must understand the child's developmental level and abilities.</para>
+        <figure id="43226">
+          <title>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </title>
+          <caption>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </caption>
+          <graphic fileref="/26/43226.jpg" format="IMAGE" id="43226" extension_format="JPG"/>
+          <graphic fileref="/26/43226tn.jpg" format="IMAGE_THUMB" id="43226"/>
+        </figure>
+        <figure id="43246">
+          <title>Acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </title>
+          <caption>Acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </caption>
+          <graphic fileref="/46/43246.jpg" format="IMAGE" id="43246" extension_format="JPG"/>
+          <graphic fileref="/46/43246tn.jpg" format="IMAGE_THUMB" id="43246"/>
+        </figure>
+        <para>See <a href="http://reference.medscape.com/features/slideshow/pediatric-concussion">Pediatric Concussion and Other Traumatic Brain Injuries</a>, a Critical Images slideshow, to help identify the signs and symptoms of TBI, determine the type and severity of injury, and initiate appropriate treatment.</para>
+        <para>Also see the <a href="http://reference.medscape.com/features/slideshow/ci-pedi">12 Can't-Miss Findings on Pediatric Imaging Studies</a> slideshow to help correctly evaluate abnormal findings in imaging studies for pediatric patients.</para>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>Physical indicators that should raise suspicion for maltreatment include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Injury pattern inconsistent with the history provided</para>
+          </listitem>
+          <listitem>
+            <para>Multiple injuries/multiple types of injuries</para>
+          </listitem>
+          <listitem>
+            <para>Injuries at various stages of healing</para>
+          </listitem>
+          <listitem>
+            <para>Poor hygiene</para>
+          </listitem>
+          <listitem>
+            <para>Presence of pathognomonic injuries, including loop marks; forced immersion burn pattern; and classic abusive head trauma findings of subdural hematoma, retina hemorrhage, and skeletal injuries</para>
+          </listitem>
+        </itemizedlist>
+        <para>Bruising over bony prominences is common in childhood, but patterns of bruising that raise the concern of possible abuse include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Involvement of multiple areas of the body beyond bony prominences</para>
+          </listitem>
+          <listitem>
+            <para>Bruising of ears, facial cheeks, buttocks, palms, soles, neck, genitals</para>
+          </listitem>
+          <listitem>
+            <para>Bruises at many stages of healing</para>
+          </listitem>
+          <listitem>
+            <para>Bruises in nonambulatory child</para>
+          </listitem>
+          <listitem>
+            <para>Patterned markings resembling objects, grab marks, slap marks, human bites, and loop marks</para>
+          </listitem>
+          <listitem>
+            <para>Oral injury, lingular or labial frenula tears</para>
+          </listitem>
+        </itemizedlist>
+        <para>Skeletal injuries in children younger than 2 years may not be obvious; therefore, a skeletal survey screening is recommended. Many fracture types can be accidental or inflicted. Fractures that raise a high degree of suspicion for inflicted injury include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Any fracture in a nonambulatory infant without clear accidental and consistent mechanism</para>
+          </listitem>
+          <listitem>
+            <para>Metaphyseal fractures</para>
+          </listitem>
+          <listitem>
+            <para>Multiple, bilateral, differently aged posterior rib fractures</para>
+          </listitem>
+          <listitem>
+            <para>Multiple and complex skull fractures if only simple impact history</para>
+          </listitem>
+          <listitem>
+            <para>Spinous process fractures</para>
+          </listitem>
+          <listitem>
+            <para>Scapular fractures</para>
+          </listitem>
+        </itemizedlist>
+        <para>Burn patterns that may suggest physical maltreatment include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Patterned contact burns in clear shape of hot object (eg, fork, clothing iron, curling iron, cigarette lighter)</para>
+          </listitem>
+          <listitem>
+            <para>Classic forced immersion burn pattern with sharp stocking-and-glove demarcation and sparing of flexed protected areas</para>
+          </listitem>
+          <listitem>
+            <para>Splash/spill burn patterns not consistent with history or developmental level</para>
+          </listitem>
+          <listitem>
+            <para>Cigarette burns</para>
+          </listitem>
+          <listitem>
+            <para>Bilateral or mirror image burns</para>
+          </listitem>
+          <listitem>
+            <para>Localized burns to genitals, buttocks, and perineum (especially at toilet-training stage)</para>
+          </listitem>
+          <listitem>
+            <para>Evidence for excessive delay in seeking treatment, and the presence of other forms of injury</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/915664-clinical">Clinical Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>History and the physical examination findings determine which laboratory and diagnostic imaging studies are performed.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>Screening tools for suspected disorders or injuries are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Bleeding problem: A basic bleeding evaluation (platelets, prothrombin time [PT], activated partial thromboplastin time [aPTT])</para>
+          </listitem>
+          <listitem>
+            <para>Genetic bone disease or mineralization defect: Calcium, magnesium, phosphorus, and vitamin D levels; review of radiographs with a pediatric radiologist; genetic consultation, if available, may be warranted</para>
+          </listitem>
+          <listitem>
+            <para>Toxin or drug ingestion: toxicology screening<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Screening for abdominal injury is recommended in children younger than 5 years in whom abuse is suspected, even in the absence of clear external evidence of abdominal injury or symptoms such as pain or vomiting. Screening includes the following markers<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup>:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Liver injury: Aspartate aminotransferase (AST) and alanine aminotransferase (ALT)</para>
+          </listitem>
+          <listitem>
+            <para>Pancreatic injury: Amylase and lipase levels</para>
+          </listitem>
+          <listitem>
+            <para>Urinary tract injury: Urine analysis for red blood</para>
+          </listitem>
+          <listitem>
+            <para>Intestinal injury: Stool guaiac</para>
+          </listitem>
+        </itemizedlist>
+        <para>Photodocumentation of cutaneous injuries, such as burns, bite marks, bruising, or other injuries, is very helpful in cases of child abuse.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/915664-workup">Workup</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Treatment for physical abuse is a complex endeavor involving an interdisciplinary team approach. The nature of the injury determines the form of medical therapy, as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Skeletal fractures of the long bones may require casting; orthopedics should be consulted</para>
+          </listitem>
+          <listitem>
+            <para>Burns vary in severity, and treatments range from cleansing the area to skin grafting; plastic surgery should be consulted for more serious burns; transfer to a burn unit may be indicated</para>
+          </listitem>
+          <listitem>
+            <para>The most severely injured children, such as those with CNS injury, may require resuscitation and will need intensive care; a multitude of specialists may need to be involved</para>
+          </listitem>
+          <listitem>
+            <para>Whenever abusive head trauma is suspected, ophthalmology should be consulted for a formal evaluation, including examination of the eyes for retinal hemorrhages.</para>
+          </listitem>
+        </itemizedlist>
+        <para>Psychosocial management that requires a significant amount of coordination among various services providers, including the physician and other health care providers, complements the medical management. The details of the caregiving environment determine the psychosocial supports needed to keep the child safe.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/915664-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/915664-medication">Medication</a> for more detail.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Background</title>
+      <pgroup>
+        <para>Physical abuse, a subset of child abuse, is defined in various ways by different states. However, common to all definitions is the presence of an injury that the child sustains at the hands of his or her caregiver. These injuries are also referred to as inflicted or nonaccidental injuries. Some states use broad definitions that encompass a wide range of injuries; other states use more narrow definitions that include specific signs and symptoms. Physical abuse can produce various injuries and injury patterns in children. This article focuses on several common examples of inflicted injury dealing with the skeleton (eg, fractures), skin (eg, burns, bruises), and CNS (eg, subdural hematoma [SDH], abusive head trauma [AHT], shaken baby syndrome [SBS]/shaking-impact syndrome).</para>
+      </pgroup>
+      <pgroup>
+        <title>Definitions of physical abuse</title>
+        <para>The federally funded Fourth National Incidence Study (NIS-4) is a congressionally mandated effort of the United States Department of Health and Human Services to provide updated estimates of the incidence of child abuse and neglect in the United States and measure changes in incidence from the earlier studies.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>NIS defines physical abuse as a form of maltreatment in which an injury is inflicted on the child by a caregiver via various nonaccidental means, including hitting with a hand, stick, strap, or other object; punching; kicking; shaking; throwing; burning; stabbing; or choking to the extent that demonstrable harm results.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>The advantage to a narrow definition is that it objectively states what is and is not physical abuse; however, such a clear delineation of circumstances likely fails to identify all possible cases of physical abuse (eg, pulling the child's hair, biting the child's skin). Definitions may also attempt to characterize the seriousness of injury; however, characterization is difficult because injuries vary greatly from mild redness on the buttocks that fades over several hours to injuries so severe that the child dies. Recent medical definitions focus more on the effect of the injury on the child and less on the perceived intention of the caregiver.</para>
+        <para>Additionally, newer definitions also consider the sociocultural context in which the injury occurs; folk healing practices may cause the appearance of nonaccidental injury to the child. Finally, the effect of the physical abuse may not be limited to just the immediate injury findings. The National Center on Child Abuse and Neglect (NCCAN) estimated that 37% of children with maltreatment injuries developed a disability or special need, directly from the abusive actions or omissions of the child's caregivers.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>Furthermore, NCCAN estimated that incidence of disabilities caused by or likely to have been caused by maltreatment was 147 per 1000 maltreated children.</para>
+      </pgroup>
+      <pgroup>
+        <title>Multifactorial nature of physical abuse</title>
+        <para>No one single cause has been identified that explains the occurrence of all cases of physical abuse. The multifactorial nature of physical abuse requires a more comprehensive amalgam of models and conceptual frameworks to account for the heterogeneous set of cases classified as physical abuse.</para>
+        <para>Circumstances that may give rise to the occurrence of a child's injury via physically abusive actions have been organized into a typology having the following 5 subtypes:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Caregiver's angry and uncontrolled disciplinary response to actual or perceived misconduct of the child</para>
+          </listitem>
+          <listitem>
+            <para>Caregiver's psychological impairment, which causes resentment and rejection of the child by the caregiver and a perception of the child as different and provocative</para>
+          </listitem>
+          <listitem>
+            <para>Child left in care of a babysitter who is abusive</para>
+          </listitem>
+          <listitem>
+            <para>Caregiver's use of substances that disinhibit behavior</para>
+          </listitem>
+          <listitem>
+            <para>Caregiver's entanglement in a domestic violence situation</para>
+          </listitem>
+        </itemizedlist>
+        <para>This typology describes commonly observed circumstances that may result in nonaccidental injury to children; however, it does not shed light on why the circumstance leads to a child's injury.</para>
+      </pgroup>
+      <pgroup>
+        <title>Ecological model of human development and interaction</title>
+        <para>It is impossible and inadvisable to consider physical abuse of a child as an isolated incident with one cause and one effect. The ecological model of human development and interaction is generally regarded as an ideal conceptual framework from which to approach the complex interactions among the caregiver, child, family, social situation, and cultural values leading to the nonaccidental injury or physical abuse of the child. Note the image below.</para>
+        <figure id="43248">
+          <title>Ecological model for understanding violence. </title>
+          <caption>Ecological model for understanding violence. </caption>
+          <graphic fileref="/48/43248.jpg" format="IMAGE" id="43248" extension_format="JPG"/>
+          <graphic fileref="/48/43248tn.jpg" format="IMAGE_THUMB" id="43248"/>
+        </figure>
+        <para>The ecological model sees a child functioning within a family (microsystem), the family functioning within a community (exosystem), the various communities linked together by a set of sociocultural values that influence them (macrosystem), and all of these systems operating over time (chronosystem). Each of these system components is interactional in nature and affects one another. Similar events have different effects that depend on the period and circumstances in which the event occurs (eg, the child interacts and has an impact on the family, the family influences the child).</para>
+      </pgroup>
+      <pgroup>
+        <title>Environmental stress and caregiver frustration</title>
+        <para>Helfer builds on this ecological viewpoint and states that physical maltreatment arises when a caregiver and child interact around an event, in a given environment, with the end result being injury to the child.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>Viewing maltreatment in this way allows consideration of the factors that the caregiver, child, and environment contribute to placing the child at risk for injury. The caregiver is viewed as having a personal developmental history, personality style, psychological functioning, and coping strategies. The caregiver often possesses expectations of the child, and a level of ability to nurture the child's development that meets the child's developmental and caregiving needs.</para>
+        <para>The child may have certain characteristics that make providing care more complex; however, caution must be used in considering the child's contribution to the abusive interactions. A "difficult" child does not justify abusive treatment by a caregiver. Specific factors that may place the child at higher risk for physical maltreatment include prematurity, poor bonding with caregiver, medical fragility, various special needs (<a href="http://emedicine.medscape.com/article/912633-overview">attention deficit hyperactivity disorder</a>), and the child being perceived as different (owing to physical, developmental, and/or behavioral/emotional abnormalities) or difficult, based on temperament style.</para>
+        <para>Finally, the environment may contain stressors that may make the caregiving less than ideal and may overextend the coping abilities of the caregiver. While exploring the role of environmental stress and caregiver frustration in the occurrence of child abuse, Straus and Kantor found a complex interaction between the amount of stress present in the family setting and the response of the caregivers.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>Not all stressed caregivers responded by inflicting harm on the children in the environment.</para>
+        <para>Straus and Kantor concluded that human beings have a capacity for acting violently both in and outside the family setting. Physical abuse can result if a specific home situation arises that has a relatively high degree of stress and a baseline amount of violence within it (eg, spanking the children, pushing or slapping a spouse). Thus, risk of child abuse is related to the response of caregivers whose caregiving environment has a certain amount of overall risk for violent behavior. The caregivers' level of social connectedness to nonrelatives seems to have a role to play in the children's risk for maltreatment. Caregivers under high degrees of stress who did not participate in clubs, unions, and other organizations (ie, socially isolated) had higher rates of abusing children than those who were not as socially isolated. However, children whose caregivers had many family members living nearby did not achieve the same protective effect, as did the nonfamilial social connectedness group.</para>
+      </pgroup>
+      <pgroup>
+        <title>Domestic violence, intimate partner violence, corporal punishment, and child maltreatment</title>
+        <para>The relationship of domestic violence or intimate partner violence (IPV) and child maltreatment is receiving increasing attention. Each year, between 3.3 and 10 million children witness episodes of family violence; 30-59% of mothers of abused children are victims of domestic violence or intimate partner violence. Additionally, children whose mothers are victims of domestic violence or intimate partner violence are 6-15 times more likely to be maltreated compared to children living in families in which their mothers are not being battered. The American Academy of Pediatrics (AAP) recommends that pediatricians assess for the presence of domestic violence and intimate partner violence in the child's family and observes that intervening on behalf of the victimized parent (typically the child's mother) may be an effective child-abuse prevention strategy.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>Note the image below.</para>
+        <figure id="43223">
+          <title>Overlap of child maltreatment and domestic violence. </title>
+          <caption>Overlap of child maltreatment and domestic violence. </caption>
+          <graphic fileref="/23/43223.jpg" format="IMAGE" id="43223" extension_format="JPG"/>
+          <graphic fileref="/23/43223tn.jpg" format="IMAGE_THUMB" id="43223"/>
+        </figure>
+        <para>The relationship between the application of corporal punishment and risk for maltreatment remains an area of concern. Corporal punishment is defined as a discipline method that uses physical force as a behavioral modifier. Corporal punishment is nearly universal; 90% of US families report having used spanking as a means of discipline at some time. Corporal punishment has its roots in personal, cultural, religious, and societal views of children and how they are to be disciplined. Corporal punishment includes pinching, spanking, paddling, shoving, slapping, shaking, hair pulling, choking, excessive exercise, confinement in closed spaces, and denial of access to a toilet.</para>
+        <para>No credible evidence in medical literature supports the continued use of corporal punishment; spanking is less effective than "time out" or removal of privileges for decreasing undesired behavior in children. Discipline, however, is a necessary component for child rearing, and appropriate discipline aims for limit setting, teaching right from wrong, assisting in decision making, and helping the child develop a sense of self-control.</para>
+        <para>When physical force is used as a discipline technique (as in corporal punishment), the concern arises that if the misconduct continues even after corporal punishment is applied, the caregiver then may become angry and frustrated and reapply the physical force. As the physical force is reapplied while the caregiver is becoming increasingly angry, the potential emerges for the caregiver to lose control and injure the child. Regardless of whether injuring the child was the intended outcome of the corporal punishment, the end result experienced by the injured child is that he or she has been hurt.</para>
+        <para>Caregivers who use corporal punishment are often angry, irritable, depressed, fatigued, and stressed. They apply the punishment at a time that they "have lost it," and caregivers frequently express remorse and agitation while punishing their children. To avoid this risk of harming the child and in order to model nonviolent behavior for children, many healthcare professionals advocate child discipline via consistent, nonphysical force based approaches such as "time out," loss of privileges, expressions of parental disappointment, and grounding. Approximately one half of US pediatricians report being opposed generally to the use of corporal punishment; about one third are completely opposed to its use (about three fourths of the pediatricians reported having been spanked when they were children).</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Each form of injury sustained by a child as a result of physical abuse has its own set of biomechanics and pathophysiology. This article looks specifically at the mechanisms of injury for skeletal injury, burns, bruising, and CNS injury observed in abusive head trauma.</para>
+        <para>Skeletal fractures are caused by the application of force to the bone. An essential step in the evaluation of injury in children is determining whether the injury being evaluated matches the history provided by the caregiver. This process requires understanding both the mechanisms and forces needed to cause specific types of fractures as well as specific characteristics of infant and childhood bone compared with adult bone.</para>
+        <para>The child's immature skeleton is characterized by more porous/trabecular bone than in the mature bone. The less-dense porous bone tolerates more deformity than adult bone and accounts for the childhood bending and buckling injuries observed with green stick and buckle injuries. The periosteum (the fibrous membrane that covers the bone) is thicker and more easily elevated off the bone in children. The child's joint capsule and ligaments are strong and relatively more resistant to stress than the bone and cartilage, which accounts for less joint dislocations and ligamentous tears in childhood. Finally, bone healing is more rapid in children than in adults, which makes dating of childhood fractures more complicated.</para>
+      </pgroup>
+      <pgroup>
+        <title>Types of fractures</title>
+        <para>While certain types of fractures (eg posterior rib, scapular, classic metaphyseal lesions) are more common in physical abuse than accidental injury, there is no fracture that is pathognomonic for child physical abuse. All fractures must be carefully evaluated and correlated with the child's medical history and with the history given by the caregivers. Fractures can be classified by location in the body (eg skull vs long bone) and then by location in the bone (eg diaphyseal vs metaphyseal, posterior vs anterior rib). Certain fracture types are only seen in developing, immature bone (eg, greenstick, classic metaphyseal lesions, Salter-Harris fractures).</para>
+        <para>Specifically in long bones, fractures are described based on location and type. Diaphyseal fractures are breaks in the mid shaft of the long bones. Transverse fractures typically occur if the force is applied perpendicular to the long axis of the bone. Spiral or oblique fractures occur if the force applied has a rotational component. Buckle or compression fractures occur commonly at the transition from diaphysis to metaphysis. Note the images below.</para>
+        <figure id="43252">
+          <title>Buckle fracture of distal femur without healing (acute). </title>
+          <caption>Buckle fracture of distal femur without healing (acute). </caption>
+          <graphic fileref="/52/43252.jpg" format="IMAGE" id="43252" extension_format="JPG"/>
+          <graphic fileref="/52/43252tn.jpg" format="IMAGE_THUMB" id="43252"/>
+        </figure>
+        <figure id="43253">
+          <title>Distal femur buckle fracture, 2-week follow-up film with sclerotic fracture line and periosteal...</title>
+          <caption>Distal femur buckle fracture, 2-week follow-up film with sclerotic fracture line and periosteal new bone healing. </caption>
+          <graphic fileref="/53/43253.jpg" format="IMAGE" id="43253" extension_format="JPG"/>
+          <graphic fileref="/53/43253tn.jpg" format="IMAGE_THUMB" id="43253"/>
+        </figure>
+        <para>Metaphyseal fractures (also called corner fractures or bucket handle fractures) are microfractures through the immature part of the bone edge and often appear like chips or corner fractures on radiographs. The metaphysis is an area of rapid bone turnover in the growing infant and toddler. Metaphyseal fractures are specific to infants as they involve the immature physis; they are caused by shearing and tensile stress seen in rapid acceleration and deceleration forces to the extremity.</para>
+        <para>Skull bones may be fractured as a result of direct impact to the head with a solid surface or object. Skull fractures typically occur at the site of impact to the head, but owing to the oval shape of the head, a single point of impact may result in bilateral fractures remote from the site of impact. The skull bones differ from long bones in that they develop within a membrane and not from cartilage as do the long bones.</para>
+        <para>Rib fractures may be observed in physical abuse as well. Rib fractures occur as a result of direct blows to the chest and via anteroposterior compression. Most abusive rib fractures are posterior, adjacent to the vertebral body, with the rib levering over the transverse process of the vertebra.</para>
+      </pgroup>
+      <pgroup>
+        <title>Bone healing and dating of injuries</title>
+        <para>Dating of boney injuries is particularly important in the evaluation of physical abuse, because it may assist investigators in determining who had access to the child in the period the injury is estimated to have occurred. The body of medical literature evaluating the precision of dating of fractures has evolved over the last decade. The classic teaching has been that fractured long bones and ribs heal in a predictable manner, which is divided into the following 4 stages: initial healing, soft callus, hard callus, and remodeling. Orthopedic aspects of bone healing are described in <a href="http://emedicine.medscape.com/article/1239187-overview">Forearm Fractures</a>.</para>
+        <para>This traditional description of bone healing included general timelines for the age of the injury based on the stage of healing seen at the time of injury identification. In young children, bone healing tends to occur more rapidly than in older children and adults. Newer studies of dating of fractures, however, emphasize that the classic descriptions (eg, soft callus, hard callus) are based on histiologic specimens rather than plain film readings, and significant inconsistencies exist among radiologic interpretation of healing phases.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>The evaluation of the healing process on plain films permits some level of dating of injuries and allows the healthcare professional to distinguish new and relatively older fractures in the same child; providers should exercise caution in precisely dating fracture age based on x-ray findings alone.</para>
+        <para>Metaphyseal fractures are generally harder to date because of the relative lack of disruption in the periosteum at the time of the fracture. Skull fractures heal differently than do long bones because of their intramembranous nature; they do not heal with a large amount of callus formation and are more difficult to date. The skills and advice of an experienced pediatric radiologist should be consulted if dating of injuries becomes central to the maltreatment investigation.</para>
+      </pgroup>
+      <pgroup>
+        <title>Burns</title>
+        <para>Burns arise from the application of heat energy to the child's skin. Various sources such as hot liquids (scalds), hot objects (contact or dry), flame (flash), chemicals, and electricity can generate heat. Three concentric zones of affected tissues have been identified. Coagulation is the most direct contact with the heat source in which the skin undergoes immediate coagulation necrosis as the proteins denature, and no cellular repair is possible. Stasis involves less heat energy exposure than with coagulation, and these cells, though injured, have some potential for repair. Hyperemia is the least direct injury, and these cells have the greatest potential for repair. All of these types and depth of burns can be encountered in both inflicted and accidental burns in children.</para>
+        <para>Human skin is composed of 3 layers: the epidermis, dermis, and subcutaneous tissue. Burns are classified clinically depending on the depth of the injury and the involvement of the various skin layers.</para>
+        <para>Superficial burns, which injure only the uppermost tissue of the epidermis, present as red, painful areas without blisters. Complete healing is expected from superficial burns. Deeper burns that extend through the epidermis into the upper levels of the dermis are referred to as partial thickness burns and present as painful blistering areas. Healing of partial-thickness burns varies, with various degrees of scarring depending on the level of tissue that is damaged. Finally, the deepest burns, full-thickness burns, extend past the epidermis and dermis and involve the subcutaneous tissue. These burns essentially have destroyed the overlying skin, blood vessels, and associated nerves and present as white, insensitive areas because of this destruction. A high degree of scarring and disfigurement result from full-thickness burns.</para>
+        <para>Evaluation of suspicious burns in children must include, as with any medical complaint, a detailed history from the caregiver and child, including a developmental history to ensure the child is capable of contributing to the injury (eg, "turned on the faucet"). Physical examination should include assessment of the burned area; critical assessment of the burned versus spared areas of skin can be helpful in determining the position of the child at the time of the burn. Note the image below.</para>
+        <figure id="43265">
+          <title>Series of 3 photos of likely accidental hot water scald burn on the leg of an infant. Sparing of...</title>
+          <caption>Series of 3 photos of likely accidental hot water scald burn on the leg of an infant. Sparing of skin-to-skin contact areas indicates child was flexed at the knee and ankle at the time of injury, which was consistent with being seated in the kitchen sink. Burn injuries require detailed scene investigation. In this case, investigators confirmed the ease of turning on the faucet and the high temperature of the water from it. </caption>
+          <graphic fileref="/65/43265.jpg" format="IMAGE" id="43265" extension_format="JPG"/>
+          <graphic fileref="/65/43265tn.jpg" format="IMAGE_THUMB" id="43265"/>
+        </figure>
+        <para>Careful gathering of information about what the child was wearing at the time, the time elapsed since the burn, symptom progression, and any topical treatments to the area is important in the determination of cause. Many childhood burns involve hot water in bathtubs or heated liquids in a kitchen setting. Scene investigations by child protective services and/or law enforcement can gather crucial information for determining whether the burn was inflicted or accidental burn (eg, temperature of tap water, height of faucets from floor, ease of turning handles, food residue on clothing or at the scene). Note the image below.</para>
+        <figure id="43264">
+          <title>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate...</title>
+          <caption>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate surrounding heater. </caption>
+          <graphic fileref="/64/43264.jpg" format="IMAGE" id="43264" extension_format="JPG"/>
+          <graphic fileref="/64/43264tn.jpg" format="IMAGE_THUMB" id="43264"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Bruising</title>
+        <para>Bruising occurs when blunt mechanical force is applied to the child's skin to such a degree that capillaries (and potentially larger vessels) become disrupted resulting in the leakage of blood into the subcutaneous tissue. The amount of blood and size and location of the involved area account for the appearance of the bruise. If force is applied via an object, the bruise may reflect the shape and geometry of the object.</para>
+        <para>In general, a bruise progresses through a series of colors beginning with deep red, blue, or purple, then changes to a deep blue, then greenish, and, finally, resolves with a yellowish brown color. The various colors emanate from the breakdown of the extravascular blood into the components of hemoglobin. As the extravascular blood organizes itself and is resorbed, certain patterns of color change are expected; however, caution is advised because no clearly predictable chronology can be relied on with absolute certainty. Physicians should be cautious in offering dating information and, at most, only should suggest broad time ranges based on the clinical appearance and stages of healing of the bruise. Similar to fractures, recent data on dating of bruises indicate that color is a poor predictor of bruise age.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>CNS trauma</title>
+        <para>CNS trauma is among the most serious forms of injury that is observed in the context of physical abuse. CNS trauma may result in intracranial hemorrhage, including (1) epidural hemorrhage, which is bleeding into the space between inner skull bone surface and the dura, frequently due to a direct injury to the middle meningeal artery; (2) subdural hemorrhage, which is bleeding into the space between the inner surface of the dura and arachnoid membranes, typically caused by sheering of the bridging vessels that go from the brain surface to the dura; and (3) subarachnoid hemorrhage, which is bleeding into the space between the inner surface of the arachnoid and the brain surface.</para>
+        <para>Other CNS injuries may include contusions (ie, direct injury to the brain tissue) and intraparenchymal bleeding (ie, bleeding directly into substance of the brain). These primary injuries can be obscured or complicated by anoxic brain injuries and swelling, which are frequently seen in complex head injury, whether accidental or inflicted.</para>
+      </pgroup>
+      <pgroup>
+        <title>AHT, SBS, and shaking-impact syndrome</title>
+        <para>Discussing CNS injury and physical abuse inevitably leads to a discussion of abusive head trauma (AHT), previously referred to as shaken baby syndrome (SBS) or shaking-impact syndrome.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>The original description of AHT (originally referred to as whiplash syndrome) describes a clinical constellation of findings classically described as subdural hematoma, retinal hemorrhage (found in 65-95% of cases), and skeletal fractures, such as metaphyseal fractures and posterior rib fractures (found in 30-70% of cases) sustained when the child is shaken violently back and forth. AHT represents a significant injury pattern in the realm of child maltreatment; although it is associated with the findings listed above, the core injury is to the brain cells themselves, resulting from the application of forces to the child's delicate and developing brain tissue.</para>
+        <para>AHT has been extended to include cases where the child's head is impacted against a surface, either soft or hard, and may be called AHT. Diffuse, serious brain injuries result from external forces that cause the rotation of the brain about its center of gravity. Such forces exceed those generated in normal childcare activities and are different from the low velocity translational forces (straight-line movement) that commonly occur in household falls. Immense angular deceleration forces may be generated with sudden striking of the child's head against a surface; these forces act on the brain tissue and cerebral vessels and generate the deleterious effect, which is not specifically from the contact forces applied to the skull.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>
+          <strong>United States</strong>
+        </para>
+        <para>It is important to understand the sources of data on child maltreatment incidence. The National Incidence Study (NIS) methodology views maltreated children who are investigated by child protective services (CPS) agencies as representing only the "tip of the iceberg;" thus, children investigated by CPS are included along with maltreated children who are identified by professionals in a wide range of agencies in representative communities.</para>
+        <para>The Fourth National Incidence Study (NIS-4) uses data gathered from a nationally representative sample of 122 counties. CPS agencies in these counties provide data about all children in cases they accept for investigation during 1 of 2 reference periods (September 4, 2005 through December 3, 2005, or February 4, 2006 through May 3, 2006). Additionally, professionals in these same counties serve as NIS-4 sentinels and report data about maltreated children identified by the following organizations: elementary and secondary public schools; public health departments; public housing authorities; short-stay general and children's hospitals; state, county, and municipal police/sheriff departments; licensed daycare centers; juvenile probation departments; voluntary social services and mental health agencies; shelters for runaway and homeless youth; and shelters for victims of domestic violence.</para>
+        <para>In 2009, approximately 3.3 million reports involving 5.9 million children were made to CPS agencies. Of these, 60.7% were accepted as needing further investigation, and, once evaluated, the investigations concluded that child abuse and neglect had affected approximately 695,000 children included in 754,000 cases of abuse (ie, some children with more than one episode of substantiated abuse), with 17.6% of this total representing cases of substantiated physical abuse. The most common form of substantiated abuse in 2009 was child neglect (including medical neglect), which accounted for 80.7% of cases, followed by child sexual abuse (9.2% of cases) and emotional maltreatment (8.1% of cases).<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+        <para>The NIS-4 reported that of the approximately 1.25 million estimated annual cases of child abuse, approximately 323,000 cases were identified as physical abuse.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>The number of children who experienced physical abuse decreased from an estimated 381,700 at the time of the NIS–3 (1993) to an estimated 323,000 in the NIS–4 (a 15% decrease in number and a 23% decline in the rate).</para>
+        <para>It is important to recognize that these numbers reflect changes in the "Harm Standard" as defined by NIS, which is relatively stringent in that it generally requires that an act or omission result in demonstrable harm in order to be classified as abuse or neglect.</para>
+        <para>NIS-4 also reported on the Endangerment Standard, which includes all children who meet the Harm Standard but adds others as well. The central feature of the Endangerment Standard is that it counts children who were not yet harmed by abuse or neglect if thought that the maltreatment endangered the children or if a CPS investigation substantiated or indicated their maltreatment. In addition, the Endangerment Standard is slightly more lenient than the Harm Standard in allowing a broader array of perpetrators, including adult caretakers other than parents in certain maltreatment categories and teenage caretakers as perpetrators of sexual abuse.</para>
+        <para>Comparing the Endangerment Standard, the number of physically abused children decreased from an estimated 614,100 children in 1993 to 476,600 in 2006 (a 22% decrease in number, a 29% decline in the rate). The reasons behind this decrease are uncertain and may be a result of sample sizes in technique. These data should not be misinterpreted as an indication that physical abuse or endangerment of children has been "cured." NIS-4 data report that 1 child in every 58 in the United States was harmed under the Harm Standard definition, including physical abuse, sexual abuse, and neglect.</para>
+        <para>In various clinical series, skeletal fractures are observed in approximately 30% of the children, burns are observed in 9-10%, bruises are quite common and are present in approximately 40% of child maltreatment cases, and inflicted CNS injury is observed in 24% of children treated for head injury.</para>
+        <para>Finkelhor, Jones, and Shattuck have analyzed trends in reporting and substantiation rates for child abuse and neglect from the 1990s through 2010 and have identified a decline in the number of substantiated cases of physical abuse.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup>According to their most recent analysis, the incidence of substantiated physical abuse cases declined 56% from 1992-2010. Cases of child sexual abuse have also declined substantially, with a 53% decrease in the number of substantiated cases of sexual abuse observed from 1992-2006. However, child neglect, the most common form of child maltreatment, declined but less so, with a 10% decline in substantiated cases from 1992-2010. Note the image below.</para>
+        <figure id="43249">
+          <title>US maltreatment trends, 1990-2010. </title>
+          <caption>US maltreatment trends, 1990-2010. </caption>
+          <graphic fileref="/49/43249.jpg" format="IMAGE" id="43249" extension_format="JPG"/>
+          <graphic fileref="/49/43249tn.jpg" format="IMAGE_THUMB" id="43249"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Mortality/Morbidity</title>
+        <para>
+          <strong>Mortality</strong>
+        </para>
+        <para>According to the NIS-4 study, an estimated 2400 children were known to have died as a result of maltreatment from 2005-2006. According to Prevent Child Abuse America's National Center on Child Abuse Prevention Research, in 2006 an estimated 1,530 were known to have died as a result of child maltreatment, which is an average of 4 children each day of the year.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>Children aged 0-3 years accounted for 78% of the child abuse and neglect fatalities, with infants younger than 1 year accounting for 44.2% of these maltreatment-related fatalities. When looking at the types of maltreatment that accounted for the fatalities, the breakdown is as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Child neglect - 43%</para>
+          </listitem>
+          <listitem>
+            <para>Multiple forms of maltreatment - 31.4%</para>
+          </listitem>
+          <listitem>
+            <para>Physical abuse - 22.4%</para>
+          </listitem>
+          <listitem>
+            <para>Psychological abuse - 2.9%</para>
+          </listitem>
+          <listitem>
+            <para>Child sexual abuse - 0.3%</para>
+          </listitem>
+        </itemizedlist>
+        <para>The estimated death rate for child abuse and neglect in the United States is 3 per 100,000 children.</para>
+        <para>
+          <strong>Morbidity</strong>
+        </para>
+        <para>Different forms of injury have different risks. For example, CNS injury and occult abdominal injury in younger children are particularly serious. Bruises may be superficial or harbingers of more serious deeper injury. Burns observed in child maltreatment cases tend to be highly severe. Finally, skeletal injuries may be isolated or multiple in nature and may be associated with other injuries. DiScala and colleagues conducted a 10-year retrospective of medical records in the National Pediatric Trauma Registry (NPTR) from 1988-1997; it compared hospitalized, injured children younger than 5 years to determine differences between inflicted (n= 1,997) and accidental injuries (n= 16,831).<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+        <para>DiScala's group found that compared with children who had accidental injury, children who were abused tended to be younger (12.8 mo vs 25.5 mo), were mainly injured by battering (53%) and shaking (10.3%), and were more likely to have a preinjury medical history of a medical problem or condition. The unintentionally injured children were mainly injured by falls (58.4%) and motor vehicles (37.1%). Note the image below.</para>
+        <figure id="43251">
+          <title>National Pediatric Trauma Group registry findings. </title>
+          <caption>National Pediatric Trauma Group registry findings. </caption>
+          <graphic fileref="/51/43251.jpg" format="IMAGE" id="43251" extension_format="JPG"/>
+          <graphic fileref="/51/43251tn.jpg" format="IMAGE_THUMB" id="43251"/>
+        </figure>
+        <para>In order to fully comprehend the morbidity of victims of child abuse victims, it is necessary to look beyond the immediate period of injury and recovery. Looking at potential long-term impacts on health and well being, Felitti et al explored the connection between exposure to childhood abuse and the connection between household dysfunction to subsequent health risks and the development of illness in adulthood in a series of studies referred to as the <a href="http://www.cdc.gov/nccdphp/ACE/">Adverse Childhood Experiences (ACE) studies</a>.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>Of 13,494 adults who completed a standard medical evaluation in 1995-1996, 9,508 completed a survey questionnaire that asked about their own childhood abuse and exposure to household dysfunction; the investigators then made correlations to risk factors and disease conditions.</para>
+        <para>In order to assess exposure to child abuse and neglect, the ACE questionnaire asked about categories of child maltreatment, specifically psychological, physical, and sexual maltreatment. When asking about physical abuse, the questionnaire asked the patients if a parent or other adult in the household had (1) often or very often pushed, grabbed, shoved, or slapped them or (2) often or very often hit them so hard that marks or other injuries resulted.</para>
+        <para>In order to assess exposure to household dysfunction, the ACE questionnaire asked questions by category of dysfunction, such as having a household member who had problems with substance abuse (eg, problem drinker, drug user), mental illness (eg, psychiatric problem), criminal behavior in household (eg, incarceration) or having a mother who was treated violently. In assessing if their mother was treated violently when the patient was a child, respondents were asked if their mother or step-mother was (1) sometimes or very often pushed, grabbed, slapped, bitten, hit with a fist, or hit with something hard or had something thrown at her or (2) was ever repeatedly hit for at least a few minutes or threatened with or hurt by a knife or gun.</para>
+        <para>In addition to the questionnaire information, the standardized medical examination of the adults assessed risk factors and actual disease conditions. The risk factors included smoking, severe obesity, physical inactivity, depressed mood, suicide attempts, alcoholism, any drug abuse, a high lifetime number of sexual partners, and a history of sexually transmitted disease (STD). The disease conditions included ischemic heart disease, cancer, stroke, chronic bronchitis, emphysema, diabetes, hepatitis, and skeletal fractures.</para>
+        <para>Once all the data were collected and analyzed, Felitti et al found that the most prevalent ACE was substance abuse (25.6%), the least prevalent ACE was criminal behavior (3.4%), and the prevalence of physical abuse was 10.8% and the prevalence of the mother being treated violently was 12.5%.</para>
+        <para>Overall, 52% of the respondents had one or more ACEs and 6.2% had 4 or more ACEs. The following were findings in respondents who experienced 4 or more ACEs compared with those who had none:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Risk of alcoholism, drug abuse, depression, and suicide attempt increased 4-12 fold</para>
+          </listitem>
+          <listitem>
+            <para>Rates of smoking, poor self-rated health, and high number of sexual partners and STDs increased 2-4 fold</para>
+          </listitem>
+          <listitem>
+            <para>Physical inactivity and severe obesity increased 1.4-1.6 fold</para>
+          </listitem>
+        </itemizedlist>
+        <para>The major finding of the ACE studies was a graded relationship between the number of exposures to maltreatment and household dysfunction during childhood to the presence in later life of multiple risk factors and several disease conditions associated with death in adulthood. Note the image below.</para>
+        <figure id="43250">
+          <title>Adverse child experiences pyramid. </title>
+          <caption>Adverse child experiences pyramid. </caption>
+          <graphic fileref="/50/43250.jpg" format="IMAGE" id="43250" extension_format="JPG"/>
+          <graphic fileref="/50/43250tn.jpg" format="IMAGE_THUMB" id="43250"/>
+        </figure>
+        <para>Bentley and Widom (2009) found that physical abuse during childhood is a risk factor for obesity in adulthood. In a prospective assessment comparing individuals with documented histories of childhood physical and sexual abuse and neglect with a matched cohort of children without such histories, 30-year follow-up showed that childhood physical abuse led to significantly higher body mass index (BMI) scores in adulthood (beta = 0.14, <em>P</em> &lt; 0.05), even controlling for demographic characteristics, cigarette smoking, and alcohol consumption (beta = 0.16, <em>P</em> &lt; 0.01). In contrast, childhood sexual abuse or neglect was not a significant predictor of adult BMI scores.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Race</title>
+        <para>No significant difference in incidence of physical abuse was noted based on race in both the 1993 NIS-3 and the 1986 NIS-2. In <em>Child Maltreatment 2010,</em> a specific breakdown for physical abuse was not provided; however, overall racial information for all cases of abuse is as follows: African American (1221.9%), American Indian/Alaskan Native (1.1%), Asian (0.9%), Pacific Islander (0.2%), white (44.8%), multiple racial affiliations (3.5%), Hispanic (21.4%), and unknown/missing information (6.3%).<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+        <para>NIS-4 compared 3 major categories of white (non-Hispanic), black (non-Hispanic), and Hispanic and found that white and black children differed significantly in their rates of experiencing overall Harm Standard abuse during the 2005–2006 NIS-4 study year. An estimated 10.4 cases per 1,000 black children suffered Harm Standard abuse during the NIS-44 study year, compared with 6 cases per 1,000 white children and 6.7 cases per 1,000 Hispanic children. The abuse rate of black children is 1.7 times that of white children and 1.6 times that of Hispanic children.</para>
+      </pgroup>
+      <pgroup>
+        <title>Sex</title>
+        <para>NIS-4 found no significant difference between boys’ and girls’ rates of experiencing serious harm under the Harm Standard. Since the 1006 NIS-3 data, the incidence rates for both sexes declined, but the boys’ rate declined more than that of girls; the boys’ rate declined by 33%, whereas the girls’ rate declined by just 11%.</para>
+        <para>A specific sex-based breakdown is not provided in <em>Child Maltreatment 2010</em>; however, the overall incidence of child maltreatment was not markedly different in aggregate, with boys accounting for 48.5% and girls accounting for 51.2%.</para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>The NIS-4 incidence of Harm Standard physical abuse is significantly lower for the youngest children (2.5 cases per 1,000 children aged 0-2 y) compared with children aged 6-14 years (4.6 cases per 1,000 or higher). The fairly low incidence rates for children younger than 2 years may reflect a detection problem; because children who are younger than school age are less observable to community professionals, their abuse may avoid detection.</para>
+        <para>In <em>Child Maltreatment 2010,</em> a specific breakdown was not provided for physical abuse; however, the overall unique count for substantiated cases by age was as follows: 1-3 years (34.0%), 4-7 years (23.4%), 8-11 years (18.7%), 12-15 years (17.3%), and 16-17 years (6.2%). Children younger than 1 year had the highest rate of victimization overall, at 20.6% per 1,000 children in the population of the same age.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Childhood is a time of accidental injuries. Understanding the developmental level and abilities of the child is essential in determining if the history provided by the parent or caregiver is a possible or plausible explanation for the child's injury. Once the full extent of the injury is determined based on physical examination, radiology, and laboratory workup, the healthcare provider can further assess the plausibility of the explanation offered by the parent or caregiver. A history that is implausible based on what a child at that level is capable of doing should raise a high degree of concern for possible maltreatment.</para>
+        <para>Whenever a child is injured, a complete history of the circumstances surrounding the injury, as well as a detailed injury history, is essential. Basic questions include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>When was the child last 100% well?</para>
+          </listitem>
+          <listitem>
+            <para>What was the date and time of the injury and when was it first noted?</para>
+          </listitem>
+          <listitem>
+            <para>Where did the injury occur?</para>
+          </listitem>
+          <listitem>
+            <para>Who witnessed the injury?</para>
+          </listitem>
+          <listitem>
+            <para>What was happening prior to the injury?</para>
+          </listitem>
+          <listitem>
+            <para>What did the child do after the injury?</para>
+          </listitem>
+          <listitem>
+            <para>What did the caregiver do after the injury?</para>
+          </listitem>
+          <listitem>
+            <para>How long after the injury did the caregiver wait until seeking care for the child?</para>
+          </listitem>
+          <listitem>
+            <para>What symptoms was the child exhibiting, and what, if any, remedies did the caregiver attempt?</para>
+          </listitem>
+          <listitem>
+            <para>Inquire about specific details related to the injury, such as height of the fall, landing surface, and temperature of water (if scald burn), among others.</para>
+          </listitem>
+        </itemizedlist>
+        <para>The past medical history should be explored for general health and previous trauma and hospitalizations, as well as for the source of healthcare and developmental and social aspects of the child's life. In cases of maltreatment, the history is often inaccurate and misleading. The following historical elements should raise concerns for possible physical abuse:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Details change, or additional scenarios are suggested, as additional trauma is identified or as the cause of the trauma is questioned</para>
+          </listitem>
+          <listitem>
+            <para>Details are inconsistent among caregivers</para>
+          </listitem>
+          <listitem>
+            <para>Caregivers give implausible details not congruent with the trauma observed on examination</para>
+          </listitem>
+          <listitem>
+            <para>Caregivers describe minor trauma, but the child displays major injury on examination</para>
+          </listitem>
+          <listitem>
+            <para>No history of trauma is offered</para>
+          </listitem>
+          <listitem>
+            <para>Injury described as self-inflicted is not possible given the age/developmental abilities of the child</para>
+          </listitem>
+          <listitem>
+            <para>Caregivers demonstrate a significant delay in seeking treatment for the child</para>
+          </listitem>
+          <listitem>
+            <para>Serious injury is blamed on a younger sibling/playmate</para>
+          </listitem>
+          <listitem>
+            <para>Caregiver frequently changes healthcare facilities, pediatricians, or emergency departments</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>Physical examination of the child with an injury obviously is important, and the order of the complete examination is determined by the presenting condition of the child. Children with less severe injuries in stable condition can have the injured area examined last, since that area is most likely to be uncomfortable. Severely injured children in critical condition require life saving measures first, following the standards of care for trauma life-support; other components of the examination follow from that point.</para>
+        <para>Because physical abuse is often an ongoing pattern of unsafe care,<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20, <ref_inline id="refsrc21" name="refsrc21"/>21] </sup>performing a thorough head-to-toe examination is essential in order to find other areas of either current or previous injury. Physical indicators that should raise suspicion for maltreatment include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Injury pattern inconsistent with the history provided</para>
+          </listitem>
+          <listitem>
+            <para>Multiple injuries/multiple types of injuries</para>
+          </listitem>
+          <listitem>
+            <para>Injuries at various stages of healing</para>
+          </listitem>
+          <listitem>
+            <para>Poor hygiene</para>
+          </listitem>
+          <listitem>
+            <para>Presence of pathognomonic injuries including loop marks; forced immersion burn pattern; and classic abusive head trauma findings of subdural hematoma, retina hemorrhage, and skeletal injuries</para>
+          </listitem>
+        </itemizedlist>
+        <para>Bruising over bony prominences is common in childhood, but patterns of bruising that raise the concern of possible abuse include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Involvement of multiple areas of the body beyond bony prominences</para>
+          </listitem>
+          <listitem>
+            <para>Bruising of ears, facial cheeks, buttocks, palms, soles, neck, genitals (see images below)</para>
+          </listitem>
+          <listitem>
+            <para>Bruises at many stages of healing (see Bruising, in Pathophysiology)</para>
+          </listitem>
+          <listitem>
+            <para>Bruises in nonambulatory child</para>
+          </listitem>
+          <listitem>
+            <para>Patterned markings resembling objects, grab marks, slap marks, human bites, and loop marks (see images below)</para>
+          </listitem>
+          <listitem>
+            <para>Oral injury, lingular or labial frenula tears</para>
+            <figure id="43238">
+              <title>Inflicted pinch mark shaft. Image courtesy of Lawrence R. Ricci, MD. </title>
+              <caption>Inflicted pinch mark shaft. Image courtesy of Lawrence R. Ricci, MD. </caption>
+              <graphic fileref="/38/43238.jpg" format="IMAGE" id="43238" extension_format="JPG"/>
+              <graphic fileref="/38/43238tn.jpg" format="IMAGE_THUMB" id="43238"/>
+            </figure>
+            <figure id="43247">
+              <title>Fingernail scratch in child with acute subdural with shift. Image courtesy of Lawrence R. Ricci...</title>
+              <caption>Fingernail scratch in child with acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </caption>
+              <graphic fileref="/47/43247.jpg" format="IMAGE" id="43247" extension_format="JPG"/>
+              <graphic fileref="/47/43247tn.jpg" format="IMAGE_THUMB" id="43247"/>
+            </figure>
+            <figure id="43259">
+              <title>Example of ear bruising. Ear bruising is a rare accidental injury. This 10-month-old child was...</title>
+              <caption>Example of ear bruising. Ear bruising is a rare accidental injury. This 10-month-old child was intubated for abusive head trauma (AHT) and spiral femur fracture and had this ear bruising in addition to other facial bruising. </caption>
+              <graphic fileref="/59/43259.jpg" format="IMAGE" id="43259" extension_format="JPG"/>
+              <graphic fileref="/59/43259tn.jpg" format="IMAGE_THUMB" id="43259"/>
+            </figure>
+            <figure id="43255">
+              <title>Linear inflicted bruising extending from arm to back, inflicted by a belt. Same child shown...</title>
+              <caption>Linear inflicted bruising extending from arm to back, inflicted by a belt. Same child shown again with back bruising. </caption>
+              <graphic fileref="/55/43255.jpg" format="IMAGE" id="43255" extension_format="JPG"/>
+              <graphic fileref="/55/43255tn.jpg" format="IMAGE_THUMB" id="43255"/>
+            </figure>
+            <figure id="43256">
+              <title>Overlying linear inflicted marks, which the child disclosed came from a belt. Same child is...</title>
+              <caption>Overlying linear inflicted marks, which the child disclosed came from a belt. Same child is shown in image of arm and back. </caption>
+              <graphic fileref="/56/43256.jpg" format="IMAGE" id="43256" extension_format="JPG"/>
+              <graphic fileref="/56/43256tn.jpg" format="IMAGE_THUMB" id="43256"/>
+            </figure>
+            <figure id="43263">
+              <title>Pattern bruising and extensive back bruising. The 4-year-old child was found dead in his home...</title>
+              <caption>Pattern bruising and extensive back bruising. The 4-year-old child was found dead in his home and had no reported history. Autopsy revealed duodenal hematoma and perforation as cause of death. </caption>
+              <graphic fileref="/63/43263.jpg" format="IMAGE" id="43263" extension_format="JPG"/>
+              <graphic fileref="/63/43263tn.jpg" format="IMAGE_THUMB" id="43263"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+        <para>Skeletal injuries in children younger than 2 years may not be obvious; therefore, a skeletal survey screening is recommended (see Workup for the components of the skeletal survey).<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22, <ref_inline id="refsrc23" name="refsrc23"/>23] </sup>Many fracture types can be accidental or inflicted. Fractures that raise a high degree of suspicion for inflicted injury include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>ANY fracture in a nonambulatory infant without clear accidental and consistent mechanism</para>
+          </listitem>
+          <listitem>
+            <para>Metaphyseal fractures</para>
+          </listitem>
+          <listitem>
+            <para>Multiple, bilateral, differently aged posterior rib fractures (see image below)</para>
+          </listitem>
+          <listitem>
+            <para>Multiple and complex skull fractures if only simple impact history</para>
+          </listitem>
+          <listitem>
+            <para>Spinous process fractures</para>
+          </listitem>
+          <listitem>
+            <para>Scapular fractures</para>
+            <figure id="43243">
+              <title>Radiograph of multiple rib fractures. Radiographs also revealed old radius and ulna fracture....</title>
+              <caption>Radiograph of multiple rib fractures. Radiographs also revealed old radius and ulna fracture. The child presented with a slap mark. Image courtesy of Lawrence R. Ricci, MD. </caption>
+              <graphic fileref="/43/43243.jpg" format="IMAGE" id="43243" extension_format="JPG"/>
+              <graphic fileref="/43/43243tn.jpg" format="IMAGE_THUMB" id="43243"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+        <para>Burn patterns that may suggest physical maltreatment include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Patterned contact burns in clear shape of hot object (eg, fork, clothing iron, curling iron, cigarette lighter) (see image below)</para>
+          </listitem>
+          <listitem>
+            <para>Classic forced immersion burn pattern with sharp stocking-and-glove demarcation and sparing of flexed protected areas</para>
+          </listitem>
+          <listitem>
+            <para>Splash/spill burn patterns not consistent with history or developmental level</para>
+          </listitem>
+          <listitem>
+            <para>Cigarette burns</para>
+          </listitem>
+          <listitem>
+            <para>Bilateral or mirror image burns</para>
+          </listitem>
+          <listitem>
+            <para>Localized burns to genitals, buttocks, and perineum (especially at toilet training stage)</para>
+          </listitem>
+          <listitem>
+            <para>Evidence for excessive delay in seeking treatment, and the presence of other forms of injury</para>
+            <figure id="43264">
+              <title>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate...</title>
+              <caption>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate surrounding heater. </caption>
+              <graphic fileref="/64/43264.jpg" format="IMAGE" id="43264" extension_format="JPG"/>
+              <graphic fileref="/64/43264tn.jpg" format="IMAGE_THUMB" id="43264"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>No one single cause has been identified that explains the occurrence of all cases of physical abuse.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Determining whether an injury was inflicted by a caregiver or caused by accidental means is more than a medical determination, and the current and future safety and well being of the child and family are at stake. Many medical conditions may mimic some of the findings observed in physical abuse, and the differential diagnoses to consider differ depending on the types of physical, laboratory, and radiographic findings observed. Differential diagnoses should be worked through carefully in cases of suspected inflicted injury so that suspected physical abuse can be diagnosed confidently and caregivers are not inappropriately accused of abuse.</para>
+      <para>In all injuries, the major differential diagnosis is between accidental and inflicted injury. Determination of accident versus abuse is best accomplished by pairing thoughtful, thorough medical evaluation with information gathered through a multidisciplinary investigation, often involving child protective services (CPS) and law enforcement agencies.</para>
+      <para>Child physical abuse guidelines from the American Academy of Pediatrics (AAP) were updated in 2015 and include new information on the lasting effects of abuse and highlight risk factors for abuse and abusive injuries that are frequently overlooked.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+      <para>Bruises</para>
+      <para>For bruises, the differential diagnoses include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://emedicine.medscape.com/article/1068732-overview">Mongolian spots</a> (collection of melanocytes producing a bluish color present at birth in 80% of black children and in many other ethnicities); see images below</para>
+        </listitem>
+        <listitem>
+          <para>Hemangiomas (overgrowth of capillaries)</para>
+        </listitem>
+        <listitem>
+          <para>Eczema</para>
+        </listitem>
+        <listitem>
+          <para>Phytophotodermatitis (cutaneous phototoxic cutaneous eruption)</para>
+        </listitem>
+        <listitem>
+          <para>Erythema multiforme (multishaped red lesions believed to be a sensitivity reaction)</para>
+        </listitem>
+        <listitem>
+          <para>Idiopathic thrombocytopenic purpura (ITP)</para>
+        </listitem>
+        <listitem>
+          <para>Bleeding disorders (eg, hemophilia)</para>
+        </listitem>
+        <listitem>
+          <para>Malignancy</para>
+        </listitem>
+        <listitem>
+          <para>Ehlers-Danlos syndrome</para>
+        </listitem>
+        <listitem>
+          <para><a href="http://emedicine.medscape.com/article/1256726-overview">Osteogenesis imperfecta</a> (OI) type I</para>
+        </listitem>
+        <listitem>
+          <para>Folk-healing practices (eg, coining, cupping; see Burns, below)</para>
+          <figure id="43260">
+            <title>Mongolian spots on a dark-skinned child. </title>
+            <caption>Mongolian spots on a dark-skinned child. </caption>
+            <graphic fileref="/60/43260.jpg" format="IMAGE" id="43260" extension_format="JPG"/>
+            <graphic fileref="/60/43260tn.jpg" format="IMAGE_THUMB" id="43260"/>
+          </figure>
+          <figure id="43261">
+            <title>Mongolian spots on a light-skinned child. Mongolian spots can have a greenish cast depending on...</title>
+            <caption>Mongolian spots on a light-skinned child. Mongolian spots can have a greenish cast depending on the skin color of the child. </caption>
+            <graphic fileref="/61/43261.jpg" format="IMAGE" id="43261" extension_format="JPG"/>
+            <graphic fileref="/61/43261tn.jpg" format="IMAGE_THUMB" id="43261"/>
+          </figure>
+        </listitem>
+      </itemizedlist>
+      <para>Skeletal fractures</para>
+      <para>For skeletal fractures, the differential diagnoses include normal variants of bone structure (may appear as suspicious findings on radiographs), congenital <a href="http://emedicine.medscape.com/article/969023-overview">syphilis</a> (leads to periosteal elevation), rickets or other mineralization deficits (cause bone fragility), and OI. OI is frequently raised as a possibility in cases of an unexplained fracture and possible physical abuse. Four types of OI are recognized, as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Type I is the most common form, has autosomal dominant inheritance, and is responsible for 80% of patients. Other major findings of type I OI include mildly to moderately severe bone fragility with occasional fractures at birth, easy bruising, short stature, and blue sclera. Type I OI may be associated with a family history of hearing impairment. Type I may easily be confused with maltreatment, especially if all of the injuries are skeletal in nature. A thorough medical history and family history are essential.</para>
+        </listitem>
+        <listitem>
+          <para>Type II is a perinatal lethal form. Death typically occurs by age 1 month, with multiple fractures at birth. This type of OI is generally readily distinguishable from child physical abuse.</para>
+        </listitem>
+        <listitem>
+          <para>Type III is rare and is easily distinguished from maltreatment because of severe bone fragility and osteopenia, triangular facies, ligamentous laxity, skeletal deformity, and abnormal appearance of teeth.</para>
+        </listitem>
+        <listitem>
+          <para>Type IV is the most difficult to distinguish from maltreatment because bones may appear normal when the first fracture develops but are usually characterized by mild-to-moderate bone fragility, osteopenia, wormian bones, birth fractures in approximately one third of cases, and normal sclerae. Genetic consultation is necessary to pursue a more detailed workup for OI and the characterization of the collagen disorder.</para>
+        </listitem>
+      </itemizedlist>
+      <para>The incidence of OI (all types) is estimated at 1 case in 20,000 live births; OI is much rarer than child abuse.</para>
+      <para>Burns</para>
+      <para>The differential diagnoses for lesions that appear as burns include, but is not limited to, hypersensitivity reaction with blistering, friction blisters, impetigo (may appear circular and be confused with cigarette burns), phytophotodermatitis (reddened areas and erosions that result from sun exposure of skin that has psoralen residue), dermatitis herpetiformis (immunobullous skin condition characterized by blisters that may erode), and folk-healing practices such as coining (rubbing of coin or spoon repetitively over the skin), cupping (application of heated cup over skin with resultant vacuum action as it cools), and moxibustion (application of heated incense to skin). The physician should look for a history supporting this diagnosis over a diagnosis of suspected physical abuse.</para>
+      <para>CNS injuries</para>
+      <para>The differential diagnoses for the altered mental status findings observed in CNS injuries include various serious disorders such as meningitis, neurologic conditions that have seizures as a component, and ingestions that may simulate the serious clinical features of CNS injury.</para>
+      <para>A child with CNS injury often is seriously ill, presenting in a life-threatening condition with seizures and respiratory arrest. For serious life-threatening injury, no data support the existence of a lucid period between the time of injury and the onset of symptoms; rather, for acute subdural hematoma with severe neurologic sequela, clinical deterioration would be expected immediately around the time of injury. Traumatic acute subdural hematomas, especially those that lead to the death of child, do not occur in a subclinical or insidious manner in an otherwise healthy infant.</para>
+      <para>Abusive head trauma (AHT)</para>
+      <para>In considering the differential diagnoses for the findings in AHT, the differential diagnosis subdural hematoma and retinal hemorrhages needs to be considered. For subdural hematoma, the differential diagnoses include accidental trauma, coagulation disorders, vascular malformations, the rare amino acid inborn error of metabolism glutaric aciduria type I (associated with acute encephalopathy and chronic subdural hematoma), and the folk-healing practice <em>caida di mollera,</em> in which a child with a sunken fontanel is inverted, held upside down by the ankles, and shaken.</para>
+      <para>Retinal hemorrhages</para>
+      <para>For retinal hemorrhages, the differential diagnoses include vasculitis, vascular obstruction, and toxic febrile states associated with serious infection. Again, in working through a differential diagnoses, the workup should reveal history and physical examination findings supportive of such a diagnosis over physical abuse.</para>
+    </intro>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c5">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>History and the physical examination findings determine which laboratory and diagnostic imaging studies are necessary.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+        <para>If a bleeding problem is suspected, a basic bleeding evaluation (platelets, PT, aPTT) is a valuable screening tool, the results of which may suggest the need for more sophisticated bleeding evaluation and/or hematology consultation, if available. Pattern mark or highly suspicious bruising, in the absence of other bruising in more common locations (eg, shins of school-age child), likely does not require an extensive bleeding workup.</para>
+        <para>If a genetic bone disease or mineralization defect is suspected, screening calcium, magnesium, phosphorus, and vitamin D levels is indicated. Interpretation of vitamin D levels in children is complex due to lack of robust evidence establishing normal values and thresholds below which bones would be clinically more susceptible to fracture. Review of radiographs with a pediatric radiologist is ideal to evaluate bones for signs of poor growth or healing. Genetic consultation, if available, may be warranted.</para>
+        <para>Toxicology screening is indicated if the clinical situation suggests a possible ingestion as the cause of the findings on examination and evaluation or when a child presents from a household where drug use or production is suspected or confirmed.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+        <para>Screening for abdominal injury is recommended in children younger than age 5 years in whom abuse is suspected, even in the absence of clear external evidence of abdominal injury or symptoms such as pain or vomiting. Note the image below.</para>
+        <figure id="43262">
+          <title>Faint abdominal bruising. This toddler had elevated liver function test results, liver...</title>
+          <caption>Faint abdominal bruising. This toddler had elevated liver function test results, liver laceration found on abdominal CT scan, and an upper lip frenulum tear. Note that abdominal injury may be present with little or no bruising of the abdomen. </caption>
+          <graphic fileref="/62/43262.jpg" format="IMAGE" id="43262" extension_format="JPG"/>
+          <graphic fileref="/62/43262tn.jpg" format="IMAGE_THUMB" id="43262"/>
+        </figure>
+        <para>Screening includes aspartate aminotransferase (AST) and alanine aminotransferase (ALT) as markers for liver injury, amylase and lipase levels for pancreatic injury, urine analysis for red blood cells to evaluate for urinary tract injury, and stool guaiac for intestinal injury.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+        <para>Basic guidelines for the appropriate evaluation of a child suspected to be a victim of physical abuse, by age, are shown below.</para>
+        <figure id="43254">
+          <title>Guidelines for the assessment of suspected physical abuse. </title>
+          <caption>Guidelines for the assessment of suspected physical abuse. </caption>
+          <graphic fileref="/54/43254.jpg" format="IMAGE" id="43254" extension_format="JPG"/>
+          <graphic fileref="/54/43254tn.jpg" format="IMAGE_THUMB" id="43254"/>
+        </figure>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>For children younger than 2 years suspected of having been physically abused, a skeletal survey is recommended to rule out skeletal injury, both new and old. A retrospective study on children assessed with skeletal surveys to evaluate for missed physical abuse and unsuspected fractures found that about 11% of the survey results were positive for a previously unsuspected fracture. The skeletal survey results directly influenced making the diagnosis of abuse in 50% of the children with positive skeletal survey results. Wider use of skeletal survey may be justified, especially for high-risk populations.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        <para>In 2014, a multispecialty panel of experts released skeletal survey guidelines to help guide assessment of whether fractures in children under 2 years of age are due to abuse or accidents.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22, <ref_inline id="refsrc23" name="refsrc23"/>23] </sup>Recommendations include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Skeletal survey should be performed in children with fractures resulting from abuse, domestic violence, or being hit by a toy or other object.</para>
+          </listitem>
+          <listitem>
+            <para>Skeletal survey should be performed in children with rib fractures and in those without a history of fracture from trauma, except in ambulatory children 12 months of age or older with a toddler fracture or buckle fracture of the radius/ulna or tibia/fibula.</para>
+          </listitem>
+          <listitem>
+            <para>If no abuse is suspected, skeletal survey should not be performed in cases of distal spiral fracture of the tibia/fibula in children 12-23 months old with a history of falling while running/walking, or in cases of distal radial/ulna buckle fracture in ambulatory children 12-23 months old with a history of falling onto an outstretched hand.</para>
+          </listitem>
+          <listitem>
+            <para>Skeletal survey should be performed in most children under 12 months of age.</para>
+          </listitem>
+        </itemizedlist>
+        <para>Depending on history and physical examination, other diagnostic and imaging tests may be indicated including the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Radionuclide bone scanning assists in identifying new rib fractures and subtle long bone fractures not apparent on the skeletal survey.</para>
+          </listitem>
+          <listitem>
+            <para>CT scanning of the head is indicated in any child suspected of inflicted head trauma in order to image the brain and assess for injury (see guidelines in image below)</para>
+          </listitem>
+          <listitem>
+            <para>MRI can be a valuable adjunct to head CT scanning because it can further define an injury and help identify different ages of blood contained in a subdural hematoma</para>
+          </listitem>
+          <listitem>
+            <para>CT scanning of the thorax and abdomen may be helpful to view the organs in the chest and abdomen if injury is suspected. CT scanning of the abdomen is recommended in suspected abuse victims who have abnormal values for AST, ALT, amylase, lipase, or urine red blood cells, as indicated in Lab Studies. Note the images below.</para>
+            <figure id="43254">
+              <title>Guidelines for the assessment of suspected physical abuse. </title>
+              <caption>Guidelines for the assessment of suspected physical abuse. </caption>
+              <graphic fileref="/54/43254.jpg" format="IMAGE" id="43254" extension_format="JPG"/>
+              <graphic fileref="/54/43254tn.jpg" format="IMAGE_THUMB" id="43254"/>
+            </figure>
+            <figure id="43257">
+              <title>CT scan showing liver laceration. Child had severe abdominal bruising (see next image)....</title>
+              <caption>CT scan showing liver laceration. Child had severe abdominal bruising (see next image). Caregiver admitted to repeatedly punching the child in the abdomen. </caption>
+              <graphic fileref="/57/43257.jpg" format="IMAGE" id="43257" extension_format="JPG"/>
+              <graphic fileref="/57/43257tn.jpg" format="IMAGE_THUMB" id="43257"/>
+            </figure>
+            <figure id="43258">
+              <title>Abdominal bruising in a toddler who also had a liver laceration (also see previous CT scan). </title>
+              <caption>Abdominal bruising in a toddler who also had a liver laceration (also see previous CT scan). </caption>
+              <graphic fileref="/58/43258.jpg" format="IMAGE" id="43258" extension_format="JPG"/>
+              <graphic fileref="/58/43258tn.jpg" format="IMAGE_THUMB" id="43258"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Procedures</title>
+      <pgroup>
+        <para>Photodocumentation of cutaneous injuries, such as burns, bite marks, bruising, or other injuries, is very helpful in cases of child abuse. Photodocumentation, when used as an adjunct to standard medical written documentation, allows consulting physicians, child protective services (CPS) workers, law enforcement personnel, attorneys, and others to view and better comprehend the injuries. Photographs of injuries are very helpful in legal proceedings for protecting the child and determining guilt. Photodocumentation should be performed in accordance with institutional policies and procedures and should be treated as protected health information under the Health Insurance Portability and Accountability Act (HIPAA).</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d7">
+      <title>Medical Care</title>
+      <pgroup>
+        <para>Treatment for physical abuse is a complex endeavor involving an interdisciplinary team approach. The nature of the injury determines the form of medical therapy, and the details of the caregiving environment determine the psychosocial supports needed to keep the child safe.</para>
+        <para>For medical issues, skeletal fractures of the long bones may require casting, and orthopedics should be consulted for assistance with diagnosis and management.</para>
+        <para>If clinical consideration is being given to the possibility of osteogenesis imperfecta (OI), a genetics consultation may also be valuable.</para>
+        <para>Burns vary in severity and treatments range from cleansing the area to skin grafting. Plastic surgery should be consulted for assistance with management of more serious burns; transfer to a burn unit may be indicated. See <a href="http://emedicine.medscape.com/article/435402-overview">Initial Evaluation and Management of the Burn Patient</a> for burn management.</para>
+        <para>The most severely injured children, such as those with CNS injury, may require resuscitation and will need intensive care. A multitude of specialists may need to be involved in order to correctly evaluate and treat these seriously ill children. Whenever abusive head trauma is suspected, ophthalmology should be consulted for a formal evaluation, including examination of the eyes for retinal hemorrhages.</para>
+        <para>Psychosocial management that requires a significant amount of coordination among various services providers, including the physician and other healthcare providers, complements the medical management. Recommendations from the American Academy of Pediatrics state that pediatricians are mandated reporters of suspected abuse, and reports to child protective service agencies are required by law when the physician has a reasonable suspicion of abuse. Transferring a child’s care to another physician or hospital does not relieve the pediatrician of his or her reporting responsibilities. In addition, thorough documentation in medical records and effective communication with nonmedical investigators in child protection may improve outcomes of investigations and protect vulnerable children.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+        <para>The child protective services (CPS) agency in each community is responsible for performing investigations of cases in which physical abuse is suspected and relies on the physicians to provide the details of the medical evaluation. In addition, CPS assesses the caregivers' background, caregiving abilities and potential, environmental safety, risk for repeat abuse, and risk to other siblings. A variety of CPS service plan options are available, ranging from periodic contact with the child and family to removal of the child from the home, either temporarily or permanently, with termination of parental rights. The CPS process for child maltreatment cases typically involves the following steps:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Intake - Screening of reports and acceptance of case</para>
+          </listitem>
+          <listitem>
+            <para>Initial risk assessment - Caregiver interviews, medical information gathering, home evaluation, and possibility of contact with law enforcement</para>
+          </listitem>
+          <listitem>
+            <para>Case planning - Determination of safety for the child with essentially 3 options: (1) the child goes home with the caregiver with or without services depending on the circumstances, (2) the child is removed from home and family with caregivers' consent and offered services to assist them in working towards reunifying with the child, and (3) the child is removed from the home and family without caregivers' consent, involving court action and incorporation of legal steps and processes to determine the ultimate plan for the child.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d8">
+      <title>Surgical Care</title>
+      <pgroup>
+        <para>In cases of severe or multisystem trauma, involvement of a pediatric surgeon may be necessary for care and surgical treatment of injuries.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Consultations</title>
+      <pgroup>
+        <para>The following consultations may be warranted:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Pediatric radiologist expertise is important because many abusive fractures in infants are subtle on radiographs. Routine pediatric radiologist involvement is ideal. In locations where pediatric radiologists are not routinely available, one should be consulted in cases in which dating of bone injuries become central to the maltreatment investigation and when concerns arise regarding osteogenesis imperfecta (OI) or other bone mineralization problems.</para>
+          </listitem>
+          <listitem>
+            <para>Orthopedists can assist with diagnosis and management in cases of skeletal fractures of the long bones.</para>
+          </listitem>
+          <listitem>
+            <para>Hematologists can assist with diagnosis and management of bleeding disorders.</para>
+          </listitem>
+          <listitem>
+            <para>Geneticists may be needed for a detailed workup for OI or other collagen disorders for characterization of the collagen disorder.</para>
+          </listitem>
+          <listitem>
+            <para>Plastic surgeons may be needed to assist with the management of serious burns.</para>
+          </listitem>
+          <listitem>
+            <para>Ophthalmologists should be involved whenever abusive head trauma (AHT) is suspected, for a formal evaluation including examination of the eyes for retinal hemorrhages via dilated direct ophthalmoscope examination, ideally with retinal photography to allow for independent peer review.</para>
+          </listitem>
+          <listitem>
+            <para>Child psychiatrist, behavioral-developmental pediatrician, or psychiatric social worker may be needed to assess the mental health needs of the child and family, as well as to coordinate an overall psychosocial treatment plan.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e4">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>For patient education resources, see the <a href="http://www.emedicinehealth.com/childrens-health/center.htm" target="_blank">Children's Health Center</a>, as well as <a href="http://www.emedicinehealth.com/child_abuse/article_em.htm" target="_blank">Child Abuse</a> and <a href="http://www.emedicinehealth.com/bruises/article_em.htm" target="_blank">Bruises</a>.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="43223">
+        <title>Overlap of child maltreatment and domestic violence. </title>
+        <caption>Overlap of child maltreatment and domestic violence. </caption>
+        <graphic fileref="/23/43223.jpg" format="IMAGE" id="43223" extension_format="JPG"/>
+        <graphic fileref="/23/43223tn.jpg" format="IMAGE_THUMB" id="43223"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43224">
+        <title>Handprint on face. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Handprint on face. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/24/43224.jpg" format="IMAGE" id="43224" extension_format="JPG"/>
+        <graphic fileref="/24/43224tn.jpg" format="IMAGE_THUMB" id="43224"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43225">
+        <title>Handprint on leg. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Handprint on leg. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/25/43225.jpg" format="IMAGE" id="43225" extension_format="JPG"/>
+        <graphic fileref="/25/43225tn.jpg" format="IMAGE_THUMB" id="43225"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43226">
+        <title>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/26/43226.jpg" format="IMAGE" id="43226" extension_format="JPG"/>
+        <graphic fileref="/26/43226tn.jpg" format="IMAGE_THUMB" id="43226"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43227">
+        <title>Bruises inflicted with switch. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Bruises inflicted with switch. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/27/43227.jpg" format="IMAGE" id="43227" extension_format="JPG"/>
+        <graphic fileref="/27/43227tn.jpg" format="IMAGE_THUMB" id="43227"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43228">
+        <title>Bruises inflicted with switch. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Bruises inflicted with switch. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/28/43228.jpg" format="IMAGE" id="43228" extension_format="JPG"/>
+        <graphic fileref="/28/43228tn.jpg" format="IMAGE_THUMB" id="43228"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43229">
+        <title>Switch. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Switch. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/29/43229.jpg" format="IMAGE" id="43229" extension_format="JPG"/>
+        <graphic fileref="/29/43229tn.jpg" format="IMAGE_THUMB" id="43229"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43230">
+        <title>Bruises inflicted with wooden spoon. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Bruises inflicted with wooden spoon. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/30/43230.jpg" format="IMAGE" id="43230" extension_format="JPG"/>
+        <graphic fileref="/30/43230tn.jpg" format="IMAGE_THUMB" id="43230"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43231">
+        <title>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Bruises inflicted with belt. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/31/43231.jpg" format="IMAGE" id="43231" extension_format="JPG"/>
+        <graphic fileref="/31/43231tn.jpg" format="IMAGE_THUMB" id="43231"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43232">
+        <title>Buckle fracture of distal femur shaft. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Buckle fracture of distal femur shaft. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/32/43232.jpg" format="IMAGE" id="43232" extension_format="JPG"/>
+        <graphic fileref="/32/43232tn.jpg" format="IMAGE_THUMB" id="43232"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43233">
+        <title>Duodenal hematoma. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Duodenal hematoma. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/33/43233.jpg" format="IMAGE" id="43233" extension_format="JPG"/>
+        <graphic fileref="/33/43233tn.jpg" format="IMAGE_THUMB" id="43233"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43234">
+        <title>Burn from car seat. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Burn from car seat. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/34/43234.jpg" format="IMAGE" id="43234" extension_format="JPG"/>
+        <graphic fileref="/34/43234tn.jpg" format="IMAGE_THUMB" id="43234"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43235">
+        <title>Car seat. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Car seat. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/35/43235.jpg" format="IMAGE" id="43235" extension_format="JPG"/>
+        <graphic fileref="/35/43235tn.jpg" format="IMAGE_THUMB" id="43235"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43236">
+        <title>Model for femoral neck fracture from being yanked from crib. Image courtesy of Lawrence R. Ricci...</title>
+        <caption>Model for femoral neck fracture from being yanked from crib. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/36/43236.jpg" format="IMAGE" id="43236" extension_format="JPG"/>
+        <graphic fileref="/36/43236tn.jpg" format="IMAGE_THUMB" id="43236"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43237">
+        <title>Femoral neck fracture from being yanked from crib in previous image. Image courtesy of Lawrence...</title>
+        <caption>Femoral neck fracture from being yanked from crib in previous image. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/37/43237.jpg" format="IMAGE" id="43237" extension_format="JPG"/>
+        <graphic fileref="/37/43237tn.jpg" format="IMAGE_THUMB" id="43237"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43238">
+        <title>Inflicted pinch mark shaft. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Inflicted pinch mark shaft. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/38/43238.jpg" format="IMAGE" id="43238" extension_format="JPG"/>
+        <graphic fileref="/38/43238tn.jpg" format="IMAGE_THUMB" id="43238"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43239">
+        <title>Burn from being held down on hot cement. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Burn from being held down on hot cement. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/39/43239.jpg" format="IMAGE" id="43239" extension_format="JPG"/>
+        <graphic fileref="/39/43239tn.jpg" format="IMAGE_THUMB" id="43239"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43240">
+        <title>Old and new radius fracture. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Old and new radius fracture. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/40/43240.jpg" format="IMAGE" id="43240" extension_format="JPG"/>
+        <graphic fileref="/40/43240tn.jpg" format="IMAGE_THUMB" id="43240"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43241">
+        <title>Child with slap mark. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Child with slap mark. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/41/43241.jpg" format="IMAGE" id="43241" extension_format="JPG"/>
+        <graphic fileref="/41/43241tn.jpg" format="IMAGE_THUMB" id="43241"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43242">
+        <title>Radiograph of old radius and ulna fracture in child with slap mark. Image courtesy of Lawrence R...</title>
+        <caption>Radiograph of old radius and ulna fracture in child with slap mark. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/42/43242.jpg" format="IMAGE" id="43242" extension_format="JPG"/>
+        <graphic fileref="/42/43242tn.jpg" format="IMAGE_THUMB" id="43242"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43243">
+        <title>Radiograph of multiple rib fractures. Radiographs also revealed old radius and ulna fracture....</title>
+        <caption>Radiograph of multiple rib fractures. Radiographs also revealed old radius and ulna fracture. The child presented with a slap mark. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/43/43243.jpg" format="IMAGE" id="43243" extension_format="JPG"/>
+        <graphic fileref="/43/43243tn.jpg" format="IMAGE_THUMB" id="43243"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43244">
+        <title>Sunburn. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Sunburn. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/44/43244.jpg" format="IMAGE" id="43244" extension_format="JPG"/>
+        <graphic fileref="/44/43244tn.jpg" format="IMAGE_THUMB" id="43244"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43245">
+        <title>Burn inflicted with lighter. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Burn inflicted with lighter. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/45/43245.jpg" format="IMAGE" id="43245" extension_format="JPG"/>
+        <graphic fileref="/45/43245tn.jpg" format="IMAGE_THUMB" id="43245"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43246">
+        <title>Acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </title>
+        <caption>Acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/46/43246.jpg" format="IMAGE" id="43246" extension_format="JPG"/>
+        <graphic fileref="/46/43246tn.jpg" format="IMAGE_THUMB" id="43246"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43247">
+        <title>Fingernail scratch in child with acute subdural with shift. Image courtesy of Lawrence R. Ricci...</title>
+        <caption>Fingernail scratch in child with acute subdural with shift. Image courtesy of Lawrence R. Ricci, MD. </caption>
+        <graphic fileref="/47/43247.jpg" format="IMAGE" id="43247" extension_format="JPG"/>
+        <graphic fileref="/47/43247tn.jpg" format="IMAGE_THUMB" id="43247"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43248">
+        <title>Ecological model for understanding violence. </title>
+        <caption>Ecological model for understanding violence. </caption>
+        <graphic fileref="/48/43248.jpg" format="IMAGE" id="43248" extension_format="JPG"/>
+        <graphic fileref="/48/43248tn.jpg" format="IMAGE_THUMB" id="43248"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43249">
+        <title>US maltreatment trends, 1990-2010. </title>
+        <caption>US maltreatment trends, 1990-2010. </caption>
+        <graphic fileref="/49/43249.jpg" format="IMAGE" id="43249" extension_format="JPG"/>
+        <graphic fileref="/49/43249tn.jpg" format="IMAGE_THUMB" id="43249"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43250">
+        <title>Adverse child experiences pyramid. </title>
+        <caption>Adverse child experiences pyramid. </caption>
+        <graphic fileref="/50/43250.jpg" format="IMAGE" id="43250" extension_format="JPG"/>
+        <graphic fileref="/50/43250tn.jpg" format="IMAGE_THUMB" id="43250"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43251">
+        <title>National Pediatric Trauma Group registry findings. </title>
+        <caption>National Pediatric Trauma Group registry findings. </caption>
+        <graphic fileref="/51/43251.jpg" format="IMAGE" id="43251" extension_format="JPG"/>
+        <graphic fileref="/51/43251tn.jpg" format="IMAGE_THUMB" id="43251"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43252">
+        <title>Buckle fracture of distal femur without healing (acute). </title>
+        <caption>Buckle fracture of distal femur without healing (acute). </caption>
+        <graphic fileref="/52/43252.jpg" format="IMAGE" id="43252" extension_format="JPG"/>
+        <graphic fileref="/52/43252tn.jpg" format="IMAGE_THUMB" id="43252"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43253">
+        <title>Distal femur buckle fracture, 2-week follow-up film with sclerotic fracture line and periosteal...</title>
+        <caption>Distal femur buckle fracture, 2-week follow-up film with sclerotic fracture line and periosteal new bone healing. </caption>
+        <graphic fileref="/53/43253.jpg" format="IMAGE" id="43253" extension_format="JPG"/>
+        <graphic fileref="/53/43253tn.jpg" format="IMAGE_THUMB" id="43253"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43254">
+        <title>Guidelines for the assessment of suspected physical abuse. </title>
+        <caption>Guidelines for the assessment of suspected physical abuse. </caption>
+        <graphic fileref="/54/43254.jpg" format="IMAGE" id="43254" extension_format="JPG"/>
+        <graphic fileref="/54/43254tn.jpg" format="IMAGE_THUMB" id="43254"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43255">
+        <title>Linear inflicted bruising extending from arm to back, inflicted by a belt. Same child shown...</title>
+        <caption>Linear inflicted bruising extending from arm to back, inflicted by a belt. Same child shown again with back bruising. </caption>
+        <graphic fileref="/55/43255.jpg" format="IMAGE" id="43255" extension_format="JPG"/>
+        <graphic fileref="/55/43255tn.jpg" format="IMAGE_THUMB" id="43255"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43256">
+        <title>Overlying linear inflicted marks, which the child disclosed came from a belt. Same child is...</title>
+        <caption>Overlying linear inflicted marks, which the child disclosed came from a belt. Same child is shown in image of arm and back. </caption>
+        <graphic fileref="/56/43256.jpg" format="IMAGE" id="43256" extension_format="JPG"/>
+        <graphic fileref="/56/43256tn.jpg" format="IMAGE_THUMB" id="43256"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43257">
+        <title>CT scan showing liver laceration. Child had severe abdominal bruising (see next image)....</title>
+        <caption>CT scan showing liver laceration. Child had severe abdominal bruising (see next image). Caregiver admitted to repeatedly punching the child in the abdomen. </caption>
+        <graphic fileref="/57/43257.jpg" format="IMAGE" id="43257" extension_format="JPG"/>
+        <graphic fileref="/57/43257tn.jpg" format="IMAGE_THUMB" id="43257"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43258">
+        <title>Abdominal bruising in a toddler who also had a liver laceration (also see previous CT scan). </title>
+        <caption>Abdominal bruising in a toddler who also had a liver laceration (also see previous CT scan). </caption>
+        <graphic fileref="/58/43258.jpg" format="IMAGE" id="43258" extension_format="JPG"/>
+        <graphic fileref="/58/43258tn.jpg" format="IMAGE_THUMB" id="43258"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43259">
+        <title>Example of ear bruising. Ear bruising is a rare accidental injury. This 10-month-old child was...</title>
+        <caption>Example of ear bruising. Ear bruising is a rare accidental injury. This 10-month-old child was intubated for abusive head trauma (AHT) and spiral femur fracture and had this ear bruising in addition to other facial bruising. </caption>
+        <graphic fileref="/59/43259.jpg" format="IMAGE" id="43259" extension_format="JPG"/>
+        <graphic fileref="/59/43259tn.jpg" format="IMAGE_THUMB" id="43259"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43260">
+        <title>Mongolian spots on a dark-skinned child. </title>
+        <caption>Mongolian spots on a dark-skinned child. </caption>
+        <graphic fileref="/60/43260.jpg" format="IMAGE" id="43260" extension_format="JPG"/>
+        <graphic fileref="/60/43260tn.jpg" format="IMAGE_THUMB" id="43260"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43261">
+        <title>Mongolian spots on a light-skinned child. Mongolian spots can have a greenish cast depending on...</title>
+        <caption>Mongolian spots on a light-skinned child. Mongolian spots can have a greenish cast depending on the skin color of the child. </caption>
+        <graphic fileref="/61/43261.jpg" format="IMAGE" id="43261" extension_format="JPG"/>
+        <graphic fileref="/61/43261tn.jpg" format="IMAGE_THUMB" id="43261"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43262">
+        <title>Faint abdominal bruising. This toddler had elevated liver function test results, liver...</title>
+        <caption>Faint abdominal bruising. This toddler had elevated liver function test results, liver laceration found on abdominal CT scan, and an upper lip frenulum tear. Note that abdominal injury may be present with little or no bruising of the abdomen. </caption>
+        <graphic fileref="/62/43262.jpg" format="IMAGE" id="43262" extension_format="JPG"/>
+        <graphic fileref="/62/43262tn.jpg" format="IMAGE_THUMB" id="43262"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43263">
+        <title>Pattern bruising and extensive back bruising. The 4-year-old child was found dead in his home...</title>
+        <caption>Pattern bruising and extensive back bruising. The 4-year-old child was found dead in his home and had no reported history. Autopsy revealed duodenal hematoma and perforation as cause of death. </caption>
+        <graphic fileref="/63/43263.jpg" format="IMAGE" id="43263" extension_format="JPG"/>
+        <graphic fileref="/63/43263tn.jpg" format="IMAGE_THUMB" id="43263"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43264">
+        <title>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate...</title>
+        <caption>Pattern contact burn on buttocks of diapered child. The burn likely came from the metal grate surrounding heater. </caption>
+        <graphic fileref="/64/43264.jpg" format="IMAGE" id="43264" extension_format="JPG"/>
+        <graphic fileref="/64/43264tn.jpg" format="IMAGE_THUMB" id="43264"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43265">
+        <title>Series of 3 photos of likely accidental hot water scald burn on the leg of an infant. Sparing of...</title>
+        <caption>Series of 3 photos of likely accidental hot water scald burn on the leg of an infant. Sparing of skin-to-skin contact areas indicates child was flexed at the knee and ankle at the time of injury, which was consistent with being seated in the kitchen sink. Burn injuries require detailed scene investigation. In this case, investigators confirmed the ease of turning on the faucet and the high temperature of the water from it. </caption>
+        <graphic fileref="/65/43265.jpg" format="IMAGE" id="43265" extension_format="JPG"/>
+        <graphic fileref="/65/43265tn.jpg" format="IMAGE_THUMB" id="43265"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="43266">
+        <title>Example of strangulation/ligature marks on the neck of a toddler. Strangulation/ligature marks...</title>
+        <caption>Example of strangulation/ligature marks on the neck of a toddler. Strangulation/ligature marks are often linear petechiae and may have fingernail scratches from the victim from struggling to free the airway. </caption>
+        <graphic fileref="/66/43266.jpg" format="IMAGE" id="43266" extension_format="JPG"/>
+        <graphic fileref="/66/43266tn.jpg" format="IMAGE_THUMB" id="43266"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Angelo P Giardino, MD, PhD, MPH</contrbtr_nm>
+        <contrbtr_title>Associate Professor, Baylor College of Medicine; Chief Medical Officer, Texas Children’s Health Plan; Chief Quality Officer, Medicine, Texas Children’s Hospital</contrbtr_title>
+        <contrbtr_bio>Angelo P Giardino, MD, PhD, MPH is a member of the following medical societies: <a href="http://www.apsac.org">American Professional Society on the Abuse of Children</a>, <a href="http://www.hcms.org">Harris County Medical Society</a>, <a href="http://www.ispcan.org">International Society for the Prevention of Child Abuse and Neglect</a>, <a href="http://www.helfersociety.org/">Ray E Helfer Society</a>, <a href="http://www.academicpeds.org">Academic Pediatric Association</a>, <a href="http://www.aap.org">American Academy of Pediatrics</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received grant/research funds from Health Resources and Services Administration (HRSA) Integrated Community Systems for CSHCN Grant for other; Received advisory board from Baxter Healthcare Corporation for board membership.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Eileen R Giardino, RN, MSN, PhD</contrbtr_nm>
+        <contrbtr_title>FNP-BC, ANP-BC, Associate Professor of Nursing, Department of Family Nursing, University of Texas Health Sciences Center Houston, School of Nursing</contrbtr_title>
+        <contrbtr_bio>Eileen R Giardino, RN, MSN, PhD is a member of the following medical societies: <a href="http://www.acha.org">American College Health Association</a>, <a href="http://www.apsac.org">American Professional Society on the Abuse of Children</a>, <a href="http://www.aanp.org">American Association of Nurse Practitioners</a>, <a href="http://www.nursingworld.org">American Nurses Association</a>, <a href="http://www.ispcan.org">International Society for the Prevention of Child Abuse and Neglect</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Rebecca L Moles, MD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Department of Pediatrics, Section of General Pediatrics, Yale University School of Medicine; Child Abuse Pediatrician, Associate Medical Director, Yale Child Abuse Programs, Department of Pediatrics, Yale-New Haven Hospital</contrbtr_title>
+        <contrbtr_bio>Rebecca L Moles, MD is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.apsac.org">American Professional Society on the Abuse of Children</a>, <a href="http://www.helfersociety.org">The Ray Helfer Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Caroly Pataki, MD</contrbtr_nm>
+        <contrbtr_title>Health Sciences Clinical Professor of Psychiatry and Biobehavioral Sciences, University of California, Los Angeles, David Geffen School of Medicine</contrbtr_title>
+        <contrbtr_bio>Caroly Pataki, MD is a member of the following medical societies: <a href="http://www.aacap.org">American Academy of Child and Adolescent Psychiatry</a>, <a href="http://www.nyas.org">New York Academy of Sciences</a>, <a href="http://www.psr.org">Physicians for Social Responsibility</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received consulting fee from Otsuka Pharmaceutical for board membership.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Chet Johnson, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Pediatrics, Associate Director and Developmental-Behavioral Pediatrician, KU Center for Child Health and Development, Shiefelbusch Institute for Life Span Studies; Assistant Dean, Faculty Affairs and Development, University of Kansas School of Medicine</contrbtr_title>
+        <contrbtr_bio>Chet Johnson, MD is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>The authors gratefully acknowledge the assistance of Dr. Lawrence R. Ricci in providing photographs to illustrate the various injuries that may be seen when evaluating children for suspected physical abuse. Despite being a busy clinician, educator and academic leader, Dr. Ricci made time to select cases for this article from his large archive. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17545397">
+      <para>[Guideline] Kellogg ND,. Evaluation of suspected child physical abuse. <em>Pediatrics</em>. 2007 Jun. 119(6):1232-41. <a href="http://reference.medscape.com/medline/abstract/17545397">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21420647">
+      <para>Farst K, Reading Meyer JA, Mac Bird T, James L, Robbins JM. Hair drug testing of children suspected of exposure to the manufacture of methamphetamine. <em>J Forensic Leg Med</em>. 2011 Apr. 18(3):110-4. <a href="http://reference.medscape.com/medline/abstract/21420647">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19933726">
+      <para>Lane WG, Dubowitz H, Langenberg P. Screening for occult abdominal trauma in children with suspected physical abuse. <em>Pediatrics</em>. 2009 Dec. 124(6):1595-602. <a href="http://reference.medscape.com/medline/abstract/19933726">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19620197">
+      <para>Lindberg D, Makoroff K, Harper N, Laskey A, Bechtel K, Deye K. Utility of hepatic transaminases to recognize abuse in children. <em>Pediatrics</em>. 2009 Aug. 124(2):509-16. <a href="http://reference.medscape.com/medline/abstract/19620197">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Sedlak,  A.J.,  Mettenburg,  J.,  Basena,  M., et al. Fourth National Incidence Study of Child Abuse and Neglect (NIS–4): Report to Congress, Executive Summary. 2010. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Sedlak AJ, Mettenburg J, Basena M, et al. Fourth National Incidence Study of Child Abuse and Neglect. <em>US Dept of Health and Human Services</em>. 2006. Contract number GS23F81144H, Order No. HHSP233200400058U, Requisition No. 04Y004193. <a href="http://www.acf.hhs.gov/programs/opre/abuse_neglect/natl_incid/reports/natl_incid/nis4_report_congress_full_pdf_jan2010.pdf">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>National Center on Child Abuse and Neglect. National Child Abuse and Neglect Data System: 1991 Summary Data Component. Washington, DC: Government Printing Office. 1993. Working Paper 2. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Helfer RE. The developmental basis of child abuse and neglect: An epidemiological approach. <em>The Battered Child</em>. 4th ed. Chicago, IL: University of Chicago Press; 1987. 60-80. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7832020">
+      <para>Straus MA, Kantor GK. Corporal punishment of adolescents by parents: a risk factor in the epidemiology of depression, suicide, alcohol abuse, child abuse, and wife beating. <em>Adolescence</em>. 1994 Fall. 29(115):543-61. <a href="http://reference.medscape.com/medline/abstract/7832020">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>American Academy of Pediatrics Web site. Periodic Survey of Fellows #38: Attitudes and Counseling on Corporal Punishment in the Home: July 1998. <em>Available at: www.aap.org/research/ps38exs1.htm</em>. Accessed 2000. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21763645">
+      <para>Halliday KE, Broderick NJ, Somers JM, Hawkes R. Dating fractures in infants. <em>Clin Radiol</em>. 2011 Nov. 66(11):1049-54. <a href="http://reference.medscape.com/medline/abstract/21763645">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20211455">
+      <para>Pilling ML, Vanezis P, Perrett D, Johnston A. Visual assessment of the timing of bruising by forensic experts. <em>J Forensic Leg Med</em>. 2010 Apr. 17(3):143-9. <a href="http://reference.medscape.com/medline/abstract/20211455">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19403508">
+      <para>Christian CW, Block R. Abusive head trauma in infants and children. <em>Pediatrics</em>. 2009 May. 123(5):1409-11. <a href="http://reference.medscape.com/medline/abstract/19403508">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>US Department of Health &amp; Human Services. Administration for Children and Families, Youth and Families Children’s Bureau. Child Maltreatment 2010. US Department of Health &amp; Human Services. Available at <a href="http://www.acf.hhs.gov/programs/cb/pubs/cm10/cm10.pdf">http://www.acf.hhs.gov/programs/cb/pubs/cm10/cm10.pdf</a>. Accessed: January 30, 2012.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Finkelhor D, Jones L, Shattuck A. Updated Trends in Child Maltreatment 2010. http://www.unh.edu/ccrc/pdf/CV203_Updated%20trends%202010%20FINAL_12-19-11.pdf. Available at <a href="http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/Trends%20in%20Child%20Maltreatment.pdf">http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/Trends%20in%20Child%20Maltreatment.pdf</a>. Accessed: January 30, 2012.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Prevent Child Abuse America. 2006 National Child Maltreatment Statistics National Center on Child Abuse Prevention Research. US Department of Health and Human Services, Administration on Children, Youth ad Families. Available at <a href="http://member.preventchildabuse.org/site/DocServer/Child_Maltreatment_Fact_Sheet_2005.pdf?docID=221">http://member.preventchildabuse.org/site/DocServer/Child_Maltreatment_Fact_Sheet_2005.pdf?docID=221</a>. Accessed: November 25, 2008.</para>
+    </ritem>
+    <ritem ref="">
+      <para>DiScala C, Sege R, Li G, Reece RM. Child  Abuse and Unintentional Injuries. <em>Pediatr Adolesc Med</em>. 2001. 154:16-22. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9635069">
+      <para>Felitti VJ, Anda RF, Nordenberg D, Williamson DF, Spitz AM, Edwards V. Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. The Adverse Childhood Experiences (ACE) Study. <em>Am J Prev Med</em>. 1998 May. 14(4):245-58. <a href="http://reference.medscape.com/medline/abstract/9635069">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19478789">
+      <para>Bentley T, Widom CS. A 30-year follow-up of the effects of child abuse and neglect on obesity in adulthood. <em>Obesity (Silver Spring)</em>. 2009 Oct. 17(10):1900-5. <a href="http://reference.medscape.com/medline/abstract/19478789">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Fox S. Sentinel Injuries May Precede Severe Abuse in Infants. Medscape Medical News. March 11, 2013. Available at <a href="http://www.medscape.com/viewarticle/780552">http://www.medscape.com/viewarticle/780552</a>. Accessed: March 26, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23478861">
+      <para>Sheets LK, Leach ME, Koszewski IJ, Lessmeier AM, Nugent M, Simpson P. Sentinel Injuries in Infants Evaluated for Child Physical Abuse. <em>Pediatrics</em>. 2013 Mar 11. <a href="http://reference.medscape.com/medline/abstract/23478861">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Hand L. Skeletal Survey Guidelines for Toddler Fractures Issued. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/826776">http://www.medscape.com/viewarticle/826776</a>. Accessed: June 26, 2014.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24935996">
+      <para>Wood JN, Fakeye O, Feudtner C, Mondestin V, Localio R, Rubin DM. Development of Guidelines for Skeletal Survey in Young Children With Fractures. <em>Pediatrics</em>. 2014 Jun 16. <a href="http://reference.medscape.com/medline/abstract/24935996">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25917988">
+      <para>Christian CW. The evaluation of suspected child physical abuse. <em>Pediatrics</em>. 2015 May. 135(5):e1337-54. <a href="http://reference.medscape.com/medline/abstract/25917988">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brown T. AAP updates guideline on child physical abuse. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/843827">http://www.medscape.com/viewarticle/843827</a>. Accessed: May 15, 2015.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21149429">
+      <para>Duffy SO, Squires J, Fromkin JB, Berger RP. Use of skeletal surveys to evaluate for physical abuse: analysis of 703 consecutive skeletal surveys. <em>Pediatrics</em>. 2011 Jan. 127(1):e47-52. <a href="http://reference.medscape.com/medline/abstract/21149429">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20026490">
+      <para>[Guideline] Policy statement--Child abuse, confidentiality, and the health insurance portability and accountability act. <em>Pediatrics</em>. 2010 Jan. 125(1):197-201. <a href="http://reference.medscape.com/medline/abstract/20026490">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19564330">
+      <para>[Guideline] Policy statement--Expert witness participation in civil and criminal proceedings. <em>Pediatrics</em>. 2009 Jul. 124(1):428-38. <a href="http://reference.medscape.com/medline/abstract/19564330">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>The Child in Court: A Subject Review. <em>Pediatrics</em>. 1999. 104:1145-1148. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Administration for Children and Families. <em>US Department of Health and Human Services NIS-4 Description</em>. <a href="https://www.nis4.org/nis4.asp">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Adverse Childhood Experiences (ACE) Study. Center for Disease Control. Available at <a href="http://www.cdc.gov/NCCDPHP/ACE/PYRAMID.HTM">http://www.cdc.gov/NCCDPHP/ACE/PYRAMID.HTM</a>. Accessed: December 2, 2008.</para>
+    </ritem>
+    <ritem ref="">
+      <para>American Humane Association. AHA fact sheet #12: The use of physical discipline. Englewood, CO. 1994. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Bays J. Reece RM, Ludwig S, eds. <em>Child Abuse: Medical Diagnosis and Management</em>. 2nd ed. Philadelphia, PA: Lippincott Williams &amp; Wilkins; 2001. 287-306. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2244612">
+      <para>Bays J, Jenny C. Genital and anal conditions confused with child sexual abuse trauma. <em>Am J Dis Child</em>. 1990 Dec. 144(12):1319-22. <a href="http://reference.medscape.com/medline/abstract/2244612">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7386966">
+      <para>Belsky J. Child maltreatment: an ecological integration. <em>Am Psychol</em>. 1980 Apr. 35(4):320-35. <a href="http://reference.medscape.com/medline/abstract/7386966">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7737023">
+      <para>Berkowitz CD. Pediatric abuse. New patterns of injury. <em>Emerg Med Clin North Am</em>. 1995 May. 13(2):321-41. <a href="http://reference.medscape.com/medline/abstract/7737023">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Bronfenbrenner U. Toward an experimental ecology of human development. <em>Am Psychol</em>. 1977. 32:513-31. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Brooks M. Physical abuse in childhood linked to ADHD in adults. <em>Medscape Medical News</em>. March 13, 2014. <a href="http://www.medscape.com/viewarticle/821903">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Child Maltreatment 2003. US Department of Health and Human Services. Available at <a href="http://www.acf.hhs.gov/programs/cb/pubs/cm03/cm2003.pdf">http://www.acf.hhs.gov/programs/cb/pubs/cm03/cm2003.pdf</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Giardino, AP,  Alexander R, eds. <em>Child Maltreatment: A Clinical Guide and Reference</em>. 3rd ed. St. Louis, MO: GW Medical Publications; 2005. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9291513">
+      <para>Clark KD, Tepper D, Jenny C. Effect of a screening profile on the diagnosis of nonaccidental burns  in children. <em>Pediatr Emerg Care</em>. 1997 Aug. 13(4):259-61. <a href="http://reference.medscape.com/medline/abstract/9291513">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1734396">
+      <para>Coant PN, Kornberg AE, Brody AS, Edwards-Holmes K. Markers for occult liver injury in cases of physical abuse in children. <em>Pediatrics</em>. 1992 Feb. 89(2):274-8. <a href="http://reference.medscape.com/medline/abstract/1734396">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Dubowitz H. Prevention. <em>Child Maltreatment: A Clinical Guide &amp; Reference</em>. St. Louis, MO: GW Medical Publishing Inc; 2005. 1063-90. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9632450">
+      <para>Duhaime AC, Christian CW, Rorke LB, Zimmerman RA. Nonaccidental head injury in infants--the "shaken-baby syndrome". <em>N Engl J Med</em>. 1998 Jun 18. 338(25):1822-9. <a href="http://reference.medscape.com/medline/abstract/9632450">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Feldman KW. Evaluation of Physical Abuse. Helfer ME, Kempe RS, Krugman RD, eds. <em>The Battered Child</em>. 5th ed. Chicago, IL: The University of Chicago Press; 1997. 175-220. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Fuller-Thomson E, Mehta R, Valeo A. Establishing a link between attention deficit disorder/attention deficit hyperactivity disorder and childhood physical abuse. <em>Journal of Aggression, Maltreatment &amp; Trauma</em>. 2014. 23(2):188-98. <a href="http://www.tandfonline.com/doi/full/10.1080/10926771.2014.873510#.UyiOkC7D-M8">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Garbarino J. The human ecology of child maltreatment: A conceptual model for research. <em>Journal of Marriage and the Family</em>. 1977. 39:721-727. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Garbarino J, Brookhouser PE, Authier KJ. <em>Special Children Special Risks: The Maltreatment of Children with Disabilities</em>. New York, NY: Aldine deGruyter; 1987. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Garbarino J, Eckenrode J. <em>Understanding Abusive Families: An Ecological Approach to Theory and Practice</em>. San Francisco, CA: Jossey-Bass Publishers; 1997. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Giardino AP, Alexander R. <em>Child Maltreatment: A Clinical Guide and Reference</em>. 3rd ed. St Louis, MO: GW Medical Publishing, Inc; 2005. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Giardino AP, Christian CW, Giardino ER. <em>A Practical Guide to the Evaluation of Child Physical Abuse and Neglect</em>. California: Sage Publications Inc; 1997. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Giardino AP, Giardino ER. <em>Recognition of Child Abuse for the Mandated Reporter</em>. St. Louis, MO: GW Medical Publishing Inc; 2002. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Graham-Bermann SA, Edleson JL. <em>Domestic Violence in the Lives of Children: The Future of Research, Intervention</em>. Washington, DC: American Psychological Association; 2001. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7735405">
+      <para>Grossman DC, Rauh MJ, Rivara FP. Prevalence of corporal punishment among students in Washington State  schools. <em>Arch Pediatr Adolesc Med</em>. 1995 May. 149(5):529-32. <a href="http://reference.medscape.com/medline/abstract/7735405">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12964701">
+      <para>Gushurst CA. Child abuse: behavioral aspects and other associated problems. <em>Pediatr Clin North Am</em>. 2003 Aug. 50(4):919-38. <a href="http://reference.medscape.com/medline/abstract/12964701">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10208084">
+      <para>Hansbrough JF, Hansbrough W. Pediatric burns. <em>Pediatr Rev</em>. 1999 Apr. 20(4):117-23; quiz 124. <a href="http://reference.medscape.com/medline/abstract/10208084">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Harding B, Ridson RA, Krous HF. Shaken Baby Syndrome. <em>BMJ</em>. 2004. 328:720-921. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/4701226">
+      <para>Helfer RE. The etiology of child abuse. <em>Pediatrics</em>. 1973 Apr. 51:Suppl 4:777-9. <a href="http://reference.medscape.com/medline/abstract/4701226">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Hyman IA. <em>The Case Against Spanking: How to Discipline Your Child Without Hitting</em>. San Francisco, CA: Jossey-Bass Publishers; 1997. </para>
+    </ritem>
+    <ritem ref="">
+      <para>In Harm’s Way: Domestic Violence and Child Maltreatment. <em>U.S. Department of Health and Human Services. Children’s Bureau, Administration on Children, Youth Families.  Administration for Children and Families. National Clearing House on Child Abuse and Neglect Information</em>. 1998. Available at <a href="http://www.calib.com/dvcps/facts/harmway.doc">http://www.calib.com/dvcps/facts/harmway.doc</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Jenny C. Cutaneous manifestations of abuse. <em>Child Abuse: Medical Diagnosis and Management</em>. 2nd ed. Philadelphia, PA: Lippincott Williams &amp; Wilkins; 2001. 23-45. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2199916">
+      <para>Johnson CF. Inflicted injury versus accidental injury. <em>Pediatr Clin North Am</em>. 1990 Aug. 37(4):791-814. <a href="http://reference.medscape.com/medline/abstract/2199916">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9745316">
+      <para>Knapp JF, Dowd MD. Family violence: implications for the pediatrician. <em>Pediatr Rev</em>. 1998 Sep. 19(9):316-21. <a href="http://reference.medscape.com/medline/abstract/9745316">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9330801">
+      <para>Lazoritz S, Baldwin S, Kini N. The Whiplash Shaken Infant Syndrome: has Caffey's syndrome changed or have we changed his syndrome?. <em>Child Abuse Negl</em>. 1997 Oct. 21(10):1009-14. <a href="http://reference.medscape.com/medline/abstract/9330801">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Levin AV. Ocular manifestations of child abuse. <em>Child Abuse: Medical Diagnosis and Management</em>. 2nd ed. Philadelphia, PA: Lippincott Williams &amp; Wilkins; 2001. 97-107. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Ludwig S. Child abuse. <em>Textbook of Pediatric Emergency Medicine</em>. 4th ed. Philadelphia, PA: Lippincott Williams &amp; Wilkins; 2000. 1669-1704. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1593736">
+      <para>McCormick KF. Attitudes of primary care physicians toward corporal punishment. <em>JAMA</em>. 1992 Jun 17. 267(23):3161-5. <a href="http://reference.medscape.com/medline/abstract/1593736">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Myers JEB. Expert testimony. <em>The APSAC Handbook on Child Maltreatment</em>. 1996. 319-40. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Reece RM, Nicholson CE. <em>Inflicted Childhood Neurotrauma</em>. Elk Grove Village, IL: American Academy of Pediatrics; 2003. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10632244">
+      <para>Reece RM, Sege R. Childhood head injuries: accidental or inflicted?. <em>Arch Pediatr Adolesc Med</em>. 2000 Jan. 154(1):11-5. <a href="http://reference.medscape.com/medline/abstract/10632244">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Robson MC, Heggers JP. Pathophysiology of the burn wound. Carvajal HF, Parks DH, eds. <em>Burns in Children: Pediatric Burn Management</em>. Chicago, IL: Year Book; 1988. 27-32. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9675998">
+      <para>Schene PA. Past, present, and future roles of child protective services. <em>Future Child</em>. 1998 Spring. 8(1):23-38. <a href="http://reference.medscape.com/medline/abstract/9675998">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8584388">
+      <para>Schwartz AJ, Ricci LR. How accurately can bruises be aged in abused children? Literature  review and synthesis. <em>Pediatrics</em>. 1996 Feb. 97(2):254-7. <a href="http://reference.medscape.com/medline/abstract/8584388">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7997443">
+      <para>Sirotnak AP, Krugman RD. Physical abuse of children: an update. <em>Pediatr Rev</em>. 1994 Oct. 15(10):394-9. <a href="http://reference.medscape.com/medline/abstract/7997443">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Spivak BS. Biomechanics of nonaccidental trauma. Ludwig S, Kornberg AE, eds. <em>Child Abuse: A Medical Reference</em>. 2nd ed. New York, NY: Churchill Livingstone; 1992. 61-78. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9521967">
+      <para>Stein MT, Perrin EL. Guidance for effective discipline. American Academy of Pediatrics.  Committee on Psychosocial Aspects of Child and Family Health. <em>Pediatrics</em>. 1998 Apr. 101(4 Pt 1):723-8. <a href="http://reference.medscape.com/medline/abstract/9521967">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Straus MA. Is violence toward children increasing? A comparison of 1975 and 1985 national survey rates. <em>Family Violence</em>. 2nd ed. Newbury Park, CA: Sage; 1987. 78-88. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3562312">
+      <para>Torrey SB, Ludwig S. The emergency physician in the courtroom: serving as an expert witness  in cases of child abuse. <em>Pediatr Emerg Care</em>. 1987 Mar. 3(1):50-2. <a href="http://reference.medscape.com/medline/abstract/3562312">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Weston WL, Lane AT, Morelli JG. <em>Color Textbook of Pediatric Dermatology</em>. 2nd ed. St Louis, MO: Mosby; 1996. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10545564">
+      <para>Wolraich ML, Aceves J, Feldman HM, et al. American Academy of Pediatrics. Committee on Psychosocial Aspects of  Child and Family Health. The child in court: a subject review. <em>Pediatrics</em>. 1999 Nov. 104(5 Pt 1):1145-8. <a href="http://reference.medscape.com/medline/abstract/10545564">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>World Report on Violence and Health. World Health Organization. Available at <a href="http://www.who.int/violence_injury_prevention/violence/world_report/en/full_en.pdf">http://www.who.int/violence_injury_prevention/violence/world_report/en/full_en.pdf</a>. Accessed: December 2, 2008.</para>
+    </ritem>
+  </refgrp>
+</article>

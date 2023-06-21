@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="944157" pubid="" template="Pediatrics: Genetics and Metabolic Disease" template-name="multipage">
+  <site-meta>
+    <article-name>Gaucher Disease</article-name>
+    <title>
+      <page-info id="overview">Gaucher Disease: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Gaucher Disease Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Gaucher Disease Differential Diagnoses</page-info>
+      <page-info id="workup">Gaucher Disease Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Gaucher Disease Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Gaucher Disease Medication: Enzyme replacement therapy, Glucosylceramide Synthase Inhibitors</page-info>
+      <page-info id="followup">Gaucher Disease Follow-up: Further Outpatient Care, Further Inpatient Care, Deterrence/Prevention</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Gaucher Disease: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Gaucher Disease Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Gaucher Disease Differential Diagnoses</page-info>
+      <page-info id="workup">Gaucher Disease Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Gaucher Disease Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Gaucher Disease Medication: Enzyme replacement therapy, Glucosylceramide Synthase Inhibitors</page-info>
+      <page-info id="followup">Gaucher Disease Follow-up: Further Outpatient Care, Further Inpatient Care, Deterrence/Prevention</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a4">Background</section-info>
+<section-info id="a5">Pathophysiology</section-info>
+<section-info id="a6">Epidemiology</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c3">Laboratory Studies</section-info>
+<section-info id="c4">Imaging Studies</section-info>
+<section-info id="c5">Other Tests</section-info>
+<section-info id="c6">Procedures</section-info>
+<section-info id="c7">Histologic Findings</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d5">Medical Care</section-info>
+<section-info id="d6">Surgical Care</section-info>
+<section-info id="d7">Consultations</section-info>
+<section-info id="d8">Diet</section-info>
+<section-info id="d9">Activity</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e1">Further Outpatient Care</section-info>
+<section-info id="e2">Further Inpatient Care</section-info>
+<section-info id="e3">Deterrence/Prevention</section-info>
+<section-info id="e4">Complications</section-info>
+<section-info id="e5">Prognosis</section-info>
+<section-info id="e6">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Gaucher Disease Overview</page-info>
+      <page-info id="clinical">Gaucher Disease Clinical Presentation</page-info>
+      <page-info id="differential">Gaucher Disease Differential Diagnoses</page-info>
+      <page-info id="workup">Gaucher Disease Workup</page-info>
+      <page-info id="treatment">Gaucher Disease Treatment</page-info>
+      <page-info id="medication">Gaucher Disease Medication</page-info>
+      <page-info id="followup">Gaucher Disease Follow-up</page-info>
+    </meta-keywords>
+    <uri>944157-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Nov 24, 2014</posting-date>
+    <last-generated>2015-07-09-17:48</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Pediatrics: Genetics and Metabolic Disease</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>944157</artid>
+      <cg>502</cg>
+      <scg text="Lysosomal Storage Disease">5003061</scg>
+      <ssp text="Pediatrics">9</ssp>
+      <bc>age1</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 05, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_genetics</id>
+      <name>Pediatrics: Genetics and Metabolic Disease</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_genetics_metabolic</id>
+      <name>Metabolic Disease</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">Gaucher disease, Gaucher’s disease, glucocerebrosidase deficiency, cerebroside lipidosis, acid beta-glucosidase deficiency, splenomegaly, anemia, lipid storage disease, lysosomal storage disease, glucocerebrosidase, pancytopenia, massive hepatosplenomegaly, treatment, symptoms, glucocerebrosidase 1, parkinsonism</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Gaucher disease is a lipid storage disease characterized by the deposition of glucocerebroside in cells of the macrophage-monocyte system. The disorder results from the deficiency of a specific lysosomal hydrolase, glucocerebrosidase (also termed acid beta-glucosidase, glucosylceramidase).</meta_description>
+    <pediatric-article>1</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Gaucher Disease</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Gaucher disease is a rare genetic disorder characterized by the deposition of glucocerebroside in cells of the macrophage-monocyte system. The disorder results from the deficiency of the enzyme glucocerebrosidase.</para>
+      </pgroup>
+      <pgroup>
+        <title>Essential update: New drug eliglustat proving to work for Gaucher disease</title>
+        <para>The oral glucosylceramide (glucocerebroside) synthase inhibitor eliglustat, approved by the FDA for treatment of Gaucher disease type 1 (GD1) in August 2014, has proven as effective as intravenous enzyme replacement therapy with imiglucerase.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+        <para>In a study of 159 patients with Gaucher’s disease, researchers found that fewer patients treated with eliglustat (85%) than imiglucerase (94%) met criteria for hemoglobin level, platelet count, spleen volume, and liver volume indicating stable disease for 12 months. Adverse events were more common with eliglustat, but most were mild. </para>
+        <para>In three other studies, eliglustat was superior to placebo over nine months of treatment, outcomes were similar for patients treated with eliglustat or imiglucerase for 4 years, and outcomes of eliglustat treatment were similar when dosing regimens were determined based on CYP2D6-genotype-predicted phenotype or plasma eliglustat concentrations.</para>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>Gaucher disease has traditionally been divided into the following three clinical subtypes, delineated by the absence or presence of neurologic involvement and its progression:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Type 1 - Nonneuronopathic form</para>
+          </listitem>
+          <listitem>
+            <para>Type 2 - Acute neuronopathic form</para>
+          </listitem>
+          <listitem>
+            <para>Type 3 - Chronic neuronopathic form</para>
+          </listitem>
+        </itemizedlist>
+        <para>Patients with type 1 disease commonly present with painless splenomegaly, anemia, or thrombocytopenia. They may also have chronic fatigue, hepatomegaly (with or without abnormal liver function test findings), bone pain, or pathologic fractures and may bruise easily because of thrombocytopenia. Bleeding secondary to thrombocytopenia may manifest as nosebleeds, bruising, or both.</para>
+        <para>Patients with type 2 disease may present at birth or during infancy with increased tone, seizures, strabismus, and organomegaly. Failure to thrive, swallowing abnormalities, oculomotor apraxia, hepatosplenomegaly, and stridor due to laryngospasm are typical in infants with type 2 disease.</para>
+        <para>In addition to organomegaly and bony involvement, individuals with type 3 disease have neurologic involvement.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/944157-clinical">Clinical Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>Diagnosis can be confirmed through measurement of glucocerebrosidase activity in peripheral blood leukocytes. A finding of less than 15% of mean normal activity is diagnostic. Minor elevations of liver and angiotensin-converting enzyme levels are common. </para>
+        <para>See <a href="http://emedicine.medscape.com/article/944157-workup">Workup</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Enzyme replacement therapy (ERT) is indicated for patients with type 1 Gaucher disease who exhibit clinical signs and symptoms of the disease, including anemia, thrombocytopenia, skeletal disease, or visceromegaly. An oral glucosylceramide inhibitor is an alternate efficacious therapy.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/944157-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/944157-medication">Medication</a> for more detail. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a4">
+      <title>Background</title>
+      <pgroup>
+        <para>Gaucher disease is a <a href="http://emedicine.medscape.com/article/945966-overview">lipid storage disease</a> characterized by the deposition of glucocerebroside in cells of the macrophage-monocyte system. The disorder results from the deficiency of a specific lysosomal hydrolase, glucocerebrosidase (also termed acid beta-glucosidase, glucosylceramidase). The disease is characterized by a continuum of phenotypes. The severity widely varies; some patients present in childhood with virtually all the complications of Gaucher disease, whereas others remain asymptomatic into the eighth decade of life. </para>
+        <para>Gaucher disease has traditionally been divided into the following 3 clinical subtypes, delineated by the absence or presence of neurologic involvement and its progression: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Type 1 - Nonneuronopathic form</para>
+          </listitem>
+          <listitem>
+            <para>Type 2 - Acute neuronopathic form</para>
+          </listitem>
+          <listitem>
+            <para>Type 3 - Chronic neuronopathic form</para>
+          </listitem>
+        </itemizedlist>
+        <para>However, some cases do not fit precisely into one of these categories. All forms of Gaucher disease are autosomal recessively inherited. </para>
+        <figure id="44033">
+          <title>Autosomal recessive inheritance pattern. </title>
+          <caption>Autosomal recessive inheritance pattern. </caption>
+          <graphic fileref="/33/44033.jpg" format="IMAGE" id="44033" extension_format="JPG"/>
+          <graphic fileref="/33/44033tn.jpg" format="IMAGE_THUMB" id="44033"/>
+        </figure>
+        <para>Type 1 Gaucher disease is more common among individuals of Ashkenazi Jewish descent, although all 3 types are panethnic in their distribution. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Glucosylceramide, the accumulated glycolipid, is primarily derived from the phagocytosis and degradation of senescent leukocytes and, to a lesser extent, from erythrocyte membranes. The glycolipid storage gives rise to the characteristic Gaucher cells, macrophages engorged with lipid with a crumpled–tissue-paper appearance and displaced nuclei. The factors that contribute to neurologic involvement in patients with types 2 and 3 disease are still unknown but may be related to the accumulation of a cytotoxic glycolipid, glucosylsphingosine, in the brain due to the severe deficiency of glucocerebrosidase activity or to neuroinflammation.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+        <para>Glucosylceramide accumulation in the bone marrow, liver, spleen, lungs, and other organs contributes to pancytopenia, massive hepatosplenomegaly, and, at times, diffuse infiltrative pulmonary disease. Progressive infiltration of Gaucher cells in the bone marrow may lead to thinning of the cortex, pathologic fractures, bone pain, bony infarcts, and osteopenia. These bony features may also be related to macrophage-produced cytokines. </para>
+        <para>Disruption of the ceramide-to-glucosylceramide ratio can affect barrier formation in the epidermal layer of the skin, leading to ichthyosis or a collodion skin presentation in individuals who are severely affected (those with type 2). </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>
+          <strong>United States</strong>
+        </para>
+        <para>Type 1 Gaucher disease more common among Jewish people of Eastern European origin; the carrier frequency in these individuals is approximately 1 per 15 population, whereas the disease frequency is 1 per 855 population. Gaucher disease is rare in the non-Jewish population, with an estimated frequency of 1 per 40,000 population. </para>
+        <para>
+          <strong>International</strong>
+        </para>
+        <para>International disease frequency is similar to that in the United States, except for areas of the world with large Ashkenazi Jewish populations. Most patients worldwide are non-Jewish. As many as 60% of patients of Ashkenazi origin are estimated to be homozygous for the mild N370S mutation, which accounts for 75% of disease alleles in this population. Many individuals with this genotype never seek medical attention, contributing to an underestimation of the disease frequency. Type 3 disease is more common in the Norrbottnian region of Sweden (1 per 50,000 population), which has been traced to a common founder in the 17th century. </para>
+      </pgroup>
+      <pgroup>
+        <title>Mortality/Morbidity</title>
+        <para>Mortality and morbidity varies with the different types.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>Type 1 Gaucher disease often presents in childhood with hepatosplenomegaly, pancytopenia, and skeletal disease, although striking clinical variability occurs in disease severity. </para>
+        <para>Type 2 Gaucher disease causes rapidly progressive neurovisceral storage disease and death during infancy or during the first years of life. A subset of this type, associated with congenital ichthyosis and <a href="http://emedicine.medscape.com/article/974571-overview">hydrops fetalis</a>, is described as neonatal lethal and results in perinatal or in utero death. </para>
+        <para>Type 3 Gaucher disease is often a less rapidly progressive neurovisceral storage disease. Various associated clinical courses have been reported, some of which cause death in childhood or early adulthood. </para>
+      </pgroup>
+      <pgroup>
+        <title>Race</title>
+        <para>All forms of Gaucher disease are panethnic. Type 1 Gaucher disease is the most common lysosomal storage disease and is the most prevalent genetic disorder in individuals of Ashkenazi Jewish descent. Type 3 disease is more common in the Norrbottnian region of Sweden. </para>
+      </pgroup>
+      <pgroup>
+        <title>Sex</title>
+        <para>All 3 types of Gaucher disease are inherited as autosomal recessive traits and have an equal sex distribution.</para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>Patients with type 1 Gaucher disease may present in childhood with hepatosplenomegaly, pancytopenia, and crippling skeletal disease. Some patients are not diagnosed until adulthood, when they present with low blood counts or bone involvement, whereas others are diagnosed in the seventh to ninth decades of life after an incidental finding of thrombocytopenia or splenomegaly. Many affected individuals never develop signs or symptoms and do not seek medical attention. Types 2 and 3 Gaucher disease typically present in early childhood. Some subjects with parkinsonism have been found to have Gaucher disease at a later age. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Because Gaucher disease is inherited as an autosomal recessive trait, the proband is commonly the first affected individual in the family. </para>
+      </pgroup>
+      <pgroup>
+        <title>Type 1 Gaucher disease</title>
+        <para>At onset, patients with type 1 Gaucher disease commonly present with painless splenomegaly, anemia, or thrombocytopenia. They may also have chronic fatigue, hepatomegaly (with or without abnormal liver function test findings), bone pain, or pathologic fractures and may bruise easily because of thrombocytopenia. Bleeding secondary to thrombocytopenia may manifest as nosebleeds, bruising, or both.</para>
+        <para>In symptomatic patients, splenomegaly is progressive and can become massive. Children with massive splenomegaly may be short in stature because of the energy expenditure required by the enlarged organ.</para>
+        <para>Most patients with type 1 Gaucher disease have radiologic evidence of skeletal involvement, including an Erlenmeyer flask deformity of the distal femur, which is an early skeletal change. Clinically apparent bony involvement, which occurs in more than 20% of patients with Gaucher disease, can present as bone pain or pathologic fractures. In patients with symptomatic bone disease, lytic lesions can develop in the long bones, ribs, and pelvis, and osteosclerosis or osteopenia may be evident at an early age. Bone crises with severe pain and swelling can occur in individuals with type 1 Gaucher disease and are frequently mistaken for synovitis or osteomyelitis until other symptoms become apparent.</para>
+        <para>Occasional patients with type 1 Gaucher disease develop pulmonary involvement, parkinsonism, multiple myeloma, or portal hypertension. </para>
+        <para>Patients with milder presentations of Gaucher disease are diagnosed later in life during evaluations for hematologic or skeletal problems or are found to have splenomegaly during routine examinations. Some patients are overtly asymptomatic, and a diagnosis is made incidentally after evaluation for other medical problems. </para>
+      </pgroup>
+      <pgroup>
+        <title>Type 2 Gaucher disease</title>
+        <para>Type 2 disease is rare and is characterized by a rapid neurodegenerative course with extensive visceral involvement and death within the first 2 years of life.</para>
+        <para>Patients with this type may present at birth or during infancy with increased tone, seizures, strabismus, and organomegaly. Disruption of the epidermal layers of the skin, observed on skin biopsy findings, may manifest before the onset of neurological symptoms, but this may not always be clinically apparent.</para>
+        <para>Failure to thrive, swallowing abnormalities, oculomotor apraxia, hepatosplenomegaly, and stridor due to laryngospasm are typical in infants with type 2 disease.</para>
+        <para>The progressive psychomotor degeneration and brain stem involvement leads to death, usually caused by aspiration and respiratory compromise. </para>
+        <para>A severe neonatal form can present in utero or perinatally with hydrops fetalis, congenital ichthyosis, or both.</para>
+      </pgroup>
+      <pgroup>
+        <title>Type 3 Gaucher disease</title>
+        <para>This form of Gaucher disease widely varies and can present in infancy or childhood.</para>
+        <para>In addition to organomegaly and bony involvement, individuals with type 3 disease have neurologic involvement.</para>
+        <para>The slowing of the horizontal saccades, an oculomotor finding, is often the sole neurologic manifestation. Some patients develop myoclonic epilepsy, exhibit learning disabilities, or develop dementia.</para>
+        <para>One rare subgroup of patients with type 3 Gaucher disease present with oculomotor findings, calcifications of the mitral and aortic valves, and corneal opacities. The phenotype is associated with homozygosity for the D409H mutant allele.</para>
+        <para>Another rare subgroup of patients with type 3 Gaucher disease is a genetic isolate from the Norrbottnian region of Sweden, homozygous for the L444P mutation. These individuals present in early childhood with visceral and skeletal involvement and oculomotor abnormalities and may develop seizures, cognitive disabilities, and dementia. </para>
+        <para>Some specific learning disabilities are common in children with type 3 Gaucher disease.</para>
+      </pgroup>
+      <pgroup>
+        <title>Type 2-3 intermediate Gaucher disease</title>
+        <para>Some patients present with severe neurovisceral manifestations in infancy or early childhood but survive past the second year of life, with death occurring in mid childhood (age 3-7 y). These patients are considered to fall within the phenotypic continuum between types 2 and 3. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>Physical examination findings in type 1 disease usually include hepatosplenomegaly. Splenomegaly may be dramatic, with the splenic tip extending to the pelvis. Bruising along the anterior aspect of the shins and petechiae may be evident in patients with thrombocytopenia. Short stature and wasting are occasionally found in patients with massive organomegaly. In addition to these findings, patients with types 2 and 3 disease may have developmental delay, oculomotor abnormalities, and abnormal neurologic examinations.</para>
+      </pgroup>
+      <pgroup>
+        <title>Splenomegaly</title>
+        <para>Patients present with highly variable degrees of splenomegaly, with a size increase that ranges from 5-fold to more than 80-fold when adjusted for body weight (average spleen is approximately 0.2% of body weight). The absolute size of the spleen has been known to vary between 300 g to more than 10 kg, accounting for up to 25% of body weight.</para>
+        <para>Enlargement of the spleen appears to be most rapid in children with Gaucher disease. Rapid enlargement of the spleen in an adult with the disease should prompt suspicion of an associated disorder that may increase glycolipid turnover, such as hematologic malignancy, immune thrombocytopenia, or autoimmune hemolytic anemia. </para>
+        <para>Nodules on the surface of the spleen may represent regions of extramedullary hematopoiesis, collections of Gaucher cells, or resolving infarcts. Evidence of old infarcts is common in spleens that are enlarged more than 20-fold. Most splenic infarcts are asymptomatic, but subcapsular infarcts can present as localized abdominal pain. Intracapsular bleeding may also occur. </para>
+      </pgroup>
+      <pgroup>
+        <title>Hepatomegaly </title>
+        <para>Hepatomegaly occurs in more than 50% of patients with type 1 Gaucher disease. In a series of 88 patients, liver volumes ranged from within the reference range to 8.7-fold more than the predicted normal weight (normal is 2.5% of body weight), with a median of 1.75%.</para>
+        <para>Hepatic glucocerebroside levels are elevated from 23-fold to 389-fold above the reference range.</para>
+        <para>The massively enlarged liver is usually firm to palpation, with an irregular surface. Cirrhosis and portal hypertension are uncommon but occur in a small number of patients with Gaucher disease. Compression of the sinusoids by Gaucher cells can accentuate portal hypertension.</para>
+        <para>Death from variceal bleeding has been reported, especially prior to enzyme replacement therapy. Minor elevations of liver enzyme levels are common, even in patients who are mildly affected, but the presence of jaundice or impaired hepatocellular synthetic function is a poor prognostic indicator. Jaundice in a patient with Gaucher disease is usually a result of infection, the development of chronic hepatitis, or, rarely, hepatic decompensation in the late stages. The presence of unconjugated hyperbilirubinemia is more suggestive of hemolysis. </para>
+        <para>Elevated levels of serum ferritin are occasionally found in individuals with Gaucher disease; however, transferrin saturation is usually normal. Glycolipid-laden Gaucher cells are evident in the sinusoids on liver biopsy findings, but the hepatocytes do not manifest overt glycolipid storage, presumably because of biliary excretion of glucocerebroside and the fact that exogenous glycolipid turnover is handled by the mononuclear phagocytes. Sparing of hepatocytes is consistent with the low incidence of liver failure in individuals with Gaucher disease. </para>
+      </pgroup>
+      <pgroup>
+        <title>Skeletal manifestations</title>
+        <para>Skeletal manifestations of Gaucher disease vary, ranging from asymptomatic Erlenmeyer flask deformity of the distal femora to pathologic fractures, vertebral collapse, and acute bone crises that can be confused with acute osteomyelitis.</para>
+        <para>Painful bone crises result from episodes of bone infarction, leading to osteosclerosis analogous to that occurring in sickle cell disease. </para>
+        <para>In children with Gaucher disease, acute hip lesions can be misinterpreted as Legg-Calvé-Perthes disease, and avascular necrosis of the hips is a common complication in individuals of all ages. </para>
+      </pgroup>
+      <pgroup>
+        <title>Hematologic complications</title>
+        <para>Hematologic manifestations of Gaucher disease include cytopenia and acquired coagulopathy due to factor XI deficiency. However, genetic factor XI deficiency is common in individuals of Ashkenazi descent and may be present in some patients with Gaucher disease.</para>
+        <para>Cytopenia that develops in patients who have undergone splenectomy reflects advanced marrow infiltration by Gaucher cells. Bone marrow failure and myelofibrosis occur in a small number of these patients. </para>
+        <para>Numerous immunologic abnormalities are common in individuals with Gaucher disease, including hypergammaglobulinemia, T-lymphocyte deficiency in the spleen, and impaired neutrophil chemotaxis. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>All 3 forms of Gaucher disease are caused by glucocerebrosidase activity deficiency due to mutations in <em>GBA1,</em> the structural gene that encodes the enzyme. Widespread accumulation of glucosylceramide-laden macrophages results from the enzyme deficiency. </para>
+        <para>More than 300 different mutant GBA1 alleles have been identified in patients with Gaucher disease. Screening for the 6 most common <em>GBA1</em> mutations in patients of Ashkenazi Jewish descent has enabled the identification of 90%-95% of the mutant alleles in this population, but a large number of other mutations have been described in other populations, making screening impractical. </para>
+        <para>Some mutations derive from recombination with the glucocerebrosidase pseudogene, a sequence 15 kb downstream that shares 96% sequence homology to glucocerebrosidase. Complex alleles with regions of pseudogene sequence, in which simple polymerase chain reaction (PCR)–based mutation detection screening is inadequate, have been identified in some patients. </para>
+        <para>Genotype and phenotype correlations have been noted in some specific Gaucher presentations. For example, patients with type 1 Gaucher disease who are homozygous for the N370S mutation tend to have a later onset and a relatively mild course, and patients with type 3 Gaucher disease who are homozygous for the D409H mutation exhibit a rare phenotype that involves cardiac calcifications, oculomotor abnormalities, and corneal opacities. However, clinical presentation in patients with Gaucher disease widely varies and frequently cannot be fully explained by the underlying mutations because severity can vary even among siblings who have identical genotypes. </para>
+        <para>Similarly, the amount of residual enzymatic activity does not accurately predict disease subtype and severity, with the exception that many of the mutations identified in patients with severe type 2 Gaucher disease express little, if any, enzymatic activity in vitro. These are frequently nonsense, frame-shift, or recombinant alleles that cannot form a complete protein and are essentially null alleles. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Multiple myeloma</para>
+      <para>Parkinson disease: This is more common in patients with Gaucher disease and <em>GBA1</em> mutation carriers. Subjects with Parkinson disease are more than 5 times more likely to have a mutation in the glucocerebrosidase gene.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+      <para>Lewy body dementia: Patients with Lewy body dementia are also far more likely to carry a mutation in <em>GBA1</em>.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+    </intro>
+    <ddlist>
+      <dditem ref="951564">
+        <title>Sphingomyelinase Deficiency</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c3">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <title>Enzyme activity testing</title>
+        <para>Diagnosis can be confirmed through measurement of glucocerebrosidase activity in peripheral blood leukocytes. A finding of less than 15% of mean normal activity is diagnostic. Heterozygotes generally have half-normal enzyme activity, but as much as 20% overlap with activity levels of healthy controls has been reported, rendering enzymatic testing for carrier status unreliable. </para>
+      </pgroup>
+      <pgroup>
+        <title>Genotype testing</title>
+        <para>Molecular diagnosis can be helpful, especially in Ashkenazi patients, in whom 6 <em>GBA1</em> mutations (ie, N370S, c.84insG, L444P, IVS2+1g&gt;a, V394L, and R496H) account for most disease alleles. In other ethnicities, sequencing of the exons of <em>GBA1</em> is necessary in order to accurately establish the genotype. Mutation analysis has some, albeit limited, predictive value with respect to disease progression. Caution should be taken in relying solely on PCR-based test results for individual mutations because they cannot reveal the presence of recombinant alleles associated with greater disease severity. </para>
+      </pgroup>
+      <pgroup>
+        <title>CBC count</title>
+        <para>Obtain CBC count and differential to assess the degree of cytopenia. </para>
+      </pgroup>
+      <pgroup>
+        <title>Liver function enzyme testing</title>
+        <para>Minor elevations of liver enzyme levels are common, even in patients who are mildly affected with Gaucher disease; however, the presence of jaundice or impaired hepatocellular synthetic function merits a full hepatic evaluation. Coagulations studies should be monitored. </para>
+      </pgroup>
+      <pgroup>
+        <title>Associated marker testing</title>
+        <para>Angiotensin-converting enzyme levels are typically elevated, as are total acid phosphatase and ferritin levels. Monitoring levels of another enzyme, chitotriosidase, is also useful in monitoring the disease, except in the 10% of the population who have a deficiency in this protein. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c4">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>Ultrasonography of the abdomen can reveal the extent of organomegaly. MRI is more accurate than ultrasonography in determining organ size. Hip MRI may be useful in revealing early avascular necrosis. MRI may be useful in delineating the degree of marrow infiltration and evaluating spinal involvement. Skeletal radiography can be used to detect and evaluate skeletal manifestations of Gaucher disease. Perform chest radiography to evaluate pulmonary manifestations. Dual-energy x-ray absorptiometry (DEXA) is useful in evaluating osteopenia. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c5">
+      <title>Other Tests</title>
+      <pgroup>
+        <para>Echocardiograms are helpful in evaluating the possibility of pulmonary hypertension.</para>
+        <para>In neurononpathic Gaucher disease, EEG, brainstem-evoked potential, swallow studies, and neuro-ophthalmalogic evaluation should be performed at regular intervals. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Procedures</title>
+      <pgroup>
+        <title>Bone marrow aspiration </title>
+        <para>In the past, the diagnosis was confirmed with the finding of classic glycolipid-laden macrophages in bone marrow aspirate collected because of hematological abnormalities; however, aspiration is not a recommended diagnostic tool. Similar pseudo-Gaucher cells have also been described in individuals with other disorders, including chronic granulocytic leukemia, <a href="http://emedicine.medscape.com/article/958850-overview">thalassemia</a>, multiple myeloma, <a href="http://emedicine.medscape.com/article/987101-overview">Hodgkin disease</a>, plasmacytoid lymphomas, acquired immunodeficiency syndrome (AIDS), and <em>Mycobacterium avium–</em> intracellulare infection. </para>
+        <para>Bone marrow aspiration should not be the initial diagnostic test because the blood enzyme test is sensitive, specific, and much less invasive. </para>
+      </pgroup>
+      <pgroup>
+        <title>Liver biopsy</title>
+        <para>Liver biopsy is occasionally performed to assess unexplained hepatomegaly. It can be avoided in most patients when the diagnosis is suspected because a specific diagnostic test is available. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Histologic Findings</title>
+      <pgroup>
+        <para>In Gaucher disease, classic glycolipid-laden macrophages are found in bone marrow aspirate or in liver biopsy samples. On liver biopsy samples, glycolipid-laden Gaucher cells are evident in the sinusoids, but the hepatocytes do not manifest overt glycolipid storage, presumably because of biliary excretion of glucocerebroside and because exogenous glycolipid turnover is handled by the mononuclear phagocytes. The sparing of hepatocytes is consistent with the low incidence of liver failure in individuals with Gaucher disease. </para>
+        <para>The pathologic hallmark of Gaucher disease is the presence of Gaucher cells in the macrophage-monocyte system, particularly in the bone marrow. These cells, which are 20-100 mm in diameter, have a characteristic wrinkled-paper appearance, resulting from intracytoplasmic substrate deposition, and stain strongly positive with periodic acid–Schiff. Histologic evaluation of biopsy specimens should not be used as a first-line diagnostic tool. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d5">
+      <title>Medical Care</title>
+      <pgroup>
+        <title>Enzyme replacement</title>
+        <para>Enzyme replacement therapy (ERT) for type 1 Gaucher disease includes imiglucerase (Cerezyme), velaglucerase alfa (VPRIV), and taliglucerase alfa (Elelyso). Historically, most patients received the recombinant enzyme imiglucerase.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>This preparation is highly effective in reversing the visceral and hematologic manifestations of Gaucher disease. However, skeletal disease is slow to respond, and pulmonary involvement is relatively resistant to the enzyme. Treatment is typically administered once every other week at a high dose, but, in some patients, treatment is administered every week at a medium dose or as many as 3 times per week at low doses. Good responses have been described with all dose regimens, and the issue of the most suitable initial and maintenance dosages remains controversial. </para>
+        <para>ERT is indicated for patients with type 1 Gaucher disease who exhibit clinical signs and symptoms of the disease, including anemia, thrombocytopenia, skeletal disease, or visceromegaly. Severity and rate of disease progression widely varies, especially in adults, which makes treatment decisions extremely difficult in some patients. Generally, children who present symptomatically, rather than because of family history, may have severe disease manifestations that require early treatment. Presymptomatic treatment with ERT remains controversial because of the lack of prognostic correlation between genotype and disease severity and the high cost of the therapy. </para>
+        <para>For most patients with Gaucher disease in the United States, treatment with ERT is typically guided by a geneticist or a hematologist. Patients should receive periodic follow-up at a center familiar with Gaucher disease, if possible. </para>
+        <para>ERT has a remarkable effect on hepatosplenomegaly, with an average overall decrease of 25% in liver and spleen volume after 6 months of therapy. In most patients with anemia, hemoglobin levels rise by 1.5 g/dL during the first 4-6 months of therapy. An additional increase of 1 g/dL is observed in the subsequent 9-18 months in patients with persistent anemia. The platelet count responds more slowly, doubling on average over 1 year. The hematologic status of patients with splenomegaly must be closely monitored, and splenectomy is still occasionally necessary. </para>
+        <para>Skeletal disease is the slowest to respond, with symptomatic improvement described by some within the first year of treatment, although a much longer period of ERT is required to achieve a radiologic response. Patients with bone crises require pain relief, hydration, and close monitoring. A bone scan is sometimes needed to differentiate between a bone crisis and infection.</para>
+        <para>Other effects of ERT in children with Gaucher disease include an increased growth velocity, weight gain, increased energy levels, and a correction of both delayed puberty and hypermetabolic state.</para>
+        <para>The response of patients to ERT widely varies and does not correlate with genotype, disease severity, splenectomy, or age. However, a number of factors, including cirrhosis and portal hypertension, extensive infarction and fibrosis of the spleen, and lung involvement, portend a poor response to therapy. </para>
+        <para>The symptoms of patients with Gaucher disease who have associated hematologic malignancies respond relatively poorly to ERT. To overcome these difficulties, increased dosage and frequency of enzyme infusions have been attempted. The symptoms of patients with decompensated liver disease do not appear to respond well to ERT, and these patients remain at risk for life-threatening hemorrhage due to variceal bleeding. </para>
+        <para>No evidence shows that ERT results in neurologic improvement. Although the enzyme affects the visceral involvement in types 2 and 3 disease, the associated brain involvement may persist or progress. </para>
+      </pgroup>
+      <pgroup>
+        <title>Glucosylceramide synthase inhibitors</title>
+        <para>Glucosylceramide synthase inhibitors include miglustat (Zavesca) and eliglustat (Cerdelga). Miglustat was approved in 2003 as monotherapy for treatment of adults with mild-to-moderate type 1 Gaucher disease for whom enzyme replacement therapy is not a therapeutic option. </para>
+        <para>Eliglustat was approved in August 2014 as first-line treatment for the long-term treatment of adults with Gaucher disease type 1. The dose of eliglustat is determined by establishing the patient’s CYP2D6 phenotype (ie, extensive metabolizers [EM], intermediate metabolizers [IM], or poor metabolizers [PM]). </para>
+        <para>Approval was based on efficacy data from 2 positive phase 3 studies involving 199 patients. One study involved patients new to therapy (trial 1), and the other involved patients switching from approved enzyme replacement therapies (trial 2). Efficacy data from 4 years of the Cerdelga phase 2 study also contributed to the approval. Improvements in study participants were observed in spleen size, platelet levels, hemoglobin levels, and liver volume, and noninferiority to enzyme replacement therapy (imiglucerase) was established in trial 2.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d6">
+      <title>Surgical Care</title>
+      <pgroup>
+        <para>Partial and total splenectomy was once advocated in the treatment of patients with Gaucher disease. However, with the availability of ERT, this procedure is no longer necessary in most patients. </para>
+        <para>In addition, patients with Gaucher disease may require hip replacements or other orthopedic procedures to treat skeletal disease. This is best undertaken after the patient has undergone several months of ERT. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d7">
+      <title>Consultations</title>
+      <pgroup>
+        <para>Consultations with the following specialists are indicated:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Medical geneticist</para>
+          </listitem>
+          <listitem>
+            <para>Hematologist</para>
+          </listitem>
+          <listitem>
+            <para>Orthopedist</para>
+          </listitem>
+          <listitem>
+            <para>Neurologist</para>
+          </listitem>
+          <listitem>
+            <para>Neuro-ophthalmologist</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d8">
+      <title>Diet</title>
+      <pgroup>
+        <para>No dietary manipulation has been found to affect disease progression.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Activity</title>
+      <pgroup>
+        <para>Patients with massive splenomegaly or severe thrombocytopenia should avoid contact sports and any other activities that place them at risk for splenic rupture or bleeding. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Several therapies have been approved by the US Food and Drug Administration (FDA) for the treatment of type 1 Gaucher disease. Enzyme replacement therapy (ERT) with glucocerebrosidase purified from human placenta was FDA approved in 1991, followed by approval in 1994 of a recombinant form of the enzyme produced in cultured Chinese hamster ovary (CHO) cells, marketed as imiglucerase (Cerezyme). Worldwide, over 4,000 patients with Gaucher disease have received ERT, which is safe and well tolerated. </para>
+      <para>In 2010, an alternate form of ERT was approved. This form of recombinant enzyme is produced in cultured human cells and is marketed as velaglucerase alfa (VPRIV).<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10, <ref_inline id="refsrc11" name="refsrc11"/>11] </sup>In May 2012, taliglucerase alfa (Elelyso) was the first plant cell–based ERT approved by the FDA; it uses engineered carrot cells.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+      <para>The glucosylceramide synthase inhibitors, miglustat and eliglustat, were approved for adults with type 1 Gaucher disease in 2003 and 2014 respectively.</para>
+      <para>Approximately 10-15% of patients with Gaucher disease treated with imiglucerase develop antibodies to the enzyme protein, but few develop any significant allergic reactions, which are controlled with premedication with hydrocortisone, antihistamines, or both. All antibodies have immunoglobulin G (IgG), mostly of the IgG1 subclass. A few patients with Gaucher disease have developed antibodies that impair enzyme activity. </para>
+    </intro>
+    <cgroup id="156424">
+      <title>Enzyme replacement therapy</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>In most cases, ERT is highly effective in reversing the visceral and hematologic manifestations of type 1 Gaucher disease. Recombinant beta-glucocerebrosidase (imiglucerase [Cerezyme]) has replaced the original tissue-derived product, alglucerase (Ceredase). Alglucerase is an orphan drug and still manufactured by Genzyme Corporation on an extremely limited basis for a few patients unable to tolerate the newer recombinant product. Presymptomatic use is controversial because of the high cost and the extremely variable clinical course. </para>
+        <para>Imiglucerase is approved for children aged 2 years or older. Velaglucerase and taliglucerase are both approved for children aged 4 years or older. </para>
+      </intro>
+      <drug did="342844" name="Imiglucerase (Cerezyme)" uri="cerezyme-imiglucerase-342844">
+        <title>Imiglucerase (Cerezyme)</title>
+        <para>A recombinant-derived analog of beta-glucocerebrosidase produced in mammalian cell culture and chemically modified by mannose termination of glycosylated amino acids. Catalyzes hydrolytic cleavage of glucocerebroside (a glycoprotein) to glucose and ceramide within the lysosomes of phagocytic cells in the reticuloendothelial system. Treatment with recombinant enzyme improves anemia and thrombocytopenia, reduces spleen and liver size, and decreases cachexia </para>
+      </drug>
+      <drug did="999482" name="Velaglucerase alfa (VPRIV)" uri="vpriv-velaglucerase-alfa-999482">
+        <title>Velaglucerase alfa (VPRIV)</title>
+        <para>Hydrolytic lysosomal glucocerebroside-specific enzyme indicated for long-term enzyme replacement therapy for type 1 Gaucher disease. Improves symptoms associated with the disease, including anemia, thrombocytopenia, increased spleen and liver size, and cachexia. </para>
+      </drug>
+      <drug did="999744" name="Taliglucerase alfa (Elelyso)" uri="elelyso-taliglucerase-alfa-999744">
+        <title>Taliglucerase alfa (Elelyso)</title>
+        <para>Taliglucerase is a plant-based recombinant enzyme. It catalyzes the hydrolysis of glucocerebroside to glucose and ceramide, which results in reduced spleen and liver enlargement and increased RBCs and platelets. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="156425">
+      <title>Glucosylceramide Synthase Inhibitors</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>These agents inhibit the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions that result in the synthesis of most glycosphingolipids, including glucocerebroside. The goal of treatment is to reduce the rate of glucocerebroside biosynthesis so that the amount is reduced to a level that allows the residual activity of the deficient glucocerebrosidase enzyme to be more effective (substrate reduction therapy). </para>
+      </intro>
+      <drug did="342874" name="Miglustat (Zavesca)" uri="zavesca-miglustat-342874">
+        <title>Miglustat (Zavesca)</title>
+        <para>Indicated for type 1 Gaucher disease in patients in whom ERT is not a therapeutic option. Reduces GSL production by inhibiting glucosylceramide synthase. Reduces spleen and liver volume and increases hemoglobin and platelet counts. </para>
+      </drug>
+      <drug did="999938" name="Eliglustat (Cerdelga)" uri="cerdelga-eliglustat-999938">
+        <title>Eliglustat (Cerdelga)</title>
+        <para>Eliglustat is a specific inhibitor of glucosylceramide synthase, thereby reducing production of glucosylceramide. It is indicated for the long-term treatment of adults with Gaucher disease type 1 who are CYP2D6 extensive metabolizers (EM), intermediate metabolizers (IM), or poor metabolizers (PM) as detected by an FDA-cleared test for phenotype. Dosage is based on establishing the patient's CYP2D6 metabolizer status. </para>
+      </drug>
+    </cgroup>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e1">
+      <title>Further Outpatient Care</title>
+      <pgroup>
+        <para>Most symptomatic patients with Gaucher disease receive enzyme replacement therapy (ERT), which is provided on an outpatient basis.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>Monitoring for allergic reactions is essential. </para>
+        <para>Monitoring patients who receive miglustat (Zavesca) every 6 months for possible development of peripheral neuropathy is recommended.</para>
+        <para>Patients with osteoporosis have responded favorably to bisphosphonates.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e2">
+      <title>Further Inpatient Care</title>
+      <pgroup>
+        <para>Patients with Gaucher disease who have bone crises may require admission for pain relief. Patients with severe hematologic manifestations may have episodes of bleeding that require inpatient treatment. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e3">
+      <title>Deterrence/Prevention</title>
+      <pgroup>
+        <para>Gaucher disease is inherited as an autosomal recessive trait. Although it is panethnic, Gaucher disease is more common in individuals of Ashkenazi Jewish. Although carrier-screening programs in this population have been established at some centers to identify couples at risk for having a child affected with Gaucher disease, testing must be offered in conjunction with genetic counseling to provide couples at risk, even asymptomatic individuals, with a description of the range of associated phenotypes and their options, which include prenatal diagnosis. </para>
+        <para>Newborn screening is not performed for Gaucher disease.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e4">
+      <title>Complications</title>
+      <pgroup>
+        <para>Bone crises may occur secondarily to infarcts. Avascular necrosis of the hip is not uncommon. </para>
+        <para>Splenic rupture can result from trauma.</para>
+        <para>Cirrhosis is a rare complication.</para>
+        <para>Rarely, pulmonary infiltration by Gaucher cells may manifest as overt lung disease, which may present as pulmonary infiltrates and lung consolidation; this pattern is especially common in patients with type 2 disease. </para>
+        <para>Parenchymal infiltration with fibrosis has been described in children with type 3 disease.</para>
+        <para>Intrapulmonary vascular dilatation in the presence or absence of portal hypertension has also been described in some patients with Gaucher disease, resulting in hypoxic lung disease. </para>
+        <para>Adult patients with pulmonary hypertension in the absence of infiltrative disease have been described; these patients may follow an inexorable progressive course despite therapy. </para>
+        <para>Hematologic abnormalities, including anemia, thrombocytopenia, and leukopenia, are common in individuals with Gaucher disease</para>
+        <para>Immunologic abnormalities, including hypergammaglobulinemia, T-lymphocyte deficiency in the spleen, and impaired neutrophil chemotaxis, are also common. The malignancy multiple myeloma is more common in individuals with Gaucher disease. </para>
+        <para>New evidence suggests that mutations in the gene for glucocerebrosidase are a risk factor for the development of Parkinson disease.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15] </sup>Of subjects with Parkinson disease and related Lewy body disorders, 3-20% carry a mutation in glucocerebrosidase, with the higher frequency being among Ashkenazi Jewish subjects.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Many individuals with Gaucher disease have few manifestations and a normal life expectancy without any intervention.</para>
+        <para>The prognosis for symptomatic patients with type 1 or type 3 Gaucher disease who receive treatment is very good, with a decrease in organomegaly and an eventual rise in hemoglobin levels and platelet counts. </para>
+        <para>A recent study estimated life expectancy at birth in patients with type 1 Gaucher disease to be 68 years, compared with 77 years in the reference population.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+        <para>Skeletal disease is slow to respond to ERT and widely varies.</para>
+        <para>Some patients describe symptomatic improvement within the first year of treatment, although a much longer period of ERT is required to achieve a radiologic response. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e6">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>Patients with Gaucher disease and their families require education regarding the disease manifestations, variability in symptoms and disease progression, and potential complications. In addition, they should be counseled regarding the genetic risks </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="44033">
+        <title>Autosomal recessive inheritance pattern. </title>
+        <caption>Autosomal recessive inheritance pattern. </caption>
+        <graphic fileref="/33/44033.jpg" format="IMAGE" id="44033" extension_format="JPG"/>
+        <graphic fileref="/33/44033tn.jpg" format="IMAGE_THUMB" id="44033"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Ellen Sidransky, MD</contrbtr_nm>
+        <contrbtr_title>Senior Investigator, Chief, Section on Molecular Neurogenetics, Medical Genetics Branch, National Human Genome Research Institute, NIH</contrbtr_title>
+        <contrbtr_bio>Ellen Sidransky, MD is a member of the following medical societies: <a href="http://www.ashg.org">American Society of Human Genetics</a>, <a href="http://www.movementdisorders.org">International Parkinson and Movement Disorder Society</a>, <a href="http://www.aps-spr.org">Society for Pediatric Research</a>, <a href="http://www.simd.org">Society for Inherited Metabolic Disorders</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Maria Descartes, MD</contrbtr_nm>
+        <contrbtr_title>Professor, Department of Human Genetics and Department of Pediatrics, University of Alabama at Birmingham School of Medicine</contrbtr_title>
+        <contrbtr_bio>Maria Descartes, MD is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.acmg.net">American College of Medical Genetics and Genomics</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.ashg.org">American Society of Human Genetics</a>, <a href="http://www.simd.org">Society for Inherited Metabolic Disorders</a>, <a href="http://www.isds.ch">International Skeletal Dysplasia Society</a>, <a href="http://sergg.org/">Southeastern Regional Genetics Group</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert D Steiner, MD</contrbtr_nm>
+        <contrbtr_title>Executive Director, Marshfield Clinic Research Foundation; Chief Science Officer, Marshfield Clinic; Clinical Professor, University of Wisconsin School of Medicine and Public Health</contrbtr_title>
+        <contrbtr_bio>Robert D Steiner, MD is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.aps-spr.org">Society for Pediatric Research</a>, <a href="http://www.aps-spr.org/Regions/WSPR/default.asp">Western Society for Pediatric Research</a>, <a href="http://www.simd.org">Society for Inherited Metabolic Disorders</a>, <a href="http://www.ssiem.org">Society for the Study of Inborn Errors of Metabolism</a>, <a href="http://www.acmg.net">American College of Medical Genetics and Genomics</a>, <a href="http://www.ashg.org">American Society of Human Genetics</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>The author acknosledges the assistance of Mary E. LaMarca, who co-authored the initial version of this chapter prior to her death in 2010. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="">
+      <para>Harrison L. Evidence Mounting for Eliglustat in Gaucher's Disease. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/834451">http://www.medscape.com/viewarticle/834451</a>. Accessed: November 10, 2014.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22566609">
+      <para>Vitner EB, Farfel-Becker T, Eilam R, Biton I, Futerman AH. Contribution of brain inflammation to neuronal cell death in neuronopathic forms of Gaucher's disease. <em>Brain</em>. 2012 Jun. 135(Pt 6):1724-35. <a href="http://reference.medscape.com/medline/abstract/22566609">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19094956">
+      <para>Grabowski GA. Phenotype, diagnosis, and treatment of Gaucher's disease. <em>Lancet</em>. 2008 Oct 4. 372(9645):1263-71. <a href="http://reference.medscape.com/medline/abstract/19094956">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19846850">
+      <para>Sidransky E, Nalls MA, Aasly JO, Aharon-Peretz J, Annesi G, Barbosa ER. Multicenter analysis of glucocerebrosidase mutations in Parkinson's disease. <em>N Engl J Med</em>. 2009 Oct 22. 361(17):1651-61. <a href="http://reference.medscape.com/medline/abstract/19846850">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856322/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24531622">
+      <para>Siebert M, Sidransky E, Westbroek W. Glucocerebrosidase is shaking up the synucleinopathies. <em>Brain</em>. 2014 May. 137:1304-22. <a href="http://reference.medscape.com/medline/abstract/24531622">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3999712/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23588557">
+      <para>Nalls MA,  Duran R,  Lopez G,  Kurzawa-Akanbi M,  McKeith IG,  Chinnery PF, et al. A multicenter study of glucocerebrosidase mutations in dementia with Lewy bodies. <em>JAMA Neurol</em>. 2013 Jun. 70(6):727-35. <a href="http://reference.medscape.com/medline/abstract/23588557">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841974/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19265747">
+      <para>Sidransky E, Pastores GM, Mori M. Dosing enzyme replacement therapy for Gaucher disease: older, but are we wiser?. <em>Genet Med</em>. 2009 Feb. 11(2):90-1. <a href="http://reference.medscape.com/medline/abstract/19265747">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2764305/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Cerdelga (eliglustat) prescribing information. [package insert]. IDA Industrial Park, Old Kilmeaden Road, Waterford, Ireland: Genzyme Ireland, Ltd. August 2014. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lowes, R. Medscape Medical News. FDA Clears Eliglustat (Cerdelga) for Gaucher Disease. Available at <a href="http://www.medscape.com/viewarticle/830172">http://www.medscape.com/viewarticle/830172</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20299511">
+      <para>Zimran A, Altarescu G, Phillips M, Attias D, Jmoudiak M, Deeb M. Phase I/II and extension study of velaglucerase alfa (Gene-ActivatedTM human glucocerebrosidase) replacement therapy in adults with type 1 Gaucher disease: 48-month experience. <em>Blood</em>. 2010 Mar 18. <a href="http://reference.medscape.com/medline/abstract/20299511">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19265747">
+      <para>Sidransky E, Pastores GM, Mori M. Dosing enzyme replacement therapy for Gaucher disease: older, but are we wiser?. <em>Genet Med</em>. 2009 Feb. 11(2):90-1. <a href="http://reference.medscape.com/medline/abstract/19265747">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2764305/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22654679">
+      <para>Hollak CE. An evidence-based review of the potential benefits of taliglucerase alfa in the treatment of patients with Gaucher disease. <em>Core Evid</em>. 2012. 7:15-20. <a href="http://reference.medscape.com/medline/abstract/22654679">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3363131/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19047232">
+      <para>Andersson H, Kaplan P, Kacena K, Yee J. Eight-year clinical outcomes of long-term enzyme replacement therapy for 884 children with Gaucher disease type 1. <em>Pediatrics</em>. 2008 Dec. 122(6):1182-90. <a href="http://reference.medscape.com/medline/abstract/19047232">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21723784">
+      <para>Westbroek W, Gustafson AM, Sidransky E. Exploring the link between glucocerebrosidase mutations and parkinsonism. <em>Trends Mol Med</em>. 2011 Sep. 17(9):485-93. <a href="http://reference.medscape.com/medline/abstract/21723784">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351003/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18338393">
+      <para>Hruska KS, LaMarca ME, Scott CR, Sidransky E. Gaucher disease: mutation and polymorphism spectrum in the glucocerebrosidase gene (GBA). <em>Hum Mutat</em>. 2008 May. 29(5):567-83. <a href="http://reference.medscape.com/medline/abstract/18338393">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18980271">
+      <para>Weinreb NJ,  Deegan P,  Kacena KA,  Mistry P,  Pastores GM,  Velentgas P, et al. Life expectancy in Gaucher disease type 1. <em>Am J Hematol</em>. 2008 Dec. 83(12):896-900. <a href="http://reference.medscape.com/medline/abstract/18980271">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19358035">
+      <para>Mamopoulos AM, Hughes DA, Tuck SM, Mehta AB. Gaucher disease and pregnancy. <em>J Obstet Gynaecol</em>. 2009 Apr. 29(3):240-2. <a href="http://reference.medscape.com/medline/abstract/19358035">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>AH Futerman and A Zimran. <em>Gaucher Disease</em>. Boca Raton, FL: CRC Press; 2006. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15669682">
+      <para>Amato D, Stachiw T, Clarke JT, Rivard GE. Gaucher disease: variability in phenotype among siblings. <em>J Inherit Metab Dis</em>. 2004. 27(5):659-69. <a href="http://reference.medscape.com/medline/abstract/15669682">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15714077">
+      <para>Andersson HC, Charrow J, Kaplan P, et al. Individualization of long-term enzyme replacement therapy for Gaucher disease. <em>Genet Med</em>. 2005 Feb. 7(2):105-10. <a href="http://reference.medscape.com/medline/abstract/15714077">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2023606">
+      <para>Barton NW, Brady RO, Dambrosia JM, et al. Replacement therapy for inherited enzyme deficiency--macrophage-targeted glucocerebrosidase for Gaucher's disease. <em>N Engl J Med</em>. 1991 May 23. 324(21):1464-70. <a href="http://reference.medscape.com/medline/abstract/2023606">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16515872">
+      <para>Beutler E. Lysosomal storage diseases: natural history and ethical and economic aspects. <em>Mol Genet Metab</em>. 2006 Jul. 88(3):208-15. <a href="http://reference.medscape.com/medline/abstract/16515872">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16185900">
+      <para>Beutler E, Gelbart T, Scott CR. Hematologically important mutations: Gaucher disease. <em>Blood Cells Mol Dis</em>. 2005 Nov-Dec. 35(3):355-64. <a href="http://reference.medscape.com/medline/abstract/16185900">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Beutler E, Grabowski GA, CR Scriver, et al Eds. The Metabolic and Molecular Bases of Inherited Disease. <em>McGraw-Hill, New York</em>. 2001. 3635-68. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10636167">
+      <para>Bohlega S, Kambouris M, Shahid M, et al. Gaucher disease with oculomotor apraxia and cardiovascular calcification (Gaucher type IIIC). <em>Neurology</em>. 2000 Jan 11. 54(1):261-3. <a href="http://reference.medscape.com/medline/abstract/10636167">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14722528">
+      <para>Charrow J, Andersson HC, Kaplan P, et al. Enzyme replacement therapy and monitoring for children with type 1 Gaucher disease: consensus recommendations. <em>J Pediatr</em>. 2004 Jan. 144(1):112-20. <a href="http://reference.medscape.com/medline/abstract/14722528">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14605497">
+      <para>Cox TM, Aerts JM, Andria G, et al. The role of the iminosugar N-butyldeoxynojirimycin (miglustat) in the management of type I (non-neuronopathic) Gaucher disease: a position statement. <em>J Inherit Metab Dis</em>. 2003. 26(6):513-26. <a href="http://reference.medscape.com/medline/abstract/14605497">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19425057">
+      <para>Depaolo J, Goker-Alpan O, Samaddar T, Lopez G, Sidransky E. The association between mutations in the lysosomal protein glucocerebrosidase and parkinsonism. <em>Mov Disord</em>. 2009 May 7. <a href="http://reference.medscape.com/medline/abstract/19425057">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2736332/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Futerman AH, Zimran A. Gaucher Disease. <em>CRC Press, Boca Raton, FL</em>. 2006. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12970647">
+      <para>Goker-Alpan O, Schiffmann R, Park JK, et al. Phenotypic continuum in neuronopathic Gaucher disease: an intermediate phenotype between type 2 and type 3. <em>J Pediatr</em>. 2003 Aug. 143(2):273-6. <a href="http://reference.medscape.com/medline/abstract/12970647">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19265748">
+      <para>Grabowski GA, Kacena K, Cole JA, et al. Dose-response relationships for enzyme replacement therapy with imiglucerase/alglucerase in patients with Gaucher disease type 1. <em>Genet Med</em>. 2009 Feb. 11(2):92-100. <a href="http://reference.medscape.com/medline/abstract/19265748">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9661800">
+      <para>Grabowski GA, Leslie N, Wenstrup R. Enzyme therapy for Gaucher disease: the first 5 years. <em>Blood Rev</em>. 1998 Jun. 12(2):115-33. <a href="http://reference.medscape.com/medline/abstract/9661800">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15762253">
+      <para>Itzchaki M, Lebel E, Dweck A, et al. Orthopedic considerations in Gaucher disease since the advent of enzyme replacement therapy. <em>Acta Orthop Scand</em>. 2004 Dec. 75(6):641-53. <a href="http://reference.medscape.com/medline/abstract/15762253">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15813845">
+      <para>Jmoudiak M, Futerman AH. Gaucher disease: pathological mechanisms and modern management. <em>Br J Haematol</em>. 2005 Apr. 129(2):178-88. <a href="http://reference.medscape.com/medline/abstract/15813845">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10796875">
+      <para>Koprivica V, Stone DL, Park JK, et al. Analysis and classification of 304 mutant alleles in patients with type 1 and type 3 Gaucher disease. <em>Am J Hum Genet</em>. 2000 Jun. 66(6):1777-86. <a href="http://reference.medscape.com/medline/abstract/10796875">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1378059/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16776912">
+      <para>[Guideline] Langlois S, Wilson RD. Carrier screening for genetic disorders in individuals of Ashkenazi Jewish descent. <em>J Obstet Gynaecol Can</em>. 2006 Apr. 28(4):324-43. <a href="http://reference.medscape.com/medline/abstract/16776912">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14728994">
+      <para>Lwin A, Orvisky E, Goker-Alpan O, et al. Glucocerebrosidase mutations in subjects with parkinsonism. <em>Mol Genet Metab</em>. 2004 Jan. 81(1):70-3. <a href="http://reference.medscape.com/medline/abstract/14728994">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9497866">
+      <para>Mistry PK, Abrahamov A. A practical approach to diagnosis and management of Gaucher's disease. <em>Baillieres Clin Haematol</em>. 1997 Dec. 10(4):817-38. <a href="http://reference.medscape.com/medline/abstract/9497866">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19433656">
+      <para>Mitsui J, Mizuta I, Toyoda A, Ashida R, et al. Mutations for Gaucher disease confer high susceptibility to Parkinson disease. <em>Arch Neurol</em>. 2009 May. 66(5):571-6. <a href="http://reference.medscape.com/medline/abstract/19433656">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8606477">
+      <para>NIH Technology Assessment Panel on Gaucher Disease. Gaucher disease. Current issues in diagnosis and treatment. <em>JAMA</em>. 1996 Feb 21. 275(7):548-53. <a href="http://reference.medscape.com/medline/abstract/8606477">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12595585">
+      <para>Park JK, Orvisky E, Tayebi N, et al. Myoclonic epilepsy in Gaucher disease: genotype-phenotype insights from a rare patient subgroup. <em>Pediatr Res</em>. 2003 Mar. 53(3):387-95. <a href="http://reference.medscape.com/medline/abstract/12595585">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8503443">
+      <para>Sibille A, Eng CM, Kim SJ, et al. Phenotype/genotype correlations in Gaucher disease type I: clinical and therapeutic implications. <em>Am J Hum Genet</em>. 1993 Jun. 52(6):1094-101. <a href="http://reference.medscape.com/medline/abstract/8503443">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682271/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15464415">
+      <para>Sidransky E. Gaucher disease: complexity in a "simple" disorder. <em>Mol Genet Metab</em>. 2004 Sep-Oct. 83(1-2):6-15. <a href="http://reference.medscape.com/medline/abstract/15464415">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1817041">
+      <para>Svennerholm L, Erikson A, Groth CG, et al. Norrbottnian type of Gaucher disease--clinical, biochemical and molecular biology  aspects: successful treatment with bone marrow transplantation. <em>Dev Neurosci</em>. 1991. 13(4-5):345-51. <a href="http://reference.medscape.com/medline/abstract/1817041">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10527671">
+      <para>Tayebi N, Stone DL, Sidransky E. Type 2 Gaucher disease: an expanding phenotype. <em>Mol Genet Metab</em>. 1999 Oct. 68(2):209-19. <a href="http://reference.medscape.com/medline/abstract/10527671">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12587096">
+      <para>Tayebi N, Stubblefield BK, Park JK, et al. Reciprocal and nonreciprocal recombination at the glucocerebrosidase gene region: implications for complexity in Gaucher disease. <em>Am J Hum Genet</em>. 2003 Mar. 72(3):519-34. <a href="http://reference.medscape.com/medline/abstract/12587096">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15468046">
+      <para>Weinreb NJ, Aggio MC, Andersson HC, et al. Gaucher disease type 1: revised recommendations on evaluations and monitoring for adult patients. <em>Semin Hematol</em>. 2004 Oct. 41(4 Suppl 5):15-22. <a href="http://reference.medscape.com/medline/abstract/15468046">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12036828">
+      <para>Wenstrup RJ, Roca-Espiau M, Weinreb NJ, Bembi B. Skeletal aspects of Gaucher disease: a review. <em>Br J Radiol</em>. 2002. 75 Suppl 1:A2-12. <a href="http://reference.medscape.com/medline/abstract/12036828">[Medline]</a>. <a href="http://bjr.birjournals.org/content/75/suppl_1/A2.full">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21670466">
+      <para>Zimran A. How I treat Gaucher disease. <em>Blood</em>. 2011 Aug 11. 118(6):1463-71. <a href="http://reference.medscape.com/medline/abstract/21670466">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16019462">
+      <para>Zimran A, Altarescu G, Rudensky B, et al. Survey of hematological aspects of Gaucher disease. <em>Hematology</em>. 2005 Apr. 10(2):151-6. <a href="http://reference.medscape.com/medline/abstract/16019462">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

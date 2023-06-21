@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="164924" pubid="" template="Cardiology" template-name="singlepage">
+  <site-meta>
+    <article-name>Complications of Myocardial Infarction</article-name>
+    <title>
+      <page-info id="overview">Complications of Myocardial Infarction: Overview, Arrhythmic Complications of MI, Arrhythmic Complications: Supraventricular Tachyarrhythmias</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Complications of Myocardial Infarction: Overview, Arrhythmic Complications of MI, Arrhythmic Complications: Supraventricular Tachyarrhythmias</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+<section-info id="a2">Arrhythmic Complications of MI</section-info>
+<section-info id="a3">Arrhythmic Complications: Supraventricular Tachyarrhythmias</section-info>
+<section-info id="a4">Arrhythmic Complications: Accelerated Junctional Rhythm</section-info>
+<section-info id="a5">Arrhythmic Complications: Bradyarrhythmias</section-info>
+<section-info id="a6">Arrhythmic Complications: AV and Intraventricular Blocks</section-info>
+<section-info id="a7">Arrhythmic Complications: Ventricular Arrhythmias</section-info>
+<section-info id="a8">Arrhythmic Complications: Reperfusion Arrhythmias</section-info>
+<section-info id="a9">Mechanical Complications of MI</section-info>
+<section-info id="a10">Left Ventricular Aneurysm</section-info>
+<section-info id="a11">Miscellaneous Complications</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Complications of Myocardial Infarction Overview</page-info>
+    </meta-keywords>
+    <uri>164924-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Dec 18, 2014</posting-date>
+    <last-generated>2015-08-04-18:21</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Cardiology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>164924</artid>
+      <cg>502</cg>
+      <scg text="Myocardial Infarction">315</scg>
+      <ssp text="Cardiology">2</ssp>
+      <bc>r96</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>cardiology</id>
+      <name>Cardiology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>cardiology_cad</id>
+      <name>Coronary Artery Disease</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">myocardial infarction, MI, arrhythmic complications of MI, mechanical complications of MI, post-MI complications, postinfarct complications, acute myocardial infarction, AMI, acute myocardial infarction radiology, myocardial infarction emergency, heart attack, ST-elevation myocardial infarction, STEMI, non–ST-elevation myocardial infarction, NSTEMI, cardiogenic shock, cardiogenic shock emergency, cardiac arrhythmias, dysrhythmia, peri-infarction arrhythmia, reperfusion arrhythmia, ventricular fibrillation, ventricular fibrillation emergency, ventricular arrhythmia, supraventricular tachyarrhythmia, supraventricular tachycardia, ventricular tachycardia, junctional rhythm, accelerated junctional rhythm, bradyarrhythmias, sinus bradycardia, junctional bradycardia, atrioventricular block, AV block,coronary artery disease, CAD, coronary artery atherosclerosis, atherosclerosis, myocardial ischemia, sudden cardiac death, congestive heart failure, CHF, congestive heart failure and pulmonary edema, left ventricular mural thrombus, early pericarditis, acute pericarditis, post-MI syndrome, Dressler syndrome, Dressler's syndrome, right ventricular infarction,myocardial rupture, rupture of the ventricular free wall, ventricular free wall rupture, ventricular septal rupture, papillary muscle rupture, mitral regurgitation, left ventricular aneurysm, ventricular aneurysms</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Myocardial infarction (MI) due to coronary artery disease is a leading cause of death in the United States, where more than 1 million people have acute myocardial infarctions (AMIs) each year. 
+ The advent of coronary care units and early reperfusion therapy (lytic or percutaneous coronary intervention) has substantially decreased in-hospital...</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Complications of Myocardial Infarction</title>
+  <sect1 id="a1">
+    <title>Overview</title>
+    <pgroup>
+      <para>Myocardial infarction (MI) due to coronary artery disease is a leading cause of death in the United States, where more than 1 million people have acute myocardial infarctions (AMIs) each year.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <para>The advent of coronary care units and early reperfusion therapy (lytic or percutaneous coronary intervention) has substantially decreased in-hospital mortality rates and has improved the outcome in survivors of the acute phase of MI. </para>
+      <para>Complications of MI include arrhythmic, mechanical, and inflammatory (early pericarditis and post-MI syndrome) sequelae, as well as left ventricular mural thrombus (LVMT). In addition to these broad categories, right ventricular (RV) infarction and cardiogenic shock are other possible complications of acute MI. (See the image below.)</para>
+      <figure id="9623">
+        <title>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-...</title>
+        <caption>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-chamber views show a breach in the interventricular septum and free communication between ventricles through a large apical septum ventricular septal defect in a patient who recently had an anterior myocardial infarction. </caption>
+        <graphic fileref="/23/9623.jpg" format="IMAGE" id="9623" extension_format="JPG"/>
+        <graphic fileref="/23/9623tn.jpg" format="IMAGE_THUMB" id="9623"/>
+      </figure>
+      <para>For other discussions on myocardial infarction, see <a href="http://emedicine.medscape.com/article/155919-overview">Myocardial Infarction</a>, <a href="http://emedicine.medscape.com/article/157961-overview">Right Ventricular Infarction</a>, <a href="http://emedicine.medscape.com/article/350175-overview">Imaging of Acute Myocardial Infarcts</a>, and <a href="http://emedicine.medscape.com/article/811905-overview">Use of Cardiac Markers in the Emergency Department</a>.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Arrhythmic Complications of MI</title>
+    <pgroup>
+      <para>About 90% of patients who have an acute myocardial infarction (AMI) develop some form of cardiac arrhythmia during or immediately after the event. In 25% of patients, such rhythm abnormalities manifest within the first 24 hours. In this group of patients, the risk of serious arrhythmias, such as ventricular fibrillation, is greatest in the first hour and declines thereafter. The incidence of arrhythmia is higher with an ST-elevation myocardial infarction (STEMI) and lower with a non–ST-elevation myocardial infarction (NSTEMI).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+      <para>The clinician must be aware of these arrhythmias, in addition to reperfusion strategies, and must treat those that require intervention to avoid exacerbation of ischemia and subsequent hemodynamic compromise. Most peri-infarct arrhythmias are benign and self-limited. However, those that result in hypotension, increase myocardial oxygen requirements, and/or predispose the patient to develop additional malignant ventricular arrhythmias should be aggressively monitored and treated. </para>
+    </pgroup>
+    <pgroup>
+      <title>Pathophysiology of arrhythmic complications</title>
+      <para>AMI is characterized by generalized autonomic dysfunction that results in enhanced automaticity of the myocardium and conduction system. Electrolyte imbalances (eg, hypokalemia and hypomagnesemia) and hypoxia further contribute to the development of cardiac arrhythmia. The damaged myocardium acts as substrate for re-entrant circuits, due to changes in tissue refractoriness. </para>
+      <para>Enhanced efferent sympathetic activity, increased concentrations of circulating catecholamines, and local release of catecholamines from nerve endings in the heart muscle itself have been proposed to play roles in the development of peri-infarction arrhythmias. Furthermore, transmural infarction can interrupt afferent and efferent limbs of the sympathetic nervous system that innervates myocardium distal to the area of infarction. The net result of this autonomic imbalance is the promotion of arrhythmias. </para>
+    </pgroup>
+    <pgroup>
+      <title>Classification of peri-infarction arrhythmias</title>
+      <para>Peri-infarction arrhythmias can be broadly classified into the following categories:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Supraventricular tachyarrhythmias, including sinus tachycardia, premature atrial contractions, <a href="http://emedicine.medscape.com/article/156670-overview">paroxysmal supraventricular tachycardia</a>, <a href="http://emedicine.medscape.com/article/151210-overview">atrial flutter</a>, and <a href="http://emedicine.medscape.com/article/151066-overview">atrial fibrillation</a></para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/155146-overview">Accelerated junctional rhythms</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Bradyarrhythmias, including <a href="http://emedicine.medscape.com/article/760220-overview">sinus bradycardia</a> and <a href="http://emedicine.medscape.com/article/155146-overview">junctional bradycardia</a></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://emedicine.medscape.com/article/151597-overview">Atrioventricular (AV) blocks</a>, including <a href="http://emedicine.medscape.com/article/161829-overview">first-degree AV block</a>, <a href="http://emedicine.medscape.com/article/161919-overview">second-degree AV block</a>, and <a href="http://emedicine.medscape.com/article/162007-overview">third-degree AV block</a></para>
+        </listitem>
+        <listitem>
+          <para>Intraventricular blocks, including left anterior fascicular block, <a href="http://emedicine.medscape.com/article/894927-overview">right bundle branch block</a> (RBBB), and <a href="http://emedicine.medscape.com/article/895064-overview">left bundle branch block</a> (LBBB)</para>
+        </listitem>
+        <listitem>
+          <para>Ventricular arrhythmias, including <a href="http://emedicine.medscape.com/article/761148-overview">premature ventricular contractions</a> (PVCs), <a href="http://emedicine.medscape.com/article/150074-overview">accelerated idioventricular rhythm</a>, <a href="http://emedicine.medscape.com/article/159075-overview">ventricular tachycardia</a>, and <a href="http://emedicine.medscape.com/article/158712-overview">ventricular fibrillation</a></para>
+        </listitem>
+        <listitem>
+          <para>Reperfusion arrhythmias</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Arrhythmic Complications: Supraventricular Tachyarrhythmias</title>
+    <pgroup>
+      <para>Sinus tachycardia is associated with enhanced sympathetic activity and can result in transient <a href="http://emedicine.medscape.com/article/241381-overview">hypertension</a> or hypotension. The elevated heart rate increases myocardial oxygen demand, and a decreased length of diastole compromises coronary flow, worsening myocardial ischemia. </para>
+      <para>Causes of persistent sinus tachycardia include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Pain </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/286227-overview">Anxiety</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/163062-overview">Heart failure</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/760145-overview">Hypovolemia</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Hypoxia</para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/198475-overview">Anemia</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/156951-overview">Pericarditis</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/300901-overview">Pulmonary embolism</a>
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>In the setting of an AMI, sinus tachycardia must be identified, and appropriate treatment strategies must be devised. Treatment strategies include adequate pain medication, diuresis to manage heart failure, oxygenation, volume repletion for hypovolemia, administration of anti-inflammatory agents to treat pericarditis, and use of beta-blockers and/or nitroglycerin to relieve ischemia. </para>
+    </pgroup>
+    <pgroup>
+      <title>Premature atrial contractions</title>
+      <para>Premature atrial contractions often occur before the development of paroxysmal supraventricular tachycardia, atrial flutter, or atrial fibrillation. The usual cause of these extra impulses is atrial distention due to increased left ventricular (LV) diastolic pressure or inflammation associated with pericarditis. </para>
+      <para>No specific therapy is indicated. However, attention should be given to identifying the underlying disease process, particularly occult heart failure. </para>
+    </pgroup>
+    <pgroup>
+      <title>Paroxysmal supraventricular tachycardia</title>
+      <para>The incidence of a paroxysmal supraventricular tachycardia in the setting of an AMI is less than 10%. In the absence of definitive data in the patient with AMI, the consensus is that <a href="http://reference.medscape.com/drug/adenocard-adenoscan-adenosine-342295">adenosine</a> can be used when hypotension is not present. In patients without clinically significant LV failure, intravenous diltiazem or a beta-blocker can be used instead. In patients who develop severe heart failure or hypotension, <a href="http://emedicine.medscape.com/article/1834044-overview">synchronized electrical cardioversion</a> is required. </para>
+    </pgroup>
+    <pgroup>
+      <title>Atrial flutter</title>
+      <para>Atrial flutter occurs in less than 5% of patients with AMI. Atrial flutter is usually transient and results from sympathetic overstimulation of the atria. </para>
+      <para>Treatment strategies for persistent atrial flutter are similar to those for atrial fibrillation, except that ventricular-rate control with drugs is less easily accomplished with atrial flutter than with atrial fibrillation. Therefore, synchronized electrical cardioversion (beginning with 50 J, or the biphasic equivalent) may be needed relatively promptly because of a decrease coronary blood flow and/or hemodynamic compromise. For patients whose atrial flutter is refractory to medical therapy, overdrive atrial pacing may be considered. </para>
+    </pgroup>
+    <pgroup>
+      <title>Atrial fibrillation</title>
+      <para>The rate of atrial fibrillation is 10-15% among patients who have AMIs. The onset of atrial fibrillation in the first hours of AMI is usually caused by LV failure, ischemic injury to the atria, or RV infarction. Pericarditis and all conditions leading to elevated left atrial pressure can also lead to atrial fibrillation in association with an AMI. The presence of atrial fibrillation during an AMI is associated with an increased risk of mortality and stroke, particularly in patients who have anterior-wall MIs. </para>
+      <para>Immediate electrical cardioversion is indicated for the patient in unstable condition, such as one with new or worsening ischemic pain and/or hypotension. Synchronized electrical cardioversion to treat atrial fibrillation begins with 200 J (or the biphasic equivalent). Conscious sedation (preferred) or <a href="http://emedicine.medscape.com/article/1271543-overview">general anesthesia</a> is advisable prior to cardioversion. </para>
+      <para>For patients in stable condition, controlling the ventricular response is the immediate objective. If the atrial fibrillation does not respond to cardioversion, IV <a href="http://reference.medscape.com/drug/pacerone-cordarone-amiodarone-342296">amiodarone</a><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>or IV <a href="http://reference.medscape.com/drug/lanoxin-digoxin-342432">digoxin</a> (in patients with LV dysfunction or heart failure) can be used to achieve ventricular rate control. </para>
+      <para>For patients who do not develop hypotension, a beta-blocker can be used. For example, <a href="http://reference.medscape.com/drug/lopressor-toprol-xl-metoprolol-342360">metoprolol</a> may be given in 5-mg intravenous boluses every 5-10 min, with a maximum dose of 15 mg. Intravenous <a href="http://reference.medscape.com/drug/cardizem-cd-diltiazem-342374">diltiazem</a> is an alternative for slowing the ventricular rate, but it should be used with caution in patients with moderate-to-severe heart failure. In patients with new-onset sustained tachycardia (absent before MI), conversion to sinus rhythm should be considered as an option. </para>
+      <para>Atrial fibrillation and atrial flutter confer an increased risk of thromboembolism (see <a href="http://emedicine.medscape.com/article/1911303-overview">Deep Venous Thrombosis</a> and <a href="http://emedicine.medscape.com/article/300901-overview">Pulmonary Embolism</a>). Therefore, anticoagulation with either unfractionated heparin or low molecular weight heparin (LMWH) should be started if contraindications are absent. It is unclear whether anticoagulation is needed in cases of transient atrial fibrillation and how long after the onset of atrial fibrillation should the anticoagulation be started. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Arrhythmic Complications: Accelerated Junctional Rhythm</title>
+    <pgroup>
+      <para>An accelerated junctional rhythm results from increased automaticity of the junctional tissue that leads to a heart rate of 70-130 bpm. This type of dysrhythmia is most common in patients who develop inferior myocardial infarctions. Treatment is directed at correcting the underlying ischemia. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a5">
+    <title>Arrhythmic Complications: Bradyarrhythmias</title>
+    <pgroup>
+      <title>Sinus bradycardia</title>
+      <para>Sinus bradycardia is a common arrhythmia in patients with inferior or posterior acute myocardial infarctions (AMIs). The highest incidence, 40%, is observed in the first 1-2 hours after AMI. </para>
+      <para>The likely mechanism leading to bradycardia and hypotension is stimulation of cardiac vagal afferent receptors that result in efferent cholinergic stimulation of the heart. In the early phases of an AMI, resultant sinus bradycardia may actually be protective, reducing myocardial oxygen demand. Clinically significant bradycardia that decreases cardiac output and hypotension may result in ventricular arrhythmias and should, therefore, be treated aggressively. Isolated sinus bradycardia is not associated with an increase in the acute mortality risk, and therapy is typically unnecessary when the patient has no adverse signs or symptoms. </para>
+      <para>When emergency therapy is indicated (eg, in a patient with a sinus rate of &lt; 40 bpm with hypotension), atropine sulfate 0.5-1 mg may be given every 3-5 minutes to a maximum of 0.03-0.04 mg/kg. The inability to reverse hypotension with atropine in patients who develop sinus bradycardia and inferior MI suggests volume depletion and/or RV infarction. </para>
+      <para>When atropine is ineffective and the patient is symptomatic or hypotensive, transcutaneous or transvenous pacing is indicated (see our main article on <a href="http://emedicine.medscape.com/article/780639-overview">External Pacemakers</a>). Denervate, transplanted hearts do not respond to atropine and, therefore, require cardiac pacing. </para>
+      <para>If these interventions fail, additional pharmacologic intervention may be useful. Examples are <a href="http://reference.medscape.com/drug/intropin-dopamine-342435">dopamine</a> 5-20 mcg/kg/min given intravenously, <a href="http://reference.medscape.com/drug/epipen-jr-epinephrine-342437">epinephrine</a> 2-10 mcg/min, and/or <a href="http://reference.medscape.com/drug/dobutamine-342434">dobutamine</a>.</para>
+    </pgroup>
+    <pgroup>
+      <title>Junctional bradycardia</title>
+      <para>Junctional bradycardia is a protective AV junctional escape rhythm at a rate of 35-60 bpm in patients who have an inferior MI. This arrhythmia is not usually associated with hemodynamic compromise, and treatment is typically not required. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a6">
+    <title>Arrhythmic Complications: AV and Intraventricular Blocks</title>
+    <pgroup>
+      <title>First-degree AV block</title>
+      <para>First-degree AV block is characterized by prolongation of the PR interval to longer than 0.20 seconds. This type of block occurs in approximately 15% of patients who have an acute myocardial infarction (AMI), most commonly an inferior infarction. Almost all patients who develop first-degree AV block have conduction disturbances above the His bundle. In these patients, the progression to complete heart block or ventricular asystole is rare. No specific therapy is indicated unless associated hemodynamic compromise is present. </para>
+      <para>Calcium channel blockers and beta-blockers may cause or exacerbate a first-degree AV block, but they should be stopped only if hemodynamic impairment or a higher-degree block occurs. For a first-degree AV block associated with sinus bradycardia and hypotension, atropine should be administered. Continued cardiac monitoring is advisable in view of possible progression to higher degrees of block. </para>
+    </pgroup>
+    <pgroup>
+      <title>Second-degree AV block</title>
+      <para>Mobitz type I, or Wenckebach, AV block occurs in approximately 10% of patients who have an AMI and accounts for 90% of all patients who have an AMI and a second-degree AV block. A second-degree AV block is associated with a narrow QRS complex and is most commonly associated with an inferior MI. It does not affect the patient's overall prognosis. </para>
+      <para>A Mobitz type I block does not necessarily require treatment. If the heart rate is inadequate for perfusion, immediate treatment with atropine 0.5-1 mg administered intravenously is indicated. Transcutaneous or temporary transvenous pacing is rarely required. </para>
+      <para>A Mobitz type II AV block accounts for 10% of all second-degree AV blocks (overall rate of &lt; 1% in the setting of AMI). A Mobitz type II block is characterized by a wide QRS complex, and it is almost always associated with anterior infarction. This type of block often progresses suddenly to a complete heart block. </para>
+      <para>Mobitz type II AV blocks are associated with a poor prognosis, as the mortality rate associated with their progression to a complete heart block is approximately 80%. Therefore, this type of second-degree AV block should be immediately treated with transcutaneous pacing or atropine. Atropine helps in about 50% of cases, but it occasionally worsens the block with an increased heart rate. A temporary transvenous pacemaker, and possibly a permanent demand pacemaker, must ultimately be placed. </para>
+    </pgroup>
+    <pgroup>
+      <title>Third-degree AV block</title>
+      <para>A third-degree AV block (ie, a complete heart block), occurs in 5-15% of patients who have an AMI and may occur with anterior or inferior infarctions. In patients with inferior infarctions, this type of block usually develops gradually, progressing from first-degree or a type I second-degree block. In most patients, the level of the block is supranodal or intranodal, and the escape rhythm is usually stable with a narrow QRS and rates exceeding 40 bpm. In 30% of patients, the block is below the His bundle, where it results in an escape rhythm with a rate slower than 40 bpm and a wide QRS complex. </para>
+      <para>Complete heart block in patients with an inferior MI usually responds to atropine. In most patients, it resolves within a few days without the need for a temporary or permanent pacemaker. The mortality rate for patients with inferior MI who develop complete heart block is approximately 15% unless a coexisting RV infarction is present, in which case the mortality rate is higher. </para>
+      <para>Immediate treatment with atropine is indicated for patients with third-degree AV blocks. As with therapy for a Mobitz type II block, this treatment may not help and may sometimes worsen the block. Temporary transcutaneous or transvenous pacing is indicated for symptomatic patients whose condition is unresponsive to atropine. Permanent pacing should be considered in patients with persistent symptomatic bradycardia that remains unresolved with lysis or percutaneous coronary intervention. </para>
+      <para>In patients with an anterior MI, an intraventricular block or a Mobitz type II AV block usually precedes a third-degree AV block. The third-degree block occurs suddenly and is associated with a high mortality rate. The Cardiac Arrhythmias and Risk Stratification After Myocardial Infarction (CARISMA) trial monitored patients with acute myocardial infarction and reduced left ventricular ejection fraction and found that high-degree atrioventricular block was the most powerful predictor of cardiac death.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>Patients with these blocks typically have unstable escape rhythms with wide QRS complexes and at rates of less than 40 bpm. </para>
+      <para>Immediate treatment with atropine and/or transcutaneous pacing is indicated. This is followed by temporary transvenous pacing. Patients with an anterior MI who develop a third-degree AV block and who survive to hospitalization often receive a permanent pacemaker. </para>
+    </pgroup>
+    <pgroup>
+      <title>Intraventricular blocks</title>
+      <para>Conduction from the His bundle is transmitted through 3 fascicles: the anterior division of the left bundle, the posterior division of the left bundle, and the right bundle. An abnormality of electrical conduction in 1 or more of these fascicles is noted in about 15% of patients with AMI. Isolated left anterior fascicular block (LAFB) occurs in 3-5% of patients with AMI; progression to complete AV block is uncommon. Isolated left posterior fascicular block occurs in only 1-2% of patients who have an AMI. The blood supply of the posterior fascicle is larger than that of the anterior fascicle; therefore, a block here is associated with a relatively large infarct and high mortality rate.</para>
+      <para>The right bundle branch receives its dominant blood supply from the left anterior descending (LAD) artery. Therefore, a new RBBB, which is seen in approximately 2% of patients with AMI, suggests a large infarct territory. However, progression to complete heart block is uncommon. In patients who develop an anterior MI and a new RBBB, the substantial risk for death is mostly from cardiogenic shock, which is presumably due to the large size of the myocardial infarct. </para>
+      <para>The combination of RBBB with an LAFB is known as bifascicular block and commonly occurs with occlusion of the proximal LAD coronary artery. The risk of developing complete AV block is heightened, but complete block is still uncommon. Mortality is mostly related to the amount of muscle loss. Bifascicular block in the presence of first-degree AV block is called a trifascicular block. In 40% of patients, a trifascicular block progresses to a complete heart block. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a7">
+    <title>Arrhythmic Complications: Ventricular Arrhythmias</title>
+    <pgroup>
+      <title>Premature ventricular contractions</title>
+      <para>In the past, frequent premature ventricular contractions (PVCs) were considered to represent warning arrhythmias and indicators of impending malignant ventricular arrhythmias. However, presumed warning arrhythmias are frequently observed in patients who have an acute myocardial infarction (AMI) and who never develop ventricular fibrillation. On the converse, primary ventricular fibrillation often occurs without antecedent premature ventricular ectopy. </para>
+      <para>For these reasons, prophylactic suppression of PVCs with antiarrhythmic drugs, such as lidocaine, is no longer recommended. Prophylaxis has been associated with an increased risk of fatal bradycardia or asystole because of the suppression of escape <a href="http://emedicine.medscape.com/article/1971142-overview">pacemakers</a>. </para>
+      <para>Given this evidence, most clinicians pursue a conservative course when PVCs are observed in a patient with an AMI, and they do not routinely administer prophylactic antiarrhythmics. Instead, attention should be directed toward correcting any electrolytic or metabolic abnormalities, plus identifying and treating recurrent ischemia. </para>
+    </pgroup>
+    <pgroup>
+      <title>Accelerated idioventricular rhythm</title>
+      <para>An accelerated idioventricular rhythm is seen in as many as 20% of patients who have an AMI. This pattern is defined as a ventricular rhythm characterized by a wide QRS complex with a regular escape rate faster than the atrial rate, but less than 100 bpm. AV dissociation is frequent. Slow, nonconducted P waves are seen; these are unrelated to the fast, wide QRS rhythm. </para>
+      <para>Most episodes are short and terminate spontaneously. They occur with equal frequency in anterior and inferior infarctions. The mechanism might involve (1) the sinoatrial node or the AV node, which may sustain structural damage and depress nodal automaticity, and/or (2) an abnormal ectopic focus in the ventricle that takes over as the dominant pacemaker. </para>
+      <para>The presence of accelerated idioventricular rhythm does not affect the patient's prognosis; no definitive evidence has shown that an untreated occurrence increases the incidence of ventricular fibrillation or death. This rhythm occurs somewhat more frequently in patients who develop early reperfusion than in others; however, it is neither sensitive nor specific as a marker of reperfusion. </para>
+      <para>Temporary pacing is not indicated unless the rhythm is sustained and results in hypotension or ischemic symptoms. An accelerated idioventricular rhythm represents an appropriate escape rhythm. Suppression of this escape rhythm with an antiarrhythmic drug can result in clinically significant bradycardia or asystole. Therefore, an accelerated idioventricular rhythm should be left untreated. </para>
+    </pgroup>
+    <pgroup>
+      <title>Nonsustained ventricular tachycardia</title>
+      <para>Nonsustained ventricular tachycardia is defined as 3 or more consecutive ventricular ectopic beats at a rate of greater than 100 bpm and lasting less than 30 seconds. In patients who experience multiple runs of nonsustained ventricular tachycardia, the risk for sudden hemodynamic collapse may be substantial. </para>
+      <para>Nonetheless, nonsustained ventricular tachycardia in the immediate peri-infarction period does not appear to be associated with an increased mortality risk, and no evidence suggests that antiarrhythmic treatment offers a morbidity or mortality benefit. However, nonsustained ventricular tachycardia occurring more than 48 hours after infarction in patients with LV systolic dysfunction (LV ejection fraction &lt; 0.40) poses an increased risk for sudden cardiac death; electrophysiologic testing and appropriate therapy are indicated in these patients. </para>
+      <para>Multiple episodes of nonsustained ventricular tachycardia require intensified monitoring and attention to electrolyte imbalances. Serum potassium levels should be maintained above 4.5 mEq/L, and serum magnesium levels should be kept above 2.0 mEq/L. Ongoing ischemia should aggressively be sought and corrected if found. </para>
+    </pgroup>
+    <pgroup>
+      <title>Sustained ventricular tachycardia</title>
+      <para>Sustained ventricular tachycardia is defined as 3 or more consecutive ventricular ectopic beats at a rate greater than 100 bpm and lasting longer than 30 seconds or causing hemodynamic compromise that requires intervention. Monomorphic ventricular tachycardia is most likely to be caused by a myocardial scar, whereas polymorphic ventricular tachycardia may be most responsive to measures directed against ischemia. Sustained polymorphic ventricular tachycardia after an AMI is associated with a hospital mortality rate of 20%. </para>
+      <para>Emergency treatment of sustained ventricular tachycardia is mandatory because of its hemodynamic effects and because it frequently deteriorates into ventricular fibrillation. Rapid polymorphic ventricular tachycardia (rate &gt;150 bpm) associated with hemodynamic instability should be treated with immediate direct-current unsynchronized cardioversion of 200 J (or biphasic energy equivalent). Monomorphic ventricular tachycardia should be treated with a synchronized discharge of 100 J (or biphasic energy equivalent). </para>
+      <para>If sustained ventricular tachycardia is well tolerated, antiarrhythmic therapy with amiodarone (drug of choice) or procainamide may be attempted before electrical cardioversion. Precipitating causes, such as electrolyte abnormalities, acid-base disturbances, hypoxia, or medication, should be sought and corrected. For persistent or recurrent ventricular tachycardia, overdrive pacing may be effective in electrically converting the patient's rhythm to a sinus rhythm. </para>
+    </pgroup>
+    <pgroup>
+      <title>Ventricular fibrillation</title>
+      <para>The incidence of primary ventricular fibrillation is greatest in the first hour after the onset of infarct (4.5%) and declines rapidly thereafter. Approximately 60% of episodes occur within 4 hours, and 80% occur within 12 hours. </para>
+      <para>Secondary or late ventricular fibrillation occurring more than 48 hours after an MI is usually associated with pump failure and cardiogenic shock. Factors associated with an increased risk of secondary ventricular fibrillation are a large infarct, an intraventricular conduction delay, and an anteroseptal AMI. Secondary ventricular fibrillation in conjunction with cardiogenic shock is associated with an in-hospital mortality rate of 40-60%. </para>
+      <para>Treatment for ventricular fibrillation is unsynchronized electrical countershock with at least 200-300 J (or biphasic energy equivalent) administered as rapidly as possible. Each minute after the onset of uncorrected ventricular fibrillation is associated a 10% decrease in the likelihood of survival. Restoration of synchronous cardiac electrical activity without the return of effective contraction (ie, electromechanical dissociation, or <a href="http://emedicine.medscape.com/article/161080-overview">pulseless electrical activity</a>) is generally due to extensive myocardial ischemia and/or necrosis or cardiac rupture. </para>
+      <para>Antiarrhythmics, such as intravenous amiodarone and lidocaine, facilitate successful electrical defibrillation and help prevent recurrent or refractory episodes. After ventricular fibrillation is successfully converted, antiarrhythmic therapy is generally continued as a constant intravenous infusion for 12-24 hours. </para>
+      <para>Prophylactic lidocaine reduces the incidence of ventricular fibrillation, but it is not used because it seems to be associated with an excessive mortality risk owing to bradycardic and asystolic events.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>On the other hand, early use of beta-blockers in patients with AMI reduces the incidence of ventricular fibrillation as well as death.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a8">
+    <title>Arrhythmic Complications: Reperfusion Arrhythmias</title>
+    <pgroup>
+      <para>In the past, the sudden onset of rhythm disturbances after thrombolytic therapy in patients with AMI was believed to be a marker of successful coronary reperfusion. However, a high incidence of identical rhythm disturbances is observed in patients with AMI in whom coronary reperfusion is unsuccessful. Therefore, these so-called reperfusion arrhythmias are neither sensitive nor specific for reperfusion and should be treated as discussed under Accelerated Idioventricular Rhythm in the Arrhythmic Complications: Ventricular Arrhythmias section above. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a9">
+    <title>Mechanical Complications of MI</title>
+    <pgroup>
+      <para>The 3 major mechanical complications of AMI are ventricular free wall rupture (VFWR), <a href="http://emedicine.medscape.com/article/428240-overview">ventricular septal rupture</a> (VSR), and papillary muscle rupture with severe <a href="http://emedicine.medscape.com/article/155618-overview">mitral regurgitation</a> (MR). Each of these complications can result in cardiogenic shock. Clinical issues related to these mechanical problems are discussed below. (See also <a href="http://emedicine.medscape.com/article/156455-overview">Myocardial Rupture</a>.) </para>
+    </pgroup>
+    <pgroup>
+      <title>Overview of ventricular free wall rupture</title>
+      <para>VFWR is the most serious complication of AMI. VFWR is usually associated with large transmural infarctions and antecedent infarct expansion. It is the most common cause of death, second only to LV failure, and it accounts for 15-30% of the deaths associated with AMI. Incontrovertibly the most catastrophic of mechanical complications, VFWR leads to acute hemopericardium and death from <a href="http://emedicine.medscape.com/article/156951-overview">cardiac tamponade</a>. </para>
+      <para>The overall incidence of VFWR ranges from 0.8-6.2%. The incidence of this complication has declined over the years with better 24 hour systolic blood pressure control; increased use of reperfusion therapy, beta blockers, and ACE inhibitors; and decreased use of heparin<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>. </para>
+      <para>Data from the National Registry of Myocardial Infarction (NRMI) showed an elevated incidence of in-hospital mortality among patients who received thrombolytic therapy (12.1%) than among patients who did not (6.1%).<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>In the Thrombolysis in Myocardial Infarction Phase II (TIMI II) trial, 16% of patients died from cardiac rupture within 18 hours of therapy.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>Patients who underwent percutaneous transluminal coronary angioplasty (PTCA) had an incidence of free wall rupture lower than that of patients receiving thrombolytic therapy. </para>
+      <para>Risk factors for VFWR include advanced age greater than 70 years, female sex, no previous MIs, Q waves on ECG, hypertension during the initial phase of STEMI, corticosteroid or NSAID use, and fibrinolytic therapy more than 14 hours after STEMI onset. Patients with a history of <a href="http://emedicine.medscape.com/article/150215-overview">angina pectoris</a>, previous AMI, multivessel coronary disease, and chronic heart failure are less likely than others to develop VFWR of the LV because they develop collaterals and ischemic preconditioning.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc10" name="refsrc10"/>10, <ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Clinical presentation of VFWR</title>
+      <para>VFWRs are dramatic; they present acutely or occasionally subacutely as pseudoaneurysms; and they most often involve the anterior or lateral wall of the LV. Most VFWRs occur within the first week after AMI. </para>
+      <para>Becker et al classified the following 3 types of VFWRs<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Type I - an abrupt slitlike tear that is frequently associated with anterior infarcts and that occurs early (within 24 h)</para>
+        </listitem>
+        <listitem>
+          <para>Type II - an erosion of infarcted myocardium at the border between the infarcted and viable myocardium</para>
+        </listitem>
+        <listitem>
+          <para>Type III - an early aneurysm formation correlated with older and severely expanded infarcts</para>
+        </listitem>
+      </itemizedlist>
+      <para>Type III usually occurs later than type I or type II ruptures. Thrombolytic therapy accelerates the occurrence of cardiac rupture in Becker type I and type II VFWRs. In severely expanded infarctions (type III), thrombolytic therapy decreases the incidence of cardiac rupture. </para>
+      <para>A pseudoaneurysm is formed when adjacent pericardium and hematoma seals off a myocardial rupture or perforation. The wall of a pseudoaneurysm is most often visualized as an aneurysmal outpouching that communicates with the LV cavity by means of a narrow neck. This wall is composed of pericardium and organized thrombus and/or hematoma. It is devoid of myocardial elements, whereas a true aneurysm has all the elements of the original myocardial wall and a relatively wide base. The pseudoaneurysm may vary in size and is at high risk of rupturing. </para>
+      <para>Clinical presentations of VFWR vary depending on the acuity, location, and size of the rupture. Patients with acute VFWR present with severe chest pain, abrupt electromechanical dissociation or asystole, hemodynamic collapse, and possibly death. In about one third of the patients, the course is subacute, and they present with symptoms such as syncope, hypotension, shock, arrhythmia, and prolonged and recurrent chest pain. </para>
+    </pgroup>
+    <pgroup>
+      <title>Diagnosis of VFWR</title>
+      <para>Early diagnosis of VFWRs and intervention are critical to patient survival. A high index of suspicion is required when patients with AMI present with severe chest pain, shock or arrhythmias, and abrupt development of electromechanical dissociation. ECG signs of impending VFWR have limited specificity but include sinus tachycardia, intraventricular conduction defect, and persistent or recurrent ST-segment elevation. </para>
+      <para>Echocardiography is the diagnostic tool of choice. The key diagnostic finding is a moderate-to-large pericardial effusion with clinical and echocardiographic signs of impending pericardial tamponade. In patients with cardiac tamponade and electromechanical dissociation, moderate-to-severe pericardial effusion increases the mortality risk. Those patients without initial cardiac tamponade, while at a lower rate of mortality, should still be followed, as late rupture may still occur.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>The absence of pericardial effusion on echocardiography has high negative predictive value. If the ability to obtain transthoracic echocardiograms is limited in patients receiving mechanical ventilation, transesophageal echocardiography can assist in confirming VFWR. </para>
+      <para>MRI provides superior image quality and permits identification of the site and anatomy of a ventricular pseudoaneurysm (ie, ruptured LV restrained by the pericardium with enclosed clot). However, MRI is of limited use in the acute setting because of the time involved and nonportability of imaging units. </para>
+    </pgroup>
+    <pgroup>
+      <title>Treatment of VFWR</title>
+      <para>The most important prevention strategy is early reperfusion therapy, with percutaneous coronary intervention (PCI) being the preferred modality. Fibrinolytic therapy is associated with overall decreased risk of VFWR; however, its use more than 14 hours after STEMI onset can increase the risk of early rupture.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+      <para>The standard treatment for VFWR is emergency surgical repair after hemodynamic stability is achieved. Patients may first need intravenous fluids, inotropic agents, and emergency pericardiocentesis. </para>
+      <para>Pifarré and associates recommended the deployment of an intra-aortic balloon pump to decrease systolic afterload and improve diastolic myocardial perfusion.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+      <para>Several surgical techniques have been applied, including infarctectomy, adhering with biologic glue patches made of polyethylene terephthalate polyester fiber (Dacron; DuPont, Wilmington, DE) or polytetrafluoroethylene fluoropolymer resin (Teflon; DuPont); and use of pledgeted sutures without infarctectomy. </para>
+      <para>The mortality rate is significantly high and largely depends on the patient's preoperative hemodynamic status. Early diagnosis, rapid institution of the measures described above to achieve hemodynamic stability, and prompt surgical repair can improve survival rates. A follow-up to the Acorn randomized trial demonstrated long-term improvement in left ventricular structure and function after mitral valve surgery for as long as 5 years. These data provide evidence supporting mitral valve repair in combination with the Acorn CorCap device for patients with nonischemic heart failure with severe left ventricular dysfunction who have been medically optimized yet remain symptomatic with significant mitral regurgitation.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Overview of ventricular septal rupture</title>
+      <para>VSR is an infrequent but life-threatening complication of AMI. Despite optimal medical and surgical treatment, patients with VSR have a high in-hospital mortality rate. During the prethrombolytic era, VSRs occurred in 1-3% of individuals with MIs. The incidence declined with thrombolytic therapy (to 0.2-0.34%) because of improvements in reperfusion and myocardial salvage. The bimodal distribution of VSR is characterized by a high incidence in the first 24 hours, with another peak on days 3-5 and rarely more than 2 weeks after AMI. </para>
+      <para>In patients receiving thrombolytics, the median time from the onset of symptoms of AMI to septal rupture was 1 day in the Global Utilization of Streptokinase and TPA [tissue plasminogen activator] for Occluded Coronary Arteries (GUSTO-I) trial<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>and 16 hours in the Should We Emergently Revascularize Occluded Coronaries for Cardiogenic Shock? (SHOCK) trial.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+      <para>Risk factors for septal rupture include advanced age (&gt;65 y), female sex, single-vessel disease, extensive MI, and poor septal collateral circulation.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20, <ref_inline id="refsrc21" name="refsrc21"/>21] </sup>Before the advent of thrombolytics, hypertension and absence of a history of angina were risk factors for VSR. Extensive infarct size and RV involvement are other known risk factors for septal rupture.</para>
+      <para>In patients with AMI without reperfusion, coagulation necrosis develops within 3-5 days after infarction. Neutrophils migrate to the necrotic zone and undergo apoptosis, release lytic enzymes, and hasten the disintegration of necrotic myocardium. Some patients have infarcts with large intramural hematomas, which dissect into the tissue and result in early septal rupture. The size of the septal rupture ranges from a few millimeters to several centimeters. </para>
+      <para>VSR is categorized as simple or complex depending on its length, course, and location. In simple septal rupture, the perforation is at the same level on both sides of the septum, and a direct through-and-through communication is present across the septum. A complex septal rupture is characterized by extensive hemorrhage with irregular, serpiginous tracts in the necrotic tissue. </para>
+      <para>Septal ruptures are most common in patients with large anterior MIs due to occlusion of the LAD artery causing extensive septal infarcts. These infarcts are associated with ST-segment elevations and Q waves in inferior leads (II, III, aVF) and these ECG changes are therefore more commonly seen in septal ruptures.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup>These ruptures are generally apical and simple.</para>
+      <para>Septal ruptures in patients with inferior MI occur relatively infrequently. These ruptures involve the basal inferoposterior septum and are often complex. </para>
+    </pgroup>
+    <pgroup>
+      <title>Clinical presentation of VSR</title>
+      <para>Symptoms of VSR complicating AMI include chest pain, shortness of breath, hypotension, biventricular failure, and shock within hours to days. Patients often present with a new, loud, and harsh holosystolic murmur. This murmur is loudest along the lower left sternal border and is associated with a palpable parasternal systolic thrill. RV and LV S3 gallops are common. </para>
+      <para>In patients with cardiogenic shock complicating septal rupture, the murmur and thrill may be difficult to identify. In contrast, patients with acute MR often have a soft systolic murmur at the apex without a thrill. </para>
+    </pgroup>
+    <pgroup>
+      <title>Diagnosis of VSR</title>
+      <para>Echocardiography with color flow Doppler imaging is the diagnostic tool of choice for identifying a VSR. (See the image below.) Its sensitivity and specificity have been reported to be as high as 100%. In addition, it can be used for the following: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Define the site and size of septal rupture</para>
+        </listitem>
+        <listitem>
+          <para>Assess the LV and RV function</para>
+        </listitem>
+        <listitem>
+          <para>Estimate the RV systolic pressure</para>
+        </listitem>
+        <listitem>
+          <para>Quantify the left-to-right shunt</para>
+        </listitem>
+      </itemizedlist>
+      <para>Cardiac catheterization is usually required to confirm the diagnosis, quantitate the degree of left-to-right shunt, differentiate VSR from other conditions (eg, mitral regurgitation), plus visualize the coronary arteries.</para>
+      <figure id="9623">
+        <title>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-...</title>
+        <caption>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-chamber views show a breach in the interventricular septum and free communication between ventricles through a large apical septum ventricular septal defect in a patient who recently had an anterior myocardial infarction. </caption>
+        <graphic fileref="/23/9623.jpg" format="IMAGE" id="9623" extension_format="JPG"/>
+        <graphic fileref="/23/9623tn.jpg" format="IMAGE_THUMB" id="9623"/>
+      </figure>
+      <para>In patients with VSR, right-heart catheterization shows a step-up in oxygen saturation from the right atrium to the RV; in contrast, no step-up in oxygen saturation occurs among patients with MR. The presence of large V waves in the pulmonary capillary wedge tracing supports the diagnosis of severe acute MR. </para>
+      <para>Left ventriculography can also be used to identify the site of ventricular rupture (see <a href="http://emedicine.medscape.com/article/1819224-overview">Cardiac Catheterization [Left Heart]</a>). However, this study is usually unnecessary after a good-quality echocardiographic and Doppler examination is conducted.</para>
+    </pgroup>
+    <pgroup>
+      <title>Treatment of VSR</title>
+      <para>The key to management of VSR is prompt diagnosis and an aggressive approach to hemodynamic stabilization, angiography, and surgery. The optimal approach includes hemodynamic stabilization with the administration of oxygen and mechanical support with use of an intra-aortic balloon pump, as well as the administration of vasodilators (to reduce afterload and thus LV pressure and the left-to-right shunt), diuretics, and inotropic agents. </para>
+      <para>Cardiac catheterization is needed to define the coronary anatomy; this is followed by urgent surgical repair.</para>
+      <para>Medical therapy is intended only for temporary stabilization before surgery, as most patients' conditions deteriorate rapidly and they die in the absence of surgical intervention. In the GUSTO-I trial, the 30-day mortality rate was lower in patients with VSR who underwent surgical repair than in patients treated medically (47% vs 94%), as was the 1-year mortality rate (53% vs 97%).<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>Lemery et al reported a 30-day survival rate of 24% in patients treated medically compared with 47% in those treated surgically.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup></para>
+      <para>Current guidelines of the American College of Cardiology/American Heart Association for the treatment of patients with septal rupture complicating AMI highlight urgent surgical intervention, regardless of their clinical status.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24] </sup>Surgical management of septal rupture includes the following elements: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Prompt establishment of hypothermic cardiopulmonary bypass</para>
+        </listitem>
+        <listitem>
+          <para>An approach to the septal rupture through the infarct area and the excision of all necrotic, friable margins of the septum and ventricular walls to avoid postoperative hemorrhage, residual septal defect, or both </para>
+        </listitem>
+        <listitem>
+          <para>Reconstruction of the septum and ventricular walls by using prosthetic material and preservation of the geometric configuration of the ventricles and heart function </para>
+        </listitem>
+      </itemizedlist>
+      <para>Percutaneous closure of septal rupture is a relatively new approach, one used in select patients as an alternative to surgical repair or for the acute stabilization of critically ill patients. However, percutaneous closure is currently unavailable in many institutions, and no long-term outcome data are available. </para>
+      <para>Several studies failed to show a relationship between perioperative mortality and concomitant coronary revascularization (coronary artery bypass grafting). Patients with cardiogenic shock due to septal rupture have the poorest outcome. In the SHOCK trial, the in-hospital mortality rate was higher in patients with cardiogenic shock due to septal rupture (87.3%) than in patients with cardiogenic shock from all other causes (59.2% with pure LV failure and 55.1% with acute MR).<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19, <ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+      <para>In patients who survive surgical repair, the rate of recurrent or residual septal defect is reported to be about 28%, and the associated mortality rate is high. </para>
+      <para>Repeat surgical intervention is indicated in patients who have clinical heart failure or a pulmonary-systemic fraction greater than 2. </para>
+    </pgroup>
+    <pgroup>
+      <title>Overview of acute mitral regurgitation</title>
+      <para>MR is a common complication of AMI that results from local and global LV remodeling and that is an independent predictor of heart failure and death. MR typically occurs 7-10 days after an AMI, though this onset may vary according to the mechanism of MR. Papillary muscle rupture resulting in MR occurs within 1-14 days (median, 1 d). </para>
+      <para>Mild-to-moderate MR is often clinically silent and detected on Doppler echocardiography performed during the early phase of AMI. In such cases, MR rarely causes hemodynamic compromise.</para>
+      <para>Speckle tracking and 3-dimensional echocardiography proved to be important imaging tools in assessing reverse LV remodeling after degenerative mitral valve regurgitation surgery. Subtle regional preoperative changes in diastolic function of the septal and lateral wall could be preoperatively identified, aiding in optimizing the referral timing and recognizing potential culprits as indicators of disease recurrence after mitral repair.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+      <para>Severe acute MR that results from the rupture of papillary muscles or chordae tendineae results in abrupt hemodynamic deterioration with cardiogenic shock. Rapid diagnosis, hemodynamic stabilization, and prompt surgical intervention are needed because acute severe MR is associated with a high mortality rate. </para>
+      <para>The reported incidence of MR may vary because of several factors, including the diagnostic methods used, the presence or absence of heart failure, the degree of MR reported, the type of therapy rendered, and the time from infarct onset to testing. </para>
+      <para>During the GUSTO-I trial, the incidence of MR in patients receiving thrombolytic therapy was 1.73%.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>The SHOCK trial, which included MI patients presenting with cardiogenic shock, noted a 39.1% incidence of moderate to severe MR.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup>Kinn et al reported that reperfusion with angioplasty resulted in an 82% decrease in the rate of acute MR, as compared with thrombolytic therapy (0.31% vs 1.73%).<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+      <para>Risk factors for MR are advanced age, female sex, large infarct, previous AMI, recurrent ischemia, multivessel coronary artery disease, and heart failure. </para>
+      <para>Several mechanisms can cause MR after AMI. Rupture of the papillary muscle is the most commonly reported mechanism.</para>
+      <para>Such rupture occurs in 1% of patients with AMI and frequently involves the posteromedial papillary muscle rather than the anterolateral papillary muscle, as the former has a single blood supply versus the dual supply for the latter. Papillary muscle rupture may lead to flailing or prolapse of the leaflets, resulting in severe MR. Papillary muscle dysfunction due to scarring or recurrent ischemia may also lead to MR in the subacute and chronic phases after MI; this condition can resolve spontaneously. </para>
+      <para>Large posterior infarctions produce acute MR due to asymmetric annular dilation and altered function and geometry of the papillary muscle. </para>
+    </pgroup>
+    <pgroup>
+      <title>Clinical presentation of MR</title>
+      <para>Patients with functional mild or moderate MR are often asymptomatic. The severity of symptoms varies depending on ventricular function. Clinical features of acute severe MR include shortness of breath, fatigue, a new apical holosystolic murmur, flash pulmonary edema, and shock. </para>
+      <para>The new systolic murmur may be only early-to-mid systolic, not holosystolic. It may be soft or even absent because of the abrupt rise in left atrial pressure, which lessens the pressure gradient between the left atrium and the LV, as compared with chronic MR. The murmur is best heard at the apex rather than the lower left sternal border, and it is uncommonly associated with a thrill. S3 and S4 gallops are expected. </para>
+    </pgroup>
+    <pgroup>
+      <title>Diagnosis of MR</title>
+      <para>The clinician cannot rely on a new holosystolic murmur to diagnose MR or assess its severity because of the variable hemodynamic status. In a patient with AMI who presents with a new apical systolic murmur, acute pulmonary edema, and cardiogenic shock, a high index of clinical suspicion for severe MR is the key to diagnosis. </para>
+      <para>Chest radiography may show evidence of pulmonary edema in the acute setting without clinically significant cardiac enlargement.</para>
+      <para>Echocardiography with color flow Doppler imaging is the standard diagnostic tool for detecting MR. Transthoracic echocardiography is the preferred initial screening tool, but transesophageal echocardiography is invaluable in defining the severity and exact mechanism of acute MR, especially when suspicion for papillary muscle rupture is high. Cardiac catheterization should be performed in all patients to determine the extent and severity of coronary artery disease. </para>
+    </pgroup>
+    <pgroup>
+      <title>Treatment of MR</title>
+      <para>Determination of hemodynamic stability, elucidation of the exact mechanism of acute MR, and expedient therapy are all necessary for a favorable outcome. Medical management includes afterload reduction with the use of diuretics, sodium nitroprusside, and nitrates in patients who are not hypotensive. </para>
+      <para>In patients who have hemodynamic compromise, intra-aortic balloon counterpulsation should be deployed rapidly. This intervention usually substantially reduces afterload and regurgitant volume, improving cardiac output in preparation for surgical repair. Without surgical repair, medical therapy alone in patients with papillary muscle rupture results in inadequate hemodynamic improvement and a poor short-term prognosis. </para>
+      <para>Emergency surgical intervention is the treatment of choice for papillary muscle rupture. Surgical approaches may include mitral valve repair or replacement. In the absence of papillary muscle necrosis, mitral valve repair improves the survival rate more than mitral valve replacement does. This difference is because the subvalvular apparatus is usually preserved. Mitral valve repair also eliminates complications related to malfunction of the prosthesis. </para>
+      <para>In patients with extensive necrosis of papillary muscle and/or ventricular free wall, mitral valve replacement is the preferred modality. Coronary artery bypass grafting (CABG) performed at the time of surgery was shown in one study to improve short- and long-term survival.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup></para>
+      <para>The only situation in which emergency surgery can safely be avoided is in the case of intermittent MR due to recurrent ischemia. In these patients, successful myocardial revascularization may be effective. This procedure is accomplished by means of either angioplasty or coronary artery bypass grafting. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a10">
+    <title>Left Ventricular Aneurysm</title>
+    <pgroup>
+      <title>Overview of LVA</title>
+      <para>Left ventricular aneurysm (LVA) is defined as a localized area of myocardium with abnormal outward bulging and deformation during both systole and diastole. The rate of LVAs after AMI is approximately 3-15%. Risk factors for LVA after AMI include female sex, total occlusion of the LAD artery, single-vessel disease, and absence of previous angina. </para>
+      <para>More than 80% of LVAs affect the anterolateral wall; these are usually associated with total occlusion of the LAD. The posterior and inferior walls are less commonly affected. LVAs generally range from 1-8 cm. Histologically, LVAs are composed of fibrous scar that is notably thinned. This scar is clearly delineated from the adjacent ventricular muscle on microscopic examination. </para>
+      <para>A history of MI and third or fourth heart sounds are common findings from the patient's history and physical examination.</para>
+    </pgroup>
+    <pgroup>
+      <title>Diagnosis of LVA</title>
+      <para>The chest radiograph may reveal an enlarged cardiac silhouette.</para>
+      <para>Electrocardiography is characterized by ST elevation that persists several weeks after AMI and that appears in the same leads as those showing the acute infarct. Echocardiography is 93% sensitive and 94% specific for detection of LVA (see the image below), but cardiac catheterization remains the standard for establishing the diagnosis.</para>
+      <figure id="9625">
+        <title>Parasternal long-axis view of the left ventricle demonstrates a large inferobasal aneurysm. Note...</title>
+        <caption>Parasternal long-axis view of the left ventricle demonstrates a large inferobasal aneurysm. Note the wide neck and base of the aneurysm. </caption>
+        <graphic fileref="/25/9625.jpg" format="IMAGE" id="9625" extension_format="JPG"/>
+        <graphic fileref="/25/9625tn.jpg" format="IMAGE_THUMB" id="9625"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Treatment of LVA</title>
+      <para>Patients with small or clinically insignificant aneurysms can be treated conservatively with close follow-up. Medical therapy generally consists of the use of angiotensin-converting enzyme (ACE) inhibitors, which reduce afterload, infarct extension, and LV remodeling. Anticoagulation is required when patients have severe LV dysfunction and/or thrombus in the LV or aneurysm. </para>
+      <para>Surgical resection of the LVA is indicated if severe heart failure, ventricular tachyarrhythmias refractory to medical treatment, or recurrent thromboembolism is present. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a11">
+    <title>Miscellaneous Complications</title>
+    <pgroup>
+      <title>Left ventricular mural thrombus</title>
+      <para>LVMT is a well-known complication of AMI and frequently develops after anterior infarcts of the LV wall. The incidence of LVMT as a complication of AMI ranges from 20-40% and may reach 60% in patients with large anterior-wall AMIs who are not treated with anticoagulant therapy. LVMT is associated with a high risk of systemic embolization. Anticoagulant therapy may substantially decrease the rate of embolic events by 33% compared with no anticoagulation. </para>
+      <para>Factors contributing to LVMT formation include LV regional-wall akinesia or dyskinesia with blood stasis, injury to and inflammation of the endocardial tissue that provides a thrombogenic surface, and a hypercoagulable state. The most common clinical presentation of patients with LVMT complicating an MI is stroke. Most episodes occur within the first 10 days after AMI. Physical findings depend on the site of embolism. </para>
+      <para>Transthoracic echocardiography remains the imaging modality of choice and is 92% sensitive and 88% specific for detecting LVMT (see the image below). Management of LVMT includes <a href="http://reference.medscape.com/drug/calciparine-monoparin-heparin-342169">heparin</a> treatment followed by oral <a href="http://reference.medscape.com/drug/coumadin-jantoven-warfarin-342182">warfarin</a> therapy for 3-6 months. In patients with LVAs, lifelong anticoagulation may be appropriate if a mural clot persists.</para>
+      <figure id="9624">
+        <title>Apical 2-chamber view depicts a large left ventricular apical thrombus with mobile extensions. </title>
+        <caption>Apical 2-chamber view depicts a large left ventricular apical thrombus with mobile extensions. </caption>
+        <graphic fileref="/24/9624.jpg" format="IMAGE" id="9624" extension_format="JPG"/>
+        <graphic fileref="/24/9624tn.jpg" format="IMAGE_THUMB" id="9624"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Pericarditis</title>
+      <para>The incidence of early pericarditis after MI is approximately 10%, and this complication usually develops within 24-96. Pericarditis is caused by inflammation of pericardial tissue overlying infarcted myocardium. The clinical presentation may include severe chest pain, usually pleuritic, and pericardial friction rub. </para>
+      <para>The key ECG change is diffuse ST-segment elevation in all or nearly all of leads. Echocardiography may reveal a small pericardial effusion. The mainstay of therapy usually includes aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs). Colchicine may be beneficial in patients with recurrent pericarditis. </para>
+    </pgroup>
+    <pgroup>
+      <title>Post-MI syndrome (Dressler syndrome)</title>
+      <para>Before the era of reperfusion, the incidence of post-MI syndrome ranged from 1-5% after AMI, but this rate has dramatically declined with the advent of thrombolysis and coronary angioplasty. </para>
+      <para>Although the exact mechanism has yet to be elucidated, post-MI syndrome is considered to be an autoimmune process. Clinical features include fever, chest pain, and other signs and symptoms of pericarditis occurring 2-3 weeks after AMI. Management involves hospitalization and observation for any evidence of cardiac tamponade. Treatment comprises rest, use of NSAIDs, and/or steroids in patients with recurrent post-MI syndrome with disabling symptoms.</para>
+    </pgroup>
+    <pgroup>
+      <title>"Off-hour" MI admissions</title>
+      <para>Despite the perception that patients with an acute MI admitted during off hours have higher rates of death compared to those admitted during regular hours, a multivariate analyses of outcomes data at the Mayo Clinic for weekends, nights, and holidays admissions of patients with acute MI who underwent percutaneous coronary interventions found no significant association for inpatient mortality, 30-day mortality, or 30-day readmissions, nor were there any differences in findings between those with or without ST-elevation MI (STEMI, non-STEMI).<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30] </sup>However, the investigators did find a significant association between off-hour admissions of these patients with composite major complications as well as emergent coronary artery bypass graft surgery, ventricular arrhythmia, cerebrovascular events, and hemorrhage (gastrointestinal, retroperitoneal, intracranial). </para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="9623">
+        <title>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-...</title>
+        <caption>Modified 2-dimensional (top) echocardiogram and color flow Doppler image (bottom). Apical 4-chamber views show a breach in the interventricular septum and free communication between ventricles through a large apical septum ventricular septal defect in a patient who recently had an anterior myocardial infarction. </caption>
+        <graphic fileref="/23/9623.jpg" format="IMAGE" id="9623" extension_format="JPG"/>
+        <graphic fileref="/23/9623tn.jpg" format="IMAGE_THUMB" id="9623"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="9624">
+        <title>Apical 2-chamber view depicts a large left ventricular apical thrombus with mobile extensions. </title>
+        <caption>Apical 2-chamber view depicts a large left ventricular apical thrombus with mobile extensions. </caption>
+        <graphic fileref="/24/9624.jpg" format="IMAGE" id="9624" extension_format="JPG"/>
+        <graphic fileref="/24/9624tn.jpg" format="IMAGE_THUMB" id="9624"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="9625">
+        <title>Parasternal long-axis view of the left ventricle demonstrates a large inferobasal aneurysm. Note...</title>
+        <caption>Parasternal long-axis view of the left ventricle demonstrates a large inferobasal aneurysm. Note the wide neck and base of the aneurysm. </caption>
+        <graphic fileref="/25/9625.jpg" format="IMAGE" id="9625" extension_format="JPG"/>
+        <graphic fileref="/25/9625tn.jpg" format="IMAGE_THUMB" id="9625"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Ashok K Kondur, MD</contrbtr_nm>
+        <contrbtr_title>Clinical Assistant Professor, Department of Internal Medicine, Detroit Medical Center, Wayne State University</contrbtr_title>
+        <contrbtr_bio>Ashok K Kondur, MD is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.msms.org">Michigan State Medical Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Luis C Afonso, MD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Department of Internal Medicine-Cardiology, Program Director of Cardiology Fellowship Program, Wayne State University; Director of Echocardiography Laboratory, Harper University Hospital</contrbtr_title>
+        <contrbtr_bio>Luis C Afonso, MD is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://asecho.org">American Society of Echocardiography</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Pawan Hari, MD, MPH</contrbtr_nm>
+        <contrbtr_title>Resident Physician, Department of Internal Medicine, Wayne State University School of Medicine</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Brian Olshansky, MD</contrbtr_nm>
+        <contrbtr_title>Professor Emeritus of Medicine, Department of Internal Medicine, University of Iowa College of Medicine</contrbtr_title>
+        <contrbtr_bio>Brian Olshansky, MD is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.hrsonline.org">Heart Rhythm Society</a>, <a href="http://www.cardiaceps.org">Cardiac Electrophysiology Society</a>, <a href="http://www.heart.org">American Heart Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received honoraria from Guidant/Boston Scientific for speaking and teaching; Received honoraria from Medtronic for speaking and teaching; Received consulting fee from Guidant/Boston Scientific for consulting; Received consulting fee from BioControl for consulting; Received consulting fee from Boehringer Ingelheim for consulting; Received consulting fee from Amarin for review panel membership; Received consulting fee from sanofi aventis for review panel membership.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Eric H Yang, MD</contrbtr_nm>
+        <contrbtr_title>Associate Professor of Medicine, Director of Cardiac Catherization Laboratory and Interventional Cardiology, Mayo Clinic Arizona</contrbtr_title>
+        <contrbtr_bio>Eric H Yang, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>The authors and editors of Medscape Reference gratefully acknowledge the contributions of previous authors Sumanth R Daram, MD, and Sridevi R Pitta, MD, to the development and writing of the source article.</para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17194875">
+      <para>Rosamond W, Flegal K, Friday G, et al. Heart disease and stroke statistics--2007 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee [erratum appears in Circulation. 2007 Feb 6;115(5):e172]. <em>Circulation</em>. 2007. 115:e69-171. <a href="http://reference.medscape.com/medline/abstract/17194875">[Medline]</a>. <a href="http://circ.ahajournals.org/content/115/5/e69.full.pdf+html">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23575760">
+      <para>Dayan V, Soca G, Parma G, Mila R. Does early coronary artery bypass surgery improve survival in non-ST acute myocardial infarction?. <em>Interact Cardiovasc Thorac Surg</em>. 2013 Apr 10. <a href="http://reference.medscape.com/medline/abstract/23575760">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11669409">
+      <para>Kontoyannis DA, Anastasiou-Nana MI, Kontoyannis SA, Zaga AK, Nanas JN. Intravenous amiodarone decreases the duration of atrial fibrillation associated with acute myocardial infarction. <em>Cardiovasc Drugs Ther</em>. 2001 Mar. 15(2):155-60. <a href="http://reference.medscape.com/medline/abstract/11669409">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20837897">
+      <para>Bloch Thomsen PE,  Jons C,  Raatikainen MJ,  Moerch Joergensen R,  Hartikainen J,  Virtanen V, et al. Long-term recording of cardiac arrhythmias with an implantable cardiac monitor in patients with reduced ejection fraction after acute myocardial infarction: the Cardiac Arrhythmias and Risk Stratification After Acute Myocardial Infarction (CARISMA) study. <em>Circulation</em>. 2010 Sep 28. 122(13):1258-64. <a href="http://reference.medscape.com/medline/abstract/20837897">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3047448">
+      <para>MacMahon S, Collins R, Peto R, Koster RW, Yusuf S. Effects of prophylactic lidocaine in suspected acute myocardial infarction. An overview of results from the randomized, controlled trials. <em>JAMA</em>. 1988 Oct 7. 260(13):1910-6. <a href="http://reference.medscape.com/medline/abstract/3047448">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6342837">
+      <para>Hjalmarson A,  Herlitz J,  Holmberg S,  Rydén L,  Swedberg K,  Vedin A, et al. The Göteborg metoprolol trial. Effects on mortality and morbidity in acute myocardial infarction. <em>Circulation</em>. 1983 Jun. 67(6 Pt 2):I26-32. <a href="http://reference.medscape.com/medline/abstract/6342837">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19064683">
+      <para>Figueras J, Alcalde O, Barrabés JA, Serra V, Alguersuari J, Cortadellas J. Changes in hospital mortality rates in 425 patients with acute ST-elevation myocardial infarction and cardiac rupture over a 30-year period. <em>Circulation</em>. 2008 Dec 16. 118(25):2783-9. <a href="http://reference.medscape.com/medline/abstract/19064683">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8626938">
+      <para>Becker RC, Gore JM, Lambrew C, Weaver WD, Rubison RM, French WJ. A composite view of cardiac rupture in the United States National Registry of Myocardial Infarction. <em>J Am Coll Cardiol</em>. 1996 May. 27(6):1321-6. <a href="http://reference.medscape.com/medline/abstract/8626938">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1348750">
+      <para>Kleiman NS, Terrin M, Mueller H, Chaitman B, Roberts R, Knatterud GL. Mechanisms of early death despite thrombolytic therapy: experience from the Thrombolysis in Myocardial Infarction Phase II (TIMI II) study. <em>J Am Coll Cardiol</em>. 1992 May. 19(6):1129-35. <a href="http://reference.medscape.com/medline/abstract/1348750">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2142705">
+      <para>Honan MB, Harrell FE Jr, Reimer KA, Califf RM, Mark DB, Pryor DB. Cardiac rupture, mortality and the timing of thrombolytic therapy: a meta-analysis. <em>J Am Coll Cardiol</em>. 1990 Aug. 16(2):359-67. <a href="http://reference.medscape.com/medline/abstract/2142705">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9973029">
+      <para>Becker RC,  Hochman JS,  Cannon CP,  Spencer FA,  Ball SP,  Rizzo MJ, et al. Fatal cardiac rupture among patients treated with thrombolytic agents and adjunctive thrombin antagonists: observations from the Thrombolysis and Thrombin Inhibition in Myocardial Infarction 9 Study. <em>J Am Coll Cardiol</em>. 1999 Feb. 33(2):479-87. <a href="http://reference.medscape.com/medline/abstract/9973029">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1193118">
+      <para>Becker AE, van Mantgem JP. Cardiac tamponade. A study of 50 hearts. <em>Eur J Cardiol</em>. 1975 Dec. 3(4):347-58. <a href="http://reference.medscape.com/medline/abstract/1193118">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20975001">
+      <para>Figueras J,  Barrabés JA,  Serra V,  Cortadellas J,  Lidón RM,  Carrizo A, et al. Hospital outcome of moderate to severe pericardial effusion complicating ST-elevation acute myocardial infarction. <em>Circulation</em>. 2010 Nov 9. 122(19):1902-9. <a href="http://reference.medscape.com/medline/abstract/20975001">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1563127">
+      <para>Nakamura F, Minamino T, Higashino Y, Ito H, Fujii K, Fujita T. Cardiac free wall rupture in acute myocardial infarction: ameliorative effect of coronary reperfusion. <em>Clin Cardiol</em>. 1992 Apr. 15(4):244-50. <a href="http://reference.medscape.com/medline/abstract/1563127">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7912882">
+      <para>Pollak H, Nobis H, Mlczoch J. Frequency of left ventricular free wall rupture complicating acute myocardial infarction since the advent of thrombolysis. <em>Am J Cardiol</em>. 1994 Jul 15. 74(2):184-6. <a href="http://reference.medscape.com/medline/abstract/7912882">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6604199">
+      <para>Pifarré R, Sullivan HJ, Grieco J, Montoya A, Bakhos M, Scanlon PJ. Management of left ventricular rupture complicating myocardial infarction. <em>J Thorac Cardiovasc Surg</em>. 1983 Sep. 86(3):441-3. <a href="http://reference.medscape.com/medline/abstract/6604199">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21269649">
+      <para>Acker MA, Jessup M, Bolling SF, et al. Mitral valve repair in heart failure: Five-year follow-up from the mitral valve replacement stratum of the Acorn randomized trial. <em>J Thorac Cardiovasc Surg</em>. 2011 Sep. 142(3):569-574.e1. <a href="http://reference.medscape.com/medline/abstract/21269649">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10618300">
+      <para>Crenshaw BS, Granger CB, Birnbaum Y, Pieper KS, Morris DC, Kleiman NS. Risk factors, angiographic patterns, and outcomes in patients with ventricular septal defect complicating acute myocardial infarction. GUSTO-I (Global Utilization of Streptokinase and TPA for Occluded Coronary Arteries) Trial Investigators. <em>Circulation</em>. 2000 Jan 4-11. 101(1):27-32. <a href="http://reference.medscape.com/medline/abstract/10618300">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10985713">
+      <para>Menon V, Webb JG, Hillis LD, et al. Outcome and profile of ventricular septal rupture with cardiogenic shock after myocardial infarction: a report from the SHOCK Trial Registry. SHould we emergently revascularize Occluded Coronaries in cardiogenic shocK?. <em>J Am Coll Cardiol</em>. 2000 Sep. 36(3 Suppl A):1110-6. <a href="http://reference.medscape.com/medline/abstract/10985713">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11024396">
+      <para>Birnbaum Y,  Wagner GS,  Gates KB,  Thompson TD,  Barbash GI,  Siegel RJ, et al. Clinical and electrocardiographic variables associated with increased risk of ventricular septal defect in acute anterior myocardial infarction. <em>Am J Cardiol</em>. 2000 Oct 15. 86(8):830-4. <a href="http://reference.medscape.com/medline/abstract/11024396">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2803872">
+      <para>Skehan JD, Carey C, Norrell MS, de Belder M, Balcon R, Mills PG. Patterns of coronary artery disease in post-infarction ventricular septal rupture. <em>Br Heart J</em>. 1989 Oct. 62(4):268-72. <a href="http://reference.medscape.com/medline/abstract/2803872">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16214434">
+      <para>Hayashi T, Hirano Y, Takai H, Kimura A, Taniguchi M, Kurooka A. Usefulness of ST-segment elevation in the inferior leads in predicting ventricular septal rupture in patients with anterior wall acute myocardial infarction. <em>Am J Cardiol</em>. 2005 Oct 15. 96(8):1037-41. <a href="http://reference.medscape.com/medline/abstract/16214434">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1626498">
+      <para>Lemery R, Smith HC, Giuliani ER, Gersh BJ. Prognosis in rupture of the ventricular septum after acute myocardial infarction and role of early surgical intervention. <em>Am J Cardiol</em>. 1992 Jul 15. 70(2):147-51. <a href="http://reference.medscape.com/medline/abstract/1626498">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23256914">
+      <para>[Guideline] O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. <em>J Am Coll Cardiol</em>. 2013 Jan 29. 61(4):e78-140. <a href="http://reference.medscape.com/medline/abstract/23256914">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23616484">
+      <para>Demondion P, Fournel L, Golmard JL, Niculescu M, Pavie A, Leprince P. Predictors of 30-day mortality and outcome in cases of myocardial infarction with cardiogenic shock treated by extracorporeal life support. <em>Eur J Cardiothorac Surg</em>. 2013 Apr 24. <a href="http://reference.medscape.com/medline/abstract/23616484">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21277588">
+      <para>Pandis D, Grapsa J, Athanasiou T, Punjabi P, Nihoyannopoulos P. Left ventricular remodeling and mitral valve surgery: Prospective study with real-time 3-dimensional echocardiography and speckle tracking. <em>J Thorac Cardiovasc Surg</em>. 2011 Sep. 142(3):641-9. <a href="http://reference.medscape.com/medline/abstract/21277588">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12538428">
+      <para>Picard MH,  Davidoff R,  Sleeper LA,  Mendes LA,  Thompson CR,  Dzavik V, et al. Echocardiographic predictors of survival and response to early revascularization in cardiogenic shock. <em>Circulation</em>. 2003 Jan 21. 107(2):279-84. <a href="http://reference.medscape.com/medline/abstract/12538428">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9328698">
+      <para>Kinn JW, O'Neill WW, Benzuly KH, Jones DE, Grines CL. Primary angioplasty reduces risk of myocardial rupture compared to thrombolysis for acute myocardial infarction. <em>Cathet Cardiovasc Diagn</em>. 1997 Oct. 42(2):151-7. <a href="http://reference.medscape.com/medline/abstract/9328698">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1434862">
+      <para>Kishon Y, Oh JK, Schaff HV, Mullany CJ, Tajik AJ, Gersh BJ. Mitral valve operation in postinfarction rupture of a papillary muscle: immediate results and long-term follow-up of 22 patients. <em>Mayo Clin Proc</em>. 1992 Nov. 67(11):1023-30. <a href="http://reference.medscape.com/medline/abstract/1434862">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25497249">
+      <para>Sorita A, Lennon RJ, Haydour Q, et al. Off-hour admission and outcomes for patients with acute myocardial infarction undergoing percutaneous coronary interventions. <em>Am Heart J</em>. 2015 Jan. 169(1):62-8. <a href="http://reference.medscape.com/medline/abstract/25497249">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

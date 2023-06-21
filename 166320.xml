@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="166320" pubid="" template="Emergency Medicine" template-name="multipage">
+  <site-meta>
+    <article-name>Heatstroke</article-name>
+    <title>
+      <page-info id="overview">Heatstroke: Background, Pathophysiology, Epidemiology</page-info>
+      <page-info id="clinical">Heatstroke Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Heatstroke Differential Diagnoses</page-info>
+      <page-info id="workup">Heatstroke Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Heatstroke Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Heatstroke Medication: Benzodiazepines, Alkalinizing agents, Diuretics (osmotic), Adrenergic agonist agents</page-info>
+      <page-info id="followup">Heatstroke Follow-up: Further Outpatient Care, Further Inpatient Care, Deterrence/Prevention</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Heatstroke: Background, Pathophysiology, Epidemiology</page-info>
+      <page-info id="clinical">Heatstroke Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Heatstroke Differential Diagnoses</page-info>
+      <page-info id="workup">Heatstroke Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Heatstroke Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Heatstroke Medication: Benzodiazepines, Alkalinizing agents, Diuretics (osmotic), Adrenergic agonist agents</page-info>
+      <page-info id="followup">Heatstroke Follow-up: Further Outpatient Care, Further Inpatient Care, Deterrence/Prevention</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a4">Background</section-info>
+<section-info id="a5">Pathophysiology</section-info>
+<section-info id="a6">Epidemiology</section-info>
+<section-info id="a7">Racial and sexual disparities in incidence</section-info>
+<section-info id="a8">Age-related disparities in incidence</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c4">Laboratory Studies</section-info>
+<section-info id="c5">Imaging Studies</section-info>
+<section-info id="c6">Other Tests</section-info>
+<section-info id="c7">Procedures</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d7">Medical Care</section-info>
+<section-info id="d8">Surgical Care</section-info>
+<section-info id="d9">Consultations</section-info>
+<section-info id="d10">Diet and Activity</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e1">Further Outpatient Care</section-info>
+<section-info id="e2">Further Inpatient Care</section-info>
+<section-info id="e3">Deterrence/Prevention</section-info>
+<section-info id="e4">Complications</section-info>
+<section-info id="e5">Prognosis</section-info>
+<section-info id="e6">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Heatstroke Overview</page-info>
+      <page-info id="clinical">Heatstroke Clinical Presentation</page-info>
+      <page-info id="differential">Heatstroke Differential Diagnoses</page-info>
+      <page-info id="workup">Heatstroke Workup</page-info>
+      <page-info id="treatment">Heatstroke Treatment</page-info>
+      <page-info id="medication">Heatstroke Medication</page-info>
+      <page-info id="followup">Heatstroke Follow-up</page-info>
+    </meta-keywords>
+    <uri>166320-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>May 01, 2015</posting-date>
+    <last-generated>2015-08-04-20:27</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Emergency Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>166320</artid>
+      <cg>502</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Family Medicine/Primary Care">34</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>emergency_medicine</id>
+      <name>Emergency Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>emergency_medicine_environmental</id>
+      <name>Environmental</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">heatstroke, heatstroke symptoms, heatstroke signs, heatstroke causes, heatstroke treatment, heat stroke, hyperthermia, heat-related diseases, heat illness, heat rash, heat edema, heat cramps</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Heat illness may be viewed as a continuum of illnesses relating to the body's inability to cope with heat. It includes minor illnesses, such as heat edema, heat rash (ie, prickly heat), heat cramps, and tetany, as well as heat syncope and heat exhaustion.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Heatstroke</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a4">
+      <title>Background</title>
+      <pgroup>
+        <para>Heat illness may be viewed as a continuum of illnesses relating to the body's inability to cope with heat. It includes minor illnesses, such as heat edema, heat rash (ie, prickly heat), heat cramps, and tetany, as well as heat syncope and heat exhaustion. Heatstroke is the most severe form of the heat-related illnesses and is defined as a body temperature higher than 41.1°C (106°F) associated with neurologic dysfunction. </para>
+        <para>Two forms of heatstroke exist. Exertional heatstroke (EHS) generally occurs in young individuals who engage in strenuous physical activity for a prolonged period of time in a hot environment. Classic nonexertional heatstroke (NEHS) more commonly affects sedentary elderly individuals, persons who are chronically ill, and very young persons. Classic NEHS occurs during environmental heat waves and is more common in areas that do not typically experience periods of prolonged hot weather. Both types of heatstroke are associated with high morbidity and mortality, especially when cooling therapy is delayed. </para>
+        <para>With the influence of global warming, it is predicted that the incidence of heatstroke cases and fatalities will also become more prevalent. Behavioral responses are important in the management of temperature elevations and may provide clues to preventing the development of heatstroke.</para>
+        <para>See <a href="http://reference.medscape.com/features/slideshow/heat-illness">Heat Illness: How To Cool Off Hyperthermic Patients</a>, a Critical Images slideshow, for tips on treatment options for patients with heat-related illness. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Despite wide variations in ambient temperatures, humans and other mammals can maintain a constant body temperature by balancing heat gain with heat loss. When heat gain overwhelms the body's mechanisms of heat loss, the body temperature rises, potentially leading to heatstroke. Excessive heat denatures proteins, destabilizes phospholipids and lipoproteins, and liquefies membrane lipids, leading to cardiovascular collapse, multiorgan failure, and, ultimately, death.</para>
+        <para>The exact temperature at which cardiovascular collapse occurs varies among individuals because coexisting disease, drugs, and other factors may contribute to or delay organ dysfunction. Full recovery has been observed in patients with temperatures as high as 46°C, and death has occurred in patients with much lower temperatures. Temperatures exceeding 106°F or 41.1°C generally are catastrophic and require immediate aggressive therapy. </para>
+        <para>Heat may be acquired by a number of different mechanisms. At rest, basal metabolic processes produce approximately 100 kcal of heat per hour or 1 kcal/kg/h. These reactions can raise the body temperature by 1.1°C/h if the heat-dissipating mechanisms are nonfunctional. Strenuous physical activity can increase heat production more than 10-fold, to levels exceeding 1000 kcal/h. Similarly, fever, shivering, tremors, convulsions, <a href="http://emedicine.medscape.com/article/383062-overview">thyrotoxicosis</a>, <a href="http://emedicine.medscape.com/article/234587-overview">sepsis</a>, sympathomimetic drugs, and many other conditions can increase heat production, thereby increasing body temperature. </para>
+        <para>The body also can acquire heat from the environment through some of the same mechanisms involved in heat dissipation, including conduction, convection, and radiation. These mechanisms occur at the level of the skin and require a properly functioning skin surface, sweat glands, and autonomic nervous system, but they also may be manipulated by behavioral responses.</para>
+        <para>Conduction refers to the transfer of heat between 2 surfaces with differing temperatures that are in direct contact. Convection refers to the transfer of heat between the body's surface and a gas or fluid with a differing temperature. Radiation refers to the transfer of heat in the form of electromagnetic waves between the body and its surroundings. The efficacy of radiation as a means of heat transfer depends on the position of the sun, the season, clouds, and other factors. For example, during summer, lying down in the sun can result in a heat gain of up to 150 kcal/h. </para>
+        <para>Under normal physiologic conditions, heat gain is counteracted by a commensurate heat loss. This is orchestrated by the hypothalamus, which functions as a thermostat, guiding the body through mechanisms of heat production or heat dissipation, thereby maintaining the body temperature at a constant physiologic range.</para>
+        <para>In a simplified model, thermosensors located in the skin, muscles, and spinal cord send information regarding the core body temperature to the anterior hypothalamus, where the information is processed and appropriate physiologic and behavioral responses are generated. Physiologic responses to heat include an increase in cardiac output and blood flow to the skin (as much as 8 L/min), which is the major heat-dissipating organ; dilatation of the peripheral venous system; and stimulation of the eccrine sweat glands to produce more sweat. </para>
+        <para>As the major heat-dissipating organ, the skin can transfer heat to the environment through conduction, convection, radiation, and evaporation. Radiation is the most important mechanism of heat transfer at rest in temperate climates, accounting for 65% of heat dissipation, and it can be modulated by clothing. At high ambient temperatures, conduction becomes the least important of the 4 mechanisms, while evaporation, which refers to the conversion of a liquid to a gaseous phase, becomes the most effective mechanism of heat loss. </para>
+        <para>The efficacy of evaporation as a mechanism of heat loss depends on the condition of the skin and sweat glands, the function of the lung, ambient temperature, humidity, air movement, and whether or not the person is acclimated to the high temperatures. For example, evaporation does not occur when the ambient humidity exceeds 75% and is less effective in individuals who are not acclimated. Nonacclimated individuals can only produce 1 L of sweat per hour, which only dispels 580 kcal of heat per hour, whereas acclimated individuals can produce 2-3 L of sweat per hour and can dissipate as much as 1740 kcal of heat per hour through evaporation. Acclimatization to hot environments usually occurs over 7-10 days and enables individuals to reduce the threshold at which sweating begins, increase sweat production, and increase the capacity of the sweat glands to reabsorb sweat sodium, thereby increasing the efficiency of heat dissipation. </para>
+        <para>When heat gain exceeds heat loss, the body temperature rises. Classic heatstroke occurs in individuals who lack the capacity to modulate the environment (eg, infants, elderly individuals, individuals who are chronically ill). Furthermore, elderly persons and patients with diminished cardiovascular reserves are unable to generate and cope with the physiologic responses to heat stress and, therefore, are at risk of heatstroke. Patients with skin diseases and those taking medications that interfere with sweating also are at increased risk for heatstroke because they are unable to dissipate heat adequately. Additionally, the redistribution of blood flow to the periphery, coupled with the loss of fluids and electrolytes in sweat, place a tremendous burden on the heart, which ultimately may fail to maintain an adequate cardiac output, leading to additional morbidity and mortality. </para>
+        <para>Factors that interfere with heat dissipation include an inadequate intravascular volume, cardiovascular dysfunction, and abnormal skin. Additionally, high ambient temperatures, high ambient humidity, and many drugs can interfere with heat dissipation, resulting in a major heat illness. Similarly, hypothalamic dysfunction may alter temperature regulation and may result in an unchecked rise in temperature and heat illness. </para>
+        <para>On a cellular level, heat directly influences the body by interfering with cellular processes along with denaturing proteins and cellular membranes. In turn, an array of inflammatory cytokines, interleukins and heat shock proteins (HSPs) are produced. In particular, HSP-70 allows the cell to endure the stress of its environment. If the stress continues, the cell will succumb to the stress (apoptosis) and die.</para>
+        <para>On a microvascular level, heat stroke resembles sepsis and involves inflammation, translocation of lipopolysaccharides from the gut, and activates the coagulation cascade. Certain preexisting factors, such as age, genetic makeup, and the nonacclimatized individual, may allow progression from heat stress to heatstroke, systemic inflammatory response syndrome (SIRS), multiorgan dysfunction syndrome (MODS), and ultimately death. Progression to heatstroke may occur through thermoregulatory failure, an amplified acute-phase response, and alterations in the expression of HSPs.</para>
+        <para>An index used by some, including the American College of Sports Medicine, is the Wet Bulb Globe Temperature (WBGT). It is an environmental heat stress index used to evaluate the risk of heat of heat-related illness on an individual. It is calculated using 3 parameters: temperature, humidity, and radiant heat. There is low risk if the WBGT is &lt; 65ºF, moderate risk if it is between 65-73ºF, high risk if between 73-82ºF, and very high risk if &gt;82ºF. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>
+          <strong>United States</strong>
+        </para>
+        <para>In the United States, heat waves claim more lives each year than all other weather-related exposures combined (hurricanes, tornadoes, floods, and earthquakes).<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>According to the Centers for Disease Control and Prevention, 8,015 deaths were attributed to excessive heat exposure from 1979-2003, or an average of approximately 334 deaths per year.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+        <para>Heatstroke and deaths from excessive heat exposure are more common during summers with prolonged heat waves. For example, during the heat wave of 1980 (a record year for heat), 1700 deaths were attributed to heat, compared to only 148 deaths attributed to heat the previous year. Persons older than 65 years accounted for at least 44% of cases. The numbers published by the NCHS are believed to grossly underestimate the true incidence of heat-related deaths because death rates from other causes (eg, cardiovascular disease, respiratory disease) also increase during the summer, and especially during heat waves. </para>
+        <para>
+          <strong>International</strong>
+        </para>
+        <para>Heatstroke is uncommon in subtropical climates. The condition is recognized increasingly in countries that experience heat waves rarely (eg, Japan), and it commonly affects people who undertake a pilgrimage to Mecca, especially pilgrims who come from a cold environment. In 1998, one of the worst heat waves to strike India in 50 years resulted in more than 2600 deaths in 10 weeks. Unofficial reports described the number of deaths as almost double that figure. </para>
+      </pgroup>
+      <pgroup>
+        <title>Mortality/Morbidity</title>
+        <para>Morbidity and mortality from heatstroke are related to the duration of the temperature elevation. When therapy is delayed, the mortality rate may be as high as 80%; however, with early diagnosis and immediate cooling, the mortality rate can be reduced to 10%. Mortality is highest among the elderly population, patients with preexisting disease, those confined to a bed, and those who are socially isolated. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Racial and sexual disparities in incidence</title>
+      <pgroup>
+        <para>With the same risk factors and under the same environmental conditions, heatstroke affects all races equally. However, because of differences in social advantages, the annual death rate due to environmental conditions is more than 3 times higher in blacks than in whites.</para>
+        <para>With the same risk factors and under the same environmental conditions, heatstroke affects both genders equally. However, because of gender differences in the workforce, the annual death rate due to environmental conditions is 2 times higher in men than in women. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Age-related disparities in incidence</title>
+      <pgroup>
+        <para>Infants, children, and elderly persons have a higher incidence of heatstroke than young, healthy adults. Infants and children are at risk for heat illness due to inefficient sweating, a higher metabolic rate, and their inability to care for themselves and control their environment. </para>
+        <para>Elderly persons also are at increased risk for heat-related illnesses because of their limited cardiovascular reserves, preexisting illness, and use of many medications that may affect their volume status or sweating ability. In addition, elderly people who are unable to care for themselves are at increased risk for heatstroke, presumably because of their inability to control their environment. </para>
+        <para>Exertional heat stroke (EHS) is a leading cause of injury and death in high school athletes; approximately two-thirds of such cases occur in August and involve football players, often those who are obese or overweight.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>Lack of acclimatization is a major risk factor for EHS in young adults. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Heatstroke is defined typically as hyperthermia exceeding 41°C and anhidrosis associated with an altered sensorium. However, when a patient is allowed to cool down prior to measurement of the temperature (as may occur during transportation in a cool ambulance or evaluation in an emergency department), the measured temperature may be much lower than 41°C, making the temperature criterion relative. Similarly, some patients may retain the ability to sweat, removing anhidrosis as a criterion for the diagnosis of heatstroke. Therefore, strict adherence to the definition is not advised because it may result in dangerous delays in diagnosis and therapy. </para>
+        <para>Clinically, 2 forms of heatstroke are differentiated: classic, or nonexertional, heatstroke (NEHS) and exertional heatstroke (EHS). Classic heatstroke, which occurs during environmental heat waves, is more common in the very young and the elderly and should be suspected in children, elderly persons, and chronically ill individuals who present with an altered sensorium. Classic heatstroke occurs because of failure of the body's heat dissipating mechanisms. </para>
+        <para>On the other hand, EHS affects young, healthy individuals who engage in strenuous physical activity, and EHS should be suspected in all such individuals who exhibit bizarre, irrational behavior or experience syncope. EHS results from increased heat production, which overwhelms the body's ability to dissipate heat.</para>
+      </pgroup>
+      <pgroup>
+        <title>Exertional heatstroke</title>
+        <para>EHS is characterized by hyperthermia, diaphoresis, and an altered sensorium, which may manifest suddenly during extreme physical exertion in a hot environment. </para>
+        <para>A number of symptoms (eg, abdominal and muscular cramping, nausea, vomiting, diarrhea, headache, dizziness, dyspnea, weakness) commonly precede the heatstroke and may remain unrecognized. Syncope and loss of consciousness also are observed commonly before the development of EHS. </para>
+        <para>EHS commonly is observed in young, healthy individuals (eg, athletes, firefighters, military personnel) who, while engaging in strenuous physical activity, overwhelm their thermoregulatory system and become hyperthermic. Because their ability to sweat remains intact, patients with EHS are able to cool down after cessation of physical activity and may present for medical attention with temperatures well below 41°C. Despite education and preventive measures, EHS is still a leading cause of disability and death in high school athletes, particularly football players.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>Risk factors that increase the likelihood of heat-related illnesses include a preceding viral infection, dehydration, fatigue, obesity, lack of sleep, poor physical fitness, and lack of acclimatization. Although lack of acclimatization is a risk factor for heatstroke, EHS also can occur in acclimatized individuals who are subjected to moderately intense exercise. EHS also may occur because of increased motor activity due to drug use, such as cocaine and amphetamines, and as a complication of status epilepticus. </para>
+      </pgroup>
+      <pgroup>
+        <title>Nonexertional heatstroke</title>
+        <para>NEHS is characterized by hyperthermia, anhidrosis, and an altered sensorium, which develop suddenly after a period of prolonged elevations in ambient temperatures (ie, heat waves). Core body temperatures greater than 41°C are diagnostic, although heatstroke may occur with lower core body temperatures. </para>
+        <para>Numerous central nervous system (CNS) symptoms, ranging from minor irritability to delusions, irrational behavior, hallucinations, and coma have been described. Other possible CNS symptoms include seizures, cranial nerve abnormalities, cerebellar dysfunction, and opisthotonos. </para>
+        <para>Anhidrosis due to cessation of sweating is a late occurrence in heatstroke and may not be present when patients are examined.</para>
+        <para>Patients with NEHS initially may exhibit a hyperdynamic circulatory state, but, in severe cases, hypodynamic states may be noted. </para>
+        <para>Classic heatstroke most commonly occurs during episodes of prolonged elevations in ambient temperatures. It affects people who are unable to control their environment and water intake (eg, infants, elderly persons, individuals who are chronically ill), people with reduced cardiovascular reserve (eg, elderly persons, patients with chronic cardiovascular illnesses), and people with impaired sweating (eg, from skin disease or ingestion of anticholinergic or psychiatric drugs). In addition, infants have an immature thermoregulatory system, and elderly persons have impaired perception of changes in body and ambient temperatures and a decreased capacity to sweat.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <title>Vital signs</title>
+        <para>Temperature: Typically, the patient's temperature exceeds 41°C. However, in the presence of sweating, evaporating mechanisms, and the initiation of cooling methods, body temperatures lower than 41°C are common. </para>
+        <para>Pulse: Tachycardia to rates exceeding 130 beats per minute is common.</para>
+        <para>Blood pressure: Patients commonly are normotensive, with a wide pulse pressure; however, hypotension is common and may result from a number of factors, including vasodilation of the cutaneous vessels, pooling of the blood in the venous system, and dehydration. Hypotension also may be due to myocardial damage and may signal cardiovascular collapse. Blood pressure will usually correct with normalization of the body temperature. </para>
+      </pgroup>
+      <pgroup>
+        <title>Central nervous system</title>
+        <para>Symptoms of CNS dysfunction are present universally in persons with heatstroke. Symptoms may range from irritability to coma.</para>
+        <para>Patients may present with delirium, confusion, delusions, convulsions, hallucinations, ataxia, tremors, dysarthria, and other cerebellar findings, as well as cranial nerve abnormalities and tonic and dystonic contractions of the muscles. Patients also may exhibit decerebrate posturing, decorticate posturing, or they may be limp. </para>
+        <para>Coma also may be caused by electrolyte abnormalities, hypoglycemia, hepatic encephalopathy, uremic encephalopathy, and acute structural abnormalities, such as intracerebral hemorrhage due to trauma or coagulation disorders. </para>
+        <para>Cerebral edema and herniation also may occur during the course of heatstroke.</para>
+      </pgroup>
+      <pgroup>
+        <title>Eyes</title>
+        <para>Examination of the eyes may reveal nystagmus and oculogyric episodes due to cerebellar injury. The pupils may be fixed, dilated, pinpoint, or normal. </para>
+      </pgroup>
+      <pgroup>
+        <title>Cardiovascular</title>
+        <para>Heat stress places a tremendous burden on the heart. Patients with preexisting myocardial dysfunction do not tolerate heat stress for prolonged periods. </para>
+        <para>Patients commonly exhibit a hyperdynamic state, with tachycardia, low systemic vascular resistance, and a high cardiac index. However, a hypodynamic state, with a high systemic vascular resistance and a low cardiac index, may occur in patients with preexisting cardiovascular disease and low intravascular volume. A hypodynamic state also may signal cardiovascular collapse. </para>
+        <para>The central venous pressure generally is within the reference range or elevated unless the patient is severely volume depleted.</para>
+        <para>High-output cardiac failure and low-output cardiac failure may occur.</para>
+      </pgroup>
+      <pgroup>
+        <title>Pulmonary</title>
+        <para>Patients with heatstroke commonly exhibit tachypnea and hyperventilation caused by direct CNS stimulation, acidosis, or hypoxia.</para>
+        <para>Hypoxia and cyanosis may be due to a number of processes, including atelectasis, pulmonary infarction, aspiration pneumonia, and pulmonary edema. </para>
+      </pgroup>
+      <pgroup>
+        <title>Gastrointestinal</title>
+        <para>Gastrointestinal hemorrhage occurs frequently in patients with heatstroke. </para>
+      </pgroup>
+      <pgroup>
+        <title>Hepatic</title>
+        <para>Patients commonly exhibit evidence of hepatic injury, including jaundice and elevated liver enzymes.</para>
+        <para>Rarely, fulminant hepatic failure occurs, accompanied by encephalopathy, hypoglycemia, and disseminated intravascular coagulation (DIC) and bleeding. </para>
+      </pgroup>
+      <pgroup>
+        <title>Musculoskeletal</title>
+        <para>Muscle tenderness and cramping are common; rhabdomyolysis is a common complication of EHS. The patient's muscles may be rigid or limp. </para>
+      </pgroup>
+      <pgroup>
+        <title>Renal</title>
+        <para>Acute kidney injury is a common complication of heatstroke and may be due to hypovolemia, low cardiac output, and myoglobinuria (from rhabdomyolysis). Patients may exhibit oliguria and a change in the color of urine. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>The etiology of heatstroke may involve any of the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Increased heat production</para>
+          </listitem>
+          <listitem>
+            <para>Decreased heat loss</para>
+          </listitem>
+          <listitem>
+            <para>Reduced ability to acclimatize</para>
+          </listitem>
+          <listitem>
+            <para>Reduced behavioral responsiveness</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Increased heat production</title>
+        <para>Increased metabolism can result from any of the following: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Infections</para>
+          </listitem>
+          <listitem>
+            <para>Sepsis</para>
+          </listitem>
+          <listitem>
+            <para>Encephalitis</para>
+          </listitem>
+          <listitem>
+            <para>Stimulant drugs</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/767130-overview">Thyroid storm</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Drug withdrawal</para>
+          </listitem>
+        </itemizedlist>
+        <para>Increased muscular activity may involve any of the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Exercise</para>
+          </listitem>
+          <listitem>
+            <para>Convulsions</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/786414-overview">Tetanus</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Strychnine poisoning</para>
+          </listitem>
+          <listitem>
+            <para>Sympathomimetics</para>
+          </listitem>
+          <listitem>
+            <para>Drug withdrawal</para>
+          </listitem>
+          <listitem>
+            <para>Thyroid storm</para>
+          </listitem>
+        </itemizedlist>
+        <para>Moderate physical exercise, convulsions, and shivering can double heat production and result in temperature elevations that generally are self-limited and resolve with discontinuation of the activity. </para>
+        <para>Strenuous exercise and status epilepticus can increase heat production 10-fold and, when uninterrupted, can overwhelm the body's heat-dissipating mechanisms, leading to dangerous rises in body temperature. </para>
+        <para>Stimulant drugs, including cocaine and amphetamines, can generate excessive amounts of heat by increasing metabolism and motor activity through the stimulatory effects of dopamine, serotonin, and norepinephrine. The development of heatstroke in individuals intoxicated with stimulants is multifactorial and may involve a complex interaction between dopamine and serotonin in the hypothalamus and the brainstem. </para>
+        <para>Neuroleptic agents also may elevate body temperature by increasing muscle activity, but, occasionally, these agents may cause <a href="http://emedicine.medscape.com/article/816018-overview">neuroleptic malignant syndrome</a> (NMS). NMS is an idiosyncratic reaction characterized by hyperthermia, altered mental status, muscle rigidity, and autonomic instability and appears to be due to excessive contraction of muscles. </para>
+        <para>Certain drugs, such as inhaled volatile anesthetics and succinylcholine, may result in malignant hyperthermia. In contrast to heatstroke, <a href="http://emedicine.medscape.com/article/1445509-overview">malignant hyperthermia</a> is believed to be induced by a decreased ability of the sarcoplasmic reticulum to retain calcium, resulting in sustained muscle contraction. </para>
+      </pgroup>
+      <pgroup>
+        <title>Decreased heat loss</title>
+        <para>Reduced sweating can result from any of the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Dermatologic diseases</para>
+          </listitem>
+          <listitem>
+            <para>Drugs</para>
+          </listitem>
+          <listitem>
+            <para>Burns</para>
+          </listitem>
+        </itemizedlist>
+        <para>Reduced central nervous system (CNS) responses may result from the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Advanced age</para>
+          </listitem>
+          <listitem>
+            <para>Young age (toddlers and infants)</para>
+          </listitem>
+          <listitem>
+            <para>Alcohol</para>
+          </listitem>
+          <listitem>
+            <para>Barbiturates</para>
+          </listitem>
+          <listitem>
+            <para>Other sedatives</para>
+          </listitem>
+        </itemizedlist>
+        <para>Reduced cardiovascular reserve may result from the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Advanced age</para>
+          </listitem>
+          <listitem>
+            <para>Beta-blockers</para>
+          </listitem>
+          <listitem>
+            <para>Calcium channel blockers</para>
+          </listitem>
+          <listitem>
+            <para>Diuretics</para>
+          </listitem>
+          <listitem>
+            <para>Cardiovascular drugs - Interfere with the cardiovascular responses to heat and, therefore, can interfere with heat loss</para>
+          </listitem>
+        </itemizedlist>
+        <para>Drugs that can result in decreased heat loss include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Anticholinergics</para>
+          </listitem>
+          <listitem>
+            <para>Neuroleptics</para>
+          </listitem>
+          <listitem>
+            <para>Antihistamines</para>
+          </listitem>
+        </itemizedlist>
+        <para>Exogenous factors that can decrease heat loss include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>High ambient temperatures</para>
+          </listitem>
+          <listitem>
+            <para>High ambient humidity</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Reduced ability to acclimatize</title>
+        <para>Persons at the extremes of age (ie, toddlers and young children, the elderly) may be less able to generate adequate physiologic responses to heat stress. Diuretic use and hypokalemia can also impair accommodation to heat stress. </para>
+      </pgroup>
+      <pgroup>
+        <title>Reduced behavioral responsiveness</title>
+        <para>Infants, patients who are bedridden, and patients who are chronically ill are at risk for heatstroke because they are unable to control their environment and water intake. To compound matters, comorbidities and polypharmacy in the elderly can compromise their recovery. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Other problems to be considered include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Sepsis</para>
+        </listitem>
+        <listitem>
+          <para>Diabetic ketoacidosis</para>
+        </listitem>
+        <listitem>
+          <para>Closed head trauma</para>
+        </listitem>
+        <listitem>
+          <para>Malignant hyperthermia</para>
+        </listitem>
+        <listitem>
+          <para>Encephalitis</para>
+        </listitem>
+        <listitem>
+          <para>Cerebral malaria</para>
+        </listitem>
+        <listitem>
+          <para>Cerebral hemorrhage</para>
+        </listitem>
+        <listitem>
+          <para>Amphetamine and cocaine toxicity</para>
+        </listitem>
+        <listitem>
+          <para>Strychnine poisoning</para>
+        </listitem>
+      </itemizedlist>
+    </intro>
+    <ddlist>
+      <dditem ref="813959">
+        <title>Cocaine Toxicity</title>
+        <desc/>
+      </dditem>
+      <dditem ref="288890">
+        <title>Delirium</title>
+        <desc/>
+      </dditem>
+      <dditem ref="166032">
+        <title>Delirium Tremens (DTs)</title>
+        <desc/>
+      </dditem>
+      <dditem ref="186101">
+        <title>Hepatic Encephalopathy</title>
+        <desc/>
+      </dditem>
+      <dditem ref="121865">
+        <title>Hyperthyroidism</title>
+        <desc/>
+      </dditem>
+      <dditem ref="232915">
+        <title>Meningitis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="">
+        <title>Neuroleptic Malignant Syndrome</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1009987">
+        <title>Salicylate Toxicity</title>
+        <desc/>
+      </dditem>
+      <dditem ref="229594">
+        <title>Tetanus</title>
+        <desc/>
+      </dditem>
+      <dditem ref="239191">
+        <title>Uremic Encephalopathy</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c4">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <title>Arterial blood gas testing</title>
+        <para><a href="http://emedicine.medscape.com/article/1982163-overview">Arterial blood gas</a> analysis may reveal respiratory alkalosis due to direct central nervous system (CNS) stimulation and metabolic acidosis due to lactic acidosis. Hypoxia may be due to pulmonary atelectasis, aspiration pneumonitis, or pulmonary edema. </para>
+      </pgroup>
+      <pgroup>
+        <title>Lactic acidosis</title>
+        <para> </para>
+        <para><a href="http://emedicine.medscape.com/article/768159-overview">Lactic acidosis</a> commonly occurs following exertional heatstroke (EHS) but may signal a poor prognosis in patients with classic heatstroke. </para>
+      </pgroup>
+      <pgroup>
+        <title>Glucose</title>
+        <para>Hypoglycemia may occur in patients with EHS and in patients with fulminant hepatic failure. </para>
+      </pgroup>
+      <pgroup>
+        <title>Electrolytes</title>
+        <para>
+          <em>Sodium</em>
+        </para>
+        <para><a href="http://emedicine.medscape.com/article/766683-overview">Hypernatremia</a> due to reduced fluid intake and dehydration commonly is observed early in the course of disease but may be due to diabetes insipidus. <a href="http://emedicine.medscape.com/article/767624-overview">Hyponatremia</a> is observed in patients using hypotonic solutions, such as free water, and in patients using diuretics. It also may be due to excessive sweat sodium losses. </para>
+        <para>
+          <em>Potassium</em>
+        </para>
+        <para><a href="http://emedicine.medscape.com/article/767448-overview">Hypokalemia</a> is common in the early phases of heatstroke, and deficits of 500 mEq are not unusual. However, with increasing muscle damage, <a href="http://emedicine.medscape.com/article/766479-overview">hyperkalemia</a> may be observed.</para>
+        <para>
+          <em>Other</em>
+        </para>
+        <para><a href="http://emedicine.medscape.com/article/767955-overview">Hypophosphatemia</a> secondary to phosphaturia and <a href="http://emedicine.medscape.com/article/767010-overview">hyperphosphatemia</a> secondary to rhabdomyolysis, <a href="http://emedicine.medscape.com/article/767260-overview">hypocalcemia</a> secondary to increased calcium binding in damaged muscle, and <a href="http://emedicine.medscape.com/article/2038394-overview">hypomagnesemia</a> also are observed commonly.</para>
+      </pgroup>
+      <pgroup>
+        <title>Hepatic function tests</title>
+        <para>Hepatic injury is a consistent finding in patients with heatstroke.</para>
+        <para>Aminotransferase (aspartate aminotransferase [AST] and alanine aminotransferase [ALT]) llevels commonly rise to the tens of thousands during the early phases of heatstroke and peak at 48 hours, but they may take as long as 2 weeks to peak. </para>
+        <para>Jaundice may be striking and may be noted 36-72 hours after the onset of liver failure.</para>
+      </pgroup>
+      <pgroup>
+        <title>Muscle function tests</title>
+        <para>Creatinine kinase (CK), lactate dehydrogenase (LDH), aldolase, and myoglobin commonly are released from muscles when muscle necrosis occurs. </para>
+        <para>CK levels exceeding 100,000 IU/mL are common in patients with EHS.</para>
+        <para>Elevations in myoglobin may not be noted despite muscle necrosis because myoglobin is metabolized rapidly by the liver and excreted rapidly by the kidneys. </para>
+      </pgroup>
+      <pgroup>
+        <title>Complete blood cell count</title>
+        <para>Elevated white blood cell counts commonly are observed in patients with heatstroke, and levels as high as 40,000/μ L have been reported. Platelet levels may be low. </para>
+      </pgroup>
+      <pgroup>
+        <title>Renal function tests</title>
+        <para>Elevations in serum uric acid levels, blood urea nitrogen, and serum creatinine are common in patients whose course is complicated by renal failure. </para>
+      </pgroup>
+      <pgroup>
+        <title>Urinalysis</title>
+        <para>Remember that urinary benzidine dipsticks do not differentiate between blood, hemoglobin, and myoglobin. Urine dipstick analyses that are positive for blood must be followed by a microscopic urinalysis to determine the presence or absence of red blood cells. Proteinuria also is common. </para>
+      </pgroup>
+      <pgroup>
+        <title>Cerebrospinal fluid analysis</title>
+        <para>Cerebrospinal fluid (CSF) cell counts may show a nonspecific pleocytosis, and CSF protein levels may be elevated as high as 150 mg/dL. </para>
+      </pgroup>
+      <pgroup>
+        <title>Other</title>
+        <para>Myoglobin causes a reddish brown discoloration of the urine but does not affect the color of plasma. This is in contrast to hemoglobin, which causes discoloration of both plasma and urine. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c5">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>Computerized tomography scans may be helpful in ruling out CNS injury in patients with altered mental status.</para>
+        <para>Chest radiographs may show atelectasis, pneumonia, pulmonary infarction, or pulmonary edema.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Other Tests</title>
+      <pgroup>
+        <para>Electrocardiography: Sinus tachycardia of 130-140 beats per minute and nonspecific and ischemic ST-T wave abnormalities are common. In addition, a number of conduction abnormalities (eg, right bundle branch block), prolonged QT interval) may be noted. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Procedures</title>
+      <pgroup>
+        <para>Procedures may include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Endotracheal intubation</para>
+          </listitem>
+          <listitem>
+            <para>Pulmonary artery catheter insertion</para>
+          </listitem>
+          <listitem>
+            <para>Central venous line insertion</para>
+          </listitem>
+          <listitem>
+            <para>Nasogastric tube insertion</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/80773-overview">Lumbar puncture</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Compartment pressure measurements</para>
+          </listitem>
+          <listitem>
+            <para>Fasciotomy</para>
+          </listitem>
+          <listitem>
+            <para>Thoracostomy</para>
+          </listitem>
+          <listitem>
+            <para>Peritoneal lavage</para>
+          </listitem>
+          <listitem>
+            <para>Hemodialysis</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d7">
+      <title>Medical Care</title>
+      <pgroup>
+        <para>Heatstroke is a medical emergency and continues to be one of the leading causes of preventable death in sports.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>Rapid reduction of the core body temperature is the cornerstone of treatment because the duration of hyperthermia is the primary determinant of outcome. Except for the mildest cases, patients diagnosed with exertional heatstroke (EHS) or nonexertional heatstroke (NEHS) should be admitted to the hospital for at least 48 hours to monitor for complications. </para>
+        <para>Once heatstroke is suspected, cooling must begin immediately and must be continued during the patient's resuscitation. The American College of Sports Medicine recommends that cooling be initiated at the scene, before transporting the patient to an emergency department for further evaluation and treatment.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>Despite extensive education and training, delays are still reported due to trepidation by athletic trainers to accurately diagnose and rapidly initiate treatment for EHS.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>Controversy still exists over what therapeutic modality is most effective in the treatment of heatstroke. However, the basic premise of rapidly lowering the core temperature to about 39°C (to avoid overshooting and rebound hyperthermia) remains the primary goal.</para>
+        <para>According to one study, oral temperature assessments consistently reflected inaccurate core body temperatures, which delayed the diagnosis and ultimate treatment of patients with heatstroke. Rectal temperatures are still the preferred method of accurately obtaining core body temperatures.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        <para>Some studies have shown that promptly reducing the exposure time to excessive heat can dramatically improve long-term outcomes and decrease irreversible injury. If treatment is initiated within this so-called golden hour and is aggressive enough to rapidly reduce the core body temperature, complications (including multisystem organ failure) may be averted and the patient may have a much better prognosis.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup></para>
+        <para>In a review of 19 clinical trials and observational studies involving 556 patients, the conduction method of cooling was found to be more efficacious in young, active adults with EHS. Unfortunately, this review did not identify a preferred treatment found for NEHS, or a temperature endpoint to prevent overcooling.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+        <para>Removal of restrictive clothing and spraying water on the body, covering the patient with ice water–soaked sheets, or placing ice packs in the axillae and groin may reduce the patient's temperature significantly. Patients who are unable to protect their airway should be intubated. Patients who are awake and responsive should receive supplemental oxygen.</para>
+        <para>Intravenous lines may be placed in anticipation of fluid resuscitation and for the infusion of dextrose and thiamine if indicated. Hypoglycemia is a common occurrence in patients with EHS and may be a manifestation of liver failure; therefore, infusion of dextrose 50% in water solution (D50W) should be considered in all patients with heatstroke.</para>
+        <para>Intensive care personnel must pay meticulous attention to the airway, reduce the temperature, limit the production of heat, optimize circulation, and monitor for and treat complications. Interventions to enable monitoring include the following: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Insert a thermistor probe or temperature-sensing Foley catheter to monitor temperature continuously</para>
+          </listitem>
+          <listitem>
+            <para>Insert a nasogastric tube to monitor for gastrointestinal bleeding and fluid losses</para>
+          </listitem>
+          <listitem>
+            <para>Place a Foley catheter to monitor urine output and/or monitor body temperature</para>
+          </listitem>
+        </itemizedlist>
+        <para>The goal of treatment is to reduce the temperature by at least 0.2°C/min to approximately 39°C. Active external cooling generally is halted at 39°C to prevent overshooting, which can result in iatrogenic hypothermia. A flexible indwelling thermistor rectally or an esophageal probe can be placed to monitor core body temperature during treatment; alternatively, a more modern method is to use a temperature-sensing Foley catheter. Because thermal instability may persist for a few days after the onset of heatstroke, the temperature must be monitored continuously until it is stable. </para>
+      </pgroup>
+      <pgroup>
+        <title>Methods for cooling</title>
+        <para>The optimal method of rapidly cooling patients has been a matter of debate for some time. A 2013 guideline from the Wilderness Medical Society recommends ice-water immersion as a superior method for rapidly lowering core body temperature below the critical levels normally found in heatstroke patients.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>However, each method has its own theoretical advantages and disadvantages.</para>
+        <para>Ice-water immersion or an equivalent method has the advantage of rapidly reducing core body temperature. Because of its high thermal conductivity, ice water can reduce core body temperature to less than 39°C in approximately 20-40 minutes.</para>
+        <para>The disadvantages of ice-water immersion include the fact that it may be extremely uncomfortable for patients who are awake. In addition, in theory it can cause subcutaneous vasoconstriction, preventing the transfer of heat via conduction. Ice water also increases shivering, which in turn increases internal heat production. Other criticisms include difficulty monitoring and resuscitating patients while using this method. </para>
+        <para>Evaporative heat loss, although perhaps less effective than immersion techniques, poses fewer practical difficulties. Evaporative body heat loss may be accomplished by removing all of the patient's clothes and intermittently spraying the patient's body with warm water while a powerful fan blows across the body, allowing the heat to evaporate. </para>
+        <para>A number of other cooling techniques have been suggested, but none has proven superior to or equal to cold-water immersion or evaporative techniques. These include peritoneal, thoracic, rectal, and gastric lavage with ice water; cold intravenous fluids; cold humidified oxygen; cooling blankets; and wet towels. </para>
+        <para>Cardiopulmonary bypass has been suggested for use in the most severe cases. However, this requires highly trained personnel and sophisticated equipment. </para>
+      </pgroup>
+      <pgroup>
+        <title>Pharmacologic measures</title>
+        <para>Antipyretics (eg, acetaminophen, aspirin, other nonsteroidal anti-inflammatory drugs) have no role in the treatment of heatstroke because antipyretics interrupt the change in the hypothalamic set point caused by pyrogens; they are not expected to work on a healthy hypothalamus that has been overloaded, as in the case of heatstroke. In this situation, antipyretics actually may be harmful in patients who develop hepatic, hematologic, and renal complications because they may aggravate bleeding tendencies. </para>
+        <para>Dantrolene has been studied as a possible pharmacologic option in the treatment of hyperthermia and heatstroke. To date, however, it has not proved efficacious in clinical trials. </para>
+        <para>Immediate administration of benzodiazepines is indicated in patients with agitation and shivering, to stop excessive production of heat. In addition, benzodiazepines are the sedatives of choice in patients with sympathomimetic-induced delirium as well as alcohol and sedative drug withdrawals. </para>
+        <para>Neuroleptics (eg, chlorpromazine), which were the mainstays of therapy in the past, are best avoided because of their deleterious adverse effects, including lowering of the seizure threshold, interference with thermoregulation, anticholinergic properties, hypotension, hepatotoxicity, and other adverse effects. </para>
+        <para>Benzodiazepines and, if necessary, barbiturates are the recommended agents for treatment of patients who are having convulsions. Barbiturates may be used despite their theoretical impedance of sweat production. </para>
+        <para>Phenytoin is not effective in controlling convulsions in this situation. Patients whose convulsions are refractory to benzodiazepines and barbiturates should be paralyzed and provided mechanical ventilation. Electroencephalographic monitoring is recommended in all such patients, and anticonvulsant medications should be adjusted accordingly. </para>
+      </pgroup>
+      <pgroup>
+        <title>Fluid resuscitation</title>
+        <para>Recommendations on the administration of intravenous fluids for circulatory support differ among patient populations and depend on the presence of hypovolemia, preexisting medical conditions, and preexisting cardiovascular disease. </para>
+        <para>While patients with heatstroke invariably are volume depleted, cooling alone may improve hypotension and cardiac function by allowing blood to redistribute centrally. Aggressive fluid resuscitation generally is not recommended because it may lead to pulmonary edema. Cor pulmonale also is a common finding in patients with heatstroke. </para>
+        <para>When pulse rate, blood pressure, and urine output do not provide adequate hemodynamic information, fluid administration should be guided by more invasive hemodynamic parameters, such as central venous pressure (CVP), pulmonary capillary wedge pressure, systemic vascular resistance index (SVRI), and cardiac index (CI) measurements. Patients who exhibit a hyperdynamic state (ie, high CI, low SVRI) generally respond to cooling and do not require large amounts of intravenous crystalloid infusions.</para>
+        <para>Hypotensive patients who exhibit a hypodynamic response (ie, high CVP, low CI) traditionally have been treated with low-dose isoproterenol; however, its arrhythmogenicity has raised questions about its continued use. Dobutamine, which is less arrhythmogenic than isoproterenol and more cardioselective, may be the inotrope of choice in these patients. Alpha-adrenergic drugs generally are contraindicated because they cause vasoconstriction and may interfere with heat loss. </para>
+      </pgroup>
+      <pgroup>
+        <title>Rhabdomyolysis</title>
+        <para>The occurrence of <a href="http://emedicine.medscape.com/article/1007814-overview">rhabdomyolysis</a> may be heralded by the development of dark, tea-colored urine and tender edematous muscles. Rhabdomyolysis releases large amounts of myoglobin, which can precipitate in the kidneys and result in <a href="http://emedicine.medscape.com/article/243492-overview">acute kidney injury</a> (AKI). Renal failure especially is common in patients who develop hypotension or shock during the course of their disease and may occur in as many as 25-30% of patients with EHS. </para>
+        <para>Treatment of rhabdomyolysis involves infusion of large amounts of intravenous fluids (fluid requirements may be as high as 10 L), alkalinization of the urine, and infusion of mannitol. Fluid administration is best guided by invasive hemodynamic parameters, and urine output should be maintained at 3 ml/kg/h to minimize the risk of renal failure. </para>
+        <para>Alkalinization of the urine (to a pH of 7.5-8.0) prevents the precipitation of myoglobin in the renal tubules and may control acidosis and hyperkalemia in acute massive muscle necrosis. Mannitol may improve renal blood flow and glomerular filtration rate, increase urine output, and prevent fluid accumulation in the interstitial compartment (through its osmotic action). Mannitol also is a free radical scavenger and, therefore, may reduce damage caused by free radicals. Once renal failure occurs, dialysis is the only effective therapeutic modality for rhabdomyolysis. </para>
+      </pgroup>
+      <pgroup>
+        <title>Metabolic support</title>
+        <para>Muscle necrosis may occur so rapidly that hyperkalemia, hypocalcemia, and hyperphosphatemia become significant enough to cause cardiac arrhythmias and require immediate therapy. In the presence of renal failure, hemodialysis may be necessary.</para>
+        <para>Hypertonic dextrose and sodium bicarbonate may be used to shift potassium into the intracellular environment while more definitive measures (eg, intestinal potassium binding, dialysis) are prepared. Use of insulin may not be necessary in patients who are not diabetic and may be deleterious for patients with EHS and patients with liver failure, who commonly develop hypoglycemia. </para>
+        <para>Calcium should be used judiciously because it may precipitate in and cause additional muscle damage. Use of calcium is reserved for patients with ventricular ectopy, impending convulsions, or electrocardiographic evidence of hyperkalemia. </para>
+        <para>Various other electrolyte abnormalities have been reported in patients with heatstroke and must be monitored closely and treated carefully. These abnormalities may be related to solute-altering conditions such as vomiting, diarrhea, and use of diuretics. For example, hypokalemia, which is common in the early phases of heatstroke, may develop in response to respiratory alkalosis, diarrhea, and sweating. Similarly, hyponatremia may be due to sodium losses and/or rehydration with salt-poor solutions (eg, water), and hypernatremia may be due to dehydration. </para>
+      </pgroup>
+      <pgroup>
+        <title>Hepatic injury</title>
+        <para>Heatstroke commonly leads to severe but reversible hepatic damage. Hepatic injury is represented by elevations in transaminase levels and bilirubin. During this phase, hypoglycemia, abnormal coagulation, cerebral edema, and death can occur, although rarely. </para>
+        <para>Prolonged coagulation times also may signal the development of <a href="http://emedicine.medscape.com/article/199627-overview">disseminated intravascular coagulation</a> (DIC), which, when present, carries a poor patient prognosis. Clinical manifestations can range from abnormal laboratory values to generalized bleeding occurring approximately 48 hours after the initial insult. DIC also may predispose patients to development of acute respiratory distress syndrome (ARDS), which also increases mortality. </para>
+        <para>Treatment of hepatic failure includes the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Infusion of dextrose solutions to correct hypoglycemia</para>
+          </listitem>
+          <listitem>
+            <para>Early recognition and treatment of DIC, with replacement of clotting factors, fresh frozen plasma, platelets, and blood</para>
+          </listitem>
+          <listitem>
+            <para>Meticulous respiratory support</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Pulmonary injury</title>
+        <para>Pulmonary edema is a common complication of heatstroke and may be due to a number of factors, including fluid overload from aggressive rehydration, renal failure, congestive heart failure, and ARDS. The latter may develop because of multiple insults, including heat-induced pulmonary damage, aspiration pneumonia, and as a complication of liver failure. ARDS should be treated aggressively, with early mechanical ventilation and positive end-expiratory pressure (PEEP). </para>
+      </pgroup>
+      <pgroup>
+        <title>Renal injury</title>
+        <para>AKI may occur because of direct thermal injury of the kidney, myoglobinuria, hypotension, and/or shock (<a href="http://emedicine.medscape.com/article/238064-overview">acute tubular necrosis</a>). Early manifestations of AKI include oliguria, low-grade proteinuria, and granular casts. </para>
+        <para>AKI initially is treated with intravenous fluids, diuretics, and correction of associated acid-base and electrolyte abnormalities. In the setting of rhabdomyolysis, mannitol may be the diuretic of choice because it does not interfere with the acid-base status of the urine, and it may have antioxidant activity. Furosemide may cause tubular acidosis and, therefore, may promote myoglobin deposition within the renal tubules. Once renal failure has set in, hemodialysis is the most effective therapy. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d8">
+      <title>Surgical Care</title>
+      <pgroup>
+        <para><a href="http://emedicine.medscape.com/article/307668-overview">Compartment syndrome</a> must be suspected in all patients who exhibit rhabdomyolysis and muscle edema and tenderness. Intramuscular compartment pressure measurements must be performed when compartment syndrome is suspected, and fasciotomy must be performed when the intramuscular pressure exceeds 50 mm Hg. Fasciotomy also should be considered when intracompartmental pressures are 30-50 mm Hg, especially when they show no tendency to decrease in 6 hours and in patients who are hypotensive. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Consultations</title>
+      <pgroup>
+        <para>Consider consultation with a nephrologist as soon as renal failure occurs. Consultation with a surgeon is indicated when compartment syndrome is suspected. Consider consultation with a liver transplant service for patients with persistent fulminant liver failure. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Diet and Activity</title>
+      <pgroup>
+        <para>Patients may resume oral feeding when mental status, swallowing, and gastrointestinal tract function are normal. </para>
+        <para>During the initial phase of therapy, neuromuscular blockade with muscular paralysis should be considered for patients who are not cooling adequately. Depolarizing agents (eg, succinylcholine) and inhaled anesthetics should be avoided because of the risk of malignant hyperthermia. Patients may resume activity when their temperature has stabilized. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>In patients with heatstroke, benzodiazepines play a major role in providing sedation, controlling convulsions, and controlling shivering. Barbiturates (eg, phenobarbital) may be used to control convulsions if benzodiazepines are not effective.</para>
+      <para>Hypotension is treated first with cooling and intravenous crystalloid fluids; dobutamine is considered if patients are hypodynamic. Treatment of rhabdomyolysis involves infusing large amounts of intravenous fluids (as much as 10 L may be required), alkalinization of urine, and mannitol infusion. </para>
+    </intro>
+    <cgroup id="127165">
+      <title>Benzodiazepines</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Benzodiazepines are safe and effective in controlling agitation, convulsions, and shivering.</para>
+      </intro>
+      <drug did="342906" name="Lorazepam (Ativan)" uri="ativan-loraz-lorazepam-342906">
+        <title>Lorazepam (Ativan)</title>
+        <para>Predictability and ease of use make lorazepam the drug of choice in most cases. It may be used intravenously and is well absorbed after intramuscular injection. Its onset of action is within minutes, effects peak in 15-20 minutes, and the duration of action is 6-8 hours. </para>
+      </drug>
+      <drug did="342907" name="Midazolam (Versed)" uri="versed-midazolam-342907">
+        <title>Midazolam (Versed)</title>
+        <para>Midazolam is a rapidly acting benzodiazepine with a short duration of action. It is ideal for sedation during short procedures and may be effective in convulsions. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="127166">
+      <title>Alkalinizing agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Alkalinizing agents are indicated for severe acidosis and rhabdomyolysis.</para>
+      </intro>
+      <drug did="342305" name="Sodium bicarbonate (Neut)" uri="sodium-bicarbonate-342305">
+        <title>Sodium bicarbonate (Neut)</title>
+        <para>Sodium bicarbonate is useful in alkalization of the urine to prevent acute myoglobinuric renal failure. It may be administered as a bolus injection or as an infusion. The ideal solution to which sodium bicarbonate is added should be hypotonic. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="127167">
+      <title>Diuretics (osmotic)</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Osmotic effects retain water during urine formation and dilute electrolytes in the urine, making resorption less efficient.</para>
+      </intro>
+      <drug did="343061" name="Mannitol (Osmitrol)" uri="osmitrol-mannitol-343061">
+        <title>Mannitol (Osmitrol)</title>
+        <para>Mannitol is the drug of choice for forced diuresis in patients with rhabdomyolysis because of a number of beneficial effects on the kidneys, including an antioxidant effect. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="127168">
+      <title>Adrenergic agonist agents</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Adrenergic agonist agents produce vasodilation and increase the inotropic state.</para>
+      </intro>
+      <drug did="342434" name="Dobutamine (Dobutrex)" uri="dobutamine-342434">
+        <title>Dobutamine (Dobutrex)</title>
+        <para>Dobutamine is a synthetic compound structurally similar to catecholamines. It is the drug of choice for circulatory support in heatstroke. </para>
+      </drug>
+    </cgroup>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e1">
+      <title>Further Outpatient Care</title>
+      <pgroup>
+        <para>Long-term outpatient therapy may be required when chronic renal failure develops and when irreversible damage to the CNS, lungs, heart, and liver occurs. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e2">
+      <title>Further Inpatient Care</title>
+      <pgroup>
+        <para>Once the acute phase is stabilized, further inpatient care may be necessary to address the complications of heatstroke.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e3">
+      <title>Deterrence/Prevention</title>
+      <pgroup>
+        <para>Heatstroke is a preventable illness, and education is the single most important tool for its prevention.</para>
+        <para>Recognition of host risk factors and modification of behavior (eg, limiting alcohol and drug intake, avoiding use of medications and drugs that interfere with heat dissipation) and physical activity also can prevent heatstroke. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e4">
+      <title>Complications</title>
+      <pgroup>
+        <para>Heatstroke is a multisystem insult that potentially can affect almost every organ system. </para>
+        <para>The central nervous system (CNS) is especially sensitive to the damaging effects of hyperthermia. Widespread cell death occurs but is more evident in the region of the cerebellum (Purkinje cells). Heatstroke–related long-term CNS sequelae include cerebellar deficits, dementia, hemiplegia, quadriparesis, and personality changes. </para>
+        <para>In one study, rhabdomyolysis was observed in almost all patients with EHS and in as many as 86% of patients with NEHS. Compartment syndrome is observed most commonly in patients with severe rhabdomyolysis and in patients who are immobilized. </para>
+        <para>Acute kidney injury may occur in as many as 25-30% of patients who have heatstroke (especially EHS).</para>
+        <para>Acute liver failure due to centrilobular hepatic necrosis and cholestasis generally occurs in the first 48 hours, but it can peak as long as 2 weeks after the onset of heatstroke. In rare instances, liver failure may be complicated by a fulminant course requiring liver transplantation. Patients who survive generally have a complete return of hepatic function. </para>
+        <para>DIC is a rare complication and caries a poor prognosis when it occurs. Electron microscopy studies have shown that direct thermal injury to the vascular endothelium is the primary trigger of platelet aggregation and, possibly, DIC. </para>
+        <para>ARDS may be due to direct thermal injury to the lung, or it may complicate liver failure, infection, or aspiration. When associated with liver failure, the patient's prognosis is much worse. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Indicators of poor prognosis during acute episodes include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Initial temperature measurement higher than 41°C (106°F) or a temperature higher than 42°C (108°F) or a temperature persisting above 39°C (102°F) despite aggressive cooling measures </para>
+          </listitem>
+          <listitem>
+            <para>Coma duration longer than 2 hours</para>
+          </listitem>
+          <listitem>
+            <para>Severe pulmonary edema</para>
+          </listitem>
+          <listitem>
+            <para>Delayed or prolonged hypotension</para>
+          </listitem>
+          <listitem>
+            <para>Lactic acidosis in patients with classic heatstroke</para>
+          </listitem>
+          <listitem>
+            <para>Acute kidney injury and hyperkalemia</para>
+          </listitem>
+          <listitem>
+            <para>Aminotransferase levels greater than 1000 IU/L during the first 24 hours</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e6">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>Education is the single most important tool for the prevention of heatstroke. The media, public education, public health programs, and athlete safety programs can play a pivotal role in increasing the public's awareness of the dangers of heat during heat waves and advising the public on methods of remaining cool. </para>
+        <para>Similarly, drinking fluids on schedule (and not based only on thirst), frequent cooling breaks, and frequent visits to air-conditioned places are very important because even short stays in an air-conditioned environment may drastically reduce the incidence of heatstroke. </para>
+        <para>Recognition of host risk factors and modification of behavior (eg, limiting alcohol and drug intake and the use of medications and drugs that interfere with heat dissipation) and physical activity also will prevent heatstroke. </para>
+        <para>For patient education information, see the <a href="http://www.emedicinehealth.com/collections/SU298.asp">First Aid and Injuries Center</a> and <a href="http://www.emedicinehealth.com/collections/CO1642.asp">Healthy Living Center</a>, as well as <a href="http://www.emedicinehealth.com/Articles/6209-1.asp">Heat Exhaustion and Heat Stroke</a> and <a href="http://www.emedicinehealth.com/Articles/6186-1.asp">Heat Cramps</a>.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert S Helman, MD</contrbtr_nm>
+        <contrbtr_title>Director, Premier Care of Great Neck Urgent Care Center</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Rania Habal, MD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Department of Emergency Medicine, New York Medical College</contrbtr_title>
+        <contrbtr_bio>Rania Habal, MD is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Joe Alcock, MD, MS</contrbtr_nm>
+        <contrbtr_title>Associate Professor, Department of Emergency Medicine, University of New Mexico Health Sciences Center</contrbtr_title>
+        <contrbtr_bio>Joe Alcock, MD, MS is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Laurie Robin Grier, MD</contrbtr_nm>
+        <contrbtr_title>Medical Director of MICU, Professor of Medicine, Emergency Medicine, Anesthesiology and Obstetrics/Gynecology, Fellowship Director for Critical Care Medicine, Section of Pulmonary and Critical Care Medicine, Louisiana State University Health Science Center at Shreveport</contrbtr_title>
+        <contrbtr_bio>Laurie Robin Grier, MD is a member of the following medical societies: <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.nutritioncare.org">American Society for Parenteral and Enteral Nutrition</a>, <a href="http://www.sccm.org">Society of Critical Care Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Centers for Disease Control and Prevention. Climate Effects on Health. Updated December 22, 2014. Available at <a href="http://www.cdc.gov/climateandhealth/effects/default.htm">http://www.cdc.gov/climateandhealth/effects/default.htm</a>. Accessed: May 1, 2015.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Centers for Disease Control and Prevention. Extreme Heat: A Prevention Guide to Promote Your Personal Health and Safety. Reviewed May 31, 2012. Available at <a href="http://emergency.cdc.gov/disasters/extremeheat/heat_guide.asp">http://emergency.cdc.gov/disasters/extremeheat/heat_guide.asp</a>. Accessed: May 1, 2015.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20724966">
+      <para>Heat illness among high school athletes --- United States, 2005-2009. <em>MMWR Morb Mortal Wkly Rep</em>. 2010 Aug 20. 59(32):1009-13. <a href="http://reference.medscape.com/medline/abstract/20724966">[Medline]</a>. <a href="http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5932a1.htm">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>National Center for Catastrophic Injury Research. Catastrophic sport injury 29th annual report. University of North Carolina. Available at <a href="http://www.unc.edu/depts/nccsi/2011Allsport.pdf">http://www.unc.edu/depts/nccsi/2011Allsport.pdf</a>. Accessed: April 17, 2014.</para>
+    </ritem>
+    <ritem ref="">
+      <para>[Guideline] American College of Sports Medicine Joint Statement. National Athletic Trainers' Association. Inter-Association Task Force on Exertional Heat Illnesses Consensus Statement. 2003. Available at <a href="http://www.nata.org/sites/default/files/inter-association-task-force-exertional-heat-illness.pdf">http://www.nata.org/sites/default/files/inter-association-task-force-exertional-heat-illness.pdf</a>. Accessed: August 13, 2010.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22488141">
+      <para>Mazerolle SM, Pinkus DE, Casa DJ, et al. Evidence-based medicine and the recognition and treatment of exertional heat stroke, part II: a perspective from the clinical athletic trainer. <em>J Athl Train</em>. 2011 Sep-Oct. 46(5):533-42. <a href="http://reference.medscape.com/medline/abstract/22488141">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3418960/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22488144">
+      <para>Mazerolle SM, Ganio MS, Casa DJ, Vingren J, Klau J. Is oral temperature an accurate measurement of deep body temperature? A systematic review. <em>J Athl Train</em>. 2011 Sep-Oct. 46(5):566-73. <a href="http://reference.medscape.com/medline/abstract/22488144">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3418963/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15080235">
+      <para>Heled Y, Rav-Acha M, Shani Y, Epstein Y, Moran DS. The "golden hour" for heatstroke treatment. <em>Mil Med</em>. 2004 Mar. 169(3):184-6. <a href="http://reference.medscape.com/medline/abstract/15080235">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Bouchama A, Dehbi M, Chaves-Carballo E. Cooling and hemodynamic management in heatstroke:  practical recommendations. <em>Critical Care 2007</em>. May 12, 2007. 11 (issue 3):1-17. <a href="http://ccforum.com/content/11/3/R54">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24140191">
+      <para>[Guideline] Lipman GS, Eifling KP, Ellis MA, Gaudio FG, Otten EM, Grissom CK. Wilderness Medical Society practice guidelines for the prevention and treatment of heat-related illness. <em>Wilderness Environ Med</em>. 2013 Dec. 24(4):351-61. <a href="http://reference.medscape.com/medline/abstract/24140191">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

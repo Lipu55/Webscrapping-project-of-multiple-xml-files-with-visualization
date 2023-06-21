@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="197081" pubid="" template="Clinical Procedures" template-name="multipage">
+  <site-meta>
+    <article-name>Bariatric Surgery</article-name>
+    <title>
+      <page-info id="overview">Bariatric Surgery: Background, History of the Procedure, Problem</page-info>
+      <page-info id="workup">Bariatric Surgery Workup: Laboratory Studies, Imaging Studies, Diagnostic Procedures</page-info>
+      <page-info id="treatment">Bariatric Surgery Treatment &amp; Management: Medical Therapy, Surgical Therapy, Preoperative Details</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Bariatric Surgery: Background, History of the Procedure, Problem</page-info>
+      <page-info id="workup">Bariatric Surgery Workup: Laboratory Studies, Imaging Studies, Diagnostic Procedures</page-info>
+      <page-info id="treatment">Bariatric Surgery Treatment &amp; Management: Medical Therapy, Surgical Therapy, Preoperative Details</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a4">Background</section-info>
+<section-info id="a5">History of the Procedure</section-info>
+<section-info id="a6">Problem</section-info>
+<section-info id="a7">Epidemiology</section-info>
+<section-info id="a8">Etiology</section-info>
+<section-info id="a9">Pathophysiology</section-info>
+<section-info id="a10">Presentation</section-info>
+<section-info id="a11">Indications</section-info>
+<section-info id="a12">Contraindications</section-info>
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c6">Laboratory Studies</section-info>
+<section-info id="c7">Imaging Studies</section-info>
+<section-info id="c8">Diagnostic Procedures</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d9">Medical Therapy</section-info>
+<section-info id="d10">Surgical Therapy</section-info>
+<section-info id="d11">Preoperative Details</section-info>
+<section-info id="d12">Intraoperative Details</section-info>
+<section-info id="d13">Postoperative Details</section-info>
+<section-info id="d14">Follow-up</section-info>
+<section-info id="d15">Complications</section-info>
+<section-info id="d16">Outcome and Prognosis</section-info>
+<section-info id="d17">Future and Controversies</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Bariatric Surgery Overview</page-info>
+      <page-info id="workup">Bariatric Surgery Workup</page-info>
+      <page-info id="treatment">Bariatric Surgery Treatment</page-info>
+    </meta-keywords>
+    <uri>197081-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Feb 10, 2015</posting-date>
+    <last-generated>2015-08-04-23:57</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Clinical Procedures</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="503">Procedures</content-group>
+    <content-type ID="10419">Procedure</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>197081</artid>
+      <cg>503</cg>
+      <scg text="Bariatric Surgery">3032278</scg>
+      <ssp text="Gastroenterology">20</ssp>
+      <bc>diet1</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>procedure</id>
+      <name>Procedures</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures</id>
+      <name>Clinical Procedures</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures_gastro</id>
+      <name>Gastrointestinal</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">bariatric surgery, gastric bypass, stomach, obesity, gastric, bariatric, weight loss surgery, weight surgery, stomach surgery, gastric banding, gastrectomy, Roux-en-Y, gastric sleeve, gastric bypass surgery, body mass index, BMI, laparoscopic gastric bypass, duodenal switch, gastric bypass complications, adjustable gastric banding, Roux-en-Y gastric bypass, sleeve gastrectomy, biliopancreatic diversion with duodenal switch</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Obesity is a major health problem worldwide and has reached an epidemic proportion in the Western society. Evidence continues to accumulate that obesity is a major risk factor for many diseases and is associated with significant morbidity and mortality.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Bariatric Surgery</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a4">
+      <title>Background</title>
+      <pgroup>
+        <para>Obesity is a major health problem worldwide and has reached an epidemic proportion in the Western society. Evidence continues to accumulate that obesity is a major risk factor for many diseases and is associated with significant morbidity and mortality.</para>
+        <para>Bariatric surgery is currently the only modality that provides a significant, sustained weight loss for morbidly obese patients, with resultant improvement in obesity-related comorbidities. A prospective, controlled Swedish study involving 4047 obese patients, half of whom had undergone bariatric procedures, followed up over 14.7 years, found that compared to usual care, bariatric surgery was associated with a significantly reduced number of cardiovascular deaths and a lower incidence of cardiovascular events in obese adults.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Essential update: 2015 ESPGHAN guidelines for bariatric surgery in children</title>
+        <para>In January 2015, the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN) published a position statement on bariatric surgery for severely obese children and adolescents, which provided the following guidelines<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup>:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Consider bariatric surgery in "carefully selected" patients with a body mass index (BMI) higher than 40 kg/m<sup>2</sup> who have severe comorbidities (eg, nonalcoholic fatty liver disease [NAFLD]) or in those with a BMI higher than 50 kg/m<sup>2</sup> who have milder comorbidities</para>
+          </listitem>
+          <listitem>
+            <para>Additional factors to consider in deciding whether a child or adolescent should undergo bariatric surgery include physical and psychological maturity, personal desire to undergo the procedure, previous attempts at weight loss, and ability to adhere to follow-up care </para>
+          </listitem>
+          <listitem>
+            <para>Roux-en-Y gastric bypass, laparoscopic adjustable gastric banding, and sleeve gastrectomy are the most widely used procedures in pediatric obesity, but their use is associated with subsequent nutritional deficiencies; temporary intragastric devices could represent a better option for initial treatment in pediatric populations </para>
+          </listitem>
+          <listitem>
+            <para>Current evidence suggests that bariatric surgery can decrease the grade of steatosis, hepatic inflammation, and fibrosis in NAFLD </para>
+          </listitem>
+          <listitem>
+            <para>Uncomplicated NAFLD is not an indication for bariatric surgery</para>
+          </listitem>
+          <listitem>
+            <para>Roux-en-Y gastric bypass is considered a safe and effective option for extremely obese adolescents, as long as appropriate long-term follow-up is provided </para>
+          </listitem>
+          <listitem>
+            <para>Laparoscopic adjustable gastric banding has not been approved by the FDA for use in adolescents and therefore should be considered investigational </para>
+          </listitem>
+          <listitem>
+            <para>Sleeve gastrectomy and other types of weight loss surgery that have grown increasingly common in adults must still be considered investigational </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>History of the Procedure</title>
+      <pgroup>
+        <para>In 1954, Kremen and Linner introduced jejunoileal bypass, the first effective surgery for obesity in the United States. In this procedure, the proximal jejunum was connected directly to the distal ileum, bypassing 90% of the small intestine out of the intestinal stream of ingested nutrients (blind loop). The procedure induced a state of <a href="http://emedicine.medscape.com/article/180785-overview">malabsorption</a>, which led to significant weight loss. However, many patients developed complications secondary to malabsorption (eg, steatorrhea, diarrhea, vitamin deficiencies, oxalosis) or due to the toxic overgrowth of bacteria in the bypassed intestine (eg, liver failure, severe arthritis, skin problems). Consequently, many patients have required reversal of the procedure, and the procedure has been abandoned. This led to a search for better operations.</para>
+        <para>Modifications in the original procedures and the development of new techniques have led to 3 basic concepts for bariatric surgery: (1) gastric restriction (adjustable gastric banding, sleeve gastrectomy), (2) gastric restriction with mild malabsorption (Roux-en-Y gastric bypass), and (3) a combination of mild gastric restriction and malabsorption (duodenal switch). (See images below.)</para>
+        <figure id="36286">
+          <title>Adjustable gastric banding. </title>
+          <caption>Adjustable gastric banding. </caption>
+          <graphic fileref="/86/36286.jpg" format="IMAGE" id="36286" extension_format="JPG"/>
+          <graphic fileref="/86/36286tn.jpg" format="IMAGE_THUMB" id="36286"/>
+        </figure>
+        <figure id="36287">
+          <title>Sleeve gastrectomy. </title>
+          <caption>Sleeve gastrectomy. </caption>
+          <graphic fileref="/87/36287.jpg" format="IMAGE" id="36287" extension_format="JPG"/>
+          <graphic fileref="/87/36287tn.jpg" format="IMAGE_THUMB" id="36287"/>
+        </figure>
+        <figure id="36285">
+          <title>Laparoscopic Roux-en-Y gastric bypass. </title>
+          <caption>Laparoscopic Roux-en-Y gastric bypass. </caption>
+          <graphic fileref="/85/36285.jpg" format="IMAGE" id="36285" extension_format="JPG"/>
+          <graphic fileref="/85/36285tn.jpg" format="IMAGE_THUMB" id="36285"/>
+        </figure>
+        <figure id="36288">
+          <title>Long Roux-en-Y gastric bypass. </title>
+          <caption>Long Roux-en-Y gastric bypass. </caption>
+          <graphic fileref="/88/36288.jpg" format="IMAGE" id="36288" extension_format="JPG"/>
+          <graphic fileref="/88/36288tn.jpg" format="IMAGE_THUMB" id="36288"/>
+        </figure>
+        <figure id="36289">
+          <title>Biliopancreatic diversion with duodenal switch. </title>
+          <caption>Biliopancreatic diversion with duodenal switch. </caption>
+          <graphic fileref="/89/36289.jpg" format="IMAGE" id="36289" extension_format="JPG"/>
+          <graphic fileref="/89/36289tn.jpg" format="IMAGE_THUMB" id="36289"/>
+        </figure>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Problem</title>
+      <pgroup>
+        <para>The most widely accepted measure of obesity is the body mass index (BMI). This number is calculated by dividing a patient's mass (in kilograms) by his or her height (in meters, squared). A normal BMI is considered in the range of 18.5-24.9 kg/m<sup>2</sup>. A BMI of 25-29.9 kg/m<sup>2</sup> is considered overweight. A BMI of 30 kg/m<sup>2</sup> or greater is classified as obese; this classification is further subdivided into class I, II, or III obesity. </para>
+        <para>Considering other factors (eg, total muscle mass, waist circumference) besides the BMI may be important. For example, an extremely muscular individual may have an elevated BMI without being considered overweight. Waist circumference has been shown to be an excellent indicator of abdominal fat mass. A circumference of greater than 88 cm (35 in) in women or greater than 102 cm (40 in) in men strongly correlates with an increased risk of obesity-related disease. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>The number of overweight individuals in the world is estimated at 1.7 billion. In the United States, the problem is at epidemic proportions. Up to two thirds of the population in the United States is overweight, and half of the people in this group can be classified as obese. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Etiology</title>
+      <pgroup>
+        <para>Obesity is a complex, multifactorial chronic disease influenced by the interaction of several factors, such as genetic, endocrine, metabolic, environmental (social and cultural), behavioral, and psychological components. The basic mechanism occurs when energy intake exceeds energy output. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a9">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Obesity occurs as the result of an imbalance between energy expenditure and caloric intake. This imbalance has been thought to be under genetic and environmental influence. The discovery of immunological abnormalities in obesity that are related to the leptin-proopiomelanocortin system and elevated tumor necrosis factor-alpha brought a new perspective to the understanding of obesity. </para>
+        <para>Leptin is a hormone made primarily in adipocytes. Leptin is from the Greek word <em>leptos</em>, for thin. The circulating leptin levels reflect the amount of stored body fat. Leptin is a negative feedback signal that acts on the hypothalamus to alter the expression of several neuroendocrine peptides that regulate energy intake and expenditure. Central resistance to leptin is a prominent feature of obesity. Increased leptin levels in individuals who are obese are independent of the lipid profile but strongly correlate with the BMI. Leptin exhibits direct effects on monocytes that results in secretion of the interleukin-1 receptor antagonist (IL-1RA). This cytokine antagonist has anti-inflammatory properties. Although leptin treatment works very well in patients who are leptin deficient, the use of leptin in patients who are obese and who already have high levels of leptin has shown limited efficacy. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a10">
+      <title>Presentation</title>
+      <pgroup>
+        <para>Morbid obesity is the harbinger of many other diseases that affect essentially every organ system.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Cardiovascular (eg, hypertension, atherosclerotic heart and peripheral vascular disease with myocardial infarction and cerebral vascular accidents, peripheral venous insufficiency, thrombophlebitis, pulmonary embolism) </para>
+          </listitem>
+          <listitem>
+            <para>Respiratory (eg, asthma, obstructive sleep apnea, obesity-hypoventilation syndrome)</para>
+          </listitem>
+          <listitem>
+            <para>Metabolic (eg, type 2 diabetes, impaired glucose tolerance, hyperlipidemia)</para>
+          </listitem>
+          <listitem>
+            <para>Musculoskeletal (eg, back strain; disc disease; weightbearing osteoarthritis of the hips, knees, ankles, and feet)</para>
+          </listitem>
+          <listitem>
+            <para>Gastrointestinal (eg, <a href="http://emedicine.medscape.com/article/175667-overview">cholelithiasis</a>, <a href="http://emedicine.medscape.com/article/176595-overview">gastroesophageal reflux disease</a>, nonalcoholic fatty liver disease [steatosis steatohepatitis], hepatic cirrhosis, hepatic carcinoma, colorectal carcinoma)</para>
+          </listitem>
+          <listitem>
+            <para>Urologic (eg, stress incontinence)</para>
+          </listitem>
+          <listitem>
+            <para>Endocrine and reproductive (eg, polycystic ovary syndrome, increased risk of pregnancy and fetal abnormalities, male hypogonadism)</para>
+          </listitem>
+          <listitem>
+            <para>Cancer of the endometrium, breast, ovary, prostate, and pancreas</para>
+          </listitem>
+          <listitem>
+            <para>Dermatologic (eg, intertriginous dermatitis)</para>
+          </listitem>
+          <listitem>
+            <para>Neurologic (eg, <a href="http://emedicine.medscape.com/article/1143167-overview">pseudotumor cerebri</a>, carpal tunnel syndrome) </para>
+          </listitem>
+          <listitem>
+            <para>Psychologic (eg, depression, eating disorders, body image disturbance)</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="a11">
+      <title>Indications</title>
+      <pgroup>
+        <para>Surgery for obesity should be considered as a treatment of last resort after dieting, exercise, psychotherapy, and drug treatments have failed.</para>
+        <para>Developed at the 1991 National Institutes of Health (NIH) Consensus Development Conference Panel, the generally accepted criteria for surgical treatment include a BMI of greater than 40 kg/m<sup>2</sup> or a BMI of greater than 35 kg/m<sup>2</sup> in combination with high-risk comorbid conditions, such as sleep apnea, Pickwickian syndrome, diabetes mellitus, or degenerative joint disease.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a12">
+      <title>Contraindications</title>
+      <pgroup>
+        <para>Contraindications to bariatric surgery include illnesses that greatly reduce life expectancy and are unlikely to be improved with weight reduction, including advanced cancer and end-stage renal, hepatic, and cardiopulmonary disease.</para>
+        <para>Patients who are unable to understand the nature of bariatric surgery or the behavioral changes required afterward, including untreated schizophrenia, active substance abuse, and noncompliance with previous medical care, are also considered contraindications to bariatric surgery.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c6">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>Preoperative laboratory evaluation should include a complete blood count (CBC), a complete chemistry panel, liver function tests, thyroid function tests, a lipid profile, coagulation tests, serum iron and total iron binding capacity (TIBC), vitamin B-12, folic acid, blood typing, and urinalysis. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Chest radiography</para>
+          </listitem>
+          <listitem>
+            <para>Ultrasonography of the gallbladder</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c8">
+      <title>Diagnostic Procedures</title>
+      <pgroup>
+        <para>Upper endoscopy is performed to rule out intrinsic upper gastrointestinal disease, because, after gastric bypass surgery, the ability to nonsurgically visualize the distal stomach and the duodenum could be a challenge. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d9">
+      <title>Medical Therapy</title>
+      <pgroup>
+        <para>A preoperative trial of weight loss is beneficial to ensure patient compliance with the postoperative diet protocol. Also, a preoperative liquid diet can shrink the liver, thus facilitating the surgical procedure. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Surgical Therapy</title>
+      <pgroup>
+        <para>Types of bariatric surgery include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Restrictive procedures (eg, adjustable gastric banding, sleeve gastrectomy)</para>
+          </listitem>
+          <listitem>
+            <para>Restrictive procedures with some malabsorption (eg, Roux-en-Y gastric bypass)</para>
+          </listitem>
+          <listitem>
+            <para>Malabsorptive procedures with some restriction (eg, biliopancreatic diversion with duodenal switch)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Bariatric surgery can be performed by an open technique and by a laparoscopic technique. The laparoscopic approach has currently become the more popular approach. </para>
+      </pgroup>
+      <pgroup>
+        <title>Gastric bypass</title>
+        <para>Gastric bypass is currently the most popular procedure performed in the United States. (See image below.) This procedure has earned the reputation of being the gold standard, against which other procedures are compared. The procedure has a restrictive and a malabsorptive component.</para>
+        <figure id="36285">
+          <title>Laparoscopic Roux-en-Y gastric bypass. </title>
+          <caption>Laparoscopic Roux-en-Y gastric bypass. </caption>
+          <graphic fileref="/85/36285.jpg" format="IMAGE" id="36285" extension_format="JPG"/>
+          <graphic fileref="/85/36285tn.jpg" format="IMAGE_THUMB" id="36285"/>
+        </figure>
+        <para>The gastric bypass provides a substantial amount of dietary restriction. The restriction is created by the small stomach pouch, which gives the patient a feeling of satiety after eating a small meal. The restrictive element of the operation consists of the creation of a small gastric pouch (approximately 20 mL in volume) and probably a small outlet that, on distention by food, causes the sensation of satiety. </para>
+        <para>In addition, the gastric bypass provides a small-to-moderate degree of intentional malabsorption due to the separation of food, which passes through the alimentary limb of the Y, from the biliopancreatic secretions, which pass through the biliopancreatic limb of the Y. The degree of malabsorption can be adjusted by modifying the length of the alimentary and biliopancreatic limbs. </para>
+        <para>The malabsorptive element is a result of bypassing the distal stomach, the entire duodenum, and varying the length of the jejunum. The extent of the bypass of the intestine determines the degree of macronutrient malabsorption. The standard Roux limb is about 75 cm. More extensive malabsorptive variations consist of gastric bypasses with a 150-cm Roux limb (long-limb) or with a very long-limb (distal gastric bypass). In addition to restricting food intake, causing some degree of malabsorption, it also causes <a href="http://emedicine.medscape.com/article/173594-overview">dumping syndrome</a> in response to a high-sugar liquid meal. </para>
+        <para>Weight loss after a standard 75-cm Roux gastric bypass usually exceeds 100 lb or about 65-70% of excess body weight and about 35% of BMI. The longer-limb bypasses are used to obtain comparable weight reductions in patients who are super obese (BMI &gt;50 kg/m<sup>2</sup>). Weight loss generally levels off in 1-2 years, and a regain of up to 20 lb from the weight loss nadir to a long-term plateau is common. </para>
+      </pgroup>
+      <pgroup>
+        <title>Reversal</title>
+        <para>For all bariatric procedures, pure reversal without conversion to another bariatric procedure is almost certainly followed by a return to morbid obesity. Gastric bypass can be reversed, though this is rarely required. </para>
+      </pgroup>
+      <pgroup>
+        <title>Revision</title>
+        <para>A standard Roux gastric bypass with failed weight loss can be revised to a very long-limb Roux-en-Y procedure or the dilated gastric pouch can be revised. (See image below.)</para>
+        <figure id="36288">
+          <title>Long Roux-en-Y gastric bypass. </title>
+          <caption>Long Roux-en-Y gastric bypass. </caption>
+          <graphic fileref="/88/36288.jpg" format="IMAGE" id="36288" extension_format="JPG"/>
+          <graphic fileref="/88/36288tn.jpg" format="IMAGE_THUMB" id="36288"/>
+        </figure>
+        <para>After gastric bypass surgery, some patients may experience dumping syndrome upon ingestion of sweets. This is caused by the rapid passage of gastric pouch contents directly into the small bowel, unimpeded by a pyloric valve. The presence of concentrated simple sugars in the Roux limb presents a substantial osmotic load that may result in cramping and abdominal discomfort; additionally, the ensuing rapid release of insulin by the pancreas may cause symptomatic hypoglycemia. This unpleasant reaction to sugar is considered to be a desired effect of gastric bypass surgery, and it has been referred to by patients as the postoperative police officer. </para>
+        <para>Weight loss after gastric bypass has been shown to be greater than that obtained by dietary, medical, behavioral, or combined approaches to weight loss. </para>
+        <para>A long-term follow-up study performed by MacLean et al defined postoperative success as a reduction in weight to a BMI of less than 35 kg/m<sup>2</sup>.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>By this criterion, a successful outcome was achieved in 93% of patients with an initial BMI of less than 50 kg/m<sup>2</sup> and in 57% of patients with an initial BMI of greater than 50 kg/m<sup>2</sup>. </para>
+        <para>Since its initial description in 1994 by Wittgrove and others, the laparoscopic gastric bypass approach has been shown to combine the efficacy of the open approach with the decreased pain, lower wound morbidity, and shorter convalescence of a minimally invasive procedure.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>Results of several laparoscopic gastric bypass series have paralleled or improved upon those of open surgery. In Higa's series of 400 laparoscopic procedures, patients lost an average of 69% of their initial excess weight by 12 months after their operations.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup>Schauer's group reported even better weight loss; in a group of 275 patients undergoing laparoscopic gastric bypass, there was an average loss of excess weight of 83% at 24 months after surgery. </para>
+        <para>A prospective, randomized trial was completed that compared the results of laparoscopic gastric bypass to the results of open gastric bypass. Patients who had undergone laparoscopic gastric bypass were found to have substantially less impairment of pulmonary function after surgery and decreased postoperative pain. </para>
+        <para>In the author's experience, the convalescence after laparoscopic gastric bypass is substantially reduced relative to open procedures, with some patients returning to work in 2 weeks or less. </para>
+      </pgroup>
+      <pgroup>
+        <title>Laparoscopic adjustable gastric banding</title>
+        <para>Laparoscopic adjustable gastric banding is the most common bariatric procedure and is performed in Europe, Australia, and South America. (See image below.) In June 2001, the US Food and Drug Administration (FDA) approved it for use in the United States. Lap-Band (Inamed) is the only device approved for this use in the United States.</para>
+        <figure id="36286">
+          <title>Adjustable gastric banding. </title>
+          <caption>Adjustable gastric banding. </caption>
+          <graphic fileref="/86/36286.jpg" format="IMAGE" id="36286" extension_format="JPG"/>
+          <graphic fileref="/86/36286tn.jpg" format="IMAGE_THUMB" id="36286"/>
+        </figure>
+        <para>The device consists of an adjustable inflatable band placed around the proximal part of the stomach. This creates a small gastric pouch (approximately 15 mL in volume) and a small stoma. Band restriction is adjustable by adding or removing saline from the inflatable band by a reservoir system of saline attached to the band and accessible through a port, which is attached by a catheter to the band. The port is placed subcutaneously in the anterior abdominal wall after the band is secured around the stomach. </para>
+        <para>Adjustment of the band through the access port is an essential part of laparoscopic adjustable gastric banding therapy. Appropriate adjustments, performed up to 6 times annually, are critical for successful outcomes. Patients must chew food thoroughly to allow food to pass through the band. Adjusting the inflation of the cuff changes the size of the opening through which food passes but does not change the size of the gastric pouch; deflation of the cuff is useful when the outlet is obstructed. </para>
+        <para>Weight loss after laparoscopic adjustable gastric banding is about 50-60% of excess body weight in approximately 2 years.</para>
+        <para>Laparoscopic adjustable gastric banding can be completely reversed with removal of the band, tubing, and port.</para>
+        <para>Combining laparoscopic adjustable gastric banding with gastric plication may improve weight-loss outcomes, at least in the short term.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Biliopancreatic diversion with duodenal switch</title>
+        <para>Biliopancreatic diversion with duodenal switch (see the image below) includes the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Lateral 75% gastrectomy, resulting in a tubular stomach</para>
+          </listitem>
+          <listitem>
+            <para>Duodenum divided past the pyloric valve</para>
+          </listitem>
+          <listitem>
+            <para>Ileum divided</para>
+          </listitem>
+          <listitem>
+            <para>Distal end anastomosed to proximal duodenum</para>
+          </listitem>
+          <listitem>
+            <para>Common channel created distally with Y-anastomosis</para>
+          </listitem>
+          <listitem>
+            <para>Optional appendectomy and cholecystectomy</para>
+            <figure id="36289">
+              <title>Biliopancreatic diversion with duodenal switch. </title>
+              <caption>Biliopancreatic diversion with duodenal switch. </caption>
+              <graphic fileref="/89/36289.jpg" format="IMAGE" id="36289" extension_format="JPG"/>
+              <graphic fileref="/89/36289tn.jpg" format="IMAGE_THUMB" id="36289"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+        <para>Malabsorption is achieved by separating food from biliopancreatic digestive fluids. More weight loss results from fat malabsorption. Protein absorption is also reduced. This has the best weight loss with the least regain. There is less disruption of eating patterns. Early weight loss is from restriction and malabsorption, and, later, it is mostly from malabsorption; 75-85% of excess body weight loss is at 18 months. Pyloric preservation protects against marginal ulceration and dumping syndrome. </para>
+        <para>The procedure is technically challenging and difficult to reverse. Insurance companies may not cover this procedure because it is still considered investigational. </para>
+      </pgroup>
+      <pgroup>
+        <title>Laparoscopic sleeve gastrectomy</title>
+        <para>Laparoscopic sleeve gastrectomy (LSG), a type of unbanded gastroplasty, employs subtotal gastric resection to create a long lesser curvature–based gastric conduit. (See the image below.)</para>
+        <figure id="36287">
+          <title>Sleeve gastrectomy. </title>
+          <caption>Sleeve gastrectomy. </caption>
+          <graphic fileref="/87/36287.jpg" format="IMAGE" id="36287" extension_format="JPG"/>
+          <graphic fileref="/87/36287tn.jpg" format="IMAGE_THUMB" id="36287"/>
+        </figure>
+        <para>In this procedure, the stomach is reduced to about 15-20% of its original size by the surgical removal of a large portion of the stomach, following the greater curve. The mechanism of weight loss and resultant comorbidity improvement that follows sleeve gastrectomy may be related to gastric restriction or to neurohumoral changes observed following the procedure (due to the gastric resection).</para>
+        <para>Sleeve gastrectomy has been used as the first of a 2-stage procedure for high-risk patients,<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>but owing to its simplicity and favorable outcomes,<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>it is currently being offered as a primary, stand-alone procedure. In the first decade of the 21st century, many hundreds of sleeve gastrectomies were performed in the United States. Based on follow-up periods of 6 months to 3 years, patients were found to have lost 33-83% of their excess weight.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10, <ref_inline id="refsrc11" name="refsrc11"/>11, <ref_inline id="refsrc12" name="refsrc12"/>12, <ref_inline id="refsrc13" name="refsrc13"/>13, <ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15, <ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc17" name="refsrc17"/>17, <ref_inline id="refsrc18" name="refsrc18"/>18, <ref_inline id="refsrc19" name="refsrc19"/>19, <ref_inline id="refsrc20" name="refsrc20"/>20, <ref_inline id="refsrc21" name="refsrc21"/>21, <ref_inline id="refsrc22" name="refsrc22"/>22, <ref_inline id="refsrc23" name="refsrc23"/>23, <ref_inline id="refsrc24" name="refsrc24"/>24] </sup></para>
+        <para>Compared with other bariatric procedures, sleeve gastrectomy is the more physiologic treatment, because it does not involve malabsorption, abnormal tracts, blind tracts, or the placement of a foreign body. This procedure is widely performed laparoscopically.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        <para>Hutter et all conducted the first large, prospective, multiinstitutional study comparing 1-yr outcomes of LSG to other procedures. Results show LSG has morbidity and effectiveness between laparoscopic adjustable gastric banding and standard Roux bypass.<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+        <para>As with other bariatric procedures that involve stomach transaction, the main drawback of sleeve gastrectomy is the severity of postoperative complications. The use of staple-line reinforcement was shown to be associated with improved perioperative outcomes and can be considered as an effective method for preventing leaks.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+        <para>A larger, prospective comparative study involving 187 patients undergoing the laparoscopic sleeve gastrectomy procedure found that reinforcement of the staple line with bovine pericardium strips was associated with a significant reduction in bleeding from the staple line and intraabdominal collections, whereas the leak rate was not significantly reduced. It is unclear, though, if controlling for high BMI, previous bariatric surgery, and diabetes was taken into account.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+        <para>In a randomized study that involved 120 patients who had undergone laparoscopic sleeve gastrectomy, using either polyglycolide acid with tri-methylene carbonate or gelatin ﬁbrinmatrix for SLR wasfound to be faster compared to oversewing, whereas no significant differences in postoperative complications were observed between the three methods.<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Incision reduction strategies</title>
+        <para>There has been a growing trend in bariatric surgery toward reduction of abdominal incisions, a change offering much-improved cosmetic outcomes and, potentially, shorter patient hospital stays. (See the image below.)</para>
+        <figure id="36290">
+          <title>Progression of surgical techniques, with open surgery in the first image and single-incision,...</title>
+          <caption>Progression of surgical techniques, with open surgery in the first image and single-incision, transumbilical laparoscopic surgery in the third illustration. </caption>
+          <graphic fileref="/90/36290.jpg" format="IMAGE" id="36290" extension_format="JPG"/>
+          <graphic fileref="/90/36290tn.jpg" format="IMAGE_THUMB" id="36290"/>
+        </figure>
+        <para>Such minimally invasive surgery also provides, as a result of decreased abdominal trauma, reductions in pain, scarring, and tissue injury. Saber and colleagues developed a single-incision, transumbilical laparoscopic approach for sleeve gastrectomies, in which the procedure is performed mainly through the umbilicus; the sleeve is extracted through the umbilicus without extending the incision.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        <para>In addition, Saber and colleagues developed a single-incision, transumbilical laparoscopic technique for the placement of an adjustable gastric band; in addition to offering the aforementioned benefits of such an approach, this technique facilitates later outpatient adjustment of the band. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d11">
+      <title>Preoperative Details</title>
+      <pgroup>
+        <para>The diversity of clinical and occult obesity-related comorbidities necessitates a multidisciplinary team approach in the preoperative evaluation of the patient who is morbidly obese. This evaluation will enhance the postoperative outcome. Preoperative cardiac, pulmonary, psychiatric, and endocrine evaluations may be necessary. These evaluations help to exclude patients who may not benefit from surgery; at the same time, they optimize those considered being potential good candidates for surgery. Preoperative nutritional consultation helps in obtaining a detailed diet history and in explaining preoperative and postoperative diet protocol. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d12">
+      <title>Intraoperative Details</title>
+      <pgroup>
+        <para>See Surgical Therapy.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d13">
+      <title>Postoperative Details</title>
+      <pgroup>
+        <para>After surgery, patients must remain on a high-protein, low-fat diet, and they must supplement their diet with multivitamins, iron, and calcium, usually on a twice-daily basis. Ursodiol may be given to minimize the risk of developing gallstones during the period of acute weight loss. Patients must modify their eating habits by avoiding chewy meats and other foods that may inhibit normal emptying of their stomach pouch.</para>
+        <para>Nutritional and metabolic blood tests must be performed on a frequent basis; in the author's practice, these tests are performed at 6 months after surgery, 12 months after surgery, and then annually thereafter. </para>
+      </pgroup>
+      <pgroup>
+        <title>Post – bariatric surgery body contouring</title>
+        <para>Massive weight loss is associated with negative consequences for the body, such as flabby skin, abdominal skin overhang, and pendulous breasts. The excess skin does not contract back to its preweight gain tightness. Redundant rolls of tissue may also be associated with intertrigo and significant hygiene problems. Surgical correction of these body deformities can significantly enhance physical and physiological changes. The usual time lapse between gastric bypass and plastic surgery procedures is 12-18 months. </para>
+        <para>Treatment alternatives for body contouring procedures include lipoplasty, conventional surgery, or a combination of the 2 procedures. Conventional contouring procedures include abdominoplasty, buttock lift, lower body lift, thigh lift, upper arm lift, facelift, breast reduction, mastopexy, and/or augmentation. Multiple procedures are usually required, and a staged approach to body contouring surgery following bariatric surgery seems to improve safety and outcomes. </para>
+        <para>Complications of body contouring procedures include hematomas and seromas, as well as fat necrosis, skin slough, infection, and deep vein thrombosis. In addition, the patient should be involved with a team that assesses nutritional and psychological issues as needed.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d14">
+      <title>Follow-up</title>
+      <pgroup>
+        <para>For patient education resources, see the <a href="http://www.emedicinehealth.com/script/main/art.asp?articlekey=60076">Healthy Living Center</a>, as well as <a href="http://www.emedicinehealth.com/obesity/article_em.htm">Obesity</a> and <a href="http://www.emedicinehealth.com/surgery_in_the_treatment_of_obesity/article_em.htm">Surgery in the Treatment of Obesity</a>.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d15">
+      <title>Complications</title>
+      <pgroup>
+        <para>Early complications of Roux-en-Y gastric bypass are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Anastomotic leak (1-3%)</para>
+          </listitem>
+          <listitem>
+            <para>Pulmonary embolism, deep vein thrombosis (&lt; 1%)</para>
+          </listitem>
+          <listitem>
+            <para>Wound infection (more common with open approach)</para>
+          </listitem>
+          <listitem>
+            <para>Gastrointestinal hemorrhage, bleeding (0.5-2%)</para>
+          </listitem>
+          <listitem>
+            <para>Respiratory insufficiency, pneumonia</para>
+          </listitem>
+          <listitem>
+            <para>Acute distention of the distal stomach</para>
+          </listitem>
+        </itemizedlist>
+        <para>Late complications (less frequent and less dramatic than with gastric banding) of the Roux-en-Y procedure are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Stomal stenosis, most common (20%)</para>
+          </listitem>
+          <listitem>
+            <para>Bowel obstruction, small bowel obstruction (1%)</para>
+          </listitem>
+          <listitem>
+            <para>Internal hernia</para>
+          </listitem>
+          <listitem>
+            <para>Cholelithiasis</para>
+          </listitem>
+          <listitem>
+            <para>Micronutrient deficiencies</para>
+          </listitem>
+          <listitem>
+            <para>Marginal ulcer</para>
+          </listitem>
+          <listitem>
+            <para>Staple line disruption</para>
+          </listitem>
+          <listitem>
+            <para>Ventral hernia formation (more prevalent after open approach)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Although there is a statistical increase in the number of patients needing cholecystectomy after obesity surgery, the number is small enough to prevent suggesting a prophylactic procedure at the time of their bariatric surgery.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30] </sup></para>
+        <para>Risk factors associated with an increased risk of postoperative morbidity include recent myocardial infarction/angina, stroke, bleeding disorder, hypertension, and higher BMI.<sup>[<ref_inline id="refsrc31" name="refsrc31"/>31] </sup>Operative (30-day) mortality for gastric bypass when performed by skilled surgeons is about 0.5%. The risk of dying in the first month after a Roux-en-Y gastric bypass from complications of the operation is about 0.2-0.5% in expert centers. Studies have demonstrated that the mortality rate from hospitals with less experience with the procedure is far higher than that reported by expert centers. Compared with open procedures, laparoscopic gastric bypass has a higher rate of intra-abdominal complications, whereas the duration of hospitalization is shorter, wound complications are lower, and the postoperative patient comfort is higher. </para>
+        <para>Lifelong oral or intramuscular vitamin B-12 supplementation and iron, vitamin B, folate, and calcium supplementation are recommended to avoid specific nutrient deficiency conditions, such as anemia. </para>
+        <para>Early complications of the adjustable gastric band procedure are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Injury of the stomach or esophagus</para>
+          </listitem>
+          <listitem>
+            <para>Bleeding</para>
+          </listitem>
+          <listitem>
+            <para>Food intolerance (most common immediate postoperative complication)</para>
+          </listitem>
+          <listitem>
+            <para>Wound infection</para>
+          </listitem>
+          <listitem>
+            <para>Pneumonia</para>
+          </listitem>
+        </itemizedlist>
+        <para>Late complications are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Food intolerance or noncompliance to band (13%)</para>
+          </listitem>
+          <listitem>
+            <para>Band slippage (stomach prolapse) (2.2-8%)</para>
+          </listitem>
+          <listitem>
+            <para>Pouch dilatation</para>
+          </listitem>
+          <listitem>
+            <para>Band erosion into the stomach</para>
+          </listitem>
+          <listitem>
+            <para>Port complications</para>
+          </listitem>
+          <listitem>
+            <para>Reoperation rate (2-41%)</para>
+          </listitem>
+          <listitem>
+            <para>Esophageal dilatation</para>
+          </listitem>
+          <listitem>
+            <para>Failure to lose weight</para>
+          </listitem>
+          <listitem>
+            <para>Port infection, band infection</para>
+          </listitem>
+          <listitem>
+            <para>Leakage of the balloon or tubing</para>
+          </listitem>
+          <listitem>
+            <para>Mortality rate (0.5%; 0% in some series)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Because the biliopancreatic diversion with duodenal switch procedure is less well known, the complications are potentially more problematic if the surgeon is unfamiliar with the procedure. </para>
+        <para>Fat malabsorption results in diarrhea and foul-smelling gas in approximately 30% of patients.</para>
+        <para>The potential nutritional deficiencies mandate frequent follow-up visits, with close monitoring and supplementation of multivitamins and minerals.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Malabsorption of fat soluble vitamins (vitamins A, D, E, and K)</para>
+          </listitem>
+          <listitem>
+            <para>Vitamin A deficiency, which causes night blindness</para>
+          </listitem>
+          <listitem>
+            <para>Vitamin D deficiency, which causes osteoporosis</para>
+          </listitem>
+          <listitem>
+            <para>Iron deficiency (similar incidence to Roux-en-Y gastric bypass procedure)</para>
+          </listitem>
+          <listitem>
+            <para>Protein-energy malnutrition (may require a second operation to lengthen the common channel)</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d16">
+      <title>Outcome and Prognosis</title>
+      <pgroup>
+        <para>Care of the postoperative bariatric surgery patient is recommended for the lifetime of the patient, with at least 3 follow-up visits with the bariatric surgery team within the first year. Laparoscopic adjustable gastric banding requires more frequent visits for band adjustment. Postoperative dietary changes (including vitamin, mineral, and possibly liquid protein supplementation), exercise, and lifestyle changes should be reinforced by counseling, support groups, and the patient's family physician. </para>
+        <para>Favorable outcomes of bariatric surgery can lead to socioeconomic advancement, which may require patient guidance.</para>
+        <para>Postoperative care may also include planning for reconstructive operations after weight stabilization for certain patients.</para>
+        <para>The Swedish Obese Subjects (SOS) study is an ongoing, prospective study of 2010 obese participants who underwent bariatric surgery and 2037 obese patients who received usual care in the primary health care system. Compared to the control group, obese adults who underwent surgery experienced a reduced number of cardiovascular deaths and a lower incidence of heart attack and stroke.<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32, <ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+        <para>Low back pain is a common complaint among obese patients. A retrospective study of morbidly obese patients who underwent bariatric surgery found that patients experienced a significant decrease in low back and radicular pain after surgery, which led to improvements in quality of life. Patients also experienced a marked increase in the L4-5 intervertebral disc height.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34] </sup></para>
+        <para>An Australian study by Keating et al compared the results of weight-loss treatments in patients who had been diagnosed with type 2 diabetes mellitus in class I/II obesity, estimating the lifetime costs and quality-adjusted life-years (QALYs) for individuals who had undergone surgically induced weight loss and for patients who had utilized conventional weight loss treatment.<sup>[<ref_inline id="refsrc35" name="refsrc35"/>35] </sup></para>
+        <para>The investigators found that the mean length of time for diabetes remission over a lifetime was 11.4 years for patients who had undergone surgical treatment and 2.1 years for patients who had utilized conventional therapy. Over the remainder of their lifetime, patients in the surgical therapy group lived 15.7 discounted QALYs, compared with 14.5 discounted QALYs for patients in the conventional therapy group. For surgical and conventional therapy patients, the mean discounted lifetime costs were, respectively, 98,900 and 101,400 Australian dollars per patient (1 Australian dollar = 0.74 US dollars). Compared with conventional therapy, surgically induced weight loss was associated with a mean health care saving of 2,400 Australian dollars and with 1.2 additional QALYs per patient.</para>
+        <para>In another study, Keating and coauthors looked at the within-trial cost efficacy, over 2 years, of surgical treatment relative to that of conventional therapy for achieving remission in patients recently diagnosed with type 2 diabetes mellitus with class I/II obesity.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup>Trial intervention costs included gastric banding surgery, mitigation of complications, outpatient medical consultations, medical investigations, pathology, weight-loss therapies, and medication.</para>
+        <para>An incremental cost-effectiveness analysis demonstrated that the mean 2-year intervention costs per patient were 13,400 Australian dollars for surgical therapy and 3,400 Australian dollars for conventional therapy; laparoscopic adjustable gastric band (LAGB) surgery was responsible for 85% of the difference. For surgical patients, outpatient medical consultation costs were 3-fold greater than those for conventional patients, but medication costs were 1.5 times higher for patients who underwent conventional therapy. The cost differences occurred primarily in the trial's first 6 months. In relation to conventional treatment, the incremental cost-effectiveness ratio for surgical therapy was 16,600 Australian dollars per case of diabetes remitted.</para>
+        <para>An updated Cochrane review from 2014 that included 22 trials with 1798 participants concluded that surgical treatment of obesity yielded greater improvement in weight loss and weight-associated comorbidities than nonsurgical interventions did, regardless of the type of procedure,<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>though certain procedures were associated with greater weight loss and fewer comorbidities than others.</para>
+        <para>In this review, Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy had comparable outcomes, and both had better outcomes than adjustable gastric banding.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>In very-high-BMI patients, biliopancreatic diversion with duodenal switch yielded better weight loss than RYGB did. Outcomes were comparable for duodenojejunal bypass with sleeve gastrectomy and laparoscopic RYGB. Isolated sleeve gastrectomy led to better weight loss than adjustable gastric banding. Weight-related outcomes were similar for laparoscopic gastric imbrication and laparoscopic sleeve gastrectomy.</para>
+        <para>In general, with all 22 studies taken into account, rates of adverse events and reoperation were not well reported.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup>Because the follow-up period in most of the trials reviewed was only 1 or 2 years, the long-term effects of bariatric surgery could not be definitively established. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d17">
+      <title>Future and Controversies</title>
+      <pgroup>
+        <para>Over the past 10 years, the field of bariatric surgery has been enriched by data from numerous clinical investigations and experience. The direction of future clinical investigations is manifold and includes the following: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Controlled, prospective, intervention studies</para>
+          </listitem>
+          <listitem>
+            <para>Establishment of a major prospective database to study bariatric surgery outcomes</para>
+          </listitem>
+          <listitem>
+            <para>Establishment of a pediatric (adolescent) bariatric surgery registry</para>
+          </listitem>
+          <listitem>
+            <para>Performance of randomized clinical trials to compare the safety and efficacy of different operative procedures</para>
+          </listitem>
+          <listitem>
+            <para>Controlled studies of new operative modalities (eg, gastric pacing) and nonoperative modalities of treatment</para>
+          </listitem>
+          <listitem>
+            <para>Study by meta-analysis of outcomes of comorbid conditions of morbid obesity</para>
+          </listitem>
+          <listitem>
+            <para>Study of the socioeconomic outcomes of bariatric surgery</para>
+          </listitem>
+          <listitem>
+            <para>Study by stratified risk assessment of the risk-to-benefit ratio of treating morbid obesity with bariatric surgery and without bariatric surgery </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="36285">
+        <title>Laparoscopic Roux-en-Y gastric bypass. </title>
+        <caption>Laparoscopic Roux-en-Y gastric bypass. </caption>
+        <graphic fileref="/85/36285.jpg" format="IMAGE" id="36285" extension_format="JPG"/>
+        <graphic fileref="/85/36285tn.jpg" format="IMAGE_THUMB" id="36285"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36286">
+        <title>Adjustable gastric banding. </title>
+        <caption>Adjustable gastric banding. </caption>
+        <graphic fileref="/86/36286.jpg" format="IMAGE" id="36286" extension_format="JPG"/>
+        <graphic fileref="/86/36286tn.jpg" format="IMAGE_THUMB" id="36286"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36287">
+        <title>Sleeve gastrectomy. </title>
+        <caption>Sleeve gastrectomy. </caption>
+        <graphic fileref="/87/36287.jpg" format="IMAGE" id="36287" extension_format="JPG"/>
+        <graphic fileref="/87/36287tn.jpg" format="IMAGE_THUMB" id="36287"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36288">
+        <title>Long Roux-en-Y gastric bypass. </title>
+        <caption>Long Roux-en-Y gastric bypass. </caption>
+        <graphic fileref="/88/36288.jpg" format="IMAGE" id="36288" extension_format="JPG"/>
+        <graphic fileref="/88/36288tn.jpg" format="IMAGE_THUMB" id="36288"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36289">
+        <title>Biliopancreatic diversion with duodenal switch. </title>
+        <caption>Biliopancreatic diversion with duodenal switch. </caption>
+        <graphic fileref="/89/36289.jpg" format="IMAGE" id="36289" extension_format="JPG"/>
+        <graphic fileref="/89/36289tn.jpg" format="IMAGE_THUMB" id="36289"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="36290">
+        <title>Progression of surgical techniques, with open surgery in the first image and single-incision,...</title>
+        <caption>Progression of surgical techniques, with open surgery in the first image and single-incision, transumbilical laparoscopic surgery in the third illustration. </caption>
+        <graphic fileref="/90/36290.jpg" format="IMAGE" id="36290" extension_format="JPG"/>
+        <graphic fileref="/90/36290tn.jpg" format="IMAGE_THUMB" id="36290"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Alan A Saber, MD, MS, FACS</contrbtr_nm>
+        <contrbtr_title>FASMBS, Director of Bariatric and Metabolic Surgery, University Hospitals Case Medical Center; Surgical Director, Bariatric Surgery, Metabolic and Nutrition Center, University Hospitals Digestive Health Institute; Associate Professor of Surgery, Case Western Reserve University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Alan A Saber, MD, MS, FACS is a member of the following medical societies: <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://asmbs.org">American Society for Metabolic and Bariatric Surgery</a>, <a href="http://www.asge.org">American Society for Gastrointestinal Endoscopy</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Tarek H El-Ghazaly, MD</contrbtr_nm>
+        <contrbtr_title>Fellow of Minimally Invasive and Bariatric Surgery Research, Michigan State University, Kalamazoo Center for Medical Studies</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>John Geibel, MD, DSc, MSc, MA</contrbtr_nm>
+        <contrbtr_title>Vice Chair and Professor, Department of Surgery, Section of Gastrointestinal Medicine, and Department of Cellular and Molecular Physiology, Yale University School of Medicine; Director, Surgical Research, Department of Surgery, Yale-New Haven Hospital; American Gastroenterological Association Fellow</contrbtr_title>
+        <contrbtr_bio>John Geibel, MD, DSc, MSc, MA is a member of the following medical societies: <a href="http://www.gastro.org">American Gastroenterological Association</a>, <a href="http://www.the-aps.org">American Physiological Society</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.aasurg.org">Association for Academic Surgery</a>, <a href="http://www.theisn.org">International Society of Nephrology</a>, <a href="http://www.nyas.org">New York Academy of Sciences</a>, <a href="http://www.ssat.com">Society for Surgery of the Alimentary Tract</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received royalty from AMGEN for consulting; Received ownership interest from Ardelyx for consulting.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Brian J Daley, MD, MBA, FACS, FCCP, CNSC</contrbtr_nm>
+        <contrbtr_title>Professor and Program Director, Department of Surgery, Chief, Division of Trauma and Critical Care, University of Tennessee Health Science Center College of Medicine</contrbtr_title>
+        <contrbtr_bio>Brian J Daley, MD, MBA, FACS, FCCP, CNSC is a member of the following medical societies: <a href="http://www.aast.org">American Association for the Surgery of Trauma</a>, <a href="http://www.east.org">Eastern Association for the Surgery of Trauma</a>, <a href="http://www.southernsurg.org/">Southern Surgical Association</a>, <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.aasurg.org">Association for Academic Surgery</a>, <a href="http://www.surgicaleducation.com">Association for Surgical Education</a>, <a href="http://www.shocksociety.org/">Shock Society</a>, <a href="http://www.sccm.org">Society of Critical Care Medicine</a>, <a href="http://www.sesc.org/aws/SESC/pt/sp/home_page">Southeastern Surgical Congress</a>, <a href="http://www.tnmed.org">Tennessee Medical Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>We wish to thank Ollie J Jackson III, MD, Department of General Surgery, Michigan State University, Kalamazoo Center for Medical Studies, for previous contributions to this entry. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22215166">
+      <para>Sjöström L,  Peltonen M,  Jacobson P,  Sjöström CD,  Karason K,  Wedel H, et al. Bariatric surgery and long-term cardiovascular events. <em>JAMA</em>. 2012 Jan 4. 307(1):56-65. <a href="http://reference.medscape.com/medline/abstract/22215166">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Tucker ME. New guidelines address bariatric surgery in children. <em>Medscape Medical News</em>. January 19, 2015. <a href="http://www.medscape.com/viewarticle/838351">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25591123">
+      <para>Nobili V,  Vajro P,  Dezsofi A,  Fischler B,  Hadzic N,  Jahnel J, et al. Indications and Limitations of Bariatric Intervention in Severely Obese Children and Adolescents With and Without Non-alcoholic Steatohepatitis: the ESPGHAN Hepatology Committee Position Statement. <em>J Pediatr Gastroenterol Nutr</em>. 2015 Feb 2. <a href="http://reference.medscape.com/medline/abstract/25591123">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10749613">
+      <para>MacLean LD, Rhode BM, Nohr CW. Late outcome of isolated gastric bypass. <em>Ann Surg</em>. 2000 Apr. 231(4):524-8. <a href="http://reference.medscape.com/medline/abstract/10749613">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10742801">
+      <para>Wittgrove AC, Clark GW, Tremblay LJ. Laparoscopic Gastric Bypass, Roux-en-Y: Preliminary Report of Five Cases. <em>Obes Surg</em>. 1994 Nov. 4(4):353-357. <a href="http://reference.medscape.com/medline/abstract/10742801">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11814129">
+      <para>Higa KD, Ho T, Boone KB. Laparoscopic Roux-en-Y gastric bypass: technique and 3-year follow-up. <em>J Laparoendosc Adv Surg Tech A</em>. 2001 Dec. 11(6):377-82. <a href="http://reference.medscape.com/medline/abstract/11814129">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25443060">
+      <para>Lee WJ, Lee KT, Ser KH, Chen JC, Tsou JJ, Lee YC. Laparoscopic adjustable gastric banding (LAGB) with gastric plication: Short-term results and comparison with LAGB alone and sleeve gastrectomy. <em>Surg Obes Relat Dis</em>. 2014 Jun 6. <a href="http://reference.medscape.com/medline/abstract/25443060">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14738671">
+      <para>Regan JP, Inabnet WB, Gagner M, et al. Early experience with two-stage laparoscopic Roux-en-Y gastric bypass as an alternative in the super-super obese patient. <em>Obes Surg</em>. 2003 Dec. 13(6):861-4. <a href="http://reference.medscape.com/medline/abstract/14738671">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17132410">
+      <para>Himpens J, Dapri G, Cadière GB. A prospective randomized study between laparoscopic gastric banding and laparoscopic isolated sleeve gastrectomy: results after 1 and 3 years. <em>Obes Surg</em>. 2006 Nov. 16(11):1450-6. <a href="http://reference.medscape.com/medline/abstract/17132410">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17356932">
+      <para>Lee CM, Cirangle PT, Jossart GH. Vertical gastrectomy for morbid obesity in 216 patients: report of two-year results. <em>Surg Endosc</em>. 2007 Oct. 21(10):1810-6. <a href="http://reference.medscape.com/medline/abstract/17356932">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16738970">
+      <para>Cottam D, Qureshi FG, Mattar SG, Sharma S, Holover S, Bonanomi G. Laparoscopic sleeve gastrectomy as an initial weight-loss procedure for high-risk patients with morbid obesity. <em>Surg Endosc</em>. 2006 Jun. 20(6):859-63. <a href="http://reference.medscape.com/medline/abstract/16738970">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17132409">
+      <para>Hamoui N, Anthone GJ, Kaufman HS, Crookes PF. Sleeve gastrectomy in the high-risk patient. <em>Obes Surg</em>. 2006 Nov. 16(11):1445-9. <a href="http://reference.medscape.com/medline/abstract/17132409">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16989696">
+      <para>Silecchia G, Boru C, Pecchia A, Rizzello M, Casella G, Leonetti F. Effectiveness of laparoscopic sleeve gastrectomy (first stage of biliopancreatic diversion with duodenal switch) on co-morbidities in super-obese high-risk patients. <em>Obes Surg</em>. 2006 Sep. 16(9):1138-44. <a href="http://reference.medscape.com/medline/abstract/16989696">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17132410">
+      <para>Himpens J, Dapri G, Cadière GB. A prospective randomized study between laparoscopic gastric banding and laparoscopic isolated sleeve gastrectomy: results after 1 and 3 years. <em>Obes Surg</em>. 2006 Nov. 16(11):1450-6. <a href="http://reference.medscape.com/medline/abstract/17132410">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16197783">
+      <para>Baltasar A, Serra C, Pérez N, Bou R, Bengochea M, Ferri L. Laparoscopic sleeve gastrectomy: a multi-purpose bariatric operation. <em>Obes Surg</em>. 2005 Sep. 15(8):1124-8. <a href="http://reference.medscape.com/medline/abstract/16197783">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17059741">
+      <para>Roa PE, Kaidar-Person O, Pinto D, Cho M, Szomstein S, Rosenthal RJ. Laparoscopic sleeve gastrectomy as treatment for morbid obesity: technique and short-term outcome. <em>Obes Surg</em>. 2006 Oct. 16(10):1323-6. <a href="http://reference.medscape.com/medline/abstract/17059741">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16469218">
+      <para>Langer FB, Bohdjalian A, Felberbauer FX, Fleischmann E, Reza Hoda MA, Ludvik B. Does gastric dilatation limit the success of sleeve gastrectomy as a sole operation for morbid obesity?. <em>Obes Surg</em>. 2006 Feb. 16(2):166-71. <a href="http://reference.medscape.com/medline/abstract/16469218">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17355769">
+      <para>Melissas J, Koukouraki S, Askoxylakis J, Stathaki M, Daskalakis M, Perisinakis K. Sleeve gastrectomy: a restrictive procedure?. <em>Obes Surg</em>. 2007 Jan. 17(1):57-62. <a href="http://reference.medscape.com/medline/abstract/17355769">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15130224">
+      <para>Almogy G, Crookes PF, Anthone GJ. Longitudinal gastrectomy as a treatment for the high-risk super-obese patient. <em>Obes Surg</em>. 2004 Apr. 14(4):492-7. <a href="http://reference.medscape.com/medline/abstract/15130224">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15946449">
+      <para>Milone L, Strong V, Gagner M. Laparoscopic sleeve gastrectomy is superior to endoscopic intragastric balloon as a first stage procedure for super-obese patients (BMI &gt; or =50). <em>Obes Surg</em>. 2005 May. 15(5):612-7. <a href="http://reference.medscape.com/medline/abstract/15946449">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18954593">
+      <para>Moy J, Pomp A, Dakin G, Parikh M, Gagner M. Laparoscopic sleeve gastrectomy for morbid obesity. <em>Am J Surg</em>. 2008 Nov. 196(5):e56-9. <a href="http://reference.medscape.com/medline/abstract/18954593">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18688685">
+      <para>Saber AA, Elgamal MH, Itawi EA, Rao AJ. Single incision laparoscopic sleeve gastrectomy (SILS): a novel technique. <em>Obes Surg</em>. 2008 Oct. 18(10):1338-42. <a href="http://reference.medscape.com/medline/abstract/18688685">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18560961">
+      <para>Gagner M, Gumbs AA, Milone L, Yung E, Goldenberg L, Pomp A. Laparoscopic sleeve gastrectomy for the super-super-obese (body mass index &gt;60 kg/m(2)). <em>Surg Today</em>. 2008. 38(5):399-403. <a href="http://reference.medscape.com/medline/abstract/18560961">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>American Society for Metabolic and Bariatric Surgery - Statements, Guidelines, Action Items. Available at <a href="http://www.asmbs.org/Newsite07/resources/asmbs_items.htm">http://www.asmbs.org/Newsite07/resources/asmbs_items.htm</a>. Accessed: 5/24/2009.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21865942">
+      <para>Hutter MM,  Schirmer BD,  Jones DB,  Ko CY,  Cohen ME,  Merkow RP, et al. First Report from the American College of Surgeons Bariatric Surgery Center Network: Laparoscopic Sleeve Gastrectomy has Morbidity and Effectiveness Positioned Between the Band and the Bypass. <em>Ann Surg</em>. 2011 Sep. 254(3):410-422. <a href="http://reference.medscape.com/medline/abstract/21865942">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20526621">
+      <para>Daskalakis M, Berdan Y, Theodoridou S, Weigand G, Weiner RA. Impact of surgeon experience and buttress material on postoperative complications after laparoscopic sleeve gastrectomy. <em>Surg Endosc</em>. 2011 Jan. 25(1):88-97. <a href="http://reference.medscape.com/medline/abstract/20526621">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21638186">
+      <para>Stamou KM,  Menenakos E,  Dardamanis D,  Arabatzi C,  Alevizos L,  Albanopoulos K, et al. Prospective comparative study of the efficacy of staple-line reinforcement in laparoscopic sleeve gastrectomy. <em>Surg Endosc</em>. 2011 Nov. 25(11):3526-30. <a href="http://reference.medscape.com/medline/abstract/21638186">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22441975">
+      <para>Gentileschi P, Camperchioli I, D'Ugo S, Benavoli D, Gaspari AL. Staple-line reinforcement during laparoscopic sleeve gastrectomy using three different techniques: a randomized trial. <em>Surg Endosc</em>. 2012 Mar 23. <a href="http://reference.medscape.com/medline/abstract/22441975">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25477839">
+      <para>de Zwaan M,  Georgiadou E,  Stroh CE,  Teufel M,  Köhler H,  Tengler M, et al. Body image and quality of life in patients with and without body contouring surgery following bariatric surgery: a comparison of pre- and post-surgery groups. <em>Front Psychol</em>. 2014. 5:1310. <a href="http://reference.medscape.com/medline/abstract/25477839">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22407811">
+      <para>Plecka Östlund M, Wenger U, Mattsson F, Ebrahim F, Botha A, Lagergren J. Population-based study of the need for cholecystectomy after obesity surgery. <em>Br J Surg</em>. 2012 Mar 7. <a href="http://reference.medscape.com/medline/abstract/22407811">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21247780">
+      <para>Gupta PK, Franck C, Miller WJ, Gupta H, Forse RA. Development and Validation of a Bariatric Surgery Morbidity Risk Calculator Using the Prospective, Multicenter NSQIP Dataset. <em>J Am Coll Surg</em>. 2011 Mar. 212(3):301-9. <a href="http://reference.medscape.com/medline/abstract/21247780">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22215166">
+      <para>Sjöström L,  Peltonen M,  Jacobson P,  Sjöström CD,  Karason K,  Wedel H, et al. Bariatric surgery and long-term cardiovascular events. <em>JAMA</em>. 2012 Jan 4. 307(1):56-65. <a href="http://reference.medscape.com/medline/abstract/22215166">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22855732">
+      <para>Romeo S,  Maglio C,  Burza MA,  Pirazzi C,  Sjöholm K,  Jacobson P, et al. Cardiovascular Events After Bariatric Surgery in Obese Subjects With Type 2 Diabetes. <em>Diabetes Care</em>. 2012 Aug 1. <a href="http://reference.medscape.com/medline/abstract/22855732">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22648024">
+      <para>Lidar Z,  Behrbalk E,  Regev GJ,  Salame K,  Keynan O,  Schweiger C, et al. Intervertebral Disc Height Changes after Weight Reduction in Morbid Obese Patients, its Effect on Life Quality, Radicular and Low Back Pain. <em>Spine (Phila Pa 1976)</em>. 2012 May 29. <a href="http://reference.medscape.com/medline/abstract/22648024">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19171720">
+      <para>Keating CL, Dixon JB, Moodie ML, et al. Cost-effectiveness of surgically induced weight loss for the management of type 2 diabetes: modeled lifetime analysis. <em>Diabetes Care</em>. 2009 Apr. 32(4):567-74. <a href="http://reference.medscape.com/medline/abstract/19171720">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19171726">
+      <para>Keating CL, Dixon JB, Moodie ML, et al. Cost-efficacy of surgically induced weight loss for the management of type 2 diabetes: a randomized controlled trial. <em>Diabetes Care</em>. 2009 Apr. 32(4):580-4. <a href="http://reference.medscape.com/medline/abstract/19171726">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25105982">
+      <para>Colquitt JL, Pickett K, Loveman E, Frampton GK. Surgery for weight loss in adults. <em>Cochrane Database Syst Rev</em>. 2014 Aug 8. 8:CD003641. <a href="http://reference.medscape.com/medline/abstract/25105982">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10793653">
+      <para>Balsiger BM, Murr MM, Poggio JL, Sarr MG. Bariatric surgery. Surgery for weight control in patients with morbid obesity. <em>Med Clin North Am</em>. 2000 Mar. 84(2):477-89. <a href="http://reference.medscape.com/medline/abstract/10793653">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9717421">
+      <para>Belachew M, Legrand M, Vincent V, Lismonde M, Le Docte N, Deschamps V. Laparoscopic adjustable gastric banding. <em>World J Surg</em>. 1998 Sep. 22(9):955-63. <a href="http://reference.medscape.com/medline/abstract/9717421">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1558421">
+      <para>Brolin RE, Kenler HA, Gorman JH, Cody RP. Long-limb gastric bypass in the superobese. A prospective randomized study. <em>Ann Surg</em>. 1992 Apr. 215(4):387-95. <a href="http://reference.medscape.com/medline/abstract/1558421">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8532024">
+      <para>Considine RV,  Sinha MK,  Heiman ML,  Kriauciunas A,  Stephens TW,  Nyce MR, et al. Serum immunoreactive-leptin concentrations in normal-weight and obese humans. <em>N Engl J Med</em>. 1996 Feb 1. 334(5):292-5. <a href="http://reference.medscape.com/medline/abstract/8532024">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10215564">
+      <para>Mantzoros CS. The role of leptin in human obesity and disease: a review of current evidence. <em>Ann Intern Med</em>. 1999 Apr 20. 130(8):671-80. <a href="http://reference.medscape.com/medline/abstract/10215564">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11524581">
+      <para>Nguyen NT,  Goldman C,  Rosenquist CJ,  Arango A,  Cole CJ,  Lee SJ, et al. Laparoscopic versus open gastric bypass: a randomized study of outcomes, quality of life, and costs. <em>Ann Surg</em>. 2001 Sep. 234(3):279-89; discussion 289-91. <a href="http://reference.medscape.com/medline/abstract/11524581">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12963651">
+      <para>Podnos YD, Jimenez JC, Wilson SE, Stevens CM, Nguyen NT. Complications after laparoscopic gastric bypass: a review of 3464 cases. <em>Arch Surg</em>. 2003 Sep. 138(9):957-61. <a href="http://reference.medscape.com/medline/abstract/12963651">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15204710">
+      <para>Saber AA. Gastric pacing: a new modality for the treatment of morbid obesity. <em>J Invest Surg</em>. 2004 Mar-Apr. 17(2):57-9. <a href="http://reference.medscape.com/medline/abstract/15204710">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18401670">
+      <para>Saber AA, Boros MJ, Mancl T, et al. The effect of laparoscopic Roux-en-Y gastric bypass on fibromyalgia. <em>Obes Surg</em>. 2008 Apr 8. <a href="http://reference.medscape.com/medline/abstract/18401670">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19616651">
+      <para>Saber AA, El-Ghazaly TH. Early experience with single incision transumbilical laparoscopic adjustable gastric banding using the SILS Port. <em>Int J Surg</em>. 2009 Oct. 7(5):456-9. <a href="http://reference.medscape.com/medline/abstract/19616651">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19830506">
+      <para>Saber AA, El-Ghazaly TH. Early experience with single-access transumbilical adjustable laparoscopic gastric banding. <em>Obes Surg</em>. 2009 Oct. 19(10):1442-6. <a href="http://reference.medscape.com/medline/abstract/19830506">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19747034">
+      <para>Saber AA, El-Ghazaly TH, Elian A. Single-Incision Transumbilical Laparoscopic Sleeve Gastrectomy. <em>J Laparoendosc Adv Surg Tech A</em>. 2009 Sep 11. <a href="http://reference.medscape.com/medline/abstract/19747034">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18066634">
+      <para>Saber AA, Elgamal MH, McLeod MK. Bariatric surgery: the past, present, and future. <em>Obes Surg</em>. 2008 Jan. 18(1):121-8. <a href="http://reference.medscape.com/medline/abstract/18066634">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17355763">
+      <para>Saber AA, Jackson O. Omental wrap: a simple technique for reinforcement of the gastrojejunostomy during Roux-en-Y gastric bypass. <em>Obes Surg</em>. 2007 Jan. 17(1):15-8. <a href="http://reference.medscape.com/medline/abstract/17355763">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18324447">
+      <para>Saber AA, Scharf KR, Turk AZ, Elgamal MH, Martinez RL. Early Experience with Intraluminal Reinforcement of Stapled Gastrojejunostomy During Laparoscopic Roux-En-Y Gastric Bypass. <em>Obes Surg</em>. 2008 Mar 7. <a href="http://reference.medscape.com/medline/abstract/18324447">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10998650">
+      <para>Schauer PR, Ikramuddin S, Gourash W, Ramanathan R, Luketich J. Outcomes after laparoscopic Roux-en-Y gastric bypass for morbid obesity. <em>Ann Surg</em>. 2000 Oct. 232(4):515-29. <a href="http://reference.medscape.com/medline/abstract/10998650">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19466660">
+      <para>Song S, Itawi EA, Saber AA. Natural orifice translumenal endoscopic surgery (NOTES). <em>J Invest Surg</em>. 2009 May-Jun. 22(3):214-7. <a href="http://reference.medscape.com/medline/abstract/19466660">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

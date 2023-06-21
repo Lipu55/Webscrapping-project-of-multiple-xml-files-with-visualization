@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1223154" pubid="" template="Ophthalmology" template-name="multipage">
+  <site-meta>
+    <article-name>Nonexudative ARMD</article-name>
+    <title>
+      <page-info id="overview">Nonexudative ARMD: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Nonexudative ARMD Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Nonexudative ARMD Differential Diagnoses</page-info>
+      <page-info id="workup">Nonexudative ARMD Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Nonexudative ARMD Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Nonexudative ARMD Medication</page-info>
+      <page-info id="followup">Nonexudative ARMD Follow-up: Further Outpatient Care, Inpatient &amp; Outpatient Medications, Complications</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Nonexudative ARMD: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Nonexudative ARMD Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Nonexudative ARMD Differential Diagnoses</page-info>
+      <page-info id="workup">Nonexudative ARMD Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Nonexudative ARMD Treatment &amp; Management: Medical Care, Surgical Care, Consultations</page-info>
+      <page-info id="medication">Nonexudative ARMD Medication</page-info>
+      <page-info id="followup">Nonexudative ARMD Follow-up: Further Outpatient Care, Inpatient &amp; Outpatient Medications, Complications</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a5">Background</section-info>
+<section-info id="a6">Pathophysiology</section-info>
+<section-info id="a7">Frequency</section-info>
+<section-info id="a8">Mortality/Morbidity</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c3">Laboratory Studies</section-info>
+<section-info id="c4">Imaging Studies</section-info>
+<section-info id="c5">Other Tests</section-info>
+<section-info id="c6">Procedures</section-info>
+<section-info id="c7">Histologic Findings</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d5">Medical Care</section-info>
+<section-info id="d6">Surgical Care</section-info>
+<section-info id="d7">Consultations</section-info>
+<section-info id="d8">Diet</section-info>
+<section-info id="d9">Activity</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e1">Further Outpatient Care</section-info>
+<section-info id="e2">Inpatient &amp; Outpatient Medications</section-info>
+<section-info id="e3">Complications</section-info>
+<section-info id="e4">Prognosis</section-info>
+<section-info id="e5">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Nonexudative ARMD Overview</page-info>
+      <page-info id="clinical">Nonexudative ARMD Clinical Presentation</page-info>
+      <page-info id="differential">Nonexudative ARMD Differential Diagnoses</page-info>
+      <page-info id="workup">Nonexudative ARMD Workup</page-info>
+      <page-info id="treatment">Nonexudative ARMD Treatment</page-info>
+      <page-info id="medication">Nonexudative ARMD Medication</page-info>
+      <page-info id="followup">Nonexudative ARMD Follow-up</page-info>
+    </meta-keywords>
+    <uri>1223154-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Apr 24, 2014</posting-date>
+    <last-generated>2015-08-12-15:09</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Ophthalmology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1223154</artid>
+      <cg>502</cg>
+      <scg text="Retinal Disease">5005291</scg>
+      <ssp text="Ophthalmology">36</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>ophthalmology</id>
+      <name>Ophthalmology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>ophthalmology_retina</id>
+      <name>Retina</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">nonexudative ARMD, nonexudative age-related macular degeneration, nonexudative AMD, age-related macular degeneration, AMD, dry macular degeneration, macular degeneration, senile macular degeneration, geographic atrophy, drusen, drusenoid changes, pigment epithelial degeneration, photodynamic therapy, PDT, transpupillary thermotherapy, TTT, IRIS medical laser, rheopheresis, complications of age-related macular degeneration prevention trial, CAPT, drusen ablation, laser to drusen, CNFT, intraocular implant, CHF, complement factor H gene</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Age-related macular degeneration (ARMD) is the most common cause of irreversible vision loss in the developed world. ARMD is associated with the presence of drusen, without visual loss early in the disease, and often progresses to retinal atrophy and central retinal degeneration with associated loss of central vision.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Nonexudative ARMD</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Nonexudative (dry) age-related macular degeneration (ARMD) (see the image below) comprises more than 90% of patients diagnosed with ARMD. ARMD is the most common cause of irreversible vision loss in the developed world; this condition is associated with the presence of drusen, without visual loss early in the disease, and often progresses to retinal atrophy and central retinal degeneration with associated loss of central vision. Generally, nonexudative ARMD has a much slower (over decades), progressive visual loss relative to exudative (wet) ARMD (over months).</para>
+        <figure id="31034">
+          <title>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (...</title>
+          <caption>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (yellow deposits) in the macular region. </caption>
+          <graphic fileref="/34/31034.jpg" format="IMAGE" id="31034" extension_format="JPG"/>
+          <graphic fileref="/34/31034tn.jpg" format="IMAGE_THUMB" id="31034"/>
+        </figure>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>Signs and symptoms of ARMD include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Difficulty with night vision and with changing light conditions (specifically, changes in Amsler grid self-evaluation and trouble with reading) </para>
+          </listitem>
+          <listitem>
+            <para>Visual fluctuation (ie, some days vision is poor; other days, vision appears improved)</para>
+          </listitem>
+          <listitem>
+            <para>Difficulty with reading and making out faces</para>
+          </listitem>
+          <listitem>
+            <para>Metamorphopsia (distortion of visual images): Not a major patient complaint, but it may be present as the atrophy slowly progresses</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/1223154-clinical">Clinical Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>Funduscopic examination in patients with suspected ARMD includes the following findings: </para>
+        <itemizedlist>
+          <listitem>
+            <para>AMRD: Significant for the presence of drusen, usually confluent with significant pigment changes and pigment accumulation in the posterior pole; retinal pigment epithelium (RPE) often appears atrophic, with easier visualization of the underlying choroid plexus </para>
+          </listitem>
+          <listitem>
+            <para>Advanced stages of nonexudative ARMD: Coalescence of focal islands of atrophy and formation of large zones of atrophy with severely affected vision </para>
+          </listitem>
+          <listitem>
+            <para>Choroidal neovascularization: RPE elevation, exudate, or subretinal fluid</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Procedures</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Fluorescein angiography: Has value in patients with AMRD who note a recent onset or worsening of vision associated with metamorphopsia</para>
+          </listitem>
+          <listitem>
+            <para>Amsler grid evaluation: Cornerstone of evaluation of nonexudative AMRD</para>
+          </listitem>
+          <listitem>
+            <para>Slit-lamp biomicroscopy</para>
+          </listitem>
+          <listitem>
+            <para>Biopsy and histologic examination</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Imaging studies</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Fundus photography: Best modality to follow nonexudative ARMD</para>
+          </listitem>
+          <listitem>
+            <para>Optical coherence tomography (optional; may be used to follow disease progression): To examine retinal thickness</para>
+          </listitem>
+          <listitem>
+            <para>Multifocal electroretinography (optional; may be used to follow disease progression): To evaluate functional response of retinal rods and cones </para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/1223154-workup">Workup</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Prevention is the best treatment for nonexudative ARMD, because no satisfactory method exists to treat this condition. Accumulated evidence suggests that ARMD is a genetic disease. </para>
+        <para>Management of nonexudative ARMD may include the following<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+        <itemizedlist>
+          <listitem>
+            <para>Intravitreal injection with ranibizumab, bevacizumab, or pegaptanib sodium</para>
+          </listitem>
+          <listitem>
+            <para>Photodynamic therapy with verteporfin</para>
+          </listitem>
+          <listitem>
+            <para>Thermal laser photocoagulation surgery</para>
+          </listitem>
+        </itemizedlist>
+        <para>
+          <em>Nonpharmacotherapy</em>
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>Antioxidant vitamin and mineral supplements (vitamin A, vitamin E, zinc, and lutein)<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Screening for impaired visual acuity</para>
+          </listitem>
+          <listitem>
+            <para>Wraparound shades (eg, orange-tinted, blue blocker lenses): Effective solution for delayed dark adaptation and to protect eyes from direct sunlight </para>
+          </listitem>
+          <listitem>
+            <para>Avoidance/cessation of tobacco use</para>
+          </listitem>
+          <listitem>
+            <para>Frequent follow-up for risk assessment of conversion to exudative ARMD</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/1223154-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/1223154-medication">Medication</a> for more detail.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Background</title>
+      <pgroup>
+        <para>Age-related macular degeneration (ARMD) is the most common cause of irreversible vision loss in the developed world. ARMD is associated with the presence of drusen, without visual loss early in the disease, and often progresses to retinal atrophy and central retinal degeneration with associated loss of central vision. The intermediate form is associated with loss of retinal pigment epithelium (RPE) and the overlying retinal layers (atrophy), with loss of contrast sensitivity, loss of reading speed, and difficulty with adaptation to changing light conditions. The advanced, nonexudative form of ARMD is characterized by the presence of atrophy that can be associated with severe central visual-field loss. In all forms of dry ARMD, peripheral visual acuity is preserved. <a href="http://emedicine.medscape.com/article/1226030-overview">Exudative ARMD</a> is associated with the development of choroidal neovascular membranes that result in the development of exudate, subretinal fluid, and hemorrhage.</para>
+        <para>Greater than 90% of patients diagnosed with ARMD have nonexudative (dry) ARMD; nonexudative ARMD is generally associated with much slower (over decades), progressive visual loss compared with exudative (wet) ARMD, which is generally associated with more rapid (over months) visual loss. However, patients with the more advanced cases of dry ARMD can have as profound a visual loss as those with exudative ARMD.</para>
+        <para>ARMD describes a collection of inherited diseases (multifactorial) that share common features, including age predilection, positive family history, presence of yellow-gray material in the Bruch membrane (ie, drusen), RPE changes (eg, atrophy, clumping, RPE detachments) in the posterior pole or periphery, and visual disturbances (eg, abnormal reading, stereo and/or color vision disturbances, dark/light adaptation disturbances).</para>
+        <para>RPE degeneration is accompanied by variable loss of both the overlying photoreceptors and the underlying choroidal perfusion. When the appropriate age and clinical findings are accompanied by the loss of visual acuity, visual field, or other visual functions, the condition is often classified as ARMD. At times, the step prior to the onset of visual loss has been classified as ARMD if the patient has characteristic drusen and relevant family history.</para>
+        <para>ARMD usually manifests after age 50 years. The disease is often bilateral, and patients report a significant history of disease in family members who have lived to later years of their life. Many patients develop a more rapid form of visual loss secondary to the development of neovascularization from the choroid that develops either below or above the RPE; this form of ARMD is referred to as wet, while the more prevalent form is known as dry. When the dry form of ARMD progresses with larger areas of RPE atrophy, the condition is referred to as geographic atrophy (GA). GA usually is bilateral but not necessarily symmetrical. It can develop neovascularization and result in a more rapid loss of vision.</para>
+        <para>Antioxidant multivitamin therapy (consisting of vitamin A at 25,000 IU, vitamin C at 500 mg, zinc at 80 mg, copper at 2 mg, and vitamin E at 400 mg) has been shown in a large clinical trail, the Age-Related Eye Diseases Study (AREDS), to be helpful in decreasing the risk of visual loss with nonexudative ARMD. Most of the decrease in visual loss appeared to be due to a reduced risk of conversion to wet ARMD. The AREDS notably did not show any benefit with the use of these vitamins in very early ARMD or in those subjects without ARMD at baseline.</para>
+        <para>The Women's Antioxidant and Folic Acid Cardiovascular Study looked at a cohort of women without any evidence of ARMD. The randomized, double-blind, placebo-controlled trial included 5442 female healthcare professionals and noted that a combination of folic acid (2.5 mg/d), pyridoxine hydrochloride (50 mg/d), and cyanocobalamin (1 mg/d) reduced the relative risk of developing visually significant ARMD by approximately 40%. The study also demonstrated a reduced risk of developing nonvisually significant ARMD by a similar amount.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+        <para>A phase I study demonstrated visual benefit and decreased progression of ARMD in subjects with advanced dry ARMD who were provided with an <a href="http://emedicine.medscape.com/article/1978434-overview">intravitreal implant</a> that secreted ciliary neurotrophic factor (CNTF).</para>
+        <para>Additional therapies that have been tried include rheopheresis (apheresis) and laser to drusen. While these therapies demonstrated a small benefit over the short term (1-3 y), they did not prove to have any significant benefit after that time. In fact, the Complications of Age-related Macular Degeneration Prevention Trial (CAPT) has demonstrated that laser to drusen is ultimately not beneficial and may potentially be harmful. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <title>Clinical pathophysiology</title>
+        <para>The clinical definition of early age-related macular degeneration (ARMD) varies with the source consulted. A clinically useful guideline is when drusen in the posterior pole are greater than 5 in number and at least 63 µm in size. With time, drusen enlarge and result in shallow elevation of the RPE that overlies the Bruch membrane. These deposits may merge over time, and they can be associated with pigmentation change visible on ophthalmoscopy.</para>
+        <para>Evaluation of the AREDS results provided a clinically useful method of determining risk of advanced ARMD by the use of simple criteria: (1) presence of large drusen (greater than 125 µm in size) and (2) the presence of pigment abnormalities. Thus, one eye having both large drusen and pigment abnormalities has a score of 2 (1 for each criterion), and if both eyes have each risk factor, the score is 4. Using this simplified criteria, the AREDS found that over 5 years, eyes with a risk factor score of 0 had only a 0.4% move to advanced ARMD, while those with 1 risk factor had a 3.1% move to advanced ARMD. However, when eyes had 2, 3, or 4 risk factors, the rate of advanced ARMD conversion (either large geographic atrophy or neovascularization) increased to 12%, 26%, and 47% respectively.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>Because the above matrix is a simple and powerful tool to determine the persons who will develop advanced ARMD, it is useful to recollect the criteria when performing a clinical examination. For example, the presence of a large druse (125 µm in size) would be most easily remembered by looking for drusen whose shortest diameter is approximately 125 µm (or as large as the diameter of a retinal vein at the optic disc margin). Only drusen within 2 disc diameters of the center were used during the analysis. Pigment abnormalities included any areas of hyperpigmentation or hypopigmentation, as well as noncentral areas of geographic atrophy.</para>
+        <para>Visual acuity loss or visual-field loss occurs when the RPE atrophies and results in secondary loss of the overlying photoreceptor cells that it supplies. The variety of fundus changes described above defines dry ARMD. When the damaged RPE results in the development of choroidal neovascularization with late leakage on fluoresce in angiography and a decrease in vision and metamorphopsia, exudative (wet) ARMD is said to occur.</para>
+      </pgroup>
+      <pgroup>
+        <title>Molecular pathophysiology</title>
+        <para>Dry ARMD is an inherited autosomal dominant disease that appears to be affected by nutrition and environmental factors. Nonexudative ARMD is characterized by the degeneration of the retina and the choroid in the posterior pole due to either atrophy or RPE detachment. The atrophy is generally preceded (or coincident in some cases) by the presence of yellow extracellular deposits adjacent to the basal surface of the RPE called drusen.</para>
+        <para>Drusen are composed of vitronectin (a multifunctional plasma and extracellular matrix protein), lipids, immune and inflammatory related proteins, amyloid associated proteins, as well as other poorly characterized substances. While drusen were thought to be the result of accumulated waste material from subretinal tissues, data now suggest that the accumulation is due to the presence of inflammation in the subretinal space. This extracellular material in the Bruch membrane is composed of various substances, including vitronectin and proteinaceous material.</para>
+        <para>The complement system is an alternative system (ie, independent of antibodies) of defense against infection. Complement factor H (CFH) is a robust anti-inflammatory agent, in that it protects host cells from complement-mediated damage by binding to the activated complement component C3b.</para>
+        <para>In 2005, four separate groups reported that a common variation in the <em>CFH</em> (complement factor H) gene increased susceptibility to dry ARMD.</para>
+        <para>In 2006, two other genes were identified that increased the risk similarly. The CFH polymorphism that was most significantly associated with ARMD is a T→C substitution that results in a tyrosine-to-histidine substitution of the CFH protein. Thus, it appears that in affected individuals, RPE cells may undergo damage via the complement system because of their inability to inhibit the complement cascade as effectively. Additional indirect evidence in support of this chain of events is noted by a publication that indicates that choroidal levels of C-reactive protein are elevated in homozygote CFH polymorphic individuals.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        <para>Some studies have dileneated a molecular pathway leading to geographic atrophy and visual loss. This pathway indicates that RPE death leads to secondary photoreceptor loss and consequent visual loss over time. Ambati et al found that RPE cells in patients with dry ARMD have low levels of a RNA-cleaving enzyme, DICER1. Low levels of this enzyme lead to decreased breakdown of RNA-Alu molecules. Overabundance of cytoplasmic RNA-Alu molecules (non-coding sequences of RNA) activates inflammatory proteins (NLRP3 inflammosome), which activates a cascade of molecular responses that lead to RPE cell death.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc9" name="refsrc9"/>9] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Frequency</title>
+      <pgroup>
+        <title>United States</title>
+        <para>Age-related macular degeneration (ARMD) is the leading cause of blindness in the United States for people older than 50 years. The actual frequency of the disease depends on specific racial group studies. ARMD is more prevalent in whites and likely has a more severe course in patients who have light-colored eyes. A liberal definition of ARMD that includes all patients with significant drusen in the posterior pole, with or without visual loss, estimates the prevalence at greater than 20% of the population older than 60 years. A more rigorous, population-based survey with a definition that requires the presence of either late atrophy and/or choroidal neovascularization results in an incidence of 0% at age 50 years or younger, 2% at 70 years, and 6% at 80 years. In African Americans, dry ARMD is noted to be approximately half the incidence rate stated above.</para>
+      </pgroup>
+      <pgroup>
+        <title>International</title>
+        <para>The incidence of age-related macular degeneration (ARMD) in Japanese and other Asian populations is lower than the white population in the United States, but reports suggest that the incidence is increasing. The Inuit people in Greenland have a significantly higher incidence, as well as a distinctive phenotype. Most black Africans and other people with darker-pigmented skin in general have a lower incidence of symptomatic macular degeneration. Similarly, it is evident that the lesions resulting from ARMD in Asian populations are different from those in white populations. This is in agreement with the most accepted theory regarding ARMD: that it is a multigenic inherited condition. The background and the specific gene affected would affect the phenotype. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Mortality/Morbidity</title>
+      <pgroup>
+        <para>Age-related macular degeneration (ARMD) results in significant visual morbidity. The presence of neovascularization results in a blurry central visual field. Even in dry ARMD, with relatively good vision, patients often report trouble adjusting to varying light conditions. Often, these patients note difficulty when initially placed in a dark environment from a relatively lighted one (eg, entering a restaurant from bright sunlight).</para>
+        <para>ARMD patients, especially those with the exudative variant, have a higher incidence of cerebrovascular accidents and cardiac disease.</para>
+        <para>Geographic atrophy may also be associated with cognitive impairment, as assessed by mini-mental status exams and other similar tests. One case control study demonstrated a 3x increased odds for mild cognitive impairment in geographic atrophy subjects when compared to normal controls even when controlled for age, visual acuity and education level.<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup>Additionally, 3000 subjects in the AREDS trial were subject to a battery of cognitive tests. Among subjects with ARMD, those with poorer vision had worse cognition.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>Participants in the Cardiovascular Health Study underwent cognitive testing as well as mini-mental state testing and those with poorer cognition were at a slightly higher risk of having dry ARMD.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>Given the higher rate of impaired cognitive function in patients with dry ARMD, it is important for the clinician to consider cognitive function when assessing low vision options and treatments.</para>
+      </pgroup>
+      <pgroup>
+        <title>Race</title>
+        <para>The incidence of age-related macular degeneration (ARMD) is higher in whites compared with African Americans. Some studies report a rate of approximately half in African West Indians in Barbados compared with whites in Baltimore, Maryland. The incidence in Asians is between the above 2 rates, although it appears that the incidence is increasing in this population.</para>
+      </pgroup>
+      <pgroup>
+        <title>Sex</title>
+        <para>No known difference exists between males and females in the incidence of age-related macular degeneration (ARMD).</para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>As implied by its name, the incidence of age-related macular degeneration (ARMD) is related to the age of the patient. The incidence increases with each decade of life, with a significant rise in patients aged 70 years or older. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Patients with age-related macular degeneration (ARMD) usually report a family history of decreased vision late in life.</para>
+        <itemizedlist>
+          <listitem>
+            <para>They often report difficulty with night vision and with changing light conditions. Specifically, patients report changes in Amsler grid self-evaluation and trouble with reading. </para>
+          </listitem>
+          <listitem>
+            <para>Commonly, ARMD patients report visual fluctuation (ie, days when vision is poor and other days when it appears improved).</para>
+          </listitem>
+          <listitem>
+            <para>Patients report difficulty with reading and making out faces.</para>
+          </listitem>
+          <listitem>
+            <para>Metamorphopsia is not a major complaint, but it may be present as the atrophy slowly progresses.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>Funduscopic examination in age-related macular degeneration (ARMD) is significant for drusen in the early stages of disease. These drusen usually are confluent with significant pigment changes and accumulation of pigment in the posterior pole. RPE often appears atrophic with an easier visualization of the underlying choroidal plexus.</para>
+        <itemizedlist>
+          <listitem>
+            <para>In advanced stages of dry ARMD, these focal islands of atrophy coalesce and form large zones of atrophy with severely affected vision. </para>
+          </listitem>
+          <listitem>
+            <para>Other signs of choroidal neovascularization include RPE elevation, exudate, or subretinal fluid. The presence of these symptoms may indicate that neovascularization is occurring and that fluorescein angiography may be indicated to evaluate the retina. </para>
+          </listitem>
+          <listitem>
+            <para>The periphery of patients with ARMD often has areas of drusen, as well as RPE mottling and atrophy.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>Oxidative stress is believed to play a major role in the pathogenesis of age-related macular degeneration (ARMD) because of combined exposures of the retina to light and oxygen. Additionally, ARMD is now widely accepted as a genetically inherited disorder with late onset.</para>
+        <para>Groundbreaking studies in the genetics of ARMD have changed the way in which most specialists perceive the disease. Specifically, a majority of the risk of developing ARMD is determined by variations in 3 specific genes, as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para><em>CFH</em> gene (chromosome 1)</para>
+          </listitem>
+          <listitem>
+            <para><em>BF</em> (complement factor B) gene and <em>C2</em> (complement component 2) gene (chromosome 6)</para>
+          </listitem>
+          <listitem>
+            <para><em>LOC</em> gene (chromosome 10)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Maller and others showed that polymorphisms in the above 3 genes independently raise the risk of ARMD.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup>The above genetic factors contribute to approximately 50% of the sibling risk of developing ARMD.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Smoking and a higher body mass index are 2 of the most common other environmental factors that contribute independently to the increase in the risk of developing ARMD. Smoking has been clearly identified as increasing the risk of ARMD by 2 times. </para>
+          </listitem>
+          <listitem>
+            <para>Large studies have not shown hypertension or heart disease to increase the odds of developing ARMD.</para>
+          </listitem>
+          <listitem>
+            <para>Serum lipids were extensively studied in regard to their relationship with ARMD in the National Eye Institute–sponsored AREDS. One report suggests dietary total omega-3 long-chain polyunsaturated fatty acid (LCPUFA) intake was inversely associated with the development of neovascular ARMD (although not nonexudative ARMD).<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>Similarly, individuals with higher fish consumption had a slightly lower incidence of developing neovascular ARMD. </para>
+          </listitem>
+          <listitem>
+            <para>A study looking at whether the regular consumption of omega-3 fatty acids and fish may affect the onset of ARMD in women found that incidence of the disease was significantly decreased among women who ate 1 or more servings of fish per week.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Studying twins with ARMD, Seddon and others arrived at some interesting conclusions.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup>Current cigarette smoking increased the risk of developing ARMD by 1.9-fold, and past smoking still increased the risk by 1.7-fold. Increased consumption of fish (&gt;2 servings of fish per week) and a higher intake of omega-3 fatty acids both were protective and reduced the odds of developing ARMD by 0.55-fold. </para>
+          </listitem>
+        </itemizedlist>
+        <para>These studies have generally been performed in individuals from the United States of European descent. Thus, the results may not apply to individuals of other races. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <ddlist>
+      <dditem ref="1190444">
+        <title>Angioid Streaks</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1227128">
+        <title>Best Disease</title>
+        <desc/>
+      </dditem>
+      <dditem ref="1229016">
+        <title>Chloroquine and Hydroxychloroquine Toxicity</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c3">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Fluorescein angiography is of value if the age-related macular degeneration (ARMD) patient notes a recent onset or worsening of vision associated with metamorphopsia. Metamorphopsia may indicate the onset of choroidal neovascularization. Clinical evidence for neovascularization includes retinal pigment epithelium (RPE) elevation, subretinal hemorrhage, and/or the presence of exudate. </para>
+          </listitem>
+          <listitem>
+            <para>Fluorescein angiography, as shown in the images below, is performed by injecting 3 mL of 25% sodium fluorescein in a peripheral vein, followed by a rapid sequence of angiography images. Fluorescein is a vegetable-based dye that is activated by light at a particular wavelength, which causes emission at a higher wavelength. Using the appropriate blocking and transmission filters, the photographer is able to capture an image of the dye in the blood vessels and, later, as the dye leaks, images of the retina and the choroid. </para>
+          </listitem>
+          <listitem>
+            <para>Some complications of fluorescein angiography may occur. The dye is relatively safe. Occasionally (&lt; 5%), patients may have nausea or vomiting shortly after dye injection. Infrequently, patients may develop an allergic reaction to the dye and have hives, angioedema, venous dilation, and, very rarely, death (&lt; 1/250,000). No cross-reactivity occurs between this dye and iodine. The dye is cleared by renal excretion and is safe in patients on dialysis. Note the images below. </para>
+            <figure id="31033">
+              <title>In angiography, fluorescein dye is passed through a peripheral vein and transmits through the...</title>
+              <caption>In angiography, fluorescein dye is passed through a peripheral vein and transmits through the vascular system. The dye fluoresces in the vasculature, as seen here. No vascular prominences are seen in the macula or in any areas of dye pooling or staining. The abnormal vessels in the optic nerve, however, do show dye leakage. </caption>
+              <graphic fileref="/33/31033.jpg" format="IMAGE" id="31033" extension_format="JPG"/>
+              <graphic fileref="/33/31033tn.jpg" format="IMAGE_THUMB" id="31033"/>
+            </figure>
+            <figure id="31035">
+              <title>Staining of drusen. Drusen absorb dye and, in the late frames of the angiogram, show...</title>
+              <caption>Staining of drusen. Drusen absorb dye and, in the late frames of the angiogram, show hyperfluorescence. This staining is distinguished from the leakage that occurs when the dye spreads outside the boundary of the lesion. </caption>
+              <graphic fileref="/35/31035.jpg" format="IMAGE" id="31035" extension_format="JPG"/>
+              <graphic fileref="/35/31035tn.jpg" format="IMAGE_THUMB" id="31035"/>
+            </figure>
+            <figure id="31037">
+              <title>The atrophic retinal pigment epithelium (RPE) demonstrates staining of the underlying choroidal...</title>
+              <caption>The atrophic retinal pigment epithelium (RPE) demonstrates staining of the underlying choroidal vasculature. Normally, the intact RPE masks the presence of choroidal fluorescence. However, when the RPE atrophies, the underlying dye appears as an area of hyperfluorescence in the early stages of angiography. In the late stages, the drusen lose fluorescence in concert with (or with a small time lag) the rest of the retinal layers. </caption>
+              <graphic fileref="/37/31037.jpg" format="IMAGE" id="31037" extension_format="JPG"/>
+              <graphic fileref="/37/31037tn.jpg" format="IMAGE_THUMB" id="31037"/>
+            </figure>
+            <figure id="31039">
+              <title>The atrophic areas are easily distinguished by the hyperfluorescence of the retinal pigment...</title>
+              <caption>The atrophic areas are easily distinguished by the hyperfluorescence of the retinal pigment epithelium (RPE) in the mid phase of the angiogram. Hypofluorescence of dye, due to masking caused by the increased pigmentation, is seen. No areas of frank dye leakage or exudative age-related macular degeneration (ARMD) are apparent. A "hot cross bun" pattern of dry ARMD-related pigment changes is evident near the fovea. </caption>
+              <graphic fileref="/39/31039.jpg" format="IMAGE" id="31039" extension_format="JPG"/>
+              <graphic fileref="/39/31039tn.jpg" format="IMAGE_THUMB" id="31039"/>
+            </figure>
+            <figure id="31042">
+              <title>Fluorescein angiogram 4 minutes after injection of dye on 67-year-old woman showing pigment...</title>
+              <caption>Fluorescein angiogram 4 minutes after injection of dye on 67-year-old woman showing pigment epithelial detachments. </caption>
+              <graphic fileref="/42/31042.jpg" format="IMAGE" id="31042" extension_format="JPG"/>
+              <graphic fileref="/42/31042tn.jpg" format="IMAGE_THUMB" id="31042"/>
+            </figure>
+            <figure id="31043">
+              <title>A later frame of the angiogram demonstrating the absence of dye leakage outside the lesion, with...</title>
+              <caption>A later frame of the angiogram demonstrating the absence of dye leakage outside the lesion, with staining of the areas of atrophy (window defects) in the macular region. </caption>
+              <graphic fileref="/43/31043.jpg" format="IMAGE" id="31043" extension_format="JPG"/>
+              <graphic fileref="/43/31043tn.jpg" format="IMAGE_THUMB" id="31043"/>
+            </figure>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c4">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Dry age-related macular degeneration (ARMD) is followed best by accurate fundus photography, images of which are shown below.</para>
+            <figure id="31032">
+              <title>A normal-appearing macula of the left eye. Note the even pigmentation of the retinal pigment...</title>
+              <caption>A normal-appearing macula of the left eye. Note the even pigmentation of the retinal pigment epithelium and the absence of any yellow excrescences (drusen) in the fovea. The optic nerve has unrelated changes. </caption>
+              <graphic fileref="/32/31032.jpg" format="IMAGE" id="31032" extension_format="JPG"/>
+              <graphic fileref="/32/31032tn.jpg" format="IMAGE_THUMB" id="31032"/>
+            </figure>
+            <figure id="31034">
+              <title>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (...</title>
+              <caption>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (yellow deposits) in the macular region. </caption>
+              <graphic fileref="/34/31034.jpg" format="IMAGE" id="31034" extension_format="JPG"/>
+              <graphic fileref="/34/31034tn.jpg" format="IMAGE_THUMB" id="31034"/>
+            </figure>
+            <figure id="31036">
+              <title>A more advanced case of nonexudative age-related macular degeneration (ARMD). This image shows...</title>
+              <caption>A more advanced case of nonexudative age-related macular degeneration (ARMD). This image shows drusen that are larger, more confluent, and soft. Soft drusen are defined as drusen that have indistinct borders. Such drusen are more likely to convert to wet ARMD. A few areas of atrophy are noted, where the retinal pigment epithelium (RPE) has lost pigmentation. The retinal cells overlying atrophic RPE are generally nonfunctional and result in a scotoma. </caption>
+              <graphic fileref="/36/31036.jpg" format="IMAGE" id="31036" extension_format="JPG"/>
+              <graphic fileref="/36/31036tn.jpg" format="IMAGE_THUMB" id="31036"/>
+            </figure>
+            <figure id="31038">
+              <title>A more advanced case of dry age-related macular degeneration. Several areas of atrophy are...</title>
+              <caption>A more advanced case of dry age-related macular degeneration. Several areas of atrophy are present, as are areas of significant pigment mottling in the macula. The large drusen inferior to fixation are poorly distinguished from each other. </caption>
+              <graphic fileref="/38/31038.jpg" format="IMAGE" id="31038" extension_format="JPG"/>
+              <graphic fileref="/38/31038tn.jpg" format="IMAGE_THUMB" id="31038"/>
+            </figure>
+            <figure id="31041">
+              <title>Fundus photo showing drusen in a 67-year-old woman with dry age-related macular degeneration. </title>
+              <caption>Fundus photo showing drusen in a 67-year-old woman with dry age-related macular degeneration. </caption>
+              <graphic fileref="/41/31041.jpg" format="IMAGE" id="31041" extension_format="JPG"/>
+              <graphic fileref="/41/31041tn.jpg" format="IMAGE_THUMB" id="31041"/>
+            </figure>
+          </listitem>
+          <listitem>
+            <para>Performing tests (eg, fluorescein angiography) on a routine basis is not necessary.</para>
+          </listitem>
+          <listitem>
+            <para>The physician is sometimes at a quandary when a patient describes loss of vision or new onset of metamorphopsia. The patient sometimes notes such changes as geographic atrophy (GA) progresses; unfortunately, it is almost impossible to discern these symptoms from the symptoms that occur when neovascularization has occurred. Therefore, a patient with a new onset of metamorphopsia or a sudden decrease in vision may require a fluorescein angiogram to distinguish exudative ARMD versus the indeterminable progression of GA. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c5">
+      <title>Other Tests</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Reports on age-related macular degeneration (ARMD) have examined the thickness of the retina with optical coherence tomography (OCT). This study has shown decreased reflectance at the level of the rod-cone layer indicating that atrophy is present in this layer. Note the images below. </para>
+            <figure id="31040">
+              <title>High-definition optical coherence tomography scan of a 67-year-old woman showing retinal pigment...</title>
+              <caption>High-definition optical coherence tomography scan of a 67-year-old woman showing retinal pigment epithelium mottling and pigment epithelial detachments temporal to fixation consistent with dry macular degeneration. </caption>
+              <graphic fileref="/40/31040.jpg" format="IMAGE" id="31040" extension_format="JPG"/>
+              <graphic fileref="/40/31040tn.jpg" format="IMAGE_THUMB" id="31040"/>
+            </figure>
+            <figure id="31044">
+              <title>High definition optical coherence tomography right eye demonstrating retinal pigment epithelium...</title>
+              <caption>High definition optical coherence tomography right eye demonstrating retinal pigment epithelium atrophy and changes in the deeper layers of retina. The absence of intraretinal cysts, subretinal fluid, or sub-retinal pigment epithelium fluid indicates the absence of wet age-related macular degeneration. </caption>
+              <graphic fileref="/44/31044.jpg" format="IMAGE" id="31044" extension_format="JPG"/>
+              <graphic fileref="/44/31044tn.jpg" format="IMAGE_THUMB" id="31044"/>
+            </figure>
+          </listitem>
+          <listitem>
+            <para>Multifocal electroretinography (MERG) may be performed on the retina to evaluate the functional response of rods and cones.</para>
+          </listitem>
+          <listitem>
+            <para>The above 2 tests are not required in the evaluation of ARMD, but they have been performed by various authors to follow the progression of disease. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Procedures</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Amsler grid evaluation, slit-lamp biomicroscopy, and fluorescein angiography in age-related macular degeneration (ARMD) </para>
+            <itemizedlist>
+              <listitem>
+                <para>The cornerstone of evaluation of dry ARMD consists of visual acuity measurement and evaluation by Amsler grid. The biggest treatable risk of visual loss in dry ARMD is the development of neovascularization. Studies have shown Amsler grid evaluations, if performed properly, are quite sensitive in detecting change. The specificity of this test is somewhat limited. Patients with dry ARMD often note Amsler grid changes that are temporary, and good observers can detect progression of their dry ARMD on the grid. </para>
+              </listitem>
+              <listitem>
+                <para>New metamorphopsia is a good indication for performing fluorescein angiography. This test is the most sensitive and specific way to evaluate for choroidal neovascularization. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Histologic Findings</title>
+      <pgroup>
+        <para>The earliest morphologic features of dry age-related macular degeneration (ARMD) consist of the accumulation of 2 kinds of lesions (ie, basal laminar deposits, basal linear deposits) just beneath the RPE layer. The accumulation of these deposits is often uneven and associated with RPE hyperplasia and migration. This condition is clinically evident as pigment clumping. As these deposits slowly increase, they can be seen as soft drusen and/or localized RPE detachments.</para>
+        <para>As these drusen enlarge, they can cause the development of new blood vessels (wet ARMD) and/or the slow demise of the overlying photoreceptor cells. Photoreceptor cell loss can be accompanied by the thinning (atrophy) of RPE cells, as well as underlying choroidal circulation. The end stage of these changes is the presence of a very thin choroidal layer with the absence of small choroidal vessels underlying an area of atrophic RPE. The rod-cone layer overlying this zone is atrophied, and the middle retinal layers show signs of degeneration. This end stage gradually enlarges and is seen clinically as GA. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d5">
+      <title>Medical Care</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Role of vitamins, antioxidants, risk of smoking, and hypertension<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+            <itemizedlist>
+              <listitem>
+                <para>Evidence shows that patients with early or moderate dry age-related macular degeneration (ARMD) should consume adequate quantities of antioxidants, including vitamin A, vitamin E, zinc, and lutein. Prevention is the best treatment in this case because no satisfactory method exists to treat dry ARMD. Accumulated evidence suggests that ARMD is a genetic disease. Therefore, children of patients who have lost vision to ARMD are the best candidates for a primary prevention trial. </para>
+              </listitem>
+              <listitem>
+                <para>The first Age-Related Eye Diseases Study (AREDS) has concluded, and its results are illuminating. In this study, patients with very mild or moderate forms of dry ARMD were given antioxidant supplementation (15 mg of beta-carotene, 500 mg of vitamin C, 400 IU of vitamin E, 80 mg of zinc, plus 2 mg of copper). These patients had a small but definite decrease in their progression to advanced ARMD. Interestingly, the data showed benefit in preventing the conversion of dry ARMD to neovascular ARMD. </para>
+              </listitem>
+              <listitem>
+                <para>A study by Millen et al examined the relationship between serum 25-hydroxyvitamin D (25[OH]D) levels and the prevalence of ARMD.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup>The study determined that high concentrations of 25(OH)D protected against early ARMD in women younger than 75 years. </para>
+              </listitem>
+              <listitem>
+                <para>The Rotterdam Study (1990–1993) investigated whether regular dietary intake of antioxidants was associated with a lower risk of developing ARMD in more than 4000 persons aged 55 years or older in The Netherlands. In this study, a high dietary intake of beta-carotene, vitamins C and E, and zinc was also associated with a substantially reduced risk of ARMD in elderly persons. </para>
+              </listitem>
+              <listitem>
+                <para>Some evidence indicates that multivitamins with antioxidants and lutein may be of benefit. Clear evidence shows that smoking accelerates the disease process. It is recommended that patients who have a family history of ARMD, and specifically those patients whose first-degree relative has lost vision due to ARMD, should take a multivitamin with lutein each day. It is advised that patients stop smoking and consider supplemental oral antioxidants if they are unable to stop smoking. </para>
+              </listitem>
+              <listitem>
+                <para>Controversy exists over the exact vitamin combination that may be beneficial. Zinc and vitamin E are commonly touted as providing the best benefits. One study reports the beneficial effects of zinc, while another study shows a worse outcome with large doses of zinc. Therefore, it would be prudent to take a multivitamin containing a moderate dose of these vitamins. </para>
+              </listitem>
+              <listitem>
+                <para>To further refine the specific benefits of antioxidants, a randomized controlled clinical trial, <a href="http://clinicaltrials.gov/ct2/show/NCT00345176">Age-Related Eye Disease Study 2 (AREDS2)</a>, is currently underway. Its primary objective is to determine whether oral supplementation with macular xanthophylls (lutein at 10 mg/d plus zeaxanthin at 2 mg/d) or omega-3 long-chain polyunsaturated fatty acids (LCPUFAs; DHA plus eicosapentaenoic acid at a total of 1 g/d) will decrease the risk of progression to advanced ARMD, as compared with placebo. </para>
+              </listitem>
+              <listitem>
+                <para>Observational epidemiologic studies indicate a direct association between homocysteine concentration in the blood and the risk of ARMD. The objective of the Women’s Antioxidant and Folic Acid Cardiovascular Study was to examine the incidence of ARMD in a trial of combined folic acid, pyridoxine hydrochloride, and cyanocobalamin.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>The trial included 5442 female healthcare professionals aged 40 years or older with preexisting cardiovascular disease or 3 or more cardiovascular disease risk factors. The randomized trial data for the large cohort of women at high risk of cardiovascular disease indicated that daily supplementation with folic acid (2.5 mg/d), pyridoxine 50 mg/d) and cyanocobalamin (1 mg/d) may reduce the risk of ARMD. </para>
+              </listitem>
+              <listitem>
+                <para>No specific data are available on the combined benefits of an AREDS-supplemented diet with the use of the above vitamins. Therefore, awaiting the results of the AREDS2 study would be of benefit. </para>
+              </listitem>
+              <listitem>
+                <para>The purpose of the Cardiovascular Health and its Association with Prevalence and Progression of Age-Related Macular Degeneration (CHARM) study was to determine if cardiovascular health, as determined by novel noninvasive techniques, was associated with prevalent ARMD or ARMD progression.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>The results were unexpected in that better cardiovascular health was associated with increased risk of prevalent ARMD and progression. Inconsistent findings between the prevalence and progression components could be due to truly different disease etiologies or to spurious findings, as can occur with inherent biases in case control studies of prevalence. Further investigation of these noninvasive methods of characterizing the cardiovascular system should be undertaken because they may help to further elucidate the role of the cardiovascular system in the etiology of prevalent ARMD and progression. </para>
+              </listitem>
+              <listitem>
+                <para>Epidemiologic studies using a computer database previously indicated that the use of statins was protective against the development of ARMD. However, a 2007 study, using rigorous systems and graded macular photographs, confirmed that the use of statins was not correlated with ARMD incidence or progression.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Early symptoms </para>
+            <itemizedlist>
+              <listitem>
+                <para>Prolonged darkness (delayed dark adaptation) upon entering a restaurant from bright sunlight is one of the earliest symptoms, with patients noting this phenomenon prior to the presence of any significant atrophy. One effective suggestion for patients with this symptom is to use wrap-around shades. Some low-vision specialists suggest the use of orange-tinted, blue-blocker lenses. </para>
+              </listitem>
+              <listitem>
+                <para>Patients with dry ARMD often have a visual function that is much poorer than suggested by their Snellen acuity. The presence of large areas of atrophy, usually in a perifoveal zone, results in large scotomas near the center of the visual field. These scotomas prevent patients from performing simple tasks (eg, recognizing faces, reading). Low-vision specialists often prescribe magnifiers with a line marker so that patients do not lose their place while reading. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Family members of patients with ARMD </para>
+            <itemizedlist>
+              <listitem>
+                <para>While it would seem logical that the same vitamins used to treat patients with ARMD would be of benefit prior to the development of ARMD in family members, in the AREDS, supplements did not show any significant benefit with treatment over the 7-year follow-up when the disease was very mild. Additionally, many risks are associated with long-term zinc, vitamin A, and vitamin E supplementation. Instead, family members of patients with ARMD should do the following: </para>
+                <itemizedlist>
+                  <listitem>
+                    <para>Do not smoke and avoid second-hand smoke.</para>
+                  </listitem>
+                  <listitem>
+                    <para>Protect eyes from direct sunlight using either dark glasses or a wide-brimmed hat.</para>
+                  </listitem>
+                  <listitem>
+                    <para>Eat a well-balanced diet high in natural antioxidants.</para>
+                  </listitem>
+                  <listitem>
+                    <para>Eat fresh baked fish (1-2 servings) daily.</para>
+                  </listitem>
+                  <listitem>
+                    <para>Eat green leafy vegetables (eg, spinach, kale) daily.</para>
+                  </listitem>
+                  <listitem>
+                    <para>Consider a supplement consisting of folic acid (2.5 mg/d), pyridoxine (50 mg/d), and cyanocobalamin (1 mg/d).<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+                  </listitem>
+                </itemizedlist>
+              </listitem>
+              <listitem>
+                <para>Family members should be specifically requested NOT to take the AREDS supplement vitamins because the risk associated with long-term supplementation with these vitamins may not overcome the benefits of taking them. For example, in subjects with 1 risk factor in the AREDS, the race of progression of disease at 5 years was minimally different from that of the placebo-treated subjects. This also held true at 10 years. Subjects with more risk factors (2-4) had progressively increased levels of benefit with supplementation. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Clinical guideline summaries </para>
+            <itemizedlist>
+              <listitem>
+                <para>American Academy of Ophthalmology Retina/Vitreous Panel -<a href="http://guideline.gov/summary/summary.aspx?doc_id=14275">Age-related Macular Degeneration</a></para>
+              </listitem>
+              <listitem>
+                <para>US Preventive Services Task Force -<a href="http://guideline.gov/summary/summary.aspx?doc_id=14839">Screening for impaired visual acuity in older adults: U.S. Preventive Services Task Force recommendation statement</a></para>
+              </listitem>
+              <listitem>
+                <para>National Institute for Health and Clinical Excellence (NICE) -<a href="http://guideline.gov/summary/summary.aspx?doc_id=13019">Ranibizumab and pegaptanib for the treatment of age-related macular degeneration</a></para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d6">
+      <title>Surgical Care</title>
+      <pgroup>
+        <para>No accepted surgical alternative to dry age-related macular degeneration (ARMD) is available.</para>
+        <para>It is possible that the drusen present in dry ARMD can be ameliorated by the performance of a very light grid laser therapy.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup>The Complications Of Age-Related Macular Degeneration Prevention Trial (CAPT), a National Eye Institute–sponsored study examining the visual benefit from such treatment, has concluded. Preliminary results indicate that focal laser therapy in a light grid pattern causes drusen resorption and improved visual acuity in the short term. However, the procedure was associated with a slightly higher risk of developing choroidal neovascularization in the short term compared with no laser treatment. Additionally, at the end of the study, no significant visual benefit was observed in those who were treated compared with those who did not receive laser treatment.</para>
+        <para>More recently, a few patients underwent retinal translocation surgery during which the retina is rotated. Many of these patients developed accelerated dry macular degeneration with retinal pigment epithelium (RPE) atrophy at the site of the new macula. Interestingly, the area of atrophy that developed at the new site resembled almost identically the area of atrophy that was preexistent prior to the translocation. This provides clinical evidence that the RPE layer is source of disease pathophysiology and that the retinal atrophy that results is a response to diseased RPE.</para>
+        <para>A phase II study using encapsulated, genetically modified cells that secrete ciliary neurotrophic factor indicated the retinal thickening occurred in a dose-dependent, statistically significant manner. Treated subjects also had a higher percentage of preserved vision. Additional studies are required prior to approval by the US Food and Drug Administration (FDA).</para>
+        <para>Isolated reports of both embryonic and adult-derived stem cells being placed in the subretinal space have been noted. These are small reports whose primary purpose was to determine the feasibility of such an endeavor. In the near future, RPE cell repair via external transplantation of stem cells may provide a reasonable method of treatment for those patients with severe disease. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d7">
+      <title>Consultations</title>
+      <pgroup>
+        <para>Serial general ophthalmologic examination, on a nonemergent basis, is indicated for patients with dry age-related macular degeneration (ARMD). If these patients have an acute loss of vision, retina consultation with fluorescein angiography is indicated in a timely manner to rule out the possibility of conversion to wet ARMD.</para>
+        <para>Patients who have significant ARMD changes, with or without vision loss, may wish to have their children evaluated by an ophthalmologist once the children reach age 50 years. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d8">
+      <title>Diet</title>
+      <pgroup>
+        <para>Evidence suggests that diet plays an important role in the prevention of dry age-related macular degeneration (ARMD).<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup>Epidemiologic studies suggest that a diet containing green leafy vegetables is of benefit. Smoking cessation is of significant benefit. Consumption of baked fresh fish also is beneficial, owing to the fatty acids provided; 1-2 servings a week are adequate. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Activity</title>
+      <pgroup>
+        <para>No limitations are noted for age-related macular degeneration (ARMD). Each state has specific visual-acuity criteria for driving with a private license. Commercial driving licenses typically require at least 20/40 vision in the worse eye and have other typical requirements for side vision. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Currently, no approved drug treatment of dry age-related macular degeneration (ARMD) is available. See Surgical Care for the possible beneficial effects of laser therapy.</para>
+    </intro>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e1">
+      <title>Further Outpatient Care</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Patients with dry age-related macular degeneration (ARMD) should be observed frequently. Their follow-up care should be determined by the extent of disease and by the ophthalmologist's assessment of risk of conversion to wet ARMD. </para>
+          </listitem>
+          <listitem>
+            <para>Daily Amsler grid evaluation is necessary, with immediate reports to the ophthalmologist of any changes are noted.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e2">
+      <title>Inpatient &amp; Outpatient Medications</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>No approved medications for the treatment of dry age-related macular degeneration (ARMD) are available.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e3">
+      <title>Complications</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>The major complication of dry age-related macular degeneration (ARMD) is the conversion to wet (or exudative/neovascular) ARMD. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e4">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Prognosis for this disease is significantly better than the prognosis for wet age-related macular degeneration (ARMD). Patients likely will have steadily but slowly deteriorating visual acuity. It also is common to have other visual dysfunction (eg, loss of ability to quickly adapt to changing lighting conditions, loss of contrast sensitivity). Variability of vision from day-to-day is common. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Patients with geographic atrophy (GA) may have a variety of visual dysfunction. The location of atrophy often suggests the type of visual dysfunction that will be experienced by the patient. Many patients with age-related macular degeneration (ARMD) report difficulty in adjusting to changing light conditions; specifically, they take a significantly longer time to adjust to indoor lighting after being outside in bright sunlight. Wrap-around outdoor sunglasses that have an orange tint work for some patients. </para>
+          </listitem>
+          <listitem>
+            <para>Patients who primarily have central atrophy often note trouble with reading and performing fine motor tasks. Magnification and increased contrast (via a monitor or increased illumination) are the best solutions for such visual dysfunction. </para>
+          </listitem>
+          <listitem>
+            <para>In contrast, other patients have GA that spares the foveal center but affects the entire perifoveal region. These patients often can see 20/20, but they are unable to navigate due to the small area of good visual acuity. Some of these patients have to scan the screen to be able to see the 20/400 character. In these patients, excess magnification would be detrimental, because it would effectively decrease their limited visual field. Increased contrast and minification, by way of increased illumination and reverse telescopes respectively, may be beneficial for these patients. </para>
+          </listitem>
+          <listitem>
+            <para>Referral to comprehensive vision rehabilitation is indicated early in the disease process. The American Academy of Ophthalmology (AAO) recommends referral for vision rehabilitation when acuity is less than 20/40 or when a loss of contrast sensitivity, scotoma, or field loss is noted. The aim of early referral is to prevent the many negative consequences of vision loss. For example, when acuity is reduced to 20/50 or worse, patients have twice the risk of falling, 3 times the risk of depression, and 4 or greater times the risk of hip fracture. Rehabilitation aims to maximize patients’ use of their partial vision and to provide practical adaptation to reduce disability. Comprehensive rehabilitation addresses the “whole person,” as outlined in the AAO’s booklet of <em>Vision Rehabilitation for Adults</em>. Barriers to low-vision therapy access include poor insurance coverage and transportation.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+          </listitem>
+          <listitem>
+            <para>For patient education resources, see the <a href="http://www.emedicinehealth.com/collections/SU311.asp">Eye and Vision Center</a>, as well as <a href="http://www.emedicinehealth.com/articles/14590-1.asp">Macular Degeneration</a>.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="31032">
+        <title>A normal-appearing macula of the left eye. Note the even pigmentation of the retinal pigment...</title>
+        <caption>A normal-appearing macula of the left eye. Note the even pigmentation of the retinal pigment epithelium and the absence of any yellow excrescences (drusen) in the fovea. The optic nerve has unrelated changes. </caption>
+        <graphic fileref="/32/31032.jpg" format="IMAGE" id="31032" extension_format="JPG"/>
+        <graphic fileref="/32/31032tn.jpg" format="IMAGE_THUMB" id="31032"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31033">
+        <title>In angiography, fluorescein dye is passed through a peripheral vein and transmits through the...</title>
+        <caption>In angiography, fluorescein dye is passed through a peripheral vein and transmits through the vascular system. The dye fluoresces in the vasculature, as seen here. No vascular prominences are seen in the macula or in any areas of dye pooling or staining. The abnormal vessels in the optic nerve, however, do show dye leakage. </caption>
+        <graphic fileref="/33/31033.jpg" format="IMAGE" id="31033" extension_format="JPG"/>
+        <graphic fileref="/33/31033tn.jpg" format="IMAGE_THUMB" id="31033"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31034">
+        <title>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (...</title>
+        <caption>Moderate nonexudative age-related macular degeneration is shown with the presence of drusen (yellow deposits) in the macular region. </caption>
+        <graphic fileref="/34/31034.jpg" format="IMAGE" id="31034" extension_format="JPG"/>
+        <graphic fileref="/34/31034tn.jpg" format="IMAGE_THUMB" id="31034"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31035">
+        <title>Staining of drusen. Drusen absorb dye and, in the late frames of the angiogram, show...</title>
+        <caption>Staining of drusen. Drusen absorb dye and, in the late frames of the angiogram, show hyperfluorescence. This staining is distinguished from the leakage that occurs when the dye spreads outside the boundary of the lesion. </caption>
+        <graphic fileref="/35/31035.jpg" format="IMAGE" id="31035" extension_format="JPG"/>
+        <graphic fileref="/35/31035tn.jpg" format="IMAGE_THUMB" id="31035"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31036">
+        <title>A more advanced case of nonexudative age-related macular degeneration (ARMD). This image shows...</title>
+        <caption>A more advanced case of nonexudative age-related macular degeneration (ARMD). This image shows drusen that are larger, more confluent, and soft. Soft drusen are defined as drusen that have indistinct borders. Such drusen are more likely to convert to wet ARMD. A few areas of atrophy are noted, where the retinal pigment epithelium (RPE) has lost pigmentation. The retinal cells overlying atrophic RPE are generally nonfunctional and result in a scotoma. </caption>
+        <graphic fileref="/36/31036.jpg" format="IMAGE" id="31036" extension_format="JPG"/>
+        <graphic fileref="/36/31036tn.jpg" format="IMAGE_THUMB" id="31036"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31037">
+        <title>The atrophic retinal pigment epithelium (RPE) demonstrates staining of the underlying choroidal...</title>
+        <caption>The atrophic retinal pigment epithelium (RPE) demonstrates staining of the underlying choroidal vasculature. Normally, the intact RPE masks the presence of choroidal fluorescence. However, when the RPE atrophies, the underlying dye appears as an area of hyperfluorescence in the early stages of angiography. In the late stages, the drusen lose fluorescence in concert with (or with a small time lag) the rest of the retinal layers. </caption>
+        <graphic fileref="/37/31037.jpg" format="IMAGE" id="31037" extension_format="JPG"/>
+        <graphic fileref="/37/31037tn.jpg" format="IMAGE_THUMB" id="31037"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31038">
+        <title>A more advanced case of dry age-related macular degeneration. Several areas of atrophy are...</title>
+        <caption>A more advanced case of dry age-related macular degeneration. Several areas of atrophy are present, as are areas of significant pigment mottling in the macula. The large drusen inferior to fixation are poorly distinguished from each other. </caption>
+        <graphic fileref="/38/31038.jpg" format="IMAGE" id="31038" extension_format="JPG"/>
+        <graphic fileref="/38/31038tn.jpg" format="IMAGE_THUMB" id="31038"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31039">
+        <title>The atrophic areas are easily distinguished by the hyperfluorescence of the retinal pigment...</title>
+        <caption>The atrophic areas are easily distinguished by the hyperfluorescence of the retinal pigment epithelium (RPE) in the mid phase of the angiogram. Hypofluorescence of dye, due to masking caused by the increased pigmentation, is seen. No areas of frank dye leakage or exudative age-related macular degeneration (ARMD) are apparent. A "hot cross bun" pattern of dry ARMD-related pigment changes is evident near the fovea. </caption>
+        <graphic fileref="/39/31039.jpg" format="IMAGE" id="31039" extension_format="JPG"/>
+        <graphic fileref="/39/31039tn.jpg" format="IMAGE_THUMB" id="31039"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31040">
+        <title>High-definition optical coherence tomography scan of a 67-year-old woman showing retinal pigment...</title>
+        <caption>High-definition optical coherence tomography scan of a 67-year-old woman showing retinal pigment epithelium mottling and pigment epithelial detachments temporal to fixation consistent with dry macular degeneration. </caption>
+        <graphic fileref="/40/31040.jpg" format="IMAGE" id="31040" extension_format="JPG"/>
+        <graphic fileref="/40/31040tn.jpg" format="IMAGE_THUMB" id="31040"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31041">
+        <title>Fundus photo showing drusen in a 67-year-old woman with dry age-related macular degeneration. </title>
+        <caption>Fundus photo showing drusen in a 67-year-old woman with dry age-related macular degeneration. </caption>
+        <graphic fileref="/41/31041.jpg" format="IMAGE" id="31041" extension_format="JPG"/>
+        <graphic fileref="/41/31041tn.jpg" format="IMAGE_THUMB" id="31041"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31042">
+        <title>Fluorescein angiogram 4 minutes after injection of dye on 67-year-old woman showing pigment...</title>
+        <caption>Fluorescein angiogram 4 minutes after injection of dye on 67-year-old woman showing pigment epithelial detachments. </caption>
+        <graphic fileref="/42/31042.jpg" format="IMAGE" id="31042" extension_format="JPG"/>
+        <graphic fileref="/42/31042tn.jpg" format="IMAGE_THUMB" id="31042"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31043">
+        <title>A later frame of the angiogram demonstrating the absence of dye leakage outside the lesion, with...</title>
+        <caption>A later frame of the angiogram demonstrating the absence of dye leakage outside the lesion, with staining of the areas of atrophy (window defects) in the macular region. </caption>
+        <graphic fileref="/43/31043.jpg" format="IMAGE" id="31043" extension_format="JPG"/>
+        <graphic fileref="/43/31043tn.jpg" format="IMAGE_THUMB" id="31043"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="31044">
+        <title>High definition optical coherence tomography right eye demonstrating retinal pigment epithelium...</title>
+        <caption>High definition optical coherence tomography right eye demonstrating retinal pigment epithelium atrophy and changes in the deeper layers of retina. The absence of intraretinal cysts, subretinal fluid, or sub-retinal pigment epithelium fluid indicates the absence of wet age-related macular degeneration. </caption>
+        <graphic fileref="/44/31044.jpg" format="IMAGE" id="31044" extension_format="JPG"/>
+        <graphic fileref="/44/31044tn.jpg" format="IMAGE_THUMB" id="31044"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Raj K Maturi, MD</contrbtr_nm>
+        <contrbtr_title>Private Practice in Vitreoretinal Diseases, Surgery, and Uveitis; Volunteer Clinical Associate Professor, Department of Ophthalmology, Indiana University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Raj K Maturi, MD is a member of the following medical societies: <a href="http://www.aao.org">American Academy of Ophthalmology</a>, <a href="http://www.asrs.org">American Society of Retina Specialists</a>, <a href="http://www.heed.org/society">Society of Heed Fellows</a>, Indianapolis Ophthalmological Society, <a href="http://www.indianaeyemds.com/">Indiana Academy of Ophthalmology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received grant/research funds from Allergan for consulting; Received consulting fee from DRCR/National Eye Institute, NIH for consulting; Received grant/research funds from LUX, Inc for consulting; Received grant/research funds from DRCR/JAEB for none; Received consulting fee from ALIMERA for consulting; Received consulting fee from ALCON for consulting; Received consulting fee from GLAXOSMITHKLINE for consulting; Received consulting fee from QUARK PHARMACEUTICALS for consulting; Received consul.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Simon K Law, MD, PharmD</contrbtr_nm>
+        <contrbtr_title>Clinical Professor of Health Sciences, Department of Ophthalmology, Jules Stein Eye Institute, University of California, Los Angeles, David Geffen School of Medicine</contrbtr_title>
+        <contrbtr_bio>Simon K Law, MD, PharmD is a member of the following medical societies: <a href="http://www.aao.org">American Academy of Ophthalmology</a>, <a href="http://www.arvo.org">Association for Research in Vision and Ophthalmology</a>, <a href="http://www.americanglaucomasociety.net">American Glaucoma Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Steve Charles, MD</contrbtr_nm>
+        <contrbtr_title>Director of Charles Retina Institute; Clinical Professor, Department of Ophthalmology, University of Tennessee College of Medicine</contrbtr_title>
+        <contrbtr_bio>Steve Charles, MD is a member of the following medical societies: <a href="http://www.aao.org">American Academy of Ophthalmology</a>, <a href="http://www.asrs.org">American Society of Retina Specialists</a>, <a href="http://www.maculasociety.org">Macula Society</a>, <a href="http://www.retinasociety.org">Retina Society</a>, <a href="http://www.clubjulesgonin.com">Club Jules Gonin</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received royalty and consulting fees  for: Alcon Laboratories.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Hampton Roy, Sr, MD</contrbtr_nm>
+        <contrbtr_title>Associate Clinical Professor, Department of Ophthalmology, University of Arkansas for Medical Sciences</contrbtr_title>
+        <contrbtr_bio>Hampton Roy, Sr, MD is a member of the following medical societies: <a href="http://www.aao.org">American Academy of Ophthalmology</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.paao.org">Pan-American Association of Ophthalmology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Brian A Phillpotts, MD, MD</contrbtr_nm>
+        <contrbtr_title/>
+        <contrbtr_bio>Brian A Phillpotts, MD, MD is a member of the following medical societies: <a href="http://www.aao.org">American Academy of Ophthalmology</a>, <a href="http://www.diabetes.org">American Diabetes Association</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.nmanet.org">National Medical Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>American Academy of Ophthalmology (AAO) Retina/Vitreous Panel. Age-related macular degeneration. AAO; San Francisco, Calif; 2008. Available at <a href="http://guideline.gov/content.aspx?id=14275">http://guideline.gov/content.aspx?id=14275</a>. Accessed: December 3, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15077399">
+      <para>Blodi BA. Nutritional supplements in the prevention of age-related macular degeneration. <em>Insight</em>. 2004 Jan-Mar. 29(1):15-6; quiz 17-8. <a href="http://reference.medscape.com/medline/abstract/15077399">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16723359">
+      <para>Dashti N, McGwin G, Owsley C, Curcio CA. Plasma apolipoproteins and risk for age related maculopathy. <em>Br J Ophthalmol</em>. 2006 Aug. 90(8):1028-33. <a href="http://reference.medscape.com/medline/abstract/16723359">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22696317">
+      <para>Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for preventing age-related macular degeneration. <em>Cochrane Database Syst Rev</em>. 2012 Jun 13. 6:CD000253. <a href="http://reference.medscape.com/medline/abstract/22696317">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Christen WG,  Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acaid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women's Antioxidant and Folic Acid Cardiovasacular Study. <em>Arch intern Med</em>. Feb 2009. 169(4):335-41. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16286620">
+      <para>[Guideline] Ferris FL, Davis MD, Clemons TE, et al. A simplified severity scale for age-related macular degeneration: AREDS Report No. 18. <em>Arch Ophthalmol</em>. 2005 Nov. 123(11):1570-4. <a href="http://reference.medscape.com/medline/abstract/16286620">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1473206/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17079491">
+      <para>Johnson PT, Betts KE, Radeke MJ, Hageman GS, Anderson DH, Johnson LV. Individuals homozygous for the age-related macular degeneration risk-conferring variant of complement factor H have elevated levels of CRP in the choroid. <em>Proc Natl Acad Sci U S A</em>. 2006 Nov 14. 103(46):17456-61. <a href="http://reference.medscape.com/medline/abstract/17079491">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22541070">
+      <para>Tarallo V,  Hirano Y,  Gelfand BD,  Dridi S,  Kerur N,  Kim Y, et al. DICER1 loss and Alu RNA induce age-related macular degeneration via the NLRP3 inflammasome and MyD88. <em>Cell</em>. 2012 May 11. 149(4):847-59. <a href="http://reference.medscape.com/medline/abstract/22541070">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351582/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21297615">
+      <para>Kaneko H,  Dridi S,  Tarallo V,  Gelfand BD,  Fowler BJ,  Cho WG, et al. DICER1 deficit induces Alu RNA toxicity in age-related macular degeneration. <em>Nature</em>. 2011 Mar 17. 471(7338):325-30. <a href="http://reference.medscape.com/medline/abstract/21297615">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077055/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16606880">
+      <para>Clemons TE, Rankin MW, McBee WL. Cognitive impairment in the Age-Related Eye Disease Study: AREDS report no. 16. <em>Arch Ophthalmol</em>. 2006 Apr. 124(4):537-43. <a href="http://reference.medscape.com/medline/abstract/16606880">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472655/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19433718">
+      <para>Baker ML,  Wang JJ,  Rogers S,  Klein R,  Kuller LH,  Larsen EK, et al. Early age-related macular degeneration, cognitive function, and dementia: the Cardiovascular Health Study. <em>Arch Ophthalmol</em>. 2009 May. 127(5):667-73. <a href="http://reference.medscape.com/medline/abstract/19433718">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3001290/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16936732">
+      <para>Maller J, George S, Purcell S, et al. Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration. <em>Nat Genet</em>. 2006 Sep. 38(9):1055-9. <a href="http://reference.medscape.com/medline/abstract/16936732">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17502507">
+      <para>SanGiovanni JP, Chew EY, Clemons TE, et al. The relationship of dietary lipid intake and age-related macular degeneration in a case-control study: AREDS Report No. 20. <em>Arch Ophthalmol</em>. 2007 May. 125(5):671-9. <a href="http://reference.medscape.com/medline/abstract/17502507">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21402976">
+      <para>Christen WG, Schaumberg DA, Glynn RJ, Buring JE. Dietary {omega}-3 Fatty Acid and Fish Intake and Incident Age-Related Macular Degeneration in Women. <em>Arch Ophthalmol</em>. 2011 Jul. 129(7):921-9. <a href="http://reference.medscape.com/medline/abstract/21402976">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134638/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16832023">
+      <para>Seddon JM, George S, Rosner B. Cigarette smoking, fish consumption, omega-3 fatty acid intake, and associations with age-related macular degeneration: the US Twin Study of Age-Related Macular Degeneration. <em>Arch Ophthalmol</em>. 2006 Jul. 124(7):995-1001. <a href="http://reference.medscape.com/medline/abstract/16832023">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10562650">
+      <para>Hawkins BS, Bird A, Klein R, West SK. Epidemiology of age-related macular degeneration. <em>Mol Vis</em>. 1999 Nov 3. 5:26. <a href="http://reference.medscape.com/medline/abstract/10562650">[Medline]</a>. <a href="http://www.molvis.org/molvis/v5/a26/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21482873">
+      <para>Millen AE,  Voland R,  Sondel SA,  Parekh N,  Horst RL,  Wallace RB, et al. Vitamin D Status and Early Age-Related Macular Degeneration in Postmenopausal Women. <em>Arch Ophthalmol</em>. 2011 Apr. 129(4):481-489. <a href="http://reference.medscape.com/medline/abstract/21482873">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3075411/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>McCarty CA, Dowrick A, Cameron J, et al. Novel Measure of Cardiovascular Health and its Association with Prevalence and Progression of Age-Related Macular Degeneration: The CHARM Study. <em>BMC Ophthalmology</em>. 2008. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17475196">
+      <para>Klein R, Knudtson MD, Klein BE. Statin use and the five-year incidence and progression of age-related macular degeneration. <em>Am J Ophthalmol</em>. 2007 Jul. 144(1):1-6. <a href="http://reference.medscape.com/medline/abstract/17475196">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16724865">
+      <para>Eter N, Krohne TU, Holz FG. New pharmacologic approaches to therapy for age-related macular degeneration. <em>BioDrugs</em>. 2006. 20(3):167-79. <a href="http://reference.medscape.com/medline/abstract/16724865">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12950886">
+      <para>Bartlett H, Eperjesi F. Age-related macular degeneration and nutritional supplementation: a review of randomised controlled trials. <em>Ophthalmic Physiol Opt</em>. 2003 Sep. 23(5):383-99. <a href="http://reference.medscape.com/medline/abstract/12950886">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Jackson ML. Vision Rehabilitation Services. <em>Medscape Ophthalmology</em>. 2008. <a href="/www.medscape.com/viewarticle/583661">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7604360">
+      <para>Bird AC, Bressler NM, Bressler SB, et al. An international classification and grading system for age-related maculopathy and age-related macular degeneration. The International ARM Epidemiological Study Group. <em>Surv Ophthalmol</em>. 1995 Mar-Apr. 39(5):367-74. <a href="http://reference.medscape.com/medline/abstract/7604360">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19237716">
+      <para>Christen WG, Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women''s Antioxidant and Folic Acid Cardiovascular Study. <em>Arch Intern Med</em>. 2009 Feb 23. 169(4):335-41. <a href="http://reference.medscape.com/medline/abstract/19237716">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648137/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19237716">
+      <para>Christen WG, Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women''s Antioxidant and Folic Acid Cardiovascular Study. <em>Arch Intern Med</em>. 2009 Feb 23. 169(4):335-41. <a href="http://reference.medscape.com/medline/abstract/19237716">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648137/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19237716">
+      <para>Christen WG, Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women''s Antioxidant and Folic Acid Cardiovascular Study. <em>Arch Intern Med</em>. 2009 Feb 23. 169(4):335-41. <a href="http://reference.medscape.com/medline/abstract/19237716">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648137/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19237716">
+      <para>Christen WG, Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women''s Antioxidant and Folic Acid Cardiovascular Study. <em>Arch Intern Med</em>. 2009 Feb 23. 169(4):335-41. <a href="http://reference.medscape.com/medline/abstract/19237716">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648137/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17435429">
+      <para>Coleman H, Chew E. Nutritional supplementation in age-related macular degeneration. <em>Curr Opin Ophthalmol</em>. 2007 May. 18(3):220-3. <a href="http://reference.medscape.com/medline/abstract/17435429">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15631528">
+      <para>Comer GM, Ciulla TA, Criswell MH, Tolentino M. Current and future treatment options for nonexudative and exudative age-related macular degeneration. <em>Drugs Aging</em>. 2004. 21(15):967-92. <a href="http://reference.medscape.com/medline/abstract/15631528">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16625532">
+      <para>Evans JR. Antioxidant vitamin and mineral supplements for slowing the progression of age-related macular degeneration. <em>Cochrane Database Syst Rev</em>. 2006. (2):CD000254. <a href="http://reference.medscape.com/medline/abstract/16625532">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10709585">
+      <para>Garibaldi DC, Zhang K. Molecular genetics of macular degeneration. <em>Int Ophthalmol Clin</em>. 1999. 39(4):117-42. <a href="http://reference.medscape.com/medline/abstract/10709585">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Helwick C. MAHALO finds new biomarker for dry macular degeneration. Medscape Medical News. November 21, 2013. Available at <a href="http://www.medscape.com/viewarticle/81482">http://www.medscape.com/viewarticle/81482</a>. Accessed: December 2, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16453022">
+      <para>Luibl V, Isas JM, Kayed R, Glabe CG, Langen R, Chen J. Drusen deposits associated with aging and age-related macular degeneration contain nonfibrillar amyloid oligomers. <em>J Clin Invest</em>. 2006 Feb. 116(2):378-85. <a href="http://reference.medscape.com/medline/abstract/16453022">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10562659">
+      <para>Lutty G, Grunwald J, Majji AB, Uyama M, Yoneya S. Changes in choriocapillaris and retinal pigment epithelium in age-related macular degeneration. <em>Mol Vis</em>. 1999 Nov 3. 5:35. <a href="http://reference.medscape.com/medline/abstract/10562659">[Medline]</a>. <a href="http://www.molvis.org/molvis/v5/p35/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12777936">
+      <para>McBee WL, Lindblad AS, Ferris FL 3rd. Who should receive oral supplement treatment for age-related macular degeneration?. <em>Curr Opin Ophthalmol</em>. 2003 Jun. 14(3):159-62. <a href="http://reference.medscape.com/medline/abstract/12777936">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9097791">
+      <para>Mitchell P, Smith W, Attebo K, Wang JJ. Prevalence of age-related maculopathy in Australia. The Blue Mountains Eye Study. <em>Ophthalmology</em>. 1995 Oct. 102(10):1450-60. <a href="http://reference.medscape.com/medline/abstract/9097791">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Regillo CD.  Lampalizumab (anti-factor D) in patients with geographic atrophy: the MAHALO phase II results. Presented at: The American Academy of Ophthalmology (AAO) 2013 Annual Meeting; November 16, 2013; New Orleans, La. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15604621">
+      <para>Schmidt-Erfurth U. Nutrition and retina. <em>Dev Ophthalmol</em>. 2005. 38:120-47. <a href="http://reference.medscape.com/medline/abstract/15604621">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10562649">
+      <para>Sunness JS. The natural history of geographic atrophy, the advanced atrophic form  of age-related macular degeneration. <em>Mol Vis</em>. 1999 Nov 3. 5:25. <a href="http://reference.medscape.com/medline/abstract/10562649">[Medline]</a>. <a href="http://www.molvis.org/molvis/v5/a25/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10562656">
+      <para>Winkler BS, Boulton ME, Gottsch JD, Sternberg P. Oxidative damage and age-related macular degeneration. <em>Mol Vis</em>. 1999 Nov 3. 5:32. <a href="http://reference.medscape.com/medline/abstract/10562656">[Medline]</a>. <a href="http://www.molvis.org/molvis/v5/p32/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22705343">
+      <para>Woo SJ,  Park KH,  Ahn J,  Choe JY,  Jeong H,  Han JW, et al. Cognitive Impairment in Age-related Macular Degeneration and Geographic Atrophy. <em>Ophthalmology</em>. 2012 Jun 15. <a href="http://reference.medscape.com/medline/abstract/22705343">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

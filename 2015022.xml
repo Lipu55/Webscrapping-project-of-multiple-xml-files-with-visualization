@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2015022" pubid="" template="Infectious Diseases" template-name="singlesection">
+  <site-meta>
+    <article-name>Malaria Organism-Specific Therapy</article-name>
+    <title>
+      <page-info id="overview">Malaria Organism-Specific Therapy: Specific Organisms and Therapeutic Regimens</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Malaria Organism-Specific Therapy: Specific Organisms and Therapeutic Regimens</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Specific Organisms and Therapeutic Regimens</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Malaria Organism-Specific Therapy Overview</page-info>
+    </meta-keywords>
+    <uri>2015022-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Jan 08, 2015</posting-date>
+    <last-generated>2015-06-05-21:01</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Infectious Diseases</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2015022</artid>
+      <cg>502</cg>
+      <scg text="Tropical Disease">5005294</scg>
+      <ssp text="Infectious Diseases">3</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>infectious_diseases</id>
+      <name>Infectious Diseases</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>infectious_diseases_parasitic</id>
+      <name>Parasitic Infections</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">All efforts should be made to confirm the diagnosis of malaria and to identify the species. Diagnosis is generally via Giemsa-stained thick and thin peripheral blood smears.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Malaria Organism-Specific Therapy</title>
+  <sect1 id="a1">
+    <title>Specific Organisms and Therapeutic Regimens</title>
+    <pgroup>
+      <para>All efforts should be made to confirm the diagnosis of malaria and to identify the species. Diagnosis is generally via Giemsa-stained thick and thin peripheral blood smears. Multiple other antibody-based rapid diagnostic tests (RDTs) are also available. Complications of <em>Plasmodium falciparum</em> infection may include impaired consciousness, seizures, severe anemia, renal failure, pulmonary edema or acute respiratory distress syndrome (ARDS), refractory hypotension, and disseminated intravascular coagulation (DIC).<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+      <para>The choice of therapeutic regimen is dependent on regional resistance patterns, the most likely species involved, and the clinical condition of the patients, as well as on complicating factors such as altered mental state and pregnancy. </para>
+      <itemizedlist>
+        <listitem>
+          <para>If treatment must be initiated before the species is known, treat for <em>P falciparum</em></para>
+        </listitem>
+        <listitem>
+          <para><em>P falciparum</em> should be presumed to be chloroquine resistant, except in a few areas of Central America and the Middle East</para>
+        </listitem>
+        <listitem>
+          <para>Primaquine should be given if <em>Plasmodium vivax</em> or <em>Plasmodium ovale</em> is likely</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Resistance patterns</title>
+      <para><em>Chloroquine-resistant P falciparum</em><sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Eastern Hemisphere: All of sub-Saharan Africa, Saudi Arabia, Yemen, Iran, Pakistan, Afghanistan, China, Nepal, and all of Southeast Asia </para>
+        </listitem>
+        <listitem>
+          <para>Western Hemisphere: Panama, Haiti, Brazil, Peru, Bolivia, Colombia, Venezuela, Ecuador, French Guiana, Guyana, and Suriname</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Chloroquine-sensitive P falciparum</em><sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Eastern Hemisphere: Turkey, Iraq, Syria, Georgia, Azerbaijan, Tajikistan, Turkmenistan, and Kyrgyzstan</para>
+        </listitem>
+        <listitem>
+          <para>Western Hemisphere: Argentina, Paraguay, Mexico, Guatemala, Costa Rica, Honduras, Nicaragua, El Salvador, and Dominican Republic</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Mefloquine-resistant P falciparum</em><sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Southeast Asia: Regions of Vietnam, Laos, Thailand, Burma, and Cambodia</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Chloroquine-resistant P vivax</em><sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Papua New Guinea and Indonesia</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Uncomplicated P falciparum infection</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/coartem-artemether-lumefantrine-345047">Artemether-lumefantrine</a> 20/120 mg tablet(s) PO in weight-based dosing (&gt; 35 kg, 4 tablets/dose; 25-35 kg, 3 tablets/dose; 15-25 kg, 2 tablets/dose; 5-15 kg, 1 tablet/dose) for 6 doses, with dose 2 given 8h after initial dose and remaining doses given BID for 2d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/malarone-atovaquone-proguanil-342697">Atovaquone-proguanil</a> 250/100 mg adult tablet(s) or 62.5/25 mg pediatric tablets PO in weight-based dosing (adults, 4 adult tablets; 31-40 kg, 3 adult tablets; 21-30 kg, 2 adult tablets; 11-20 kg, 1 adult tablet; 9-10 kg, 3 pediatric tablets; 5-8 kg, 2 pediatric tablets) q24h for 3d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/qualaquin-quinine-342696">Quinine</a> 650 mg PO TID for 3d (7d if malaria was acquired in southern Asia) <strong>plus</strong><a href="http://reference.medscape.com/drug/vibramycin-monodox-doxycycline-342548">doxycycline</a> 100 mg PO BID for 7d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/mefloquine-342689">Mefloquine</a> 1250 PO once as a single dose (may give 750 mg PO as initial dose, then 500 mg PO 6-12h later); not recommended for malaria acquired in Southeast Asia<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Uncomplicated Plasmodium malariae, Plasmodium knowlesi, or chloroquine-sensitive P falciparum infection</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/aralen-chloroquine-phosphate-chloroquine-342687">Chloroquine phosphate</a> 1000 mg (10 mg/kg base) PO as initial dose, then 300 mg (5 mg/kg) at 6h, 24h, and 48h <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/plaquenil-hydroxychloroquine-sulfate-343205">Hydroxychloroquine</a> 800 mg PO as initial dose, then 400 mg PO at 6h, 24h, and 48h<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Uncomplicated P vivax or P ovale infection, expected to be chloroquine-susceptible</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Chloroquine phosphate 1000 mg (10 mg/kg base) PO as initial dose, then 300 mg (5 mg/kg) at 6h, 24h, and 48h <strong>plus</strong><a href="http://reference.medscape.com/drug/primaquine-342691">primaquine</a> 30 mg (0.5 mg/kg base) PO q24h for 14d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Hydroxychloroquine 800 mg PO as initial dose, then 400 mg PO at 6h, 24h, and 48h <strong>plus</strong> primaquine 30 mg (0.5 mg/kg base) PO q24h for 14d<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Uncomplicated P vivax infection, expected to be chloroquine-resistant</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Quinine 650 mg PO TID for 3d (7d if malaria was acquired in southern Asia) <strong>plus</strong> doxycycline 100 mg PO BID for 7d <strong>plus</strong> primaquine 30 mg (0.5 mg/kg base) PO q24h for 14d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Atovaquone-proguanil 1000/400 mg PO q24h for 3d (pediatric dosing as for uncomplicated <em>P falciparum</em> infection) <strong>plus</strong> primaquine 30 mg (0.5 mg/kg base) PO q24h for 14d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Mefloquine 1250 PO once as a single dose (may give 750 mg PO as initial dose, then 500 mg PO 6-12h later) <strong>plus</strong> primaquine 30 mg (0.5 mg/kg base) PO q24h for 14d <strong>or</strong></para>
+        </listitem>
+        <listitem>
+          <para>Amodiaquine 10 mg/kg PO q24h for 3d (not available in the United States) <strong>plus</strong> primaquine 30 mg (0.5 mg/kg base) PO q24h for 14d<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Complicated malaria</title>
+      <para>
+        <em>Preferred treatment, United States:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/quinaglute-quinidex-quinidine-342308">Quinidine gluconate</a> 10 mg/kg loading dose over 1-2h, then 1.2 mg/kg/h for at least 24h</para>
+        </listitem>
+        <listitem>
+          <para>Once parasitemia is &lt; 1% and patient can take oral medication, switch to quinine 650 mg PO TID to complete 3-d course (7-d course if malaria was acquired in southern Asia) </para>
+        </listitem>
+        <listitem>
+          <para>In addition, give doxycycline 100 mg IV or PO BID for 7d; for pregnant women, instead of doxycycline, give <a href="http://reference.medscape.com/drug/cleocin-clindesse-clindamycin-342558">clindamycin</a> 20 mg base/kg/day PO divided TID for 7d</para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        <em>Investigational treatment, United States (available in many countries)</em>
+        <sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup>
+        <em>:</em>
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para><a href="http://reference.medscape.com/drug/artesunate-342684">Artesunate</a> 2.4 mg/kg IV or IM given on admission (time = 0), then at 12h and 24h, then daily <strong>plus</strong></para>
+        </listitem>
+        <listitem>
+          <para>Atovaquone-proguanil 1000/400 mg PO q24h for 3d (pediatric dosing as for uncomplicated <em>P falciparum</em> infection) <strong>or</strong> doxycycline 100 mg IV or PO BID for 7d <strong>or</strong> clindamycin 20 mg base/kg/day PO divided TID for 7d <strong>or</strong> mefloquine 750 mg PO as initial dose, then 500 mg PO 6-12h later<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Chemoprophylaxis options</title>
+      <para><em>Atovaquone-proguanil</em><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Atovaquone-proguanil 1 tablet/day PO can be used as prophylaxis in all areas</para>
+        </listitem>
+        <listitem>
+          <para>Begin 1-2d before travel to malarial areas; discontinue 7d after departure from malarial areas</para>
+        </listitem>
+        <listitem>
+          <para>Not recommended for prophylaxis if creatinine clearance &lt; 30 mL/min</para>
+        </listitem>
+        <listitem>
+          <para>Atovaquone-proguanil should be taken with food or a milky drink</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Chloroquine phosphate</em><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Chloroquine phosphate 300 mg base (500 mg salt) PO once weekly should be used as prophylaxis only in areas with chloroquine-sensitive malaria </para>
+        </listitem>
+        <listitem>
+          <para>Begin 1-2wk before travel to malarial areas; discontinue 4wk after departure from malarial areas</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Doxycycline</em><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Doxycycline 100 mg/day PO can be used as prophylaxis in all areas</para>
+        </listitem>
+        <listitem>
+          <para>Begin 1-2d before travel to malarial areas; discontinue 4wk after departure from malarial areas</para>
+        </listitem>
+        <listitem>
+          <para>Contraindicated in children &lt; 8y and in pregnant women</para>
+        </listitem>
+        <listitem>
+          <para>Significant risk for photosensitivity</para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Mefloquine</em><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Mefloquine 250 mg PO once weekly can be used as prophylaxis in areas with mefloquine-sensitive malaria</para>
+        </listitem>
+        <listitem>
+          <para>Begin 1-2wk before travel to malarial areas; discontinue 4wk after departure from malarial areas</para>
+        </listitem>
+        <listitem>
+          <para>Contraindicated in persons with active or recent history of depression, generalized anxiety disorder, psychosis, schizophrenia, or seizures<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Prolongs QT interval; not recommended for persons with cardiac conduction abnormalities<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        </listitem>
+      </itemizedlist>
+      <para><em>Primaquine</em><sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup>: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Primaquine 30 mg base/day PO can be used as prophylaxis for short-duration travel to areas with &gt; 90% <em>P vivax</em></para>
+        </listitem>
+        <listitem>
+          <para>Begin 1-2d before travel to malarial areas; discontinue 7d after departure from malarial areas</para>
+        </listitem>
+        <listitem>
+          <para>Contraindicated in persons with glucose-6-phosphate dehydrogenase (G6PD) deficiency (all persons who take primaquine should have a documented normal G6PD level before starting) </para>
+        </listitem>
+        <listitem>
+          <para>Also contraindicated during pregnancy and lactation unless the infant being breastfed has a documented normal G6PD level</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>Special considerations</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>To enroll a patient with severe malaria in the artesunate treatment protocol, contact the Centers for Disease Control and Prevention (CDC) Malaria Hotline at 770-488-7788 during business hours (Mon-Fri; 8:00 am to 4:30 pm, Eastern time); after hours, call 770-488-7100 and ask to speak with a CDC Malaria Branch clinician </para>
+        </listitem>
+        <listitem>
+          <para>Quinidine may cause QT prolongation or hypoglycemia; electrocardiography and serum glucose monitoring are required</para>
+        </listitem>
+        <listitem>
+          <para>Patients prescribed primaquine should be checked for the presence of G6PD deficiency</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Joseph U Becker, MD</contrbtr_nm>
+        <contrbtr_title>Fellow, Global Health and International Emergency Medicine, Stanford University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Joseph U Becker, MD is a member of the following medical societies: <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.pbk.org/home/index.aspx">Phi Beta Kappa</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a>, <a href="http://www.emra.org">Emergency Medicine Residents&amp;#039; Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jasmeet Anand, PharmD, RPh</contrbtr_nm>
+        <contrbtr_title>Adjunct Instructor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Thomas E Herchline, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Medicine, Wright State University, Boonshoft School of Medicine; Medical Director, Public Health, Dayton and Montgomery County, Ohio</contrbtr_title>
+        <contrbtr_bio>Thomas E Herchline, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://idohio.org/">Infectious Diseases Society of Ohio</a>, <a href="http://www.idsociety.org">Infectious Diseases Society of America</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Centers for Disease Control and Prevention. The Pre-Travel Consultation: Malaria. Available at <a href="http://1.usa.gov/lmZudn">http://1.usa.gov/lmZudn</a>. Accessed: July 2, 2010.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Perez-Jorge E, Herchline T. Malaria. Medscape Reference. Available at <a href="http://emedicine.medscape.com/article/221134-overview">http://emedicine.medscape.com/article/221134-overview</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>World Health Organization (WHO). <em>Guidelines for the Treatment of Malaria</em>. 2nd Edition. World Health Organization, Geneva, Switzerland: WHO Press; 2010. <a href="http://whqlibdoc.who.int/publications/2010/9789241547925_eng.pdf">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25217396">
+      <para>Sagara I,  Piarroux R,  Djimde A,  Giorgi R,  Kayentao K,  Doumbo OK, et al. Delayed anemia assessment in patients treated with oral artemisinin derivatives for uncomplicated malaria: a pooled analysis of clinical trials data from Mali. <em>Malar J</em>. 2014 Sep 12. 13(1):358. <a href="http://reference.medscape.com/medline/abstract/25217396">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25185000">
+      <para>Carvalho LJ, Moreira Ada S, Daniel-Ribeiro CT, Martins YC. Vascular dysfunction as a target for adjuvant therapy in cerebral malaria. <em>Mem Inst Oswaldo Cruz</em>. 2014 Aug. 109(5):577-88. <a href="http://reference.medscape.com/medline/abstract/25185000">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156451/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25166926">
+      <para>Paczkowski MM, Landman KL, Arguin PM. Update on cases of delayed hemolysis after parenteral artesunate therapy for malaria - United States, 2008 and 2013. <em>MMWR Morb Mortal Wkly Rep</em>. 2014 Aug 29. 63(34):753-5. <a href="http://reference.medscape.com/medline/abstract/25166926">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>FDA Drug Safety Communication: FDA approves label changes for antimalarial drug mefloquine hydrochloride due to risk of serious psychiatric and nerve side effects. Available at <a href="http://www.fda.gov/Drugs/DrugSafety/ucm362227.htm#">http://www.fda.gov/Drugs/DrugSafety/ucm362227.htm#</a>. Accessed: July 30, 2013.</para>
+    </ritem>
+  </refgrp>
+</article>

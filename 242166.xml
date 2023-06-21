@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="242166" pubid="" template="Nephrology" template-name="multipage">
+  <site-meta>
+    <article-name>Hyponatremia</article-name>
+    <title>
+      <page-info id="overview">Hyponatremia: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Hyponatremia Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Hyponatremia Differential Diagnoses</page-info>
+      <page-info id="workup">Hyponatremia Workup: Laboratory Studies, Imaging Studies</page-info>
+      <page-info id="treatment">Hyponatremia Treatment &amp; Management: Approach Considerations, Medical Care, Diet</page-info>
+      <page-info id="medication">Hyponatremia Medication: Diuretics, Antibiotics, Arginine Vasopressin Antagonists</page-info>
+      <page-info id="followup">Hyponatremia Follow-up: Further Inpatient Care, Complications, Prognosis</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Hyponatremia: Practice Essentials, Background, Pathophysiology</page-info>
+      <page-info id="clinical">Hyponatremia Clinical Presentation: History, Physical, Causes</page-info>
+      <page-info id="differential">Hyponatremia Differential Diagnoses</page-info>
+      <page-info id="workup">Hyponatremia Workup: Laboratory Studies, Imaging Studies</page-info>
+      <page-info id="treatment">Hyponatremia Treatment &amp; Management: Approach Considerations, Medical Care, Diet</page-info>
+      <page-info id="medication">Hyponatremia Medication: Diuretics, Antibiotics, Arginine Vasopressin Antagonists</page-info>
+      <page-info id="followup">Hyponatremia Follow-up: Further Inpatient Care, Complications, Prognosis</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a1">Practice Essentials</section-info>
+<section-info id="a5">Background</section-info>
+<section-info id="a6">Pathophysiology</section-info>
+<section-info id="a7">Frequency</section-info>
+<section-info id="a8">Mortality/Morbidity</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b1">History</section-info>
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c6">Laboratory Studies</section-info>
+<section-info id="c7">Imaging Studies</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d1">Approach Considerations</section-info>
+<section-info id="d7">Medical Care</section-info>
+<section-info id="d9">Diet</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e2">Further Inpatient Care</section-info>
+<section-info id="e3">Complications</section-info>
+<section-info id="e4">Prognosis</section-info>
+<section-info id="e5">Patient Education</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Hyponatremia Overview</page-info>
+      <page-info id="clinical">Hyponatremia Clinical Presentation</page-info>
+      <page-info id="differential">Hyponatremia Differential Diagnoses</page-info>
+      <page-info id="workup">Hyponatremia Workup</page-info>
+      <page-info id="treatment">Hyponatremia Treatment</page-info>
+      <page-info id="medication">Hyponatremia Medication</page-info>
+      <page-info id="followup">Hyponatremia Follow-up</page-info>
+    </meta-keywords>
+    <uri>242166-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Jul 09, 2015</posting-date>
+    <last-generated>2015-08-13-17:23</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Nephrology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>242166</artid>
+      <cg>502</cg>
+      <scg text="Hyponatremia">678</scg>
+      <ssp text="Nephrology">44</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jul 09, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>nephrology</id>
+      <name>Nephrology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>nephrology_acid-base</id>
+      <name>Acid-Base, Fluid, and Electrolyte Disorders</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">hyponatremia, SIADH, electrolyte, electrolytes, electrolyte imbalance, sodium deficiency, furosemide, hypertonic hyponatremia, hyponatraemia, hyponatremia treatment, hyponatremia causes, hyponatremia correction, tolvaptan, conivaptan, cerebral salt wasting, normotonic hyponatremia, hypotonic hyponatremia, normovolemic hypotonic hyponatremia, euvolemic hypotonic hyponatremiaabnormal electrolyte level, abnormal electrolyte distribution, congestive heart failure, liver failure, renal failure, hyperlipidemia, paraproteinemia, pseudohyponatremia, liver cirrhosis, nephrotic syndrome, severe hypoproteinemia, syndrome of inappropriate ADH secretion, severe hypothyroidism, adrenal insufficiency</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Hyponatremia is defined as a serum sodium level of less than 135 mEq/L and is considered severe when the serum level is below 125 mEq/L. Many medical illnesses, such as congestive heart failure, liver failure, renal failure, or pneumonia, may be associated with hyponatremia.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Hyponatremia</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a1">
+      <title>Practice Essentials</title>
+      <pgroup>
+        <para>Hyponatremia is defined as a serum sodium level of less than 135 mEq/L and is considered severe when the serum level is below 125 mEq/L. Many medical illnesses, such as congestive heart failure, liver failure, renal failure, or pneumonia, may be associated with hyponatremia.</para>
+      </pgroup>
+      <pgroup>
+        <title>Signs and symptoms</title>
+        <para>Symptoms range from nausea and malaise, with mild reduction in the serum sodium, to lethargy, decreased level of consciousness, headache, and (if severe) seizures and coma. Overt neurologic symptoms most often are due to very low serum sodium levels (usually &lt; 115 mEq/L), resulting in intracerebral osmotic fluid shifts and brain edema.</para>
+        <para>Hyponatremia is classified according to volume status, as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Hypovolemic hyponatremia: decrease in total body water with greater decrease in total body sodium</para>
+          </listitem>
+          <listitem>
+            <para>Euvolemic hyponatremia: normal body sodium with increase in total body water</para>
+          </listitem>
+          <listitem>
+            <para>Hypervolemic hyponatremia: increase in total body sodium with greater increase in total body water</para>
+          </listitem>
+        </itemizedlist>
+        <para>Hyponatremia can be further subclassified according to effective osmolality, as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Hypotonic hyponatremia</para>
+          </listitem>
+          <listitem>
+            <para>Isotonic hyponatremia</para>
+          </listitem>
+          <listitem>
+            <para>Hypertonic hyponatremia</para>
+          </listitem>
+        </itemizedlist>
+        <para>See <a href="http://emedicine.medscape.com/article/242166-clinical">Clinical Presentation</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Diagnosis</title>
+        <para>There are three essential laboratory tests in the evaluation of patients with hyponatremia that, together with the history and the physical examination, help to establish the primary underlying etiologic mechanism: urine osmolality, serum osmolality, and urinary sodium concentration.</para>
+        <para>
+          <em>Urine osmolality</em>
+        </para>
+        <para>Urine osmolality helps differentiate between conditions associated with impaired free-water excretion and primary polydipsia. A urine osmolality greater than 100 mOsm/kg indicates impaired ability of the kidneys to dilute the urine.</para>
+        <para>
+          <em>Serum osmolality</em>
+        </para>
+        <para>Serum osmolality readily differentiates between true hyponatremia and pseudohyponatremia. The latter may be secondary to hyperlipidemia or hyperproteinemia, or may be hypertonic hyponatremia associated with elevated glucose, mannitol, glycine (posturologic or postgynecologic procedure), sucrose, or maltose (contained in IgG formulations).</para>
+        <para>
+          <em>Urinary sodium concentration</em>
+        </para>
+        <para>Urinary sodium concentration helps differentiate between hyponatremia secondary to hypovolemia and syndrome of inappropriate antidiuretic hormone secretion (SIADH). With SIADH (and salt-wasting syndrome), the urine sodium is greater than 20-40 mEq/L. With hypovolemia, the urine sodium typically measures less than 25 mEq/L. However, if sodium intake in a patient with SIADH (or salt-wasting) happens to be low, then urine sodium may fall below 25 mEq/L.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/242166-workup">Workup</a> for more detail.</para>
+      </pgroup>
+      <pgroup>
+        <title>Management</title>
+        <para>Hypotonic hyponatremia accounts for most clinical cases of hyponatremia and can be treated with fluids. Acute hyponatremia (duration &lt; 48 hours) can be safely corrected more quickly than chronic hyponatremia. The treatment of hypertonic and pseudohyponatremia is directed at the underlying disorder in the absence of symptoms.</para>
+        <para>
+          <em>Intravenous fluids and water restriction</em>
+        </para>
+        <para>Administer isotonic saline to patients who are hypovolemic to replace the contracted intravascular volume. Patients with hypovolemia secondary to diuretics may also need potassium repletion, which, like sodium, is osmotically active.</para>
+        <para>Treat patients who are hypervolemic with salt and fluid restriction, plus loop diuretics, and correction of the underlying condition. The use of a V2 receptor antagonist may be considered.</para>
+        <para>For euvolemic, asymptomatic hyponatremic patients, free water restriction (&lt; 1 L/day) is generally the treatment of choice. There is no role for hypertonic saline in these patients.</para>
+        <para>When treating patients with overtly symptomatic hyponatremia (eg, seizures, severe neurologic deficits), hypertonic (3%) saline should be used.</para>
+        <para>
+          <em>Pharmacologic treatment</em>
+        </para>
+        <para>Conivaptan, a V1A and V2 vasopressin receptor antagonist, is available only for intravenous use and is approved for use in the hospital setting for euvolemic and hypervolemic hyponatremia. It is contraindicated in hypovolemic patients. It induces both a water and sodium diuresis with improvement in plasma sodium levels.</para>
+        <para>See <a href="http://emedicine.medscape.com/article/242166-treatment">Treatment</a> and <a href="http://emedicine.medscape.com/article/242166-medication">Medication</a> for more detail.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a5">
+      <title>Background</title>
+      <pgroup>
+        <para>Hyponatremia is an important and common electrolyte abnormality that can be seen in isolation or, as most often is the case, as a complication of other medical illnesses.</para>
+        <para>Sodium is the dominant extracellular cation and cannot freely cross the cell membrane. Its homeostasis is vital to the normal physiological function of cells. The normal serum sodium level is 135-145 mEq/L. Hyponatremia is defined as a serum level of less than 135 mEq/L and is considered severe when the serum level is below 125 mEq/L. Joint European guidelines classify hyponatremia in adults as follows<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup>:</para>
+        <itemizedlist>
+          <listitem>Mild - Serum sodium concentration 130-134 mmol/L</listitem>
+          <listitem>Moderate - Serum sodium concentration 125-129 mmol/L</listitem>
+          <listitem>Profound - Serum sodium concentration &lt;125 mmol/L</listitem>
+        </itemizedlist>
+        <para>This article reviews the epidemiology, pathophysiology, differential diagnosis, evaluation, and treatment of this disorder.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>Hypoosmolality (serum osmolality &lt; 280 mOsm/kg) always indicates excess total body water relative to body solutes or excess water relative to solute in the extracellular fluid (ECF), as water moves freely between the intracellular and the extracellular compartments. This imbalance can be due to solute depletion, solute dilution, or a combination of both.</para>
+        <para>Under normal conditions, renal handling of water is sufficient to excrete as much as 15-20 L of free water per day. Further, the body's response to a decreased osmolality is decreased thirst. Thus, hyponatremia can occur only when some condition impairs normal free water excretion.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>Generally, hyponatremia is of clinical significance only when it reflects a drop in the serum osmolality (ie, hypotonic hyponatremia), which is measured directly via osmometry or is calculated as 2(Na) mEq/L + serum glucose (mg/dL)/18 + BUN (mg/dL)/2.8. Note that urea is not an effective osmole, so when the urea levels are very high, the measured osmolality should be corrected for the contribution of urea.</para>
+        <para>The recommendations for treatment of hyponatremia rely on the current understanding of CNS adaptation to an altered serum osmolality. In the setting of an acute drop in the serum osmolality, neuronal cell swelling occurs due to the water shift from the extracellular space to the intracellular space (ie, Starling forces). Swelling of the brain cells elicits the following two osmoregulatory responses:</para>
+        <itemizedlist>
+          <listitem>
+            <para>It inhibits both arginine vasopressin secretion from neurons in the hypothalamus and hypothalamic thirst center. This leads to excess water elimination as dilute urine.</para>
+          </listitem>
+          <listitem>
+            <para>There is an immediate cellular adaptation with loss of electrolytes, and over the next few days, there is a more gradual loss of organic intracellular osmolytes.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+          </listitem>
+        </itemizedlist>
+        <para>Therefore, correction of hyponatremia must take into account the chronicity of the condition. Acute hyponatremia (duration &lt; 48 h) can be safely corrected more quickly than chronic hyponatremia. Correction of serum sodium that is too rapid can precipitate severe neurologic complications. Most individuals who present for diagnosis, versus individuals who develop it while in an inpatient setting, have had hyponatremia for some time, so the condition is chronic, and correction should proceed accordingly.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Frequency</title>
+      <pgroup>
+        <title>United States</title>
+        <para>The incidence of hyponatremia depends largely on the patient population and the criteria used to establish the diagnosis. Among hospitalized patients, 15-20% have a serum sodium level of &lt;135 mEq/L, while only 1-4% have a serum sodium level of less than 130 mEq/L. The prevalence of hyponatremia is lower in the ambulatory setting.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Mortality/Morbidity</title>
+      <pgroup>
+        <para>Severe hyponatremia (&lt; 125 mEq/L) has a high mortality rate. In instances when the serum sodium level is less than 105 mEq/L, the mortality is over 50%, especially in alcoholics.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>In patients with acute ST-elevation myocardial infarction, the presence of hyponatremia on admission or early development of hyponatremia is an independent predictor of 30-day mortality, and the prognosis worsens with the severity of hyponatremia.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>Similarly, cirrhotic patients with persistent ascites and a low serum sodium level awaiting transplant have a high mortality risk despite low severity (MELD) scores (see the <a href="http://reference.medscape.com/calculator/meld-score-end-stage-liver-disease">MELD Score calculator</a>). The independent predictors - ascites and hyponatremia - are findings indicative of hemodynamic decompensation.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Race</title>
+        <para>Hyponatremia affects all races.</para>
+      </pgroup>
+      <pgroup>
+        <title>Sex</title>
+        <para>No sexual predilection exists for hyponatremia. However, symptoms are more likely to occur in young women than in men.</para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>Hyponatremia is more common in elderly persons, because they have an increased incidence of comorbid conditions (eg, cardiac, hepatic, or renal failure) that can be complicated by it.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b1">
+      <title>History</title>
+      <pgroup>
+        <para>Patients may present to medical attention with symptoms related to low serum sodium concentrations. However, many patients present due to manifestations of other medical comorbidities, with hyponatremia being recognized only secondarily. For many people, therefore, the recognition is entirely incidental. Patients may develop clinical symptoms due to the cause of hyponatremia or the hyponatremia itself.</para>
+        <para>Many medical illnesses, such as congestive heart failure, liver failure, renal failure, or pneumonia, may be associated with hyponatremia. These patients frequently present because of primary disease symptomatology (eg, dyspnea, jaundice, uremia, and cough).<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+        <para>Symptoms range from nausea and malaise, with mild reduction in the serum sodium, to lethargy, decreased level of consciousness, headache, and (if severe) seizures and coma. Overt neurologic symptoms most often are due to very low serum sodium levels (usually &lt;115 mEq/L), resulting in intracerebral osmotic fluid shifts and brain edema. This neurologic symptom complex can lead to tentorial herniation with subsequent brain stem compression and respiratory arrest, resulting in death in the most severe cases.</para>
+        <para>The severity of neurologic symptoms correlates well with the rate and degree of the drop in serum sodium. A gradual drop in serum sodium, even to very low levels, may be tolerated well if it occurs over several days or weeks, because of neuronal adaptation. The presence of an underlying neurologic disease, like a seizure disorder, or nonneurologic metabolic abnormalities, like hypoxia, hypercapnia, or acidosis, also affects the severity of neurologic symptoms.</para>
+        <para>In interviewing the patient, obtaining a detailed medication history, including information on over-the-counter (OTC) drugs the patient has been using, is important because many medications may precipitate hyponatremia (eg, antipsychotic medications, diuretics). A dietary history with reference to salt, protein, and water intake is useful as well. For patients who are hospitalized, reviewing the records of parenteral fluids administered is crucial.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>Examination should include orthostatic vital signs and an accurate assessment of volume status. This determination (ie, hypervolemic, euvolemic, hypovolemic) often guides treatment decisions.</para>
+        <para>A full assessment for medical comorbidities is also essential, with particular attention paid to cardiopulmonary and neurologic components of the examination.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>Although the differential diagnosis is quite broad, hyponatremia can be divided into the following clinically useful groupings:</para>
+      </pgroup>
+      <pgroup>
+        <title>Hypertonic hyponatremia</title>
+        <para>Patients with hypertonic hyponatremia have normal total body sodium and a dilutional drop in the measured serum sodium due to the presence of osmotically active molecules in the serum, which causes a water shift from the intracellular compartment to the extracellular compartment.</para>
+        <para>Glucose produces a drop in the serum sodium level of 1.6 mEq/L for each 100 mg/dL of serum glucose greater than 100 mg/dL. This relationship is nonlinear, with greater reduction in plasma sodium concentrations with glucose concentrations over 400 mg/dL, making 2.4 mEq/L for each 100 mg/dL increase in glucose over 100 mg/dL a more accurate correction factor when the glucose is greater than 400 mg/dL.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+        <para>Other examples of osmotically active molecules include mannitol (often used to treat brain edema) or maltose (used with intravenous immunoglobulin administration).</para>
+      </pgroup>
+      <pgroup>
+        <title>Normotonic hyponatremia</title>
+        <para>Severe hyperlipidemia and paraproteinemia can lead to low measured serum sodium concentrations with normal serum osmolality. Normally, the plasma water comprises 92-94% of plasma volume. The plasma water fraction falls with an increase in fats and proteins. The measured sodium concentration in the total plasma volume is respectively reduced, although the plasma water sodium concentration and plasma osmolality are unchanged. This artifactual low sodium (so-called pseudohyponatremia) is secondary to measurement by flame photometry. It can be avoided by direct ion-selective electrode measurement.</para>
+        <para>Hyponatremia post-transurethral resection of the prostate (TURP) or hysteroscopy is caused by absorption of irrigants, glycine, sorbitol, or mannitol, contained in nonconductive flushing solutions used. The degree of hyponatremia is related to the quantity and rate of fluid absorbed. The plasma osmolality is also variable and changes over time.</para>
+        <para>The presence of a relatively large osmolal gap due to excess organic solute is diagnostic in the appropriate clinical setting. Symptomatic patients are treated depending on plasma osmolality and volume status with hypertonic saline in hypoosmolar state or loop diuretic in volume-overloaded patients with normal renal function.</para>
+        <para>Hemodialysis, which will correct the hyponatremia and remove glycine and its toxic metabolites, can be used in patients with end-stage renal disease. Use of isotonic saline as an irrigant instead of glycine with the new bipolar resectoscope for TURP in high-risk patients (with large prostates that require lengthy resection) could avoid this complication, making this disorder a diagnosis of the past.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Hypotonic hyponatremia</title>
+        <para>Hypotonic hyponatremia always reflects the inability of the kidneys to handle the excretion of free water to match intake. It can be divided pathophysiologically into the following categories, according to the effective intravascular volume: hypovolemic, hypervolemic, and euvolemic. These clinically relevant groupings aid in determination of likely underlying etiology and guide treatment.</para>
+        <para>
+          <em>Hypovolemic hypotonic hyponatremia</em>
+        </para>
+        <para>This usually indicates concomitant solute depletion, with patients presenting with orthostatic symptoms. The pathophysiology underlying hypovolemic hypotonic hyponatremia is complex and involves the interplay of carotid baroreceptors, the sympathetic nervous system, the renin-angiotensin system, antidiuretic hormone (ADH) secretion (vasopressin), and renal tubular function. In the setting of decreased intravascular volume (eg, severe hemorrhage or severe volume depletion secondary to GI or renal loss, or diuretic use) owing to a decreased stretch on the baroreceptors in the great veins, aortic arch, and carotid bodies, an increased sympathetic tone to maintain systemic blood pressure generally occurs.</para>
+        <para>This increased sympathetic tone, along with decreased renal perfusion secondary to intravascular volume depletion, results in increased renin and angiotensin excretion. This, in turn, results in increased sodium absorption in the proximal tubules of the kidney and consequent decreased delivery of solutes to distal diluting segments, causing an impairment of renal free water excretion. There also is a concomitant increase in serum ADH production that further impairs free water excretion. Because angiotensin is also a very potent stimulant of thirst, free water intake is increased, and, at the same time, water excretion is limited. Together, these changes lead to hyponatremia.</para>
+        <para>Cerebral salt wasting (CSW) is seen with intracranial disorders, such as subarachnoid hemorrhage, carcinomatous or infectious meningitis, and metastatic carcinoma, but especially after neurologic procedures. Disruption of sympathetic neural input into the kidney, which normally promotes salt and water reabsorption in the proximal nephron segment through various indirect and direct mechanisms, might cause renal salt wasting, resulting in reduced plasma volume. Plasma renin and aldosterone levels fail to rise appropriately in patients with CSW despite a reduced plasma volume because of disruption of the sympathetic nervous system. In addition, the release of 1 or more natriuretic factors could also play a role in the renal salt wasting seen in CSW. Volume depletion leads to an elevation of plasma vasopressin levels and impaired free water excretion.</para>
+        <para>Distinguishing between CSW and syndrome of inappropriate ADH secretion (SIADH) can be challenging, because there is considerable overlap in the clinical presentation. Vigorous salt replacement is required in patients with CSW, whereas fluid restriction is the treatment of choice in patients with SIADH. Infusion of isotonic saline to correct the volume depletion is usually effective in reversing the hyponatremia in cerebral salt wasting, since euvolemia will suppress the release of ADH. The disorder is usually transient, with resolution occurring within 3-4 weeks of disease onset.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+        <para>Salt-wasting nephropathy causing hypovolemic hyponatremia may rarely develop in a range of renal disorders (eg, interstitial nephropathy, medullary cystic disease, polycystic kidney disease, partial urinary obstruction) with low salt intake.</para>
+        <para>Diuretics may induce hypovolemic hyponatremia. Note that thiazide diuretics, in contrast to loop diuretics, impair the diluting mechanism without limiting the concentrating mechanism, thereby impairing the ability to excrete a free water load. Thus, thiazides are more prone to causing hyponatremia than are loop diuretics. This is particularly so in elderly persons, who already have impaired diluting ability.</para>
+        <para>
+          <em>Hypervolemic hypotonic hyponatremia</em>
+        </para>
+        <para>This is characterized by clinically detectable edema or ascites that signifies an increase in total body water and sodium. Paradoxically, however, a decrease in the effective circulating volume, critical for tissue perfusion, stimulates the same pathophysiologic mechanism of impaired water excretion by the kidney that is observed in hypovolemic hypotonic hyponatremia. Commonly encountered examples include liver cirrhosis, congestive heart failure, nephrotic syndrome, and severe hypoproteinemia (albumin level &lt;1.5-2 g/dL).</para>
+        <para>
+          <em>Normovolemic (euvolemic) hypotonic hyponatremia</em>
+        </para>
+        <para>This is a very common cause of hyponatremia in patients who are hospitalized. It is associated with nonosmotic and nonvolume related vasopressin (ADH) secretion (ie, SIADH) secondary to a variety of clinical conditions, including CNS disturbances, major surgery, trauma, pulmonary tumors, infection, stress, and certain medications.</para>
+        <para>Common medications associated with SIADH are as follows: chlorpropamide (potentiating renal action of ADH), carbamazepine (possesses antidiuretic property), cyclophosphamide (marked water retention secondary to SIADH and potentially fatal hyponatremia may ensue in selected cases; use of isotonic saline rather than free water to maintain a high urine output to prevent hemorrhagic cystitis can minimize the risk), vincristine, vinblastine, amitriptyline, haloperidol, selective serotonin reuptake inhibitors (particularly in elderly patients), and monoamine oxidase (MAO) antidepressants. In these circumstances, the ability of the kidney to dilute urine in the setting of serum hypotonicity is reduced.</para>
+        <para>Hyponatremia is a relatively common adverse effect of desmopressin, a vasopressin analogue that acts as a pure V2 agonist. Its common use in the treatment of central diabetes insipidus, von Willebrand disease, and nocturia in adults and of enuresis in children requires regular monitoring of serum sodium levels.</para>
+        <para>The diagnostic criteria for SIADH are as follows:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Normal hepatic, renal, and cardiac function - clinical euvolemia (absence of intravascular volume depletion)</para>
+          </listitem>
+          <listitem>
+            <para>Normal thyroid and adrenal function</para>
+          </listitem>
+          <listitem>
+            <para>Hypotonic hyponatremia</para>
+          </listitem>
+          <listitem>
+            <para>Urine osmolality greater than 100 mOsm/kg, generally greater than 400-500 mOsm/kg with normal renal function</para>
+          </listitem>
+        </itemizedlist>
+        <para>Urinary sodium concentrations are also typically greater than 20 mEq/L on a normal salt diet as sodium excretion will reflect dietary sodium intake. Serum uric acid levels are generally reduced; this is due to reduced tubular uric acid reabsorption, which parallels the decrease in proximal tubular sodium reabsorption associated with central volume expansion. These findings are also found in a renal salt wasting process. This similarity makes the differentiation between salt wasting and SIADH difficult except that in renal wasting, one would expect to find a hypovolemic state.</para>
+        <para>Reset osmostat is another important cause of normovolemic hypotonic hyponatremia. This may occur in elderly patients and during pregnancy. These patients regulate their serum osmolality around a reduced set point; however, in contrast to patients with SIADH (who also have a downward resetting of the osmotic threshold for thirst),<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup>they are able to dilute their urine in response to a water load to keep the serum osmolality around the preset low point.</para>
+        <para>Severe hypothyroidism (unknown mechanism, possibly secondary to low cardiac output and glomerular filtration rate) and adrenal insufficiency are also associated with nonosmotic vasopressin release and impaired sodium reabsorption, leading to hypotonic hyponatremia. Hyponatremia associated with cortisol deficiency, such as primary or secondary hypoadrenalism, commonly presents subtly and may go undiagnosed. A random cortisol level check, especially in acute illness, can be misleading if the level is normal (when it should be high). Testing for adrenal insufficiency and hypothyroidism should be part of the hyponatremic workup, as the disorders respond promptly to hormone replacement. Depending on the etiology, mineralocorticoid will also need replacement.</para>
+        <para>Hospitalized patients who are infected with human immunodeficiency virus (HIV) have a high incidence of hyponatremia. In these individuals, hyponatremia is usually due to at least one of the following three disorders associated with an increased ADH level:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Increased release of ADH due to malignancy, to occult or symptomatic infection of the central nervous system, or to pneumonia resulting from infection with <em>Pneumocystis carinii</em> or other organisms.</para>
+          </listitem>
+          <listitem>
+            <para>Effective volume depletion secondary to fluid loss from the gastrointestinal tract, due primarily to infectious diarrhea.</para>
+          </listitem>
+          <listitem>
+            <para>Adrenal insufficiency often due to an adrenalitis, an abnormality that may be infectious in origin, perhaps being induced by cytomegalovirus, <em>Mycobacterium avium-intracellulare</em>, or HIV itself. Affected patients have a high risk of morbidity and mortality.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Other causes</title>
+        <para>There are other causes that do not fit neatly in any of the above categories and may or may not be associated with elevated levels of ADH or simply overwhelm the capacity of the kidneys to properly excrete excess water.</para>
+        <para>The most common precipitant of hyponatremia in patients after surgery<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup>is the iatrogenic infusion of hypotonic fluids. Inappropriate administration of hypotonic intravenous fluids after surgery increases the risk of developing hyponatremia in these vulnerable patients, who retain water due to nonosmotic release of ADH, which is typically elevated for a few days after most surgical procedures. Hospital-acquired acute hyponatremia is disturbingly common also among hospitalized children and adults.</para>
+        <para>Severe malnutrition seen in weight-conscious women (low protein, high water intake diet) is a special condition in which a markedly decreased intake of solutes occurs, which limits the ability of the kidney to handle the free water. Because a mandatory solute loss of 50-100 mOsm/kg of urine exists, free water intake in excess of solute needs can produce hyponatremia.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>Another example is beer drinker's potomania, because a diet consisting primarily of beer is rich in free water but solute poor.</para>
+        <para>Compulsive intake of large amounts of free water exceeding the diluting capacity of the kidneys (&gt;20 L/d), even with a normal solute intake of 600-900 mOsm/d, may also result in hyponatremia, but in contrast to SIADH, the urine is maximally dilute. In addition to a central defect in thirst regulation, which plays an important role in the pathogenesis of primary polydipsia, different abnormalities in ADH regulation have been identified in psychotic patients, all impairing free water excretion. Transient stimulation of ADH release during acute psychotic episodes, an increase in the net renal response to ADH, downward resetting of the osmostat, and antipsychotic medication may contribute. Limiting water intake will rapidly raise the plasma sodium concentration as the excess water is readily excreted in dilute urine<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup></para>
+        <para>Acute hyponatremia is associated with ultra-endurance athletes and marathon runners. With women making up a higher percentage, the strongest single predictor is weight gain during the race correlating with excessive fluid intake. Longer racing time and body mass index extremes are also associated with hyponatremia, whereas the composition of fluids consumed (plain water rather than sports drinks containing electrolytes) is not. Oxidization of glycogen and triglyceride during a race is associated with the production of "bound" water, which then becomes an endogenous, electrolyte-free water infusion contributing to hyponatremia induced by water ingestion in excess of water losses.</para>
+        <para>It should be noted, some collapsed runners are normonatremic or even hypernatremic,<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup>making blanket recommendations difficult. However, fluid intake to the point of weight gain should be avoided.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20, <ref_inline id="refsrc21" name="refsrc21"/>21] </sup>Athletes should rely on thirst as their guide for fluid replacement and avoid fixed, global recommendations for water intake. Symptomatic hyponatremic patients should receive 100 mL of 3% sodium chloride over 10 minutes in the field before transportation to hospital. This maneuver should raise the plasma sodium concentration an average of 2-3 mEq/L.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup></para>
+        <para>Nonsteroidal anti-inflammatory drug (NSAID) use may increase the risk of development of hyponatremia by strenuous exercise by inhibiting prostaglandin formation. Prostaglandins have a natriuretic effect. Prostaglandin depletion increases NaCl reabsorption in the thick ascending limb of Henle (ultimately increasing medullary tonicity) and ADH action in the collecting duct, leading to impaired free water excretion.<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23] </sup></para>
+        <para>Symptomatic and potentially fatal hyponatremia can develop with rapid onset after ingestion of the designer drug ecstasy (methylenedioxymethamphetamine, or MDMA), an amphetamine. A marked increase in water intake via direct thirst stimulation, as well as inappropriate secretion of ADH, contributes to the hyponatremia seen with even small amount of drug intake.</para>
+        <para>Nephrogenic syndrome of inappropriate antidiuresis (or NSIAD) is an SIADH-like clinical and laboratory picture seen in male infants who present with neurologic symptoms secondary to hyponatremia but who have undetectable plasma arginine vasopressin (AVP) levels. This hereditary disorder is secondary to mutations in the V2 vasopressin receptor, resulting in constitutive activation of the receptor with elevated cAMP production in the collecting duct principle cells. Treatment of NSIAD poses a challenge. Water restriction improves serum sodium levels and osmolality in infants, but it limits calorie intake in these formula-fed infants. The use of demeclocycline or lithium is potentially limited because of adverse effects. The current therapy of choice is fluid restriction and the use of oral urea to induce an osmotic diuresis.<sup>[<ref_inline id="refsrc24" name="refsrc24"/>24] </sup></para>
+        <para>Hyponatremic hypertensive syndrome, a rare condition, consists of severe hypertension associated with renal artery stenosis, hyponatremia, hypokalemia, severe thirst, and renal dysfunction characterized by natriuresis, hypercalciuria, renal glycosuria, and proteinuria. Angiotensin-mediated thirst coupled with nonosmotic release of vasopressin provoked by angiotensin II and/or hypertensive encephalopathy are likely mechanisms for this syndrome. Sodium depletion due to pressure natriuresis and potassium depletion due to hyperaldosteronism with high plasma renin activity are also likely to play a role in the pathogenesis of hyponatremia. The abnormalities resolve with correction of the renal artery stenosis.<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup></para>
+        <para>Using a retrospective case note analysis, an Irish study examined the incidence of hyponatremia in a variety of neurologic conditions.<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup>The investigators found that the occurrence of hyponatremia was greater in persons with subarachnoid hemorrhage (62 out of 316 patients, or 19.6%; <em>P</em> &lt;0.001), intracranial neoplasm (56 out of 355 patients, or 15.8%; <em>P</em> &lt;0.001), traumatic brain injury (44 out of 457 patients, or 9.6%; <em>P</em> &lt;0.001), and pituitary disorders (5 out of 81 patients, or 6.25%; <em>P</em> = 0.004) than it was in patients with spinal disorders (4 out of 489 patients, or 0.81%).</para>
+        <para>The investigators also determined that the median hospital stay for patients with hyponatremia was 19 days, compared with a median stay of 12 days for the study's other patients.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <intro>
+      <title>Diagnostic Considerations</title>
+      <para>Other problems to consider in the differential diagnosis are as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Hyperlipidemia</para>
+        </listitem>
+        <listitem>
+          <para>Paraproteinemia</para>
+        </listitem>
+        <listitem>
+          <para>Pseudohyponatremia</para>
+        </listitem>
+      </itemizedlist>
+    </intro>
+    <ddlist>
+      <dditem ref="116716">
+        <title>Adrenal Crisis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="285913">
+        <title>Alcoholism</title>
+        <desc/>
+      </dditem>
+      <dditem ref="157452">
+        <title>Cardiogenic Pulmonary Edema</title>
+        <desc/>
+      </dditem>
+      <dditem ref="185856">
+        <title>Cirrhosis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="122393">
+        <title>Hypothyroidism</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c6">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>There are three essential laboratory tests in the evaluation of patients with hyponatremia that, together with the history and the physical examination, help to establish the primary underlying etiologic mechanism. (In general, the etiology of the hyponatremia directs its management.) These tests are as follows</para>
+        <itemizedlist>
+          <listitem>
+            <para>Urine osmolality</para>
+          </listitem>
+          <listitem>
+            <para>Serum osmolality</para>
+          </listitem>
+          <listitem>
+            <para>Urinary sodium concentration</para>
+          </listitem>
+        </itemizedlist>
+        <para>Urine osmolality helps to differentiate between conditions associated with impaired free water excretion and primary polydipsia, in which water excretion should be normal (provided intact kidney function). With primary polydipsia, as with malnutrition (severe decreased solids intake) and a reset osmostat, the urine osmolality is maximally dilute, generally less than 100 mOsm/kg. A urine osmolality greater than 100 mOsm/kg indicates impaired ability of the kidneys to dilute the urine. This usually is secondary to elevated vasopressin (antidiuretic hormone; ADH) levels, appropriate or inappropriate.</para>
+        <para>Serum osmolality readily differentiates between true hyponatremia and pseudohyponatremia secondary to hyperlipidemia, hyperproteinemia, or hypertonic hyponatremia. Sources of hypertonic hyponatremia include elevations of the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Glucose</para>
+          </listitem>
+          <listitem>
+            <para>Mannitol</para>
+          </listitem>
+          <listitem>
+            <para>Glycine (after urologic or gynecologic procedures)</para>
+          </listitem>
+          <listitem>
+            <para>Sucrose</para>
+          </listitem>
+          <listitem>
+            <para>Maltose (contained in IgG formulations)</para>
+          </listitem>
+        </itemizedlist>
+        <para>Urinary sodium concentration helps to differentiate between hyponatremia secondary to hypovolemia and the <a href="http://emedicine.medscape.com/article/246650-overview" target="_self">syndrome of inappropriate ADH secretion</a> (SIADH). With SIADH (and salt-wasting syndrome), the urine sodium is greater than 20-40 mEq/L. With hypovolemia, the urine sodium typically measures less than 25 mEq/L. However, if sodium intake in a patient with SIADH (or salt-wasting) happens to be low, then urine sodium may fall below 25 mEq/L.</para>
+      </pgroup>
+      <pgroup>
+        <title>Ancillary tests</title>
+        <para>Serum uric acid levels can be important supportive information (they are typically reduced in SIADH and also reduced in salt wasting). After correction of hyponatremia, the hypouricemia corrects in SIADH but remains with a salt-wasting process.</para>
+        <para>Thyroid-stimulating hormone (TSH) and serum cortisol levels should be measured if hypothyroidism or hypoadrenalism is suspected.</para>
+        <para>Serum albumin, triglycerides, and a serum protein electrophoresis also may be indicated for particular patients.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>Head computed tomography (CT) scanning and chest radiography can be used to assess for an underlying etiology in select patients with suspected SIADH or cerebral salt wasting.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d1">
+      <title>Approach Considerations</title>
+      <pgroup>
+        <para>The recommendations for treatment of hyponatremia rely on the current understanding of the central nervous system (CNS) adaptation to an alteration in serum osmolality. In the setting of an acute fall in the serum osmolality, neuronal cell swelling occurs due to the water shift from the extracellular space to the intracellular space (ie, Starling forces). Therefore, correction of hyponatremia should take into account the limited capacity of this adaptation mechanism to respond to acute alteration in the serum tonicity, because the degree of brain edema and consequent neurologic symptoms depend as much on the rate and duration of hypotonicity as they do on its magnitude.</para>
+        <para>A panel of United States experts on hyponatremia issued guidelines on the diagnosis, evaluation, and treatment of hyponatremia in 2007; the guidelines were updated in 2013.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup>For treatment of symptomatic patients with acute hyponatremia (ie, with a known duration of &lt;24-48 hours), the panel recommended urgent correction by 4-6 mmol/L to prevent brain herniation and neurological damage from cerebral ischemia. Recommended treatment of acute hyponatremia varies by symptom severity, as follows:</para>
+        <itemizedlist>
+          <listitem>Severe symptoms: 100 mL of 3% NaCl infused intravenously over 10 minutes × 3 as needed</listitem>
+          <listitem>Mild to moderate symptoms, in patients at low risk for herniation: 3% NaCl infused at 0.5–2 mL/kg/h</listitem>
+        </itemizedlist>
+        <para>To avoid osmotic demyelination syndrome (ODS) in patients with chronic hyponatremia (known duration &gt;48 hours), the recommendations include the following<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup>:</para>
+        <itemizedlist>
+          <listitem>Minimum correction of serum sodium by 4-8 mmol/L per day, with a lower goal of 4-6 mmol/L per day if the risk of ODS is high</listitem>
+          <listitem>For patients at high risk of ODS: maximum correction of 8 mmol/L in any 24-hour period</listitem>
+          <listitem> For patients at normal risk of ODS: maximum correction of 10-12 mmol/L in any 24-hour period; 18 mmol/L in any 48-hour period</listitem>
+        </itemizedlist>
+        <para>For patients with inappropriate antidiuretic hormone secretion (SIADH), fluid restriction (with a goal of 500 mL/d below the 24-hour urine volume) is generally first-line therapy, but pharmacologic treatment should be strongly considered if the patient's urinary parameters indicate low renal electrolyte-free water excretion or if the serum sodium concentration does not correct after 24-48 hours of fluid restriction. Pharmacologic options include demeclocycline (off label use), urea, and vasopressin receptor antagonists (vaptans). Vaptans should not be used in hypovolemic hyponatremia, or in conjunction with other treatments for hyponatremia.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+        <para>The European Society of Intensive Care Medicine, the European Society of Endocrinology, and the European Renal Association–European Dialysis and Transplant Association have released guidelines on the diagnosis, classification, and treatment of true hypotonic hyponatremia. Treatment recommendations include the following<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup>:</para>
+        <itemizedlist>
+          <listitem>For serious symptomatic hyponatremia, the first line of treatment is prompt intravenous infusion of hypertonic saline, with a target increase of 6 mmol/L over 24 hours (not exceeding 12 mmol/L) and an additional 8 mmol/L during every 24 hours thereafter until the patient’s serum sodium concentration reaches 130 mmol/L</listitem>
+          <listitem>First-line treatment for patients with SIADH and moderate or profound hyponatremia should be fluid restriction; second-line treatments include increasing solute intake with 0.25–0.50 g/kg per day of urea or combined treatment with low-dose loop diuretics and oral sodium chloride</listitem>
+          <listitem>For patients with reduced circulating volume, extracellular volume should be restored with an intravenous infusion of 0.9% saline or a balanced crystalloid solution at 0.5 to 1.0 mL/kg per hour</listitem>
+          <listitem>Lithium, demeclocycline, and vaptans are not recommended for patients with moderate or profound hyponatremia</listitem>
+        </itemizedlist>
+        <para>Consultation with either a nephrologist or a critical care specialist is often of considerable value in managing patients with symptomatic or refractory hyponatremia.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d7">
+      <title>Medical Care</title>
+      <pgroup>
+        <title>Intravenous fluids and water restriction</title>
+        <para>When faced with a patient with hyponatremia, the first decision is what type of fluid, if any, should be given. The treatment of hypertonic and pseudohyponatremia is directed at the underlying disorder in the absence of symptoms.</para>
+        <para>Hypotonic hyponatremia accounts for most clinical cases of hyponatremia. The first step in the approach and evaluation of hypotonic hyponatremia is to determine whether emergency therapy is warranted. The following three factors guide treatment:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Patient's volume status</para>
+          </listitem>
+          <listitem>
+            <para>Duration and magnitude of the hyponatremia</para>
+          </listitem>
+          <listitem>
+            <para>Degree and severity of clinical symptoms</para>
+          </listitem>
+        </itemizedlist>
+        <para>For the asymptomatic patient, the following treatments may be of use:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Hypovolemic hyponatremia: Administer isotonic saline to patients who are hypovolemic to replace the contracted intravascular volume (thereby treating the cause of vasopressin release). Patients with hypovolemia secondary to diuretics may also need potassium repletion, which, like sodium, is osmotically active. Correction of volume repletion turns off the stimulus to ADH secretion, so a large water diuresis may ensue, leading to a more rapid correction of hyponatremia than desired. If so, hypotonic fluid such as D5/½ normal saline may need to be administered (see below under normovolemic hyponatremia for guidelines).</para>
+          </listitem>
+          <listitem>
+            <para>Hypervolemic hyponatremia: Treat patients who are hypervolemic with salt and fluid restriction, plus loop diuretics, and correction of the underlying condition. The use of a V2 receptor antagonist may be considered (see below).</para>
+          </listitem>
+        </itemizedlist>
+        <para>For normovolemic (euvolemic), asymptomatic hyponatremic patients, free water restriction (&lt;1 L/d) is generally the treatment of choice. There is no role for hypertonic saline in these patients. Base the volume of restriction on the patient's renal diluting capacity. For instance, fluid restriction to 1 L/d, which is enough to raise the serum sodium in some patients, may exceed the renal free water excretion capacity in others, necessitating more severe restriction. This approach is recommended as initial treatment for patients with asymptomatic SIADH. However, many patients will not adhere to fluid restriction. Further, the definition of asymptomatic is changing due to the recognition that subtle but significant deficits, such as in gait, may be present. Therefore, pharmacologic treatment may be considered (see below).</para>
+        <para>When treating patients with overtly symptomatic hyponatremia (eg, seizures, severe neurological deficits), hypertonic (3%) saline should be used. There is no place in the initial treatment for aquaretics (see below). Note that normal saline can exacerbate hyponatremia in patients with SIADH, who may excrete the sodium and retain the water. A liter of normal saline contains 154 mEq sodium chloride (NaCl) and 3% saline has 513 mEq NaCl. Management decisions should also factor in ongoing renal free water and solute losses. Alternately, the combination of intravenous normal saline and diuresis with a loop diuretic (eg, furosemide) also elevates the serum sodium concentration. This latter approach is often useful for patients with high urine osmolality, because the loop diuretic acts to reduce urine osmolality. Concomitant use of loop diuretics increases free water excretion and decreases the risk of fluid overload.</para>
+        <para>The following equation helps to estimate an expected change in serum sodium (Na) with respect to characteristics of infusates used<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup>: Change in serum Na = [(infusate Na + infusate K) - serum Na] / [Total body water +1]</para>
+        <para>During therapy, close monitoring of serum electrolytes (ie, every 2-4 h) to avoid overcorrection is essential.</para>
+        <para>Acute hyponatremia (duration &lt; 48 h) can be safely corrected more quickly than chronic hyponatremia. A severely symptomatic patient with acute hyponatremia is in danger from brain edema. In contrast, a symptomatic patient with chronic hyponatremia is more at risk from rapid correction of hyponatremia. Overly rapid correction of serum sodium can precipitate severe neurologic complications, such as central pontine myelinosis, which can produce spastic quadriparesis, swallowing dysfunction, pseudobulbar palsy, and mutism. A symptomatic patient with unknown duration of hyponatremia is the most challenging, warranting a prompt but controlled and limited correction of hyponatremia, until symptoms resolve. However,  fear of osmotic demyelination should not deter prompt and definitive treatment.</para>
+        <para>With patients who are acutely symptomatic (duration &lt;48 h, such as after surgery), the treatment goal is to increase the serum sodium level by approximately 1-2 mEq/L/h for 3-4 hours, until the neurologic symptoms subside or until plasma sodium concentration is over 120 mEq/L.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup>Other authors recommend an even more rapid correction.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+        <para>In chronic, severe symptomatic hyponatremia, the rate of correction should not exceed 0.5-1 mEq/L/h, with a total increase not to exceed 8-12 mEq/L/d and no more than 18 mEq/L in the first 48 h. The sodium concentration must be corrected to a safe range (usually to no greater than 120 mEq/L) rather than to a normal value. As noted above, spontaneous diuresis secondary to ADH suppression with intravascular volume repletion could lead to unintended overcorrection.</para>
+      </pgroup>
+      <pgroup>
+        <title>Pharmacologic treatment</title>
+        <para>Pharmacologic agents can be used in some cases of more refractory SIADH, allowing more liberal fluid intake. Demeclocycline has been the drug of choice to increase the diluting capacity of the kidneys, by achieving vasopressin antagonism and a functional diabetes insipidus. This treatment requires 3-4 days for maximal effect. Demeclocycline is contraindicated in cirrhotic patients. Other agents, such as lithium, have been used with variable success. Lithium is also associated with several untoward effects, including thyroid dysfunction, interstitial kidney disease, and, in overdosage, CNS dysfunction, which make its use problematic. The treatment of psychogenic polydipsia can be difficult and may require psychiatric, pharmacologic, and fluid intervention.</para>
+        <para>
+          <em>Aquaretics</em>
+        </para>
+        <para>A new class of drugs, AVP receptor antagonists, designed specifically to promote aquaresis (ie, electrolyte-sparing excretion of free water), has been evaluated in clinical trials for the treatment of hyponatremia.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31] </sup>The first agent to be approved was conivaptan, a V1A and V2 vasopressin receptor antagonist. It is available only for intravenous use and is approved for use in the hospital setting for euvolemic and hypervolemic hyponatremia. It is contraindicated in hypovolemic patients. It induces both a water and sodium diuresis with improvement in plasma sodium levels. Most of the clinical experience has been in heart failure. It is effective in raising serum sodium levels; however, conivaptan has not been shown to improve heart failure per se. Close monitoring of the rate of correction is needed and is approved for treatment for only 4 days.</para>
+        <para>In addition, the effects in patients with renal and hepatic impairment have not been well studied and caution is advised with use in this population. There are several drug interactions that need close monitoring and the use of conivaptan with CYP3A4 inhibitors is contraindicated.</para>
+        <para>Tolvaptan, a selective V2 receptor antagonist, can be taken orally and has been approved for use in the treatment of euvolemic and hypervolemic hyponatremia, including cases associated with cirrhosis and heart failure. Tolvaptan treatment must be initiated in the hospital to avoid the possibility of too rapid correction (although there have not been reported cases). It shows great promise but because of the requirement for hospitalization for initiation or reintroduction and the expense of the drug, its use at this time is limited. It also interacts with CYP3A inhibitors and use with such drugs is contraindicated. In April 2013, the FDA limited use of tolvaptan to no more than 30 days and indicated that it should not be used in patients with underlying liver disease. This decision was based on reports of liver injury, including those potentially leading to liver transplant or death.<sup>[<ref_inline id="refsrc32" name="refsrc32"/>32] </sup></para>
+        <para>The use of these vaptans is limited and exact benefits have yet to be determined. There are reports that even mild hyponatremia can cause gait instability and possibly increase the risk of falls and hip fractures. In this setting, vaptans may be beneficial to improve hyponatremia and gait.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d9">
+      <title>Diet</title>
+      <pgroup>
+        <para>Free water restriction often is appropriate for patients with normovolemic hypotonic hyponatremia.</para>
+        <para>Individuals who are undernourished need to maintain an appropriate solute intake. In fact, in patients with SIADH, a high protein intake increases the solute load for excretion, thereby removing more free water. Although unpalatable, oral urea has been used to achieve the same effect.</para>
+        <para>Patients with hyperglycemia or hyperlipidemia should receive appropriate nutritional counseling.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>The primary treatments used in the management of hyponatremic patients rely on the use of intravenous sodium-containing fluids (normal saline or hypertonic saline) and fluid restriction. Less commonly, loop diuretics (eg, furosemide) or demeclocycline are used. A new class of drugs, AVP receptor antagonists (eg, conivaptan), is now available.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31] </sup></para>
+    </intro>
+    <cgroup id="135671">
+      <title>Diuretics</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Loop diuretics occasionally are used in patients with hyponatremia to increase renal free water excretion.</para>
+      </intro>
+      <drug did="342423" name="Furosemide (Lasix)" uri="lasix-furosemide-342423">
+        <title>Furosemide (Lasix)</title>
+        <para>High-ceiling diuretic with a prompt onset of action that acts upon ascending limb of loop of Henle to inhibit sodium/potassium/chloride cotransport system, thereby increasing solute delivery to distal renal tubules, which acts to increase free water excretion. This can lead to increased aldosterone production, resulting in increased sodium absorption. Absorbed readily from the GI tract and also available in parenteral preparations. Diuresis begins 30-60 min with oral vs 5 min with IV administration. Potassium excretion also is increased. Elderly patients may have greater sensitivity to effects of furosemide. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="135672">
+      <title>Antibiotics</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Certain antibiotics may affect renal ADH action.</para>
+      </intro>
+      <drug did="342551" name="Demeclocycline (Declomycin)" uri="declomycin-demeclocycline-342551">
+        <title>Demeclocycline (Declomycin)</title>
+        <para>Can cause insensitivity of distal renal tubules to the action of ADH and produce a nephrogenic diabetes insipidus. Effects are seen within 5 days and are reversed within 2-6 days following cessation of therapy. </para>
+      </drug>
+    </cgroup>
+    <cgroup id="135673">
+      <title>Arginine Vasopressin Antagonists</title>
+      <intro>
+        <title>Class Summary</title>
+        <para>Treats hyponatremia through V2 antagonism of AVP in the renal collecting ducts. This effect results in aquaresis (excretion of free water).<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30, <ref_inline id="refsrc31" name="refsrc31"/>31] </sup></para>
+      </intro>
+      <drug did="342808" name="Conivaptan (Vaprisol)" uri="vaprisol-conivaptan-342808">
+        <title>Conivaptan (Vaprisol)</title>
+        <para>Arginine vasopressin antagonist (V1A, V2) indicated for euvolemic (dilutional) and hypervolemic hyponatremia. Increases urine output of mostly free water, with little electrolyte loss. Over 80% of conivaptan excreted in feces and the rest in urine. </para>
+      </drug>
+      <drug did="999103" name="Tolvaptan (Samsca)" uri="samsca-tolvaptan-999103">
+        <title>Tolvaptan (Samsca)</title>
+        <para>Selective vasopressin V2-receptor antagonist. Indicated for hypervolemic and euvolemic hyponatremia (ie, serum sodium level &lt; 125 mEq/L) or less-marked hyponatremia that is symptomatic and has resisted correction with fluid restriction. Used for hyponatremia associated with congestive heart failure, liver cirrhosis, and syndrome of inappropriate antidiuretic hormone secretion. Initiate or reinitiate in hospital environment only. Duration of use is limited to 30 days to minimize risk of liver injury. </para>
+      </drug>
+    </cgroup>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e2">
+      <title>Further Inpatient Care</title>
+      <pgroup>
+        <para>Patients with hyponatremia from any cause require close attention to their electrolyte and fluid status.</para>
+        <para>Patients with symptomatic hyponatremia who are being actively treated often require several daily measurements of serum sodium to avoid a rate of correction that is too rapid.</para>
+        <para>After acute treatment, follow-up generally is dictated by the underlying etiology of the hyponatremia.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e3">
+      <title>Complications</title>
+      <pgroup>
+        <para>Clinical manifestations include clouding of consciousness, confusion, stupor, or coma. Seizures commonly occur with rapid reductions in serum sodium or with serum sodium concentrations of less than 115-120 mEq/L.</para>
+        <para>For unknown reasons, premenopausal women seem to have a less efficient osmotic adaptation. This increases their susceptibility to severe hyponatremia and rapid progression from minimal symptoms (eg, headache, nausea) to respiratory arrest. Cerebral edema and herniation have been found at autopsy.<sup>[<ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+        <para>Correction of hyponatremia that is too rapid may cause permanent neurologic impairment. Central pontine myelinolysis (CPM) and extrapontine myelinolysis (EPM), complications of excessive correction of chronic hyponatremia, are now diagnosed by diffusion-weighted magnetic resonance imaging (MRI). Of note is that conventional CT and MRI scan findings typically lag behind the clinical manifestations of myelinosis by 2-4 weeks.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34] </sup></para>
+        <para>The clinical course of these patients features initial encephalopathy secondary to hyponatremia, then improvement as the plasma Na concentration increases, and finally deterioration several days later. The disorder can resolve completely or result in permanent disability or death. This typical clinical course has been called the osmotic demyelination syndrome (ODS). The clinical neurologic picture may be confusing, as it may include a variety of findings from psychiatric, behavioral, and movement disorders, such as dysphagia and flaccid or spastic quadriparesis, depending on the involvement of extrapontine or central pontine myelinolysis. Disruption of the blood-brain barrier is presumed to play an important role in the pathogenesis of osmotic demyelination.</para>
+        <para>An increased susceptibility to osmotic demyelination is also observed in cirrhotic patients. In this setting, myoinositol, the most abundant organic osmolyte, is depleted because of glutamine- and hyponatremia-induced brain cell swelling. CPM is a common and often fatal complication of orthotopic liver transplantation, affecting up to 10% of patients who were hyponatremic prior to transplant.<sup>[<ref_inline id="refsrc35" name="refsrc35"/>35] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e4">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>The prognosis for patients with hyponatremia is predicated upon the underlying etiology. A study by Doshi et al found that hyponatremia among patients with cancer is associated with extended hospital stays and higher mortality rates; however, whether long-term correction of hyponatremia would improve these outcomes is unclear.<sup>[<ref_inline id="refsrc36" name="refsrc36"/>36] </sup></para>
+        <para>A meta-analysis of 15 studies encompassing 13,816 patients found that any improvement in hyponatremia was associated with a reduced risk of overall mortality (odds ratio [OR]=0.57). With the eight studies that reported a threshold for serum sodium improvement to &gt;130 mmol/L, the association was even stronger (OR=0.51). The reduction in mortality risk persisted at 12-month follow-up (OR=0.55). Reduced mortality was more evident in older patients and in patients with lower serum sodium levels at enrollment.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+        <para> </para>
+        <para> </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Patient Education</title>
+      <pgroup>
+        <para>Patients to be treated with a fluid restriction often require education regarding the free water content of foods and an explanation of the need to limit the intake of liquids to a predetermined level.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="37731">
+        <title>Central pontine myelinolysis, MRI FLAIR </title>
+        <caption>Central pontine myelinolysis, MRI FLAIR </caption>
+        <graphic fileref="/31/37731.jpg" format="IMAGE" id="37731" extension_format="JPG"/>
+        <graphic fileref="/31/37731tn.jpg" format="IMAGE_THUMB" id="37731"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="37732">
+        <title>Extrapontine myelinolysis T2 </title>
+        <caption>Extrapontine myelinolysis T2 </caption>
+        <graphic fileref="/32/37732.jpg" format="IMAGE" id="37732" extension_format="JPG"/>
+        <graphic fileref="/32/37732tn.jpg" format="IMAGE_THUMB" id="37732"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Eric E Simon, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Medicine, Chief, Section of Nephrology and Hypertension, Tulane University School of Medicine; Director, Nephrology Training, Medical Director, Dialysis Clinic, Inc, Canal Street</contrbtr_title>
+        <contrbtr_bio>Eric E Simon, MD is a member of the following medical societies: <a href="http://www.afmr.org">American Federation for Medical Research</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://www.the-aps.org">American Physiological Society</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.theisn.org">International Society of Nephrology</a>, <a href="http://www.kidney.org">National Kidney Foundation</a>, <a href="http://www.pbk.org/home/index.aspx">Phi Beta Kappa</a>, <a href="http://www.ascb.org">American Society for Cell Biology</a>, <a href="http://www.ssciweb.org">Southern Society for Clinical Investigation</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Seyed Mehrdad Hamrahian, MD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor of Medicine, Jefferson Medical College of Thomas Jefferson University</contrbtr_title>
+        <contrbtr_bio>Seyed Mehrdad Hamrahian, MD is a member of the following medical societies: <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.theisn.org">International Society of Nephrology</a>, <a href="http://www.kidney.org">National Kidney Foundation</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Federico J Teran, MD</contrbtr_nm>
+        <contrbtr_title>Instructor of Clinical Medicine, Section of Nephrology and Hypertension, Tulane University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Federico J Teran, MD is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.lsms.org">Louisiana State Medical Society</a>, <a href="http://www.kidney.org">National Kidney Foundation</a>, <a href="http://www.renalmd.org/">Renal Physicians Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Eleanor Lederer, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Medicine, Chief, Nephrology Division, Director, Nephrology Training Program, Director, Metabolic Stone Clinic, Kidney Disease Program, University of Louisville School of Medicine; Consulting Staff, Louisville Veterans Affairs Hospital</contrbtr_title>
+        <contrbtr_bio>Eleanor Lederer, MD is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.theisn.org">International Society of Nephrology</a>, <a href="http://www.asbmb.org">American Society for Biochemistry and Molecular Biology</a>, <a href="http://www.afmr.org">American Federation for Medical Research</a>, <a href="http://www.asbmr.org">American Society for Bone and Mineral Research</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.myast.org">American Society of Transplantation</a>, <a href="http://www.kyma.org">Kentucky Medical Association</a>, <a href="http://www.kidney.org">National Kidney Foundation</a>, <a href="http://www.pbk.org/home/index.aspx">Phi Beta Kappa</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received grant/research funds from Dept of Veterans Affairs for research; Received salary from American Society of Nephrology for asn council position; Received salary from University of Louisville for employment; Received salary from University of Louisville Physicians for employment; Received contract payment from American Physician Institute for Advanced Professional Studies, LLC for independent contractor; Received contract payment from Healthcare Quality Strategies, Inc for independent cont.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Vecihi Batuman, MD, FACP, FASN</contrbtr_nm>
+        <contrbtr_title>Huberwald Professor of Medicine, Section of Nephrology-Hypertension, Tulane University School of Medicine; Chief, Renal Section, Southeast Louisiana Veterans Health Care System</contrbtr_title>
+        <contrbtr_bio>Vecihi Batuman, MD, FACP, FASN is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.ash-us.org">American Society of Hypertension</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a>, <a href="http://www.theisn.org">International Society of Nephrology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>James H Sondheimer, MD, FACP, FASN</contrbtr_nm>
+        <contrbtr_title>Associate Professor of Medicine, Wayne State University School of Medicine; Medical Director of Hemodialysis, Harper University Hospital at Detroit Medical Center; Medical Director, DaVita Greenview Dialysis (Southfield)</contrbtr_title>
+        <contrbtr_bio>James H Sondheimer, MD, FACP, FASN is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.asn-online.org">American Society of Nephrology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received dialysis unit medical director fee from Davita for independent contractor.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Barclay L, Nainggolan L. New European Guidelines Address Hyponatremia Management. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/821130">http://www.medscape.com/viewarticle/821130</a>. Accessed: March 1, 2014.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24569496">
+      <para>[Guideline] Spasovski G,  Vanholder R,  Allolio B,  Annane D,  Ball S,  Bichet D, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. <em>Nephrol Dial Transplant</em>. 2014 Feb 25. <a href="http://reference.medscape.com/medline/abstract/24569496">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20469629">
+      <para>Zenenberg RD, Carluccio AL, Merlin MA. Hyponatremia: evaluation and management. <em>Hosp Pract (Minneap)</em>. 2010 Feb. 38(1):89-96. <a href="http://reference.medscape.com/medline/abstract/20469629">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20713340">
+      <para>Zeidel ML. Hyponatremia: mechanisms and newer treatments. <em>Endocr Pract</em>. 2010 Sep-Oct. 16(5):882-7. <a href="http://reference.medscape.com/medline/abstract/20713340">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19430087">
+      <para>Singhi S, Jayashre M. Free water excess is not the main cause for hyponatremia in critically ill children receiving conventional maintenance fluids. <em>Indian Pediatr</em>. 2009 Jul. 46(7):577-83. <a href="http://reference.medscape.com/medline/abstract/19430087">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11251026">
+      <para>Gross P, Reimann D, Henschkowski J, Damian M. Treatment of severe hyponatremia: conventional and novel aspects. <em>J Am Soc Nephrol</em>. 2001 Feb. 12 Suppl 17:S10-4. <a href="http://reference.medscape.com/medline/abstract/11251026">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Dubois GD, Arieff AI. Treatment of hyponatremia: the case for rapid correction. Narins RG, ed. <em>Controversies in Nephrology and Hypertension</em>. New York: Churchill Livingstone Inc; 1984. 393-407. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15308433">
+      <para>Goldberg A, Hammerman H, Petcherski S, et al. Prognostic importance of hyponatremia in acute ST-elevation myocardial infarction. <em>Am J Med</em>. 2004 Aug 15. 117(4):242-8. <a href="http://reference.medscape.com/medline/abstract/15308433">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15382176">
+      <para>Heuman DM, Abou-Assi SG, Habib A, Williams LM, Stravitz RT, Sanyal AJ. Persistent ascites and low serum sodium identify patients with cirrhosis and low MELD scores who are at high risk for early death. <em>Hepatology</em>. 2004 Oct. 40(4):802-10. <a href="http://reference.medscape.com/medline/abstract/15382176">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19455045">
+      <para>Kim MY, Baik SK, Yea CJ, et al. Hepatic venous pressure gradient can predict the development of hepatocellular carcinoma and hyponatremia in decompensated alcoholic cirrhosis. <em>Eur J Gastroenterol Hepatol</em>. 2009 Nov. 21(11):1241-6. <a href="http://reference.medscape.com/medline/abstract/19455045">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22196845">
+      <para>Bettari L,  Fiuzat M,  Shaw LK,  Wojdyla DM,  Metra M,  Felker GM, et al. Hyponatremia and long-term outcomes in chronic heart failure-an observational study from the duke databank for cardiovascular diseases. <em>J Card Fail</em>. 2012 Jan. 18(1):74-81. <a href="http://reference.medscape.com/medline/abstract/22196845">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10225241">
+      <para>Hillier TA, Abbott RD, Barrett EJ. Hyponatremia: evaluating the correction factor for hyperglycemia. <em>Am J Med</em>. 1999 Apr. 106(4):399-403. <a href="http://reference.medscape.com/medline/abstract/10225241">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15302482">
+      <para>Issa MM, Young MR, Bullock AR, Bouet R, Petros JA. Dilutional hyponatremia of TURP syndrome: a historical event in the 21st century. <em>Urology</em>. 2004 Aug. 64(2):298-301. <a href="http://reference.medscape.com/medline/abstract/15302482">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10648680">
+      <para>Palmer BF. Hyponatraemia in a neurosurgical patient: syndrome of inappropriate antidiuretic hormone secretion versus cerebral salt wasting. <em>Nephrol Dial Transplant</em>. 2000 Feb. 15(2):262-8. <a href="http://reference.medscape.com/medline/abstract/10648680">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12714279">
+      <para>Palmer BF. Hyponatremia in patients with central nervous system disease: SIADH versus CSW. <em>Trends Endocrinol Metab</em>. 2003 May-Jun. 14(4):182-7. <a href="http://reference.medscape.com/medline/abstract/12714279">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15213060">
+      <para>Smith D, Moore K, Tormey W, Baylis PH, Thompson CJ. Downward resetting of the osmotic threshold for thirst in patients with SIADH. <em>Am J Physiol Endocrinol Metab</em>. 2004 Nov. 287(5):E1019-23. <a href="http://reference.medscape.com/medline/abstract/15213060">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19436422">
+      <para>Skippen P, Adderley R, Bennett M, et al. Iatrogenic hyponatremia in hospitalized children: Can it be avoided?. <em>Paediatr Child Health</em>. 2008 Jul. 13(6):502-6. <a href="http://reference.medscape.com/medline/abstract/19436422">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2532902/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9631849">
+      <para>Thaler SM, Teitelbaum I, Berl T. "Beer potomania" in non-beer drinkers: effect of low dietary solute intake. <em>Am J Kidney Dis</em>. 1998 Jun. 31(6):1028-31. <a href="http://reference.medscape.com/medline/abstract/9631849">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3340117">
+      <para>Goldman MB, Luchins DJ, Robertson GL. Mechanisms of altered water metabolism in psychotic patients with polydipsia and hyponatremia. <em>N Engl J Med</em>. 1988 Feb 18. 318(7):397-403. <a href="http://reference.medscape.com/medline/abstract/3340117">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15679427">
+      <para>Kratz A, Siegel AJ, Verbalis JG, et al. Sodium status of collapsed marathon runners. <em>Arch Pathol Lab Med</em>. 2005 Feb. 129(2):227-30. <a href="http://reference.medscape.com/medline/abstract/15679427">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15829535">
+      <para>Almond CS, Shin AY, Fortescue EB, et al. Hyponatremia among runners in the Boston Marathon. <em>N Engl J Med</em>. 2005 Apr 14. 352(15):1550-6. <a href="http://reference.medscape.com/medline/abstract/15829535">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16003032">
+      <para>Hew-Butler T, Almond C, Ayus JC, et al. Consensus statement of the 1st International Exercise-Associated Hyponatremia Consensus Development Conference, Cape Town, South Africa 2005. <em>Clin J Sport Med</em>. 2005 Jul. 15(4):208-13. <a href="http://reference.medscape.com/medline/abstract/16003032">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15870622">
+      <para>Baker J, Cotter JD, Gerrard DF, Bell ML, Walker RJ. Effects of indomethacin and celecoxib on renal function in athletes. <em>Med Sci Sports Exerc</em>. 2005 May. 37(5):712-7. <a href="http://reference.medscape.com/medline/abstract/15870622">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15872203">
+      <para>Feldman BJ, Rosenthal SM, Vargas GA, et al. Nephrogenic syndrome of inappropriate antidiuresis. <em>N Engl J Med</em>. 2005 May 5. 352(18):1884-90. <a href="http://reference.medscape.com/medline/abstract/15872203">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15503172">
+      <para>Trivelli A, Ghiggeri GM, Canepa A, Oddone M, Bava G, Perfumo F. Hyponatremic-hypertensive syndrome with extensive and reversible renal defects. <em>Pediatr Nephrol</em>. 2005 Jan. 20(1):102-4. <a href="http://reference.medscape.com/medline/abstract/15503172">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19417163">
+      <para>Sherlock M, O'Sullivan E, Agha A, et al. Incidence and pathophysiology of severe hyponatraemia in neurosurgical patients. <em>Postgrad Med J</em>. 2009 Apr. 85(1002):171-5. <a href="http://reference.medscape.com/medline/abstract/19417163">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24074529">
+      <para>[Guideline] Verbalis JG,  Goldsmith SR,  Greenberg A,  Korzelius C,  Schrier RW,  Sterns RH, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. <em>Am J Med</em>. 2013 Oct. 126 (10 Suppl 1):S1-42. <a href="http://reference.medscape.com/medline/abstract/24074529">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10824078">
+      <para>Adrogue HJ, Madias NE. Hyponatremia. <em>N Engl J Med</em>. 2000 May 25. 342(21):1581-9. <a href="http://reference.medscape.com/medline/abstract/10824078">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15189662">
+      <para>Vachharajani TJ, Zaman F, Abreo KD. Hyponatremia in critically ill patients. <em>J Intensive Care Med</em>. 2003 Jan-Feb. 18(1):3-8. <a href="http://reference.medscape.com/medline/abstract/15189662">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19337422">
+      <para>Dixon MB, Lien YH. Tolvaptan and its potential in the treatment of hyponatremia. <em>Ther Clin Risk Manag</em>. 2008 Dec. 4(6):1149-55. <a href="http://reference.medscape.com/medline/abstract/19337422">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2643096/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18765079">
+      <para>Farmakis D, Filippatos G, Kremastinos DT, Gheorghiade M. Vasopressin and vasopressin antagonists in heart failure and hyponatremia. <em>Curr Heart Fail Rep</em>. 2008 Jun. 5(2):91-6. <a href="http://reference.medscape.com/medline/abstract/18765079">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>FDA drug safety communication - FDA Limits Duration and Usage Due To Possible Liver Injury Leading to Organ Transplant or Death. Available at <a href="http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm350185.htm">http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm350185.htm</a>. Accessed: May 2, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1443949">
+      <para>Ayus JC, Wheeler JM, Arieff AI. Postoperative hyponatremic encephalopathy in menstruant women. <em>Ann Intern Med</em>. 1992 Dec 1. 117(11):891-7. <a href="http://reference.medscape.com/medline/abstract/1443949">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14970019">
+      <para>Ruzek KA, Campeau NG, Miller GM. Early diagnosis of central pontine myelinolysis with diffusion-weighted imaging. <em>AJNR Am J Neuroradiol</em>. 2004 Feb. 25(2):210-3. <a href="http://reference.medscape.com/medline/abstract/14970019">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15300900">
+      <para>Yu J, Zheng SS, Liang TB, Shen Y, Wang WL, Ke QH. Possible causes of central pontine myelinolysis after liver transplantation. <em>World J Gastroenterol</em>. 2004 Sep 1. 10(17):2540-3. <a href="http://reference.medscape.com/medline/abstract/15300900">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22001181">
+      <para>Doshi SM, Shah P, Lei X, Lahoti A, Salahudeen AK. Hyponatremia in hospitalized cancer patients and its impact on clinical outcomes. <em>Am J Kidney Dis</em>. 2012 Feb. 59(2):222-8. <a href="http://reference.medscape.com/medline/abstract/22001181">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25905459">
+      <para>Corona G, Giuliani C, Verbalis JG, Forti G, Maggi M, Peri A. Hyponatremia improvement is associated with a reduced risk of mortality: evidence from a meta-analysis. <em>PLoS One</em>. 2015. 10 (4):e0124105. <a href="http://reference.medscape.com/medline/abstract/25905459">[Medline]</a>. <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124105">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12920440">
+      <para>Budisavljevic MN, Stewart L, Sahn SA, Ploth DW. Hyponatremia associated with 3,4-methylenedioxymethylamphetamine ("Ecstasy") abuse. <em>Am J Med Sci</em>. 2003 Aug. 326(2):89-93. <a href="http://reference.medscape.com/medline/abstract/12920440">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>FDA Limits Use of Samsca (Tolvaptan) Due to Liver Injury Risk. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/803356">http://www.medscape.com/viewarticle/803356</a>. Accessed: May 8, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9731583">
+      <para>Gines P, Berl T, Bernardi M, et al. Hyponatremia in cirrhosis: from pathogenesis to treatment. <em>Hepatology</em>. 1998 Sep. 28(3):851-64. <a href="http://reference.medscape.com/medline/abstract/9731583">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2403474">
+      <para>Glassock RJ, Cohen AH, Danovitch G, Parsa KP. Human immunodeficiency virus (HIV) infection and the kidney. <em>Ann Intern Med</em>. 1990 Jan 1. 112(1):35-49. <a href="http://reference.medscape.com/medline/abstract/2403474">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17384437">
+      <para>Konstam MA, Gheorghiade M, Burnett JC Jr, Grinfeld L, Maggioni AP, Swedberg K. Effects of oral tolvaptan in patients hospitalized for worsening heart failure: the EVEREST Outcome Trial. <em>JAMA</em>. 2007 Mar 28. 297(12):1319-31. <a href="http://reference.medscape.com/medline/abstract/17384437">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lowes R. Tolvaptan Poses Risk for Serious Liver Damage, FDA Warns. Medscape Medical News. January 25, 2013. Available at <a href="http://www.medscape.com/viewarticle/778200">http://www.medscape.com/viewarticle/778200</a>. Accessed: January 29, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16632011">
+      <para>Pham PC, Pham PM, Pham PT. Vasopressin excess and hyponatremia. <em>Am J Kidney Dis</em>. 2006 May. 47(5):727-37. <a href="http://reference.medscape.com/medline/abstract/16632011">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Salahudeen AK, Ali N, George M, Lahoti A, Palla S. Tolvaptan in hospitalized cancer patients with hyponatremia: A double-blind, randomized, placebo-controlled clinical trial on efficacy and safety. Cancer. Wiley Online Library. Available at <a href="http://onlinelibrary.wiley.com/doi/10.1002/cncr.28468/abstract">http://onlinelibrary.wiley.com/doi/10.1002/cncr.28468/abstract</a>. Accessed: December 2, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9841510">
+      <para>Santos BC, Chevaile A, Hebert MJ, Zagajeski J, Gullans SR. A combination of NaCl and urea enhances survival of IMCD cells to hyperosmolality. <em>Am J Physiol</em>. 1998 Jun. 274(6 Pt 2):F1167-73. <a href="http://reference.medscape.com/medline/abstract/9841510">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Saunders R. Tolvaptan Corrects Hyponatremia in Cancer Patients. Medscape [serial online]. Available at <a href="http://www.medscape.com/viewarticle/814821">http://www.medscape.com/viewarticle/814821</a>. Accessed: December 2, 2013.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10451464">
+      <para>Schrier RW, Abraham WT. Hormones and hemodynamics in heart failure. <em>N Engl J Med</em>. 1999 Aug 19. 341(8):577-85. <a href="http://reference.medscape.com/medline/abstract/10451464">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17105757">
+      <para>Schrier RW, Gross P, Gheorghiade M, et al. Tolvaptan, a selective oral vasopressin V2-receptor antagonist, for hyponatremia. <em>N Engl J Med</em>. 2006 Nov 16. 355(20):2099-112. <a href="http://reference.medscape.com/medline/abstract/17105757">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7731156">
+      <para>Silver SM, Kozlowski SA, Baer JE, Rogers SJ, Sterns RH. Glycine-induced hyponatremia in the rat: a model of post-prostatectomy syndrome. <em>Kidney Int</em>. 1995 Jan. 47(1):262-8. <a href="http://reference.medscape.com/medline/abstract/7731156">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10362736">
+      <para>Silver SM, Schroeder BM, Bernstein P, Sterns RH. Brain adaptation to acute hyponatremia in young rats. <em>Am J Physiol</em>. 1999 Jun. 276(6 Pt 2):R1595-9. <a href="http://reference.medscape.com/medline/abstract/10362736">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9915284">
+      <para>Sterns RH. The syndrome of inappropriate antidiuretic hormone secretion of unknown origin. <em>Am J Kidney Dis</em>. 1999 Jan. 33(1):161-3; discussion 163-5. <a href="http://reference.medscape.com/medline/abstract/9915284">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>McCall B. US and Europe Differ on Use of Vaptans in Hyponatremia. Medscape Medical News. Available at <a href="http://www.medscape.com/viewarticle/845338">http://www.medscape.com/viewarticle/845338</a>. May 26, 2015; Accessed: June 19, 2015.</para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="162914" pubid="" template="Cardiology" template-name="multipage">
+  <site-meta>
+    <article-name>Atrial Septal Defect</article-name>
+    <title>
+      <page-info id="overview">Atrial Septal Defect: Problem, Epidemiology, Etiology</page-info>
+      <page-info id="workup">Atrial Septal Defect Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Atrial Septal Defect Treatment &amp; Management: Medical Therapy, Surgical Therapy, Postoperative Details</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Atrial Septal Defect: Problem, Epidemiology, Etiology</page-info>
+      <page-info id="workup">Atrial Septal Defect Workup: Laboratory Studies, Imaging Studies, Other Tests</page-info>
+      <page-info id="treatment">Atrial Septal Defect Treatment &amp; Management: Medical Therapy, Surgical Therapy, Postoperative Details</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a5">Problem</section-info>
+<section-info id="a6">Epidemiology</section-info>
+<section-info id="a7">Etiology</section-info>
+<section-info id="a8">Pathophysiology</section-info>
+<section-info id="a9">Presentation</section-info>
+<section-info id="a10">Indications</section-info>
+<section-info id="a11">Contraindications</section-info>
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c5">Laboratory Studies</section-info>
+<section-info id="c6">Imaging Studies</section-info>
+<section-info id="c7">Other Tests</section-info>
+<section-info id="c8">Diagnostic Procedures</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d9">Medical Therapy</section-info>
+<section-info id="d10">Surgical Therapy</section-info>
+<section-info id="d11">Postoperative Details</section-info>
+<section-info id="d12">Follow-up</section-info>
+<section-info id="d13">Complications</section-info>
+<section-info id="d14">Outcome and Prognosis</section-info>
+<section-info id="d15">Future and Controversies</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Atrial Septal Defect Overview</page-info>
+      <page-info id="workup">Atrial Septal Defect Workup</page-info>
+      <page-info id="treatment">Atrial Septal Defect Treatment</page-info>
+    </meta-keywords>
+    <uri>162914-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Dec 19, 2014</posting-date>
+    <last-generated>2015-08-04-20:27</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Cardiology</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>162914</artid>
+      <cg>502</cg>
+      <scg text="Heart Disease, Congenital">5000584</scg>
+      <ssp text="Cardiology">2</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>cardiology</id>
+      <name>Cardiology</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>cardiology_congenital</id>
+      <name>Congenital Heart Disease in the Adult</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">atrial septal defect, atrial septum defect, ASD, atrial septal defect repair, atrial septal defect closure, atrial septal defect surgery, atrial septal defect symptoms</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Atrial septal defect (ASD) is one of the more commonly recognized congenital cardiac anomalies presenting in adulthood. Atrial septal defect is characterized by a defect in the interatrial septum allowing pulmonary venous return from the left atrium to pass directly to the right atrium.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms>
+      <acronym>ASD</acronym>
+    </acronyms>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Atrial Septal Defect</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a5">
+      <title>Problem</title>
+      <pgroup>
+        <para>Atrial septal defect (ASD) is one of the more commonly recognized congenital cardiac anomalies presenting in adulthood. Atrial septal defect is characterized by a defect in the interatrial septum allowing pulmonary venous return from the left atrium to pass directly to the right atrium. Depending on the size of the defect, size of the shunt, and associated anomalies, this can result in a spectrum of disease from no significant cardiac sequelae to right-sided volume overload, pulmonary arterial hypertension, and even atrial arrhythmias.</para>
+        <para>With the routine use of echocardiography, the incidence of atrial septal defect is increased compared to earlier incidence studies using catheterization, surgery, or autopsy for diagnosis.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>The subtle physical examination findings and often minimal symptoms during the first 2-3 decades contribute to a delay in diagnosis until adulthood, the majority (more than 70%) of which is detected by the fifth decade. However, earlier intervention of most types of atrial septal defect is recommended.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>The 3 major types of atrial septal defect (ASD) account for 10% of all congenital heart disease and as much as 20-40% of congenital heart disease presenting in adulthood. The most common types of ASD include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Ostium secundum: The most common type of ASD accounting for 75% of all ASD cases, representing approximately 7% of all congenital cardiac defects and 30-40% of all congenital heart disease in patients older than 40 years. </para>
+          </listitem>
+          <listitem>
+            <para>Ostium primum: The second most common type of ASD accounts for 15-20% of all ASDs. Primum ASD is a form of atrioventricular septal defect and is commonly associated with mitral valve abnormalities. </para>
+          </listitem>
+          <listitem>
+            <para>Sinus venosus: The least common of the three, sinus venosus (SV) ASD is seen in 5-10% of all ASDs. The defect is located along the superior aspect of the atrial septum. Anomalous connection of the right-sided pulmonary veins is common and should be expected. Alternate imaging is generally required. </para>
+          </listitem>
+        </itemizedlist>
+        <para><strong>Sex:</strong> ASD occurs with a female-to-male ratio of approximately 2:1. </para>
+        <para><strong>Age:</strong> Patients with ASD can be asymptomatic through infancy and childhood, though the timing of clinical presentation depends on the degree of left-to-right shunt. Symptoms become more common with advancing age. By the age of 40 years, 90% of untreated patients have symptoms of exertional dyspnea, fatigue, palpitation, sustained arrhythmia, or even evidence of heart failure. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a7">
+      <title>Etiology</title>
+      <pgroup>
+        <para>Atrial septal defect (ASD) is a congenital cardiac disorder caused by the spontaneous malformation of the interatrial septum.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Ostium secundum ASD: This type of ASD results from incomplete adhesion between the flap valve associated with the foramen ovale and the septum secundum after birth. The patent foramen ovale usually results from abnormal resorption of the septum primum during the formation of the foramen secundum. Resorption in abnormal locations causes a fenestrated or netlike septum primum. Excessive resorption of the septum primum results in a short septum primum that does not close the foramen ovale. An abnormally large foramen ovale can occur as a result of defective development of the septum secundum. The normal septum primum does not close this type of abnormal foramen ovale at birth. A combination of excessive resorption of the septum primum and a large foramen ovale produces a large ostium secundum ASD. </para>
+          </listitem>
+          <listitem>
+            <para>Ostium primum ASD: These defects are caused by incomplete fusion of septum primum with the endocardial cushion. The defect lies immediately adjacent to the atrioventricular (AV) valves, either of which may be deformed and incompetent. In most cases, only the anterior or septal leaflet of the mitral valve is displaced, and it is commonly cleft. The tricuspid valve is usually not involved. </para>
+          </listitem>
+          <listitem>
+            <para>Sinus venosus ASD: Abnormal fusion between the embryologic sinus venosus and the atrium causes these defects. In most cases, the defect lies superior in the atrial septum near the entry of superior vena cava. Often there is associated anomalous drainage of the right superior pulmonary vein. The relatively uncommon inferior type is associated with partial anomalous drainage of the right inferior pulmonary vein. Anomalous drainage can be into the right atrium, the superior vena cava, or the inferior vena cava. </para>
+          </listitem>
+          <listitem>
+            <para>Coronary sinus ASD: Coronary sinus defect is characterized by unroofed coronary sinus and persistent left superior vena cava that drains into the left atrium. A dilated coronary sinus often suggests this defect. This can result is desaturation due to right-to-left shunt into the left atrium. The diagnosis can be made by injecting contrast agent into left upper extremity; coronary sinus opacification precedes right atrial opacification. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Genetics</title>
+        <para>Atrial septal defect (ASD) may occur on a familial basis. Holt-Oram syndrome characterized by an autosomal dominant pattern of inheritance and deformities of the upper limbs (most often, absent or hypoplastic radii) has been attributed to a single gene defect in TBX5.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>The penetrance is nearly 100% for Holt-Oram syndrome. Approximately 40% of Holt-Oram cases are due to new mutations.</para>
+        <para>Ellis van Creveld syndrome is an autosomal recessive disorder associated with skeletal dysplasia characterized by short limbs, short ribs, postaxial polydactyly, dysplastic nails and teeth, and a common atrium, occurring in 60% of affected individuals.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+        <para>Mutations in the cardiac transcription factor NKX2.5 have been attributed to the syndrome familial ASD associated with progressive atrioventricular block.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup>This syndrome is an autosomal dominant trait with a high degree of penetrance but no associated skeletal abnormalities. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a8">
+      <title>Pathophysiology</title>
+      <pgroup>
+        <para>The magnitude of the left-to-right shunt across the ASD depends on the defect size, the relative compliance of the ventricles, and the relative resistance in both the pulmonary and systemic circulation. With small ASD, left atrial pressure may exceed right atrial pressure by several millimeters of mercury, whereas with large ASD, mean atrial pressures are nearly identical. Shunting across the interatrial septum is usually left-to-right and occurs predominantly in late ventricular systole and early diastole. Likely some augmentation occurs during atrial contraction. Note, however, that a transient and small right-to-left shunt can occur, especially during respiratory periods of decreasing intrathoracic pressure, even in the absence of pulmonary arterial hypertension.</para>
+        <para>The chronic left-to-right shunt results in increased pulmonary blood flow and diastolic overload of the right ventricle. Resistance in the pulmonary vascular bed is commonly normal in children with ASD, and the volume load is usually well tolerated even though pulmonary blood flow may be more than 2 times systemic blood flow. Altered ventricular compliance with age can result in an increased left-to-right shunt contributing to symptoms. The chronic significant left-to-right shunt can alter the pulmonary vascular resistance leading to pulmonary arterial hypertension, even reversal of shunt and Eisenmenger syndrome.</para>
+        <para>Because of an increase in plasma volume during pregnancy, shunt volume can increase, leading to symptoms. Pulmonary artery pressure usually remains normal.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a9">
+      <title>Presentation</title>
+      <pgroup>
+        <title>History:</title>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>The atrial septal defect (ASD) malformation can go undiagnosed for decades due to subtle physical examination findings and a lack of symptoms. </para>
+          </listitem>
+          <listitem>
+            <para>Even isolated defects of moderate-to-large size may not cause symptoms in childhood. However, some may have symptoms of easy fatigability, recurrent respiratory infections, or exertional dyspnea. In childhood, the diagnosis is often considered after a heart murmur is detected on routine physical examination or after an abnormal finding is observed on chest radiographs or electrocardiogram (ECG). </para>
+          </listitem>
+          <listitem>
+            <para>If undetected in childhood, symptoms can develop gradually over decades and are largely the result of changing compliance with age, pulmonary arterial hypertension, atrial arrhythmias, and, sometimes, those associated with mitral valve disease in a primum ASD. Virtually all patients with ASD who survive beyond the sixth decade are symptomatic. </para>
+          </listitem>
+          <listitem>
+            <para>Clinical deterioration in older patients occurs by means of several mechanisms. </para>
+            <itemizedlist>
+              <listitem>
+                <para>First, an age-related decrease in left ventricular compliance augments the left-to-right shunt.</para>
+              </listitem>
+              <listitem>
+                <para>Second, atrial arrhythmias, especially atrial fibrillation, but also atrial flutter or paroxysmal atrial tachycardia, increase in frequency after the fourth decade and can precipitate right ventricular failure. </para>
+              </listitem>
+              <listitem>
+                <para>Third, most symptomatic adults older than 40 years have mild-to-moderate pulmonary arterial hypertension in the presence of a persistent large left-to-right shunt; therefore, the aging right ventricle is burdened by both pressure and volume overload. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Another mechanism for symptoms particularly associated with primum ASD is related to clinically significant mitral regurgitation. Its incidence, extent, and degree of dysfunction increases with age. Mitral valve insufficiency leads to further increase in left atrial pressure and a higher degree of left-to-right shunt. </para>
+          </listitem>
+          <listitem>
+            <para>Overall, the most common presenting symptoms include dyspnea, easy fatigability, palpitations, sustained atrial arrhythmia, syncope, stroke, and/or heart failure. </para>
+          </listitem>
+          <listitem>
+            <para>In adults, one of the most common symptoms is the development of palpitations related to atrial arrhythmias.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+      <pgroup>
+        <title>Physical:</title>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>The findings on physical examination depend on the degree of left-to-right shunt and its hemodynamic consequences, which, in turn, depends on the size of the defect, the diastolic properties of both ventricles, and the relative resistance of the pulmonary and systemic circulations. </para>
+          </listitem>
+          <listitem>
+            <para>The patient can have a hyperdynamic right ventricular impulse due to increased diastolic filling and large stroke volume.</para>
+          </listitem>
+          <listitem>
+            <para>Palpable pulsation of the pulmonary artery and an ejection click can be detected because of a dilated pulmonary artery.</para>
+          </listitem>
+          <listitem>
+            <para>S<sub>1</sub> is typically split, and the second component may be increased in intensity, reflecting forceful right ventricular contraction and delayed closure of the tricuspid leaflets. </para>
+          </listitem>
+          <listitem>
+            <para>S<sub>2</sub> is often widely split and fixed because of reduced respiratory variation due to delayed pulmonic valve closure (seen only if pulmonary artery pressure is normal and pulmonary vascular resistance is low). This characteristic abnormality is found in almost all patients with large left-to-right shunts. </para>
+          </listitem>
+          <listitem>
+            <para>Blood flow across the ASD does not cause a murmur at the site of the shunt because no substantial pressure gradient exists between the atria. However, ASD with moderate-to-large left-to-right shunts result in increased right ventricular stroke volume across the pulmonary outflow tract creating a crescendo-decrescendo systolic ejection murmur. This murmur is heard in the second intercostal space at the upper left sternal border. </para>
+          </listitem>
+          <listitem>
+            <para>Patients with large left-to-right shunts often have a rumbling middiastolic murmur at the lower left sternal border because of increased flow across the tricuspid valve. </para>
+          </listitem>
+          <listitem>
+            <para>Auscultatory findings of the ASD may resemble those of mild valvular or infundibular pulmonic stenosis and idiopathic dilatation of the pulmonary artery. These disorders all manifest as a systolic ejection murmur, but they differ from the ASD by movement of the S<sub>2</sub> with respiration, a pulmonary ejection click, or the absence of a tricuspid flow murmur. </para>
+          </listitem>
+          <listitem>
+            <para>In patients with an ostium primum defect and an associated cleft of the mitral valve, an apical systolic regurgitant murmur of mitral regurgitation may be present. </para>
+          </listitem>
+          <listitem>
+            <para>In patients who develop pulmonary arterial hypertension and right ventricular hypertrophy, a right ventricular S<sub>4</sub> may be present. In such cases, the midsystolic pulmonic murmur is softer and shorter, the tricuspid flow murmur is not present, the splitting of S<sub>2</sub> is narrowed with accentuated pulmonic component, and murmur of pulmonic regurgitation may become apparent. </para>
+          </listitem>
+          <listitem>
+            <para>ASD is an acyanotic lesion. Thus, the patient should be normally saturated. In the rare case of severe pulmonary arterial hypertension, atrial shunt reversal (Eisenmenger syndrome) may occur, leading to cyanosis and clubbing. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="a10">
+      <title>Indications</title>
+      <pgroup>
+        <para>The decision to repair any kind of atrial septal defect (ASD) is based on clinical and echocardiographic information, including the size and location of the ASD, the magnitude and hemodynamic impact of the left-to-right shunt, and the presence and degree of pulmonary arterial hypertension. In general, elective closure is advised for all ASDs with evidence of right ventricular overload or with a clinically significant shunt (pulmonary flow [Qp]–to–systemic flow [Qs] ratio &gt;1.5). Lack of symptoms is not a contraindication for repair.</para>
+        <para>In childhood, spontaneous closure of secundum ASD may occur. However, in adulthood, spontaneous closure is unlikely. Patients may be monitored relatively conservatively for a period before intervention is advised. Considerations and even contraindications to consider no intervention include small size of the defect and shunt, severe pulmonary arterial hypertension, diagnosis during pregnancy (intervention can be deferred until after), severe left or right ventricular dysfunction. Guidelines for the management of adults with congenital heart disease have been recently updated.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup></para>
+        <para>For both children and adults, surgical mortality rates for uncomplicated secundum ASD are approximately 1-3%. Because of the lifetime risk associated with ASD, as outlined including paradoxical embolization, there should be ongoing evaluation and review of the indication and risks for closure, even for patients with small shunts. However, such closure remains controversial because patients with small defects generally have a good prognosis, and the risk of cardiopulmonary bypass may not be warranted. The widespread use of catheter closure of secundum ASD with lower mortality and without cardiopulmonary bypass has raised the question regarding the need to close even small defects. </para>
+        <para>Long-term prevention of death and complications is best achieved when the ASD is closed before age 25 years and when the systolic pressure in the main pulmonary artery is less than 40 mm Hg. Even in elderly patients with large shunts, surgical closure can be performed at low risk and with good results in reducing symptoms.</para>
+        <para>Either method of closure, whether transcatheter or surgical, results in excellent hemodynamic outcomes with no significant differences with regard to survival, functional capacity, atrial arrhythmias, or embolic neurologic events. However, atrial arrhythmia and neurologic events remain long-term risks particularly for patients with pre-existing events.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+      </pgroup>
+    </sect2>
+    <sect2 id="a11">
+      <title>Contraindications</title>
+      <pgroup>
+        <para>Closure of an atrial septal defect (ASD) is not recommended in patients with a clinically insignificant shunt (Qp-Qs ratio 0.7 or below) and in those who have severe pulmonary arterial hypertension or irreversible pulmonary vascular occlusive disease who have a reversed shunt with at-rest arterial oxygen saturations of less than 90%. In addition to the high surgical mortality and morbidity risk, closure of a defect in the latter situation may worsen the prognosis. Whether the patient whose condition is diagnosed well in the sixth decade of life would benefit from surgical closure remains controversial.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c5">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>No specific laboratory blood tests are indicated in the workup of atrial septal defects (ASDs).</para>
+          </listitem>
+          <listitem>
+            <para>Routine laboratory studies should be performed in patients undergoing intervention for ASD: </para>
+            <itemizedlist>
+              <listitem>
+                <para>Complete blood count</para>
+              </listitem>
+              <listitem>
+                <para>Type and screen</para>
+              </listitem>
+              <listitem>
+                <para>Metabolic profile or chemistry</para>
+              </listitem>
+              <listitem>
+                <para>Coagulation studies (prothrombin time [PT] and activated partial thromboplastin time [aPTT])</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c6">
+      <title>Imaging Studies</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Chest radiography </para>
+            <itemizedlist>
+              <listitem>
+                <para>In the presence of a clinically significant left-to-right shunt, chest radiographs most often show cardiomegaly because of dilatation of the right atrium and right ventricular chamber. </para>
+              </listitem>
+              <listitem>
+                <para>The pulmonary artery is prominent, and pulmonary vascular markings are increased in the lung fields.</para>
+              </listitem>
+              <listitem>
+                <para>Left atrial enlargement is rare only if clinically significant mitral regurgitation. On occasion, proximal dilatation of the superior vena cava can be seen in sinus venosus defect. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Transthoracic echocardiography<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+            <itemizedlist>
+              <listitem>
+                <para>An uncertain diagnosis can be clarified with transthoracic 2-dimensional echocardiography, which provides direct noninvasive visualization of most types of ASDs, including evaluation of the right atrium, right ventricle, and pulmonary arteries, as well as other associated abnormalities. The view most beneficial is often the subcostal view. One exception is the diagnosis of a sinus venosus defect, for which transesophageal echocardiography (TEE) may be needed to image the defect, but this still may not be able to visualize the pulmonary venous return. TEEs and an echocardiogram are shown below: </para>
+                <figure id="35142">
+                  <title>Parasternal short axis: RV dilation with RV pressure overload as evidenced by flattening of the...</title>
+                  <caption>Parasternal short axis: RV dilation with RV pressure overload as evidenced by flattening of the interventricular septum in systole. </caption>
+                  <graphic fileref="/42/35142.jpg" format="IMAGE" id="35142" extension_format="JPG"/>
+                  <graphic fileref="/42/35142tn.jpg" format="IMAGE_THUMB" id="35142"/>
+                </figure>
+                <figure id="35143">
+                  <title>Transesophageal echocardiogram: Moderate-large ASD with left-to-right shunt across the...</title>
+                  <caption>Transesophageal echocardiogram: Moderate-large ASD with left-to-right shunt across the interatrial septum. </caption>
+                  <graphic fileref="/43/35143.jpg" format="IMAGE" id="35143" extension_format="JPG"/>
+                  <graphic fileref="/43/35143tn.jpg" format="IMAGE_THUMB" id="35143"/>
+                </figure>
+                <figure id="35144">
+                  <title>Apical 4-chamber view. </title>
+                  <caption>Apical 4-chamber view. </caption>
+                  <graphic fileref="/44/35144.jpg" format="IMAGE" id="35144" extension_format="JPG"/>
+                  <graphic fileref="/44/35144tn.jpg" format="IMAGE_THUMB" id="35144"/>
+                </figure>
+              </listitem>
+              <listitem>
+                <para>In any patient with an ASD, particularly a sinus venosus defect, anomalies of systemic venous connection should be sought. These can be clearly identified by 2-dimensional imaging. Right atrial and right ventricular enlargement without identification of the cause should prompt consideration for a TEE. </para>
+              </listitem>
+              <listitem>
+                <para>Doppler echocardiography may be helpful in demonstrating flow across the atrial septum. It typically shows a biphasic (systolic and diastolic) pattern with a small right-to-left shunt at the beginning of systole. </para>
+              </listitem>
+              <listitem>
+                <para>Transthoracic echocardiography may be suboptimal in some patients with poor echocardiographic windows. In such patients, TEE can provide excellent definition of the atrial septum. TEE is also useful in guiding device placement during catheter ASD occlusion procedures and in providing immediate intraoperative assurance that defect closure is accomplished. </para>
+              </listitem>
+              <listitem>
+                <para>Continuous-wave Doppler echocardiography is valuable for estimating right ventricular (and pulmonary arterial when there is no associated right ventricular outflow tract obstruction) systolic pressure when a tricuspid regurgitant jet is present. This technique is also useful in evaluating patients for obstruction to pulmonary venous return. </para>
+              </listitem>
+              <listitem>
+                <para>Contrast echocardiography can provide additional confirmation. A right-to-left shunt can be detected by visualizing microcavitation bubbles in the left atrium and the left ventricle. A left-to-right shunt can be detected as a negative contrast washout effect in the right atrium. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>MRI: MRI has successfully been used to identify the size and position of ASD. However, utility is limited for small defects. A major advantage of MRI is the ability to quantify right ventricular size, volume, and function along with the ability to identify the systemic and pulmonary venous return. </para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c7">
+      <title>Other Tests</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Electrocardiography </para>
+            <itemizedlist>
+              <listitem>
+                <para>Characteristic findings in patients with secundum ASD are a normal sinus rhythm, right-axis deviation, and an rSR' pattern in V<sub>1,</sub> an interventricular conduction delay or right bundle branch block (which represents delayed posterobasal activation of the ventricular septum and enlargement of the right ventricular outflow tract). </para>
+              </listitem>
+              <listitem>
+                <para>Left-axis deviation and an rSR' pattern in V<sub>1,</sub> an interventricular conduction delay or right bundle branch block suggests an ostium primum defect.</para>
+              </listitem>
+              <listitem>
+                <para>Left-axis deviation and negative P wave in lead III suggest sinus venosus defect.</para>
+              </listitem>
+              <listitem>
+                <para>Increasing pulmonary hypertension can cause loss of the rSR' pattern in V<sub>1</sub> and a tall monophasic R wave with a deeply inverted T wave.</para>
+              </listitem>
+              <listitem>
+                <para>A prolonged P-R interval can be seen in familial ASD or ostium primum secondary to left atrial enlargement and an increased distance for internodal conduction produced by the defect itself. Displacement of the AV node in a posteroinferior direction in some patients or an enlarged right atrium has also been reported. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="c8">
+      <title>Diagnostic Procedures</title>
+      <pgroup>
+        <para>See the list below:</para>
+        <itemizedlist>
+          <listitem>
+            <para>When noninvasive techniques demonstrate the presence of an uncomplicated ASD in a child, routine cardiac catheterization for diagnosis is unnecessary. </para>
+          </listitem>
+          <listitem>
+            <para>However, cardiac catheterization may be useful if the clinical data are inconsistent, if clinically significant pulmonary arterial hypertension is suspected, or if concurrent coronary artery disease must be assessed in patients older than 40 years. Catheterization is also a viable alternative for intervention for secundum ASD. </para>
+          </listitem>
+          <listitem>
+            <para>The diagnosis of ASD may be confirmed by directly passing the catheter through the defect. </para>
+            <itemizedlist>
+              <listitem>
+                <para>Serial oxygen saturation measurements can be used to estimate the magnitude of the shunt</para>
+              </listitem>
+              <listitem>
+                <para>In young patients, right heart pressures are often normal despite a large shunt.</para>
+              </listitem>
+              <listitem>
+                <para>If high oxygen saturation is present in the superior vena cava or if the catheter enters a pulmonary vein directly from the right atrium, sinus venosus type is likely. </para>
+              </listitem>
+              <listitem>
+                <para>Partial anomalous pulmonary venous return is usually associated with sinus venosus defect, but it may also accompany the ostium secundum type. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d9">
+      <title>Medical Therapy</title>
+      <pgroup>
+        <para>Atrial septal defect (ASD) is a disorder to be addressed surgically or through interventional catheterization. No specific or definitive medical therapy is available. However, patients with significant volume overload or atrial arrhythmias may require specific drug therapy.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d10">
+      <title>Surgical Therapy</title>
+      <pgroup>
+        <title>Criterion standard</title>
+        <para>The criterion standard in the treatment of atrial septal defect (ASD) is direct closure of the defect by using an open approach with extracorporeal support. John Gibbon performed the first successful ASD closure by applying this method in 1953. Surgical techniques and equipment have since improved to the point that the mortality rate from this repair approaches zero. </para>
+        <para>In the usual procedure, a median sternotomy incision is made, and the sternum is split in the midline. Direct arterial and double venous (superior vena cava and inferior vena cava) cannulation are performed. By applying cardiopulmonary bypass, the aorta is clamped, and the heart is arrested with a cardioplegia solution. The caval snares are tightened, and the right atrium is opened. Most secundum defects can be closed by using a direct continuous suture of 3-0 or 4-0 polypropylene (Prolene). </para>
+        <para>Caution must be taken when large defects are directly closed because this closure can distort the atrium. Large defects that rise superiorly can distort the aortic anulus if closed directly. These ASDs are best closed by using autologous pericardium or synthetic patches made of polyester polymer (Dacron) or polytetrafluoroethylene (PTFE). Care must be taken to completely remove any air or debris from the left atrium and ventricle before cardiopulmonary bypass is discontinued. Temporary pacing wires are left in place on the right ventricle before the chest is closed over the drains. </para>
+        <para>In an ostium primum defect, surgical closure is more complicated. The patch must be attached to the septum at the juncture of the mitral and tricuspid valves. Mitral valve repair, including closure of the cleft mitral leaflet and, possibly annuloplasty, may be necessary to correct or prevent mitral insufficiency. In rare cases, mitral valve replacement may be required. </para>
+        <para>In a sinus venosus defect, partial anomalous pulmonary venous return is typical. One or more of the pulmonary veins primarily drains into the right atrium. The ASD must be patched in such a way as to ensure that the anomalous pulmonary venous drainage is diverted into the left atrium. This patching may be simple or complex, depending on where the anomalous drainage enters. Many innovative techniques have been developed to redirect pulmonary venous flow, and the surgeon should be familiar with several approaches. Pulmonary venous return must not be compromised with the redirection because this invariably causes localized pulmonary venous hypertension. </para>
+      </pgroup>
+      <pgroup>
+        <title>Minimally invasive approaches</title>
+        <para>In recent years, minimally invasive approaches to the repair of ASD have garnered significant interest. In most cases, the size of the incision is simply decreased with different approaches to cardiopulmonary bypass. Examples include partial or full submammary skin incision, hemisternotomy, and limited thoracotomy. The goal is to improve better cosmetic results because these approaches are not associated with decreased morbidity or mortality. </para>
+      </pgroup>
+      <pgroup>
+        <title>Percutaneous transcatheter closure</title>
+        <para>In recent times, secundum ASD have been closed by using a variety of catheter-implanted occlusion devices rather than by direct surgical closure with cardiopulmonary bypass. These devices are placed through a femoral venous approach and are deployed like an umbrella to seal the septal defect. These devices work best for centrally located secundum defects. Although surgical closure is associated with low morbidity and mortality and excellent long-term results, sternotomy and cardiopulmonary bypass are required.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+        <para>Drs King and Mills performed the first transcatheter closure of a secundum ASD in the mid-1970s. William Rashkind pioneered the development of percutaneous ASD closure technique in late 1970s. Jim Lock developed the clamshell method in 1989. Around the same time, Sideris started clinical trials with buttoned device. </para>
+        <para>Although many devices have been studied, over the last few years, 4 major devices have become available: CardioSEAL (NMT Medical, Inc; Boston, Mass), Amplatzer septal occluder (ASO) (AGA Medical Corporation; Golden Valley, Minn), HELEX septal occluder (Gore Medical [WL Gore &amp; Associates, Inc]; Flagstaff, Ariz), and Sideris patch (Custom Medical Devices; Amarillo, Tex). The ASO is currently the most widely used device because it is easy to implant and allows closure of large orifices with excellent success rates in most cases. It was first used in humans in 1995. Selection of a particular device is difficult because no randomized trials have been conducted. Furthermore, devices are currently not amenable to percutaneous closure of ostium primum and sinus venosus defects. </para>
+        <para>With this method, the static diameter of the defect is first assessed by using TEE. The diameter is then measured with a sizing balloon using the “stop-flow” technique to select the proper diameter of the device. Using this technique, the sizing balloon is inflated until no flow is visible through the defect using TEE. The margins of the orifice must be wide enough (≤5 mm) to accommodate the edges of the closing device. TEE has been the mainstream technique for device sizing, positioning, and deployment, but it can cause discomfort. In addition, airway protection and general anesthesia are required. Intracardiac echocardiography has been used for the same purpose. </para>
+        <para>Transcatheter closure of ASDs is now established practice at most cardiac centers. It is proven safe in experienced hands, it is cost-effective, and it favorably compares to surgical closure with successful implantation rates of more than 96%. Transcatheter closure has been associated with fewer complications, shortened hospitalization, and reduced need for blood products. </para>
+        <para>At any age, ASD closure is followed by symptomatic improvement and regression of positive airway pressure (PAP) and right ventricle size; however, the best outcome is achieved in patients with less functional impairment and less elevated PAP.<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>Considering the continuous increase in symptoms, right ventricle remodelling, and PAP with age, ASD closure must be recommended irrespective of symptoms early after diagnosis, even in adults of advanced age. </para>
+        <para>Furthermore, transcatheter closure appears to have additional benefits regarding hemodynamic improvement compared with surgery. In one study, transcatheter closure with ASO improved the left atrial volume index, the left ventricular myocardial performance index, and the right ventricular myocardial performance index.<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9] </sup>The last was unimpressive after surgery, possibly because of cardiopulmonary bypass. </para>
+        <para>Another group compared atrial function in 45 patients with a mean age of 9 years after surgery and after percutaneous closure by using strain-rate imaging.<sup>[<ref_inline id="refsrc10" name="refsrc10"/>10] </sup>They found that both atrial functions were preserved after transcatheter closure, whereas the same was not seen after surgery. A potential explanation was that an atriotomy scar might have negatively influenced right atrial functio, whereas perioperative hypoxia or intraoperative myocardial damage might have altered the deformation properties of the left atrium. </para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d11">
+      <title>Postoperative Details</title>
+      <pgroup>
+        <para>Postoperative management after atrial septal defect (ASD) repair is usually standard. Patients are expected to be awake and often extubated shortly after the operation. Drainage tubes are removed from the chest the first morning after surgery, and, except when rhythm problems occur, the pacing wires are removed shortly thereafter. Most patients can eat and ambulate without difficulty on the first or second postoperative day, and most are discharged by the third or fourth postoperative day. After transcatheter occlusion, patients are generally discharged the next day. Six months of treatment with aspirin with or without clopidogrel is recommended to prevent thrombus formation.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d12">
+      <title>Follow-up</title>
+      <pgroup>
+        <para>Surgical follow-up care is maintained until the patient's wounds are completely healed and normal activities are resumed. This period rarely exceeds 1-2 months. All complications must be clearly resolved before the patient is discharged from surgical care. </para>
+        <para>Obtain at least 1 follow-up echocardiogram to confirm complete closure of the ASD. A cardiologist with congenital experience should continue patient care to monitor for recurrence of the shunt and to ensure that the patient has returned to normal activities and cardiac function. For most patients, a yearly appointment after the immediate postoperative period is adequate, in large part to follow and evaluate for arrhythmia complications. </para>
+        <para>For patient education resources, see <a href="http://www.emedicinehealth.com/collections/CO1572.asp">Heart Center</a> as well as <a href="http://www.emedicinehealth.com/articles/11139-1.asp">Palpitations</a>.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="d13">
+      <title>Complications</title>
+      <pgroup>
+        <para>Surgery may be associated with a long-term risk of atrial fibrillation or flutter. The risk of <a href="http://emedicine.medscape.com/article/216650-overview">infective endocarditis</a> exists during the first 6 months after surgery. The following complications are also associated with atrial septal defect (ASD):</para>
+        <itemizedlist>
+          <listitem>
+            <para>Congestive heart failure</para>
+          </listitem>
+          <listitem>
+            <para>Arrhythmias</para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/303098-overview">Pulmonary hypertension</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <a href="http://emedicine.medscape.com/article/303533-overview">Cyanosis</a>
+            </para>
+          </listitem>
+          <listitem>
+            <para>Paradoxical embolization</para>
+          </listitem>
+          <listitem>
+            <para>Stroke</para>
+          </listitem>
+          <listitem>
+            <para>Infective endocarditis</para>
+          </listitem>
+        </itemizedlist>
+        <para>The following complications are specifically associated with the use of transcatheter occlusion devices:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Device embolization and malpositioning: The incidence significantly varies among devices and is related to operator experience and appropriate case selection. With experienced clinicians, the incidence is less than 1%. Device embolization and malpositioning happens as a result of inadequate sizing of the defect or incorrect device placement. </para>
+          </listitem>
+          <listitem>
+            <para>Postimplantation arrhythmias: The incidence is 1-4% and varies from first- to third-degree AV block and atrial fibrillation. These arrhythmias are usually short-lived and do not require medical treatment. Patients who develop complete heart block are typically hemodynamically stable and do not require pacing. The incidence of arrhythmia appears to be related to the size of the device. </para>
+          </listitem>
+          <listitem>
+            <para>Thrombus formation: A study of 1000 patients was performed to investigate the incidence of thrombus by performing TEE at 4 weeks and 6 months after the procedure.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>The overall incidence was 1.2%; 70% were found at 4 weeks. The lowest incidence was with ASO. Thromboembolic events were seen in 20% of patients with thrombus. In 80-85%, thrombus resolved with heparin and warfarin. Risk factors for thrombogenesis on the device were the type of device, postprocedural atrial fibrillation, incomplete neoendothelialization of the surface of the device, insufficient antithrombotic treatment, and previously undiagnosed hypercoagulability disorders (including aspirin resistance and persistent interatrial septal aneurysm). For prophylaxis, aspirin given for 6 months is a common practice. When combined with clopidogrel, no thrombus was noted at 4 weeks and 6 months in one study of 37 patients.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Cardiac perforation: The incidence is 0.1-0.4% for various devices. Oversizing of the device and deficient anterosuperior rims are risk factors for perforation. Technique-related perforation during the procedure is amenable to intervention. Device-related perforations occur after technically adequate procedure in approximately 70% of patients after hospital discharge. A retrospective review of 24 patients revealed that all presented with chest pain, shortness of breath, hemodynamic collapse, or sudden death. About 76% were female patients, and 70% of the perforations were late. If pericardial effusion is present on predischarge echocardiography, the patient should be hospitalized for 24-48 hours of observation and follow-up echocardiography.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Device erosion: Erosion of septal occluder devices occurs in 0.1-0.15% of implants.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>Nearly all erosions occur at the dome of atria near the aortic root. Risk factors are a deficient aortic rim and/or superior rim and use of an oversized device. Aortic–right atrial fistula may be the consequence. Although device erosion is rare, the mortality rate is 10%. </para>
+          </listitem>
+          <listitem>
+            <para>Increased levels of cardiac troponin I: Transcatheter closure induces minor myocardial lesions, the extent of which depends on the size of the ASO. The patient's age is not a factor.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Residual shunts: As many as 20% of patients may have a residual shunt persisting for 24 hours after the procedure; &gt;90% of such residua are small. During follow-up, the incidence approaches 0% at 3 years for most series.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+          </listitem>
+          <listitem>
+            <para>Other complications include pericardial effusion, transient ischemic attack, and sudden death.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d14">
+      <title>Outcome and Prognosis</title>
+      <pgroup>
+        <title>Natural history</title>
+        <para>Although life expectancy is not normal for patients with atrial septal defect (ASD), patients generally survive into adulthood without surgical or percutaneous intervention, and many patients live to advanced age. However, natural survival beyond age 40-50 years is less than 50%, and the attrition rate after 40 years of age is about 6% per year. Advanced pulmonary hypertension seldom occurs before the third decade. Late complications are stroke and atrial fibrillation. </para>
+      </pgroup>
+      <pgroup>
+        <title>Postsurgical prognosis</title>
+        <para>The mortality rate of surgical repair is less than 1% for patients younger than 45 years without heart failure and who have systolic pulmonary artery pressures less than 60 mm Hg. The morbidity rate is low. The surgical mortality rate increases with increasing age and pulmonary artery pressures. </para>
+        <para>Surgical repair should be considered for all patients with uncomplicated ASDs with a clinically significant left-to-right shunt. Such repair is ideally completed at 2-4 years of age. Early surgical repair is considered in a few infants and young children with clinically significant symptoms or congestive heart failure (CHF).</para>
+        <para>Surgery before the age 25 years results in a 30-year survival rate comparable to that of age- and sex-matched control subjects. However, at age 25-40 years, surgical survival is reduced, though not significantly if pulmonary artery pressures are normal. If pulmonary artery systolic pressure is higher than 40 mm Hg, late survival is 50% less than control rates, though life expectancy in surgically treated older patients is better than that of medically treated patients. Even in select patients older than 60 years with no serious comorbidities, ASDs should be closed as early as possible if an indication is present because surgery improves symptoms–at least in the short term–regardless of pulmonary artery pressure or functional class, as long as the left-to-right shunt remains large.</para>
+        <para>Although surgical closure of ASDs in adulthood is associated with a significant mortality benefit, its benefit is limited in preventing atrial arrhythmias. The patient's age at the time of closure is the most important predictor of the development of atrial arrhythmia. </para>
+        <para>Surgery for sinus venosus ASD is also associated with low morbidity and mortality, and postoperative subjective clinical improvement occurs irrespective of the patient's age at surgery. However, in contrast to ostium secundum ASD, surgery for sinus venosus defect is relatively complex and poses the risks of stenosis of the superior vena cava or pulmonary veins, residual shunting, and dysfunction of the sinoatrial node. </para>
+        <para>In childhood, right ventricular dimensions decrease, often strikingly, after surgery. However, when adults undergo surgery, the dimensions remain abnormal in approximately 80% of patients. If right ventricular failure and tricuspid regurgitation are present before surgery, late postoperative right atrial and ventricular enlargement is typical, and right ventricular systolic function seldom normalizes. Patients in this situation improve, but they usually remain symptomatic, and their preoperative pulmonary vascular resistance influences their long-term outcome. </para>
+        <para>A few patients who undergo surgical closure during childhood have late-onset supraventricular arrhythmias, which are believed to be related to patchy fibrosis of the right atrium secondary to dilatation and perhaps dysfunction of the sinus node. In adults, chronic preoperative atrial fibrillation usually persists after surgical repair, but cardioversion followed by antiarrhythmics treatment may be effective. If surgery is performed in patients older than 40 years, 50% of those with preoperative normal sinus rhythm have late postoperative atrial fibrillation. Intracardiac electrophysiologic studies have shown a high incidence of intrinsic dysfunction of the sinoatrial and AV nodes that persists after surgical repair. These nodal abnormalities are most common in the sinus venosus type than in the secundum type. </para>
+        <para>Late events, including atrial fibrillation, stroke, and heart failure, are most common in patients undergoing repair in adulthood. This observation emphasizes the benefit of early repair of secundum ASDs in symptomatic patients. The unfavorable prognosis of late repairs is presumably related to long-standing deleterious effect of volume overload on the chambers on the right side, of pulmonary hypertension, and of right atrial enlargement with increased vulnerability to atrial arrhythmias and stroke. About 22% of late deaths are attributed to cerebrovascular events. Older age at repair and preoperative New York Heart Association class III or IV heart failure are independent predictors of late mortality. They are also predictive of atrial fibrillation, for which sinus node dysfunction with bradycardia-dependent atrial arrhythmias, scar-dependent multiple reentries, and atrial enlargement or atrial fibrosis due to increased pulmonary venous pressure with exercise are implicated as potential mechanisms.</para>
+        <para>In a cohort of 300 minimally symptomatic patients at intervention with either surgical or transcatheter closure, long-term follow-up (median 10 years) shows maintained functional class, but continued arrhythmia risk associated with age at procedure and pre-existing arrhythmia. When controlling for these variables, there was a trend toward more arrhythmia in the surgical cohort. However, embolic events were more common in the transcatheter cohort.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Prognosis after transcatheter closure</title>
+        <para>See Treatment above.</para>
+      </pgroup>
+      <pgroup>
+        <title>Common comorbidities</title>
+        <para>Common comorbidities include the following:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Pulmonary hypertension </para>
+            <itemizedlist>
+              <listitem>
+                <para>Pulmonary hypertension (mean pulmonary artery pressure &gt;20 mm Hg or systolic pulmonary artery pressure &gt;50 mm Hg) occurs in 15-20% of patients with ASD. </para>
+              </listitem>
+              <listitem>
+                <para>This condition is unusual in young patients, but it is observed in 50% of patients older than 40 years.</para>
+              </listitem>
+              <listitem>
+                <para>In Eisenmenger syndrome—a late and rare complication of isolated secundum ASD that occurs in 5-15% of patients—extreme pulmonary obstruction may result in a reversal of the shunt of blood to a right-to-left flow. Desaturated blood entering the systemic circulation results in systemic hypoxemia and cyanosis. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Right-sided heart failure </para>
+            <itemizedlist>
+              <listitem>
+                <para>Heart failure is due to the cardiac volume overload experienced on the right side of the heart because of left-to-right shunting.</para>
+              </listitem>
+              <listitem>
+                <para>In patients of all ages, substantial relief of such a complication is generally observed after the defect is closed.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para><a href="http://emedicine.medscape.com/article/151066-overview">Atrial fibrillation</a> or <a href="http://emedicine.medscape.com/article/151210-overview">atrial flutter</a></para>
+            <itemizedlist>
+              <listitem>
+                <para>These conditions are uncommon in young patients, though they are reported in as many as 50-60% of patients older than 40 years. Therefore, these arrhythmias occur most frequently with age, and they may become a major cause of morbidity and mortality. </para>
+              </listitem>
+              <listitem>
+                <para>The use of anticoagulants is indicated in patients with atrial fibrillation because of the high risk of stroke. Although atrial fibrillation may be present in patients before surgery, surgery may also cause it. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+          <listitem>
+            <para>Stroke </para>
+            <itemizedlist>
+              <listitem>
+                <para>Regardless of their surgical status, 5-10% of patients have thromboembolic events (including stroke and <a href="http://emedicine.medscape.com/article/1910519-overview">transient ischemic attacks</a>) on long-term follow-up.</para>
+              </listitem>
+              <listitem>
+                <para>Even with small defects, paradoxical emboli may occur. Therefore, the presence of an ASD should be considered in any patient with a cerebral or other systemic embolus in whom no left-sided source is demonstrable. </para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="d15">
+      <title>Future and Controversies</title>
+      <pgroup>
+        <para>With increased experience over the years, transcatheter closure of suitable secundum atrial septal defects (ASDs) has now become preferable to surgical repair. Limitations currently include size and location of the defect. </para>
+        <para>Perhaps the most innovative approach to surgical closure in many years was recently accomplished in the form of robotically assisted closure of ASD. Current technology allows for excellent visualization and magnification of internal anatomy, and the ability to perform surgery at a remote distance from the patient is now a reality. However, even with this amazing technology, today's devices will seem crude compared with future computer robots. Improved access and cardiopulmonary bypass technology will most likely make robotically assisted heart surgery a routine procedure in the near future. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="35142">
+        <title>Parasternal short axis: RV dilation with RV pressure overload as evidenced by flattening of the...</title>
+        <caption>Parasternal short axis: RV dilation with RV pressure overload as evidenced by flattening of the interventricular septum in systole. </caption>
+        <graphic fileref="/42/35142.jpg" format="IMAGE" id="35142" extension_format="JPG"/>
+        <graphic fileref="/42/35142tn.jpg" format="IMAGE_THUMB" id="35142"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="35143">
+        <title>Transesophageal echocardiogram: Moderate-large ASD with left-to-right shunt across the...</title>
+        <caption>Transesophageal echocardiogram: Moderate-large ASD with left-to-right shunt across the interatrial septum. </caption>
+        <graphic fileref="/43/35143.jpg" format="IMAGE" id="35143" extension_format="JPG"/>
+        <graphic fileref="/43/35143tn.jpg" format="IMAGE_THUMB" id="35143"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="35144">
+        <title>Apical 4-chamber view. </title>
+        <caption>Apical 4-chamber view. </caption>
+        <graphic fileref="/44/35144.jpg" format="IMAGE" id="35144" extension_format="JPG"/>
+        <graphic fileref="/44/35144tn.jpg" format="IMAGE_THUMB" id="35144"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>David H Adler, MD, FACC</contrbtr_nm>
+        <contrbtr_title>Assistant Professor of Medicine, Eastern Virginia Medical School; Cardiologist, Cardiovascular Associates, Ltd</contrbtr_title>
+        <contrbtr_bio>David H Adler, MD, FACC is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.heart.org">American Heart Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received honoraria from Abiomed for speaking and teaching.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Alexander R Ellis, MD, MSc, FAAP, FACC</contrbtr_nm>
+        <contrbtr_title>Assistant Professor of Internal Medicine and Pediatrics, Eastern Virginia Medical School; Co-Director, Pediatric Echocardiography Laboratory, Division of Pediatric Cardiology, Director, Adult Congenital Heart Disease Program, Children’s Hospital of the King’s Daughters; Director of Resident and Medical Student Education, Division of Cardiology, Children’s Hospital of the King’s Daughters and Eastern Virginia Medical School</contrbtr_title>
+        <contrbtr_bio>Alexander R Ellis, MD, MSc, FAAP, FACC is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.cardiosource.org">American College of Cardiology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Steven J Compton, MD, FACC, FACP, FHRS</contrbtr_nm>
+        <contrbtr_title>Director of Cardiac Electrophysiology, Alaska Heart Institute, Providence and Alaska Regional Hospitals</contrbtr_title>
+        <contrbtr_bio>Steven J Compton, MD, FACC, FACP, FHRS is a member of the following medical societies: <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.hrsonline.org">Heart Rhythm Society</a>, <a href="http://www.asmadocs.org">Alaska State Medical Association</a>, <a href="http://www.cardiosource.org">American College of Cardiology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Park W Willis IV, MD</contrbtr_nm>
+        <contrbtr_title>Sarah Graham Distinguished Professor of Medicine and Pediatrics, University of North Carolina at Chapel Hill School of Medicine</contrbtr_title>
+        <contrbtr_bio>Park W Willis IV, MD is a member of the following medical societies: <a href="http://asecho.org">American Society of Echocardiography</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Park W Willis IV, MD</contrbtr_nm>
+        <contrbtr_title>Sarah Graham Distinguished Professor of Medicine and Pediatrics, University of North Carolina at Chapel Hill School of Medicine</contrbtr_title>
+        <contrbtr_bio>Park W Willis IV, MD is a member of the following medical societies: <a href="http://asecho.org">American Society of Echocardiography</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para><strong>Marc G Cribbs, MD</strong> Fellow, Department of Pediatric Cardiology, Vanderbilt University Medical Center</para>
+      <para>Marc G Cribbs, MD is a member of the following medical societies: <a href="http://www.americanheart.org/presenter.jhtml?identifier=1200000">American Heart Association</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, and <a href="http://www.cirtl.org/cmds.htm">Christian Medical &amp; Dental Society</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Larry W Markham, MD</strong> Assistant Professor of Pediatrics and Medicine, Vanderbilt University School of Medicine</para>
+      <para>Larry W Markham, MD is a member of the following medical societies: <a href="http://www.aap.org/">American Academy of Pediatrics</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Bekir Hasan Melek, MD</strong> Assistant Professor of Clinical Medicine, Department of Medicine, Section of Cardiology, Tulane University School of Medicine</para>
+      <para>Bekir Hasan Melek is a member of the following medical societies: <a href="http://www.aaas.org/">American Association for the Advancement of Science</a>, <a href="http://www.acc.org/">American College of Cardiology</a>, <a href="http://www.acponline.org/">American College of Physicians</a>, <a href="http://www.americanheart.org/presenter.jhtml?identifier=1200000">American Heart Association</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, <a href="http://asecho.org/">American Society of Echocardiography</a>, and <a href="http://www.lsms.org/">Louisiana State Medical Society</a></para>
+      <para>Disclosure: Nothing to disclose.</para>
+      <para><strong>Jeffrey C Milliken, MD</strong> Chief, Division of Cardiothoracic Surgery, University of California at Irvine Medical Center; Clinical Professor, Department of Surgery, University of California, Irvine, School of Medicine</para>
+      <para>Jeffrey C Milliken, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.aats.org/">American Association for Thoracic Surgery</a>, <a href="http://www.acc.org/">American College of Cardiology</a>, <a href="http://www.chestnet.org/">American College of Chest Physicians</a>, <a href="http://www.facs.org/">American College of Surgeons</a>, <a href="http://www.americanheart.org/presenter.jhtml?identifier=1200000">American Heart Association</a>, <a href="http://www.asaio.com/">American Society for Artificial Internal Organs</a>, <a href="http://www.cmanet.org/">California Medical Association</a>, <a href="http://www.ishlt.org/">International Society for Heart and Lung Transplantation</a>, <a href="http://www.pbk.org/">Phi Beta Kappa</a>, <a href="http://www.sts.org/">Society of Thoracic Surgeons</a>, <a href="http://www.swog.org/">Southwest Oncology Group</a>, and <a href="http://www.westernsurg.org/">Western Surgical Association</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+      <para><strong>Peter B Smulowitz</strong> University of California, Irvine, School of Medicine </para>
+      <para>Disclosure: Nothing to disclose.</para>
+      <para><strong>James V Talano, MD, MBA, MM, FACC, FAHA</strong> Director of Cardiovascular Medicine, SWICFT Institute</para>
+      <para>James V Talano, MD, MBA, MM, FACC, FAHA is a member of the following medical societies: <a href="http://www.acc.org/">American College of Cardiology</a>, <a href="http://www.chestnet.org/">American College of Chest Physicians</a>, <a href="http://www.acpe.org/">American College of Physician Executives</a>, <a href="http://www.acponline.org/">American College of Physicians</a>, <a href="http://www.americanheart.org/presenter.jhtml?identifier=1200000">American Heart Association</a>, <a href="http://asecho.org/">American Society of Echocardiography</a>, <a href="http://www.asnc.org/">American Society of Nuclear Cardiology</a>, <a href="http://hfsa.org/">Heart Failure Society of America</a>, and <a href="http://www.sgcard.org/">Society of Geriatric Cardiology</a></para>
+      <para>Disclosure: Nothing to disclose. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24371474">
+      <para>Constantinescu T,  Magda SL,  Niculescu R,  Mincu RI,  Zaharia D,  Toma CL, et al. New Echocardiographic Tehniques in Pulmonary Arterial Hypertension vs. Right Heart Catheterization - A Pilot Study. <em>Maedica (Buchar)</em>. 2013 Jun. 8(2):116-23. <a href="http://reference.medscape.com/medline/abstract/24371474">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3865119/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8988164">
+      <para>Li QY, Newbury-Ecob RA, Terrett JA, Wilson DI, Curtis AR, Yi CH. Holt-Oram syndrome is caused by mutations in TBX5, a member of the Brachyury (T) gene family. <em>Nat Genet</em>. 1997 Jan. 15(1):21-9. <a href="http://reference.medscape.com/medline/abstract/8988164">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10700184">
+      <para>Ruiz-Perez VL, Ide SE, Strom TM, Lorenz B, Wilson D, Woods K. Mutations in a new gene in Ellis-van Creveld syndrome and Weyers acrodental dysostosis. <em>Nat Genet</em>. 2000 Mar. 24(3):283-6. <a href="http://reference.medscape.com/medline/abstract/10700184">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10587520">
+      <para>Benson DW, Silberbach GM, Kavanaugh-McHugh A, Cottrill C, Zhang Y, Riggs S. Mutations in the cardiac transcription factor NKX2.5 affect diverse cardiac developmental pathways. <em>J Clin Invest</em>. 1999 Dec. 104(11):1567-73. <a href="http://reference.medscape.com/medline/abstract/10587520">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC409866/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18997168">
+      <para>[Guideline] Warnes CA,  Williams RG,  Bashore TM,  Child JS,  Connolly HM,  Dearani JA, et al. ACC/AHA 2008 Guidelines for the Management of Adults with Congenital Heart Disease: Executive Summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (writing committee to develop guidelines for the management of adults with congenital heart disease). <em>Circulation</em>. 2008 Dec 2. 118(23):2395-451. <a href="http://reference.medscape.com/medline/abstract/18997168">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22335856">
+      <para>Kutty S,  Hazeem AA,  Brown K,  Danford CJ,  Worley SE,  Delaney JW, et al. Long-term (5- to 20-year) outcomes after transcatheter or surgical treatment of hemodynamically significant isolated secundum atrial septal defect. <em>Am J Cardiol</em>. 2012 May 1. 109(9):1348-52. <a href="http://reference.medscape.com/medline/abstract/22335856">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24351945">
+      <para>Kaya Y,  Yurtdas M,  Ceylan Y,  Bulut MO,  Söylemez N,  Güvenç TS, et al. [Percutaneous closure of secundum atrial septal defects in pediatric and adult patients: short- and mid-term follow-up results]. <em>Turk Kardiyol Dern Ars</em>. 2013 Dec. 41(8):705-13. <a href="http://reference.medscape.com/medline/abstract/24351945">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20943671">
+      <para>Humenberger M, Rosenhek R, Gabriel H, et al. Benefit of atrial septal defect closure in adults: impact of age. <em>Eur Heart J</em>. 2011 Mar. 32(5):553-60. <a href="http://reference.medscape.com/medline/abstract/20943671">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15708694">
+      <para>Salehian O, Horlick E, Schwerzmann M, Haberer K, McLaughlin P, Siu SC. Improvements in cardiac form and function after transcatheter closure of secundum atrial septal defects. <em>J Am Coll Cardiol</em>. 2005 Feb 15. 45(4):499-504. <a href="http://reference.medscape.com/medline/abstract/15708694">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16153516">
+      <para>Di Salvo G,  Drago M,  Pacileo G,  Rea A,  Carrozza M,  Santoro G, et al. Atrial function after surgical and percutaneous closure of atrial septal defect: a strain rate imaging study. <em>J Am Soc Echocardiogr</em>. 2005 Sep. 18(9):930-3. <a href="http://reference.medscape.com/medline/abstract/16153516">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14736453">
+      <para>Krumsdorf U, Ostermayer S, Billinger K, Trepels T, Zadan E, Horvath K. Incidence and clinical course of thrombus formation on atrial septal defect and patient foramen ovale closure devices in 1,000 consecutive patients. <em>J Am Coll Cardiol</em>. 2004 Jan 21. 43(2):302-9. <a href="http://reference.medscape.com/medline/abstract/14736453">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12373252">
+      <para>Brandt RR, Neumann T, Neuzner J, Rau M, Faude I, Hamm CW. Transcatheter closure of atrial septal defect and patent foramen ovale in adult patients using the Amplatzer occlusion device: no evidence for thrombus deposition with antiplatelet agents. <em>J Am Soc Echocardiogr</em>. 2002 Oct. 15(10 Pt 1):1094-8. <a href="http://reference.medscape.com/medline/abstract/12373252">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15837251">
+      <para>Divekar A, Gaamangwe T, Shaikh N, Raabe M, Ducas J. Cardiac perforation after device closure of atrial septal defects with the Amplatzer septal occluder. <em>J Am Coll Cardiol</em>. 2005 Apr 19. 45(8):1213-8. <a href="http://reference.medscape.com/medline/abstract/15837251">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15558755">
+      <para>Amin Z, Hijazi ZM, Bass JL, Cheatham JP, Hellenbrand WE, Kleinman CS. Erosion of Amplatzer septal occluder device after closure of secundum atrial septal defects: review of registry of complications and recommendations to minimize future risk. <em>Catheter Cardiovasc Interv</em>. 2004 Dec. 63(4):496-502. <a href="http://reference.medscape.com/medline/abstract/15558755">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15657237">
+      <para>Tarnok A, Bocsi J, Osmancik P, Hausler HJ, Schneider P, Dahnert I. Cardiac troponin I release after transcatheter atrial septal defect closure depends on occluder size but not on patient's age. <em>Heart</em>. 2005 Feb. 91(2):219-22. <a href="http://reference.medscape.com/medline/abstract/15657237">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17880337">
+      <para>Egred M, Andron M, Albouaini K, Alahmar A, Grainger R, Morrison WL. Percutaneous closure of patent foramen ovale and atrial septal defect: procedure outcome and medium-term follow-up. <em>J Interv Cardiol</em>. 2007 Oct. 20(5):395-401. <a href="http://reference.medscape.com/medline/abstract/17880337">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12527678">
+      <para>Fischer G, Stieh J, Uebing A, Hoffmann U, Morf G, Kramer HH. Experience with transcatheter closure of secundum atrial septal defects using the Amplatzer septal occluder: a single centre study in 236 consecutive patients. <em>Heart</em>. 2003 Feb. 89(2):199-204. <a href="http://reference.medscape.com/medline/abstract/12527678">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14969615">
+      <para>Anzai H, Child J, Natterson B, Krivokapich J, Fishbein MC, Chan VK. Incidence of thrombus formation on the CardioSEAL and the Amplatzer interatrial closure devices. <em>Am J Cardiol</em>. 2004 Feb 15. 93(4):426-31. <a href="http://reference.medscape.com/medline/abstract/14969615">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Argenziano M, Oz MC, DeRose Jr JJ, et al. Totally endoscopic atrial septal defect repair with robotic assistance. <em>The Heart Surgery Forum</em>. 2001. 5(3):<a href="http://www.hsforum.com/vol5/issue3/2001-73777.html">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12591745">
+      <para>Bartel T, Konorza T, Arjumand J, et al. Intracardiac echocardiography is superior to conventional monitoring for guiding device closure of interatrial communications. <em>Circulation</em>. 2003 Feb 18. 107(6):795-7. <a href="http://reference.medscape.com/medline/abstract/12591745">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15760685">
+      <para>Bartel T, Konorza T, Neudorf U, Ebralize T, Eggebrecht H, Gutersohn A. Intracardiac echocardiography: an ideal guiding tool for device closure of interatrial communications. <em>Eur J Echocardiogr</em>. 2005 Mar. 6(2):92-6. <a href="http://reference.medscape.com/medline/abstract/15760685">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/13798185">
+      <para>Bedford DE. The anatomical types of atrial septal defect. Their incidence and clinical diagnosis. <em>Am J Cardiol</em>. 1960 Sep. 6:568-74. <a href="http://reference.medscape.com/medline/abstract/13798185">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9610535">
+      <para>Benson DW, Sharkey A, Fatkin D, Lang P, Basson CT, McDonough B. Reduced penetrance, variable expressivity, and genetic heterogeneity of familial atrial septal defects. <em>Circulation</em>. 1998 May 26. 97(20):2043-8. <a href="http://reference.medscape.com/medline/abstract/9610535">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18610164">
+      <para>Besterman E. Atrial septal defect with pulmonary hypertension. <em>Br Heart J</em>. 1961 Sep. 23(5):587-98. <a href="http://reference.medscape.com/medline/abstract/18610164">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15562840">
+      <para>Bialkowski J, Karwot B, Szkutnik M, Banaszak P, Kusa J, Skalski J. Closure of atrial septal defects in children: surgery versus Amplatzer device implantation. <em>Tex Heart Inst J</em>. 2004. 31(3):220-3. <a href="http://reference.medscape.com/medline/abstract/15562840">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC521760/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Braunwald E. Atrial septal defect. Braunwald E, ed. <em>Heart Disease: A Text of Cardiovascular Medicine</em>. 4th ed. Philadelphia, Pa: WB Saunders; 1992. 1992: 906-8. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/13690846">
+      <para>Carlsson E. Anatomic diagnosis of atrial septal defects. <em>Am J Roentgenol Radium Ther Nucl Med</em>. 1961 Jun. 85:1063-70. <a href="http://reference.medscape.com/medline/abstract/13690846">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/6858843">
+      <para>Cherian G, Uthaman CB, Durairaj M, et al. Pulmonary hypertension in isolated secundum atrial septal defect: high  frequency in young patients. <em>Am Heart J</em>. 1983 Jun. 105(6):952-7. <a href="http://reference.medscape.com/medline/abstract/6858843">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11897451">
+      <para>Chessa M, Carminati M, Butera G, et al. Early and late complications associated with transcatheter occlusion of secundum atrial septal defect. <em>J Am Coll Cardiol</em>. 2002 Mar 20. 39(6):1061-5. <a href="http://reference.medscape.com/medline/abstract/11897451">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Goldman L, Braunwald E. <em>Primary Cardiology</em>. Philadelphia, Pa: WB Saunders; 1998. 394-411. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8521569">
+      <para>Holmvang G, Palacios IF, Vlahakes GJ, et al. Imaging and sizing of atrial septal defects by magnetic resonance. <em>Circulation</em>. 1995 Dec 15. 92(12):3473-80. <a href="http://reference.medscape.com/medline/abstract/8521569">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20943671">
+      <para>Humenberger M,  Rosenhek R,  Gabriel H,  Rader F,  Heger M,  Klaar U, et al. Benefit of atrial septal defect closure in adults: impact of age. <em>Eur Heart J</em>. 2011 Mar. 32(5):553-60. <a href="http://reference.medscape.com/medline/abstract/20943671">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Isselbacher KJ, Braunwald E, Wilson JD. Atrial septal defect. Isselbacher KJ, ed. <em>Harrison's Principles of Internal Medicine</em>. 13th ed. New York, NY: McGraw-Hill; 1994. 1994: 1041. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Jost CH, Connolly HM, Danielson GK, et al. Sinus venosus atrial septal defect: long-term postoperative outcome for 115patients. <em>Circulation</em>. 2005 Sep 27. 112(13):1953-8. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Kirklin JW, Barratt-Boyes BG. <em>Cardiac Surgery</em>. London, England: Churchill Livingstone; 1986. 463-97. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7623878">
+      <para>Konstantinides S, Geibel A, Olschewski M, et al. A comparison of surgical and medical therapy for atrial septal defect  in adults. <em>N Engl J Med</em>. 1995 Aug 24. 333(8):469-73. <a href="http://reference.medscape.com/medline/abstract/7623878">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1991912">
+      <para>Kronzon I, Tunick PA, Freedberg RS, et al. Transesophageal echocardiography is superior to transthoracic  echocardiography in the diagnosis of sinus venosus atrial septal defect. <em>J Am Coll Cardiol</em>. 1991 Feb. 17(2):537-42. <a href="http://reference.medscape.com/medline/abstract/1991912">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9396853">
+      <para>Latson LA. Per-catheter ASD closure. <em>Pediatr Cardiol</em>. 1998 Jan-Feb. 19(1):86-93; discussion 94. <a href="http://reference.medscape.com/medline/abstract/9396853">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Marelli AJ, Moodie DS, Topol EJ. Adult congenital heart disease. <em>Textbook of Cardiovascular Medicine</em>. Philadelphia, Pa: Lippincott-Raven; 1998. 775-9. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Masura J, Gavora P, Podnar T. Long-term outcome of transcatheter secundum-type atrial septal defect closure using Amplatzer septal occluders. <em>J Am Coll Cardiol</em>. 2005 Feb 15. 45(4):505-7. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Moore KL, Persaud TVN. <em>Before We Are Born: Essentials of Embryology and Birth Defects</em>. Philadelphia, Pa: WB Saunders Co; 1998. 774-7. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7688102">
+      <para>Murphy JG, Gersh BJ, Mair DD, et al. Long-term outcome in patients undergoing surgical repair of tetralogy  of Fallot. <em>N Engl J Med</em>. 1993 Aug 26. 329(9):593-9. <a href="http://reference.medscape.com/medline/abstract/7688102">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9456481">
+      <para>O''Laughlin MP. Catheter closure of secundum atrial septal defects. <em>Tex Heart Inst J</em>. 1997. 24(4):287-92. <a href="http://reference.medscape.com/medline/abstract/9456481">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC325470/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15547047">
+      <para>Piéchaud JF. Closing down: transcatheter closure of intracardiac defects and vessel embolisations. <em>Heart</em>. 2004 Dec. 90(12):1505-10. <a href="http://reference.medscape.com/medline/abstract/15547047">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12840238">
+      <para>Rao PS. Catheter closure of atrial septal defects. <em>J Invasive Cardiol</em>. 2003 Jul. 15(7):398-400. <a href="http://reference.medscape.com/medline/abstract/12840238">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16145006">
+      <para>Ruge H, Wildhirt SM, Libera P, Vogt M, Holper K, Lange R. Images in cardiovascular medicine. Left atrial thrombus on atrial septal defect closure device as a source of cerebral emboli 3 years after implantation. <em>Circulation</em>. 2005 Sep 6. 112(10):e130-1. <a href="http://reference.medscape.com/medline/abstract/16145006">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/5764131">
+      <para>Sealy WC, Farmer JC, Young Jr WG, et al. Atrial dysrhythmia and atrial secundum defects. <em>J Thorac Cardiovasc Surg</em>. 1969 Feb. 57(2):245-50. <a href="http://reference.medscape.com/medline/abstract/5764131">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2205761">
+      <para>Seward JB, Khandheria BK, Edwards WD, et al. Biplanar transesophageal echocardiography: anatomic correlations, image orientation, and clinical applications. <em>Mayo Clin Proc</em>. 1990 Sep. 65(9):1193-213. <a href="http://reference.medscape.com/medline/abstract/2205761">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12840237">
+      <para>Staniloae CS, El-Khally Z, Ibrahim R, et al. Percutaneous closure of secundum atrial septal defect in adults   a single center experience with the amplatzer septal occluder. <em>J Invasive Cardiol</em>. 2003 Jul. 15(7):393-7. <a href="http://reference.medscape.com/medline/abstract/12840237">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Stark J. Secundum atrial septal defect. <em>Surgery for Congenital Heart Defects</em>. New York, NY: Grune &amp; Stratton; 1983. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/8017269">
+      <para>Tardif JC, Schwartz SL, Vannan MA, et al. Clinical usefulness of multiplane transesophageal echocardiography:  comparison to biplanar imaging. <em>Am Heart J</em>. 1994 Jul. 128(1):156-66. <a href="http://reference.medscape.com/medline/abstract/8017269">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15983252">
+      <para>Thuny F,  Di Salvo G,  Belliard O,  Avierinos JF,  Pergola V,  Rosenberg V, et al. Risk of embolism and death in infective endocarditis: prognostic value of echocardiography: a prospective multicenter study. <em>Circulation</em>. 2005 Jul 5. 112(1):69-75. <a href="http://reference.medscape.com/medline/abstract/15983252">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16390800">
+      <para>Tonni G, Ferrari B, Defelice C, Centini G. Neonatal porencephaly in very low birth weight infants: ultrasound timing of asphyxial injury and neurodevelopmental outcome at two years of age. <em>J Matern Fetal Neonatal Med</em>. 2005 Dec. 18(6):361-5. <a href="http://reference.medscape.com/medline/abstract/16390800">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3819204">
+      <para>Vick GW 3rd, Murphy DJ Jr, Ludomirsky A, et al. Pulmonary venous and systemic ventricular inflow obstruction in  patients with congenital heart disease: detection by combined two-dimensional and Doppler echocardiography. <em>J Am Coll Cardiol</em>. 1987 Mar. 9(3):580-7. <a href="http://reference.medscape.com/medline/abstract/3819204">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15992627">
+      <para>Warnes CA. The adult with congenital heart disease: born to be bad?. <em>J Am Coll Cardiol</em>. 2005 Jul 5. 46(1):1-8. <a href="http://reference.medscape.com/medline/abstract/15992627">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17030704">
+      <para>Webb G, Gatzoulis MA. Atrial septal defects in the adult: recent progress and overview. <em>Circulation</em>. 2006 Oct 10. 114(15):1645-53. <a href="http://reference.medscape.com/medline/abstract/17030704">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/761329">
+      <para>Weyman AE, Wann LS, Caldwell RL, et al. Negative contrast echocardiography: a new method for detecting left-to-  right shunts. <em>Circulation</em>. 1979 Mar. 59(3):498-505. <a href="http://reference.medscape.com/medline/abstract/761329">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14607459">
+      <para>Zanchetta M, Onorato E, Rigatelli G, Pedon L, Zennaro M, Carrozza A. Intracardiac echocardiography-guided transcatheter closure of secundum atrial septal defect: a new efficient device selection method. <em>J Am Coll Cardiol</em>. 2003 Nov 5. 42(9):1677-82. <a href="http://reference.medscape.com/medline/abstract/14607459">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1999563" pubid="" template="Clinical Procedures" template-name="singlepage">
+  <site-meta>
+    <article-name>Ankle Block</article-name>
+    <title>
+      <page-info id="overview">Ankle Block: Overview, Anatomy, Medications</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Ankle Block: Overview, Anatomy, Medications</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+<section-info id="a2">Anatomy</section-info>
+<section-info id="a3">Medications</section-info>
+<section-info id="a4">Supplies</section-info>
+<section-info id="a5">Superficial Peroneal Nerve</section-info>
+<section-info id="a6">Deep Peroneal Nerve</section-info>
+<section-info id="a7">Saphenous Nerve</section-info>
+<section-info id="a8">Posterior Tibial Nerve</section-info>
+<section-info id="a9">Sural Nerve</section-info>
+<section-info id="a10">Pearls</section-info>
+<section-info id="a11">Contraindications</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Ankle Block Overview</page-info>
+    </meta-keywords>
+    <uri>1999563-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Aug 06, 2015</posting-date>
+    <last-generated>2015-08-06-17:30</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Clinical Procedures</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="503">Procedures</content-group>
+    <content-type ID="10419">Procedure</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1999563</artid>
+      <cg>503</cg>
+      <scg text="Pain, Acute">5000003</scg>
+      <ssp text="Anesthesiology">46</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Aug 06, 2015</last_updated>
+    <publication_cat>
+      <id>procedure</id>
+      <name>Procedures</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures</id>
+      <name>Clinical Procedures</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures_anesthetic</id>
+      <name>Anesthetic Techniques</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">ankle block, ankle block procedure, regional anesthesia, ankle anesthesia, ankle, anesthesia</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Regional anesthesia is increasing in its utility in the treatment of injuries, foreign body removal, and even in the operative setting. By providing a regional block, the affected anatomy can be properly cleaned, explored, and treated without causing unnecessary pain to the patient.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Ankle Block</title>
+  <sect1 id="a1">
+    <title>Overview</title>
+    <pgroup>
+      <para>Regional anesthesia is increasing in its utility in the treatment of injuries, foreign body removal, and even in the operative setting. By providing a regional block, the affected anatomy can be properly cleaned, explored, and treated without causing unnecessary pain to the patient. In many settings, regional anesthetic is also preferred because it prevents the distortion of the anatomy commonly seen in local anesthesia. </para>
+      <para>Regional anesthesia of the ankle presents a challenge to the provider because of the complicated nerve supply to the foot and the varied locations of the nerves around the ankle. However, by adequately anesthetizing the foot, patients can be offered relief from often painful injuries while the complex anatomy of the foot is examined and repaired. See <a href="http://emedicine.medscape.com/article/1946201-overview">Ankle Joint Anatomy</a> for more information. </para>
+      <para>Providing local anesthesia to the foot, particularly to the sole, presents many difficulties. First, the thick but sensitive skin must be penetrated with a needle, which often must be a larger gauge than might be used elsewhere to pass through the skin — this can be very painful. Second, the underlying soft tissue of the sole is tightly bound to the fascia and does not separate easily; injecting even small amounts of anesthesia locally into the sole can result in compression of blood vessels and vascular damage to the tissue that is already injured. But, with regional anesthesia, each of these difficulties can be avoided by blocking the pain sensation carried from the foot at the point where the nerves pass through a safe, readily accessible region of anatomy.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <para>An image depicting a cross-section of the ankle can be seen below.</para>
+      <figure id="13364">
+        <title>Cross-section of the ankle. </title>
+        <caption>Cross-section of the ankle. </caption>
+        <graphic fileref="/64/13364.jpg" format="IMAGE" id="13364" extension_format="JPG"/>
+        <graphic fileref="/64/13364tn.jpg" format="IMAGE_THUMB" id="13364"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Anatomy</title>
+    <pgroup>
+      <para>Five main nerves originate from the major nerve roots of the lower extremity innervating the foot (see the image below). The dorsal aspect of the foot is innervated by 3 nerves that run on the anterior side of the lower leg and ankle — the superficial peroneal, deep peroneal, and saphenous nerves. The volar aspect of the foot is innervated by the posterior tibial and sural nerves on the posterolateral aspect of the ankle. Complete regional anesthesia of the foot requires blocking each of the 5 nerves.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <figure id="13364">
+        <title>Cross-section of the ankle. </title>
+        <caption>Cross-section of the ankle. </caption>
+        <graphic fileref="/64/13364.jpg" format="IMAGE" id="13364" extension_format="JPG"/>
+        <graphic fileref="/64/13364tn.jpg" format="IMAGE_THUMB" id="13364"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Medications</title>
+    <pgroup>
+      <para>The most commonly used short-acting subcutaneous anesthetic agent is Lidocaine, which can be given as 1% or 2% mixtures. Epinephrine 1:1000 may be added to both 1% and 2% solutions. Epinephrine is typically added to local anesthetic to cause vasoconstriction, prolonging the activity of the anesthetic and limiting bleeding. </para>
+      <para>The time between injection and onset of anesthesia with lidocaine is approximately 60-90 seconds, and the effects of lidocaine typically last 20-30 minutes (up to 2 hours if mixed with epinephrine). The maximum dose of lidocaine in adults is 300 mg (3-4 mg/kg in children), when mixed with epinephrine, the maximum dose is 500 mg (7 mg/kg).</para>
+      <para>Bupivacaine 0.25% or 0.5% (Marcaine, Sensorcaine) is a common long-acting anesthetic agent. The time of onset of these long-acting agents is approximately 10-20 minutes, but the anesthetic effects last 4-6 hours alone, and up to 8 hours when mixed with epinephrine. The maximum dose of bupivacaine is 175 mg (2 mg/kg) in an adult, but this is increased to 225 mg (3 mg/kg) when mixed with epinephrine.</para>
+      <para>50/50 or 25/75 mixtures of lidocaine and bupivacaine may provide the most optimal anesthetic for certain ankle anesthesia, providing nearly immediate relief from pain from the short-acting component, and providing up to 8 hours of anesthesia from the long-acting medication. Because regional anesthesia is administered some distance away from the wound site, and also because epinephrine should be used with great caution in distal extremities, anesthetic medications mixed with vasoconstrictors such as epinephrine are not recommended in ankle anesthesia.</para>
+      <table id="t5a4962c0b" class="datatable">
+        <caption>Table 1. Maximum Dosing for the Most Common Short-Acting and Long-Acting Local Anesthetic Agents </caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>Medication</strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>Adult</strong>
+              </para>
+            </td>
+            <td>
+              <para>
+                <strong>Pediatrics</strong>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Lidocaine</para>
+            </td>
+            <td>
+              <para>300 mg</para>
+            </td>
+            <td>
+              <para>3-4 mg/kg</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Lidocaine with epinephrine</para>
+            </td>
+            <td>
+              <para>500 mg</para>
+            </td>
+            <td>
+              <para>7 mg/kg</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Bupivacaine</para>
+            </td>
+            <td>
+              <para>175 mg</para>
+            </td>
+            <td>
+              <para>2 mg/kg</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>Bupivacaine with epinephrine</para>
+            </td>
+            <td>
+              <para>225 mg</para>
+            </td>
+            <td>
+              <para>3 mg/kg</para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <para> </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Supplies</title>
+    <pgroup>
+      <para>All injections should be performed under sterile conditions, with the area of injection cleaned with iodine or chlorhexidine. The size of the syringe varies depending on the amount of anesthetic given (keep in mind maximum doses), but all injections should be given with the smallest needle possible in an effort to cause the least pain. A 25-gauge needle is small enough to provide little trauma to the skin and is an excellent choice for administration of anesthesia. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a5">
+    <title>Superficial Peroneal Nerve</title>
+    <pgroup>
+      <para>The superficial peroneal nerve provides sensation to most of the dorsum of the foot and the dorsal aspect of each of the toes and web spaces, with the exception of the lateral portion of the great toe and the medial side of the second toe, and corresponding web space. The nerve passes subcutaneously on the anterolateral side of the ankle. </para>
+      <para>To block this nerve, palpate the extensor hallucis longus tendon and the lateral malleolus. Insert the needle just over the lateral malleolus and tunnel the needle subcutaneously toward the extensor hallucis longus tendon. Complete anesthesia of the superficial peroneal nerve is achieved by placing 5-7 mL of anesthesia in a band-like pattern between these 2 points (see image below).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <para>As with the administration of any anesthetic, care must be taken to draw back on the syringe before injecting medication to prevent intravascular administration.</para>
+      <figure id="13365">
+        <title>Superficial peroneal nerve block. </title>
+        <caption>Superficial peroneal nerve block. </caption>
+        <graphic fileref="/65/13365.jpg" format="IMAGE" id="13365" extension_format="JPG"/>
+        <graphic fileref="/65/13365tn.jpg" format="IMAGE_THUMB" id="13365"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a6">
+    <title>Deep Peroneal Nerve</title>
+    <pgroup>
+      <para>The deep peroneal nerve provides sensation to the lateral portion of the great toe and medial side of the second digit, as well as the web space between the 2. This distribution is commonly referred to as the “flip-flop” nerve because it innervates the area surrounding the thong of a sandal. This nerve runs deeper in the ankle than the superficial peroneal nerve, hidden behind the extensor hallucis longus tendon. </para>
+      <para>To provide anesthesia to the “flip-flop” region, first palpate the anterior tibial tendon and the extensor hallucis longus tendon by having the patient dorsiflect the foot and great toe. Insert the needle between these 2 tendons approximately 1 cm superior to the medial malleolus. Draw back to prevent intravascular administration of medication, then deposit 1 mL of anesthetic. Once beyond the extensor hallucis longus tendon, angle the needle toward the lateral malleolus and insert until the tip of the needle rests against the anterior tibia (1-2 cm). Remove the needle 1-2 mm so the tip is not resting against the bone, draw back, and then deposit 5 mL of anesthetic to the deep peroneal nerve (see image below).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <figure id="13366">
+        <title>Deep peroneal nerve block. </title>
+        <caption>Deep peroneal nerve block. </caption>
+        <graphic fileref="/66/13366.jpg" format="IMAGE" id="13366" extension_format="JPG"/>
+        <graphic fileref="/66/13366tn.jpg" format="IMAGE_THUMB" id="13366"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a7">
+    <title>Saphenous Nerve</title>
+    <pgroup>
+      <para>The saphenous nerve provides sensation to the skin on the medial aspect of the foot along the arch and runs alongside the saphenous vein between the medial malleolus and the anterior tibial tendon. </para>
+      <para>To anesthetize the arch of the patient’s foot, palpate the anterior tibial tendon and the medial malleolus, and place 3-5 mL of anesthetic in a subcutaneous wheal between these 2 landmarks (see image below).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <figure id="13368">
+        <title>Saphenous nerve block. </title>
+        <caption>Saphenous nerve block. </caption>
+        <graphic fileref="/68/13368.jpg" format="IMAGE" id="13368" extension_format="JPG"/>
+        <graphic fileref="/68/13368tn.jpg" format="IMAGE_THUMB" id="13368"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a8">
+    <title>Posterior Tibial Nerve</title>
+    <pgroup>
+      <para>The posterior tibial nerve is the largest in the ankle and branches into the medial and lateral plantar nerves in the foot, supplying sensation to the entire volar surface, as well as providing motor innervation to the intrinsic muscles of the foot. It runs deep to the posterior tibial artery. </para>
+      <para>To anesthetize the sole of a patient’s foot, palpate the posterior tibial artery between the medial malleolus and the achilles tendon. Insert the needle 1 cm superior to the medial malleolus just posterior to the artery with the needle angled toward the lateral malleolus (see image below). Pass the needle until it rests on the posterior aspect of the tibia, then withdraw 1-2 mm, aspirate the syringe to prevent intravascular administration, and place 5-7 mL of anesthetic. An alternative to passing the needle to the posterior tibia is to insert the needle 1-2 cm and wiggle the tip of the needle; paresthesia elicited by movement of the needle tip indicate contact with the posterior tibial nerve.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <figure id="13369">
+        <title>Posterior tibial nerve block. </title>
+        <caption>Posterior tibial nerve block. </caption>
+        <graphic fileref="/69/13369.jpg" format="IMAGE" id="13369" extension_format="JPG"/>
+        <graphic fileref="/69/13369tn.jpg" format="IMAGE_THUMB" id="13369"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a9">
+    <title>Sural Nerve</title>
+    <pgroup>
+      <para>The sural nerve supplies sensation to the lateral and medial aspects of the foot. It passes between the lateral malleolus and the achilles tendon. </para>
+      <para>Anesthesia is provided to the sural nerve by first palpating the achilles tendon and the lateral malleolus. Insert the needle 1 cm superior to the lateral malleolus and deposit 5 mL in a band-shaped pattern between the 2 landmarks (see the image below).<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+      <figure id="13367">
+        <title>Sural nerve block. </title>
+        <caption>Sural nerve block. </caption>
+        <graphic fileref="/67/13367.jpg" format="IMAGE" id="13367" extension_format="JPG"/>
+        <graphic fileref="/67/13367tn.jpg" format="IMAGE_THUMB" id="13367"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a10">
+    <title>Pearls</title>
+    <pgroup>
+      <para>Anesthesia of the posterior tibia nerve may cause loss of sympathetic tone to the vascular supply of the foot resulting in vasodilation. The effect of this vasodilation is increased warmth in the foot and may also result in an increase in blood loss to an injury on the volar aspect of the foot. </para>
+      <para>Advise patients to pay special attention and care to the anesthetized foot while the affected limb is numb.</para>
+      <para>Avoid re-injecting nerves once anesthesia medication is administered.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a11">
+    <title>Contraindications</title>
+    <pgroup>
+      <para>Very few contraindications to local or regional anesthesia of the ankle exist. Injection of local anesthetic should never be performed through infected tissue.</para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="13364">
+        <title>Cross-section of the ankle. </title>
+        <caption>Cross-section of the ankle. </caption>
+        <graphic fileref="/64/13364.jpg" format="IMAGE" id="13364" extension_format="JPG"/>
+        <graphic fileref="/64/13364tn.jpg" format="IMAGE_THUMB" id="13364"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="13365">
+        <title>Superficial peroneal nerve block. </title>
+        <caption>Superficial peroneal nerve block. </caption>
+        <graphic fileref="/65/13365.jpg" format="IMAGE" id="13365" extension_format="JPG"/>
+        <graphic fileref="/65/13365tn.jpg" format="IMAGE_THUMB" id="13365"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="13366">
+        <title>Deep peroneal nerve block. </title>
+        <caption>Deep peroneal nerve block. </caption>
+        <graphic fileref="/66/13366.jpg" format="IMAGE" id="13366" extension_format="JPG"/>
+        <graphic fileref="/66/13366tn.jpg" format="IMAGE_THUMB" id="13366"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="13367">
+        <title>Sural nerve block. </title>
+        <caption>Sural nerve block. </caption>
+        <graphic fileref="/67/13367.jpg" format="IMAGE" id="13367" extension_format="JPG"/>
+        <graphic fileref="/67/13367tn.jpg" format="IMAGE_THUMB" id="13367"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="13368">
+        <title>Saphenous nerve block. </title>
+        <caption>Saphenous nerve block. </caption>
+        <graphic fileref="/68/13368.jpg" format="IMAGE" id="13368" extension_format="JPG"/>
+        <graphic fileref="/68/13368tn.jpg" format="IMAGE_THUMB" id="13368"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="13369">
+        <title>Posterior tibial nerve block. </title>
+        <caption>Posterior tibial nerve block. </caption>
+        <graphic fileref="/69/13369.jpg" format="IMAGE" id="13369" extension_format="JPG"/>
+        <graphic fileref="/69/13369tn.jpg" format="IMAGE_THUMB" id="13369"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jeff Cloyd, MD</contrbtr_nm>
+        <contrbtr_title>Emergency Physician, Department of Emergency Medicine, University of Tennessee Medical Center</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Adam J Rosh, MD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Program Director, Emergency Medicine Residency, Department of Emergency Medicine, Detroit Receiving Hospital, Wayne State University School of Medicine</contrbtr_title>
+        <contrbtr_bio>Adam J Rosh, MD is a member of the following medical societies: <a href="http://www.aaem.org">American Academy of Emergency Medicine</a>, <a href="http://www.acep.org">American College of Emergency Physicians</a>, <a href="http://www.saem.org">Society for Academic Emergency Medicine</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Meda Raghavendra (Raghu), MD</contrbtr_nm>
+        <contrbtr_title>Associate Professor, Interventional Pain Management, Department of Anesthesiology, Chicago Stritch School of Medicine, Loyola University Medical Center</contrbtr_title>
+        <contrbtr_bio>Meda Raghavendra (Raghu), MD is a member of the following medical societies: <a href="http://www.asahq.org">American Society of Anesthesiologists</a>, <a href="http://www.asra.com">American Society of Regional Anesthesia and Pain Medicine</a>, <a href="http://aapiusa.org">American Association of Physicians of Indian Origin</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Spektor M, Kelly J. Regional Anesthesia of the Thorax and Extremities. Roberts, Hedges. <em>Clinical Procedures in Emergency Medicine</em>. 5th. Philadelphia, PA: Saunders Elsevier; 2010. Volume 1: Chapter 30, 528-530. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Ankle Block, Regional Anesthesia. NYSORA: New York School of Regional Anesthesia. Available at <a href="http://www.nysora.com/peripheral_nerve_blocks/classic_block_tecniques/3035-ankle_block.html">http://www.nysora.com/peripheral_nerve_blocks/classic_block_tecniques/3035-ankle_block.html</a>. Accessed: 5/28/11.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9613533">
+      <para>Hadzic A, Vloka JD, Kuroda MM, Koorn R, Birnbach DJ. The practice of peripheral nerve blocks in the United States: a national survey [p2e comments]. <em>Reg Anesth Pain Med</em>. 1998 May-June. 23(3):241-6. <a href="http://reference.medscape.com/medline/abstract/9613533">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>McGee D. Local and Topical Anesthesia. Roberts, Hedges. <em>Clinical Procedures in Emergency Medicine</em>. 5th. Philadelphia, PA: Saunders Elsevier; 2010. Volume 1: Chapter 29, 481-499. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11806161">
+      <para>Reilley TE, Gerhardt MA. Anesthesia for foot and ankle surgery. <em>Clin Podiatr Med Surg</em>. 2002 Jan. 19(1):125-47, vii. <a href="http://reference.medscape.com/medline/abstract/11806161">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15165588">
+      <para>Reilley TE, Terebuh VD, Gerhardt MA. Regional anesthesia techniques for the lower extremity. <em>Foot Ankle Clin</em>. 2004 Jun. 9(2):349-72. <a href="http://reference.medscape.com/medline/abstract/15165588">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2074091" pubid="" template="Laboratory Medicine" template-name="singlepage">
+  <site-meta>
+    <article-name>Thyroid-Stimulating Hormone</article-name>
+    <title>
+      <page-info id="overview">Thyroid-Stimulating Hormone: Reference Range, Interpretation, Collection and Panels</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Thyroid-Stimulating Hormone: Reference Range, Interpretation, Collection and Panels</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Reference Range</section-info>
+<section-info id="a2">Interpretation</section-info>
+<section-info id="a3">Collection and Panels</section-info>
+<section-info id="a4">Background</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Thyroid-Stimulating Hormone Overview</page-info>
+    </meta-keywords>
+    <uri>2074091-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Jul 16, 2015</posting-date>
+    <last-generated>2015-08-10-12:31</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Laboratory Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="505">Laboratory Medicine</content-group>
+    <content-type ID="10421">Lab</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>2074091</artid>
+      <cg>505</cg>
+      <scg text="Thyroid Disease">1089</scg>
+      <ssp text="Pathology &amp; Lab Medicine">43</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Aug 10, 2015</last_updated>
+    <publication_cat>
+      <id>lab</id>
+      <name>Laboratory Medicine</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>laboratory_medicine</id>
+      <name>Laboratory Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>laboratory_medicine_labmed</id>
+      <name>Laboratory Medicine</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">thyroid-stimulating hormone, thyroid-stimulating hormone levels, TSH, thyroid-stimulating hormone test, thyroid-stimulating hormone testing, thyroid, thyroid testing</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">The lower limit of the reference range is 0.3-0.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Thyroid-Stimulating Hormone</title>
+  <sect1 id="a1">
+    <title>Reference Range</title>
+    <pgroup>
+      <para>Age-specific and pregnancy-specific reference intervals have been established. There are no significant sex or race specific differences.</para>
+      <para>Expected values using a third-generation immunochemiluminometric assay are as follows:</para>
+      <itemizedlist>
+        <listitem>Premature, 28-36 weeks (first week of life): 0.7-27.0</listitem>
+        <listitem>Cord blood (&gt;37 wk): 2.3-13.2</listitem>
+        <listitem>Children 		<itemizedlist><listitem>Birth to 4 days: 1-39</listitem><listitem>2-20 weeks: 1.7-9.1</listitem><listitem>21 weeks to 20 years:0.7-64</listitem></itemizedlist></listitem>
+        <listitem>Adults 		<itemizedlist><listitem>21-54 years: 0.4-4.2</listitem><listitem>55-87 years: 0.5-8.9 </listitem></itemizedlist></listitem>
+        <listitem>Pregnancy 		<itemizedlist><listitem>First trimester: 0.3-4.5</listitem><listitem>Second trimester: 0.5-4.6</listitem><listitem>Third trimester: 0.8-5.2</listitem></itemizedlist></listitem>
+      </itemizedlist>
+      <para>The concentration of TSH in circulation is expressed as milli-international units of biological activity per liter of serum (mIU/L). This way of expressing the concentration originates from the way in which the TSH (and other hormones) was initially evaluated. TSH was initially measured using bioassay on colloidal tissue isolated from the guinea pig thyroid gland and an international unit was defined as the minimum amount of TSH that would elicit a biological response (stimulation of thyroid cAMP cyclase activity in these preparations). Currently all TSH assays are using WHO purified calibrators (second IRP 80/558), which have 7-5 pg purified human pituitary extract and are the equivalent of 37 mIU. (It should be noted that the pituitary extracts also contain small amounts of luteinizing hormone (LH) and follicle-stimulating hormone (FSH): 5-5% LH and 2-77% FSH.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Interpretation</title>
+    <pgroup>
+      <para>Conditions associated with increases in TSH include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/919758-overview">Congenital hypothyroidism</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Primary <a href="http://emedicine.medscape.com/article/122393-overview">hypothyroidism</a></para>
+        </listitem>
+        <listitem>
+          <para>TSH-secreting pituitary tumors (uncommon)</para>
+        </listitem>
+        <listitem>
+          <para>Pituitary resistance to thyroid hormone (uncommon)</para>
+        </listitem>
+      </itemizedlist>
+      <table id="ted5bb20ca" class="datatable">
+        <caption>Typical Laboratory Results in the Progression of Hashimoto Thyroiditis from Subclinical to Overt Disease</caption>
+        <thead>
+          <tr>
+            <th>Stage of Disease</th>
+            <th>TSH</th>
+            <th>fT4</th>
+            <th>T3</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Subclinical</td>
+            <td>Increased</td>
+            <td>Normal concentrations</td>
+            <td>Normal concentrations</td>
+          </tr>
+          <tr>
+            <td>Early</td>
+            <td>Increased</td>
+            <td>Decreased</td>
+            <td>Normal concentrations</td>
+          </tr>
+          <tr>
+            <td>Mature</td>
+            <td>Increased</td>
+            <td>Decreased</td>
+            <td>Decreased</td>
+          </tr>
+        </tbody>
+      </table>
+      <para>Conditions associated with decreases in TSH include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <a href="http://emedicine.medscape.com/article/121865-overview" target="_self">Hyperthyroidism</a>
+          </para>
+        </listitem>
+        <listitem>
+          <para>Pituitary (secondary) hypothyroidism (rare)</para>
+        </listitem>
+        <listitem>
+          <para>Nonthyroid illness</para>
+        </listitem>
+      </itemizedlist>
+      <table id="tc5a5b8df2" class="datatable">
+        <caption>Typical Laboratory Results in the Progression of Graves Disease from Subclinical to Overt Disease</caption>
+        <thead>
+          <tr>
+            <th>Stage of Disease</th>
+            <th>TSH</th>
+            <th>fT4</th>
+            <th>T3</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Subclinical</td>
+            <td>Decreased</td>
+            <td>Normal concentrations</td>
+            <td>Normal concentrations</td>
+          </tr>
+          <tr>
+            <td>Early</td>
+            <td>Decreased</td>
+            <td>Normal concentrations</td>
+            <td>Increased</td>
+          </tr>
+          <tr>
+            <td>Mature</td>
+            <td>Decreased</td>
+            <td>Increased</td>
+            <td>Increased</td>
+          </tr>
+        </tbody>
+      </table>
+      <para>
+        <strong>Hypothyroidism</strong>
+      </para>
+      <para>Signs or symptoms of hypothyroidism include the following:</para>
+      <itemizedlist>
+        <listitem>Weight gain</listitem>
+        <listitem>Decreased appetite</listitem>
+        <listitem>Dry skin</listitem>
+        <listitem>Constipation</listitem>
+        <listitem>Cold intolerance</listitem>
+        <listitem>Puffy skin</listitem>
+        <listitem>Hair loss</listitem>
+        <listitem>Fatigue, lethargy</listitem>
+        <listitem>Menstrual irregularity</listitem>
+        <listitem>Blurred vision</listitem>
+      </itemizedlist>
+      <para>
+        <strong>Hyperthyroidism</strong>
+      </para>
+      <para>Signs or symptoms of hyperthyroidism include the following:</para>
+      <itemizedlist>
+        <listitem>Nervousness</listitem>
+        <listitem>Anxiety</listitem>
+        <listitem>Increased perspiration</listitem>
+        <listitem>Heat intolerance</listitem>
+        <listitem>Weight loss despite increase appetite</listitem>
+        <listitem>Hyperactivity</listitem>
+        <listitem>Tremor</listitem>
+        <listitem>Palpitations</listitem>
+        <listitem>Oligomenorrhea</listitem>
+        <listitem>Tachycardia or atrial arrhythmia</listitem>
+        <listitem>Systolic hypertension</listitem>
+        <listitem>Warm, moist, smooth skin</listitem>
+        <listitem>Lid lag</listitem>
+        <listitem>Stare</listitem>
+        <listitem>Muscle weakness</listitem>
+      </itemizedlist>
+      <para>
+        <strong>Other considerations</strong>
+      </para>
+      <para>Drugs that can increase TSH include the following:</para>
+      <itemizedlist>
+        <listitem>Dopamine antagonists</listitem>
+        <listitem>Chlorpromazine</listitem>
+        <listitem>Haloperidol</listitem>
+        <listitem>Iodine-containing drugs</listitem>
+        <listitem>Amiodarone (amiodarone-induced hypothyroidism) </listitem>
+      </itemizedlist>
+      <para>Drugs that can decrease TSH include the following:</para>
+      <itemizedlist>
+        <listitem>Exogenous thyroxine,</listitem>
+        <listitem>Glucocorticoids</listitem>
+        <listitem>Dopamine</listitem>
+        <listitem>Levodopa</listitem>
+        <listitem>Dopamine agonists</listitem>
+        <listitem>Apomorphine</listitem>
+        <listitem>Pyridoxine</listitem>
+        <listitem>Amiodarone (early amiordarone therapy; amiodarone-induced thyrotoxicosis)</listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Collection and Panels</title>
+    <pgroup>
+      <para>Preferred specimen and acceptable tubes:</para>
+      <para>Serum (red top tube, SST)</para>
+      <para>Plasma (green top tube - sodium heparin, ammonium heparin, lithium heparin; PST)</para>
+      <para>Whole blood - newborn screening, collected by heel puncture 48-72 hours after birth</para>
+      <para>Specimen volume: 0.5 mL plasma or serum (0.25 mL minimum volume)</para>
+      <para>Specimen stability:</para>
+      <para>Centrifuge specimens and remove serum or plasma from the cells within 2 hours of collection.</para>
+      <para>Store at room temperature for 8 hours, or refrigerate at 2-8 degrees Celsius (36-46 degrees Fahrenheit) up to 5 days.</para>
+      <para>If assays are not completed within 48 hours, or the separated sample is to be stored beyond 48 hours, samples should be frozen at -20 degrees Celsius or colder. Frozen samples should be thawed only once. Analyte deterioration may occur in samples that are repeatedly frozen or thawed.</para>
+      <para>Related tests:</para>
+      <para><a href="http://emedicine.medscape.com/article/2089576-overview" target="_self">Thyroxine</a> (T4) </para>
+      <para>Triiodothyronine (T3)</para>
+      <para>Antithyroid autoantibodies</para>
+      <para>Thyroxine binding proteins</para>
+      <para>Thyroglobulin (Tg)</para>
+      <para>Thyrotropin-releasing hormone (TRH)</para>
+      <para>
+        <strong>Measurement of TSH</strong>
+      </para>
+      <para>There are two major ways in which TSH is currently evaluated: Radioimmunoassay (RIA) and chemiluminescence immunoassays.</para>
+      <para>In the RIA, endogenous TSH present in the sample is competing with radiolabeled TSH for a limited amount of TSH-specific antibodies (“competitive assay”). The measured signal is inversely proportional with the amount of TSH present in the sample.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+      <para>The chemiluminescence assay is using two antibodies (“sandwich immunoassay”). The “capture antibody” is binding usually within the alpha subunit of TSH, while the “detection antibody” is always binding within the TSH-specific beta-subunit. The measured signal is directly proportional with the amount of TSH present in the sample. The chemiluminescence assay is significantly more sensitive than RIA; the current generation of immunometric assay (the fourth generation) has a functional detection limit of 0.001-0.002 mIU/L.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+      <para>As with all immunoassays, these assays are prone to specific interferences, especially heterophilic antibodies. Hook effect is rarely seen. Macro TSH can also be considered in the face of spurious results that do not match the clinical conditions and if other interferences are eliminated as well.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Background</title>
+    <pgroup>
+      <title>Description</title>
+      <para>Thyroid-stimulating hormone (TSH) is produced by the adenohypophysis. It promotes development of the thyroid gland and maintenance of its normal function. TSH stimulates the thyroid to produce and release the thyroid hormones: T4 and T3 (hypothalamus-pituitary-thyroid axis). Measurement of TSH frequently is included with that of T4 and T3 in a laboratory panel to screen for and to evaluate thyroid disease. The diagnosis of thyroid disorders can be complex, requiring the combined results of thyroid testing.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6, <ref_inline id="refsrc7" name="refsrc7"/>7, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Indications/Applications</title>
+      <para>Indications for TSH testing include the following:</para>
+      <itemizedlist>
+        <listitem>
+          <para>Screening for congenital hypothyroidism in newborns<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc1" name="refsrc1"/>1] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Screening for subclinical hypothyroidism<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup></para>
+        </listitem>
+        <listitem>
+          <para>Diagnosis and monitoring of other thyroid disorders</para>
+        </listitem>
+        <listitem>
+          <para>Monitoring of patients receiving thyroid hormone</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Alina G Sofronescu, PhD</contrbtr_nm>
+        <contrbtr_title>Assistant Professor, Board Certified Clinical Chemist, Technical Director of Clinical Chemistry Laboratory; Department of Pathology and Microbiology, University of Nebraska Medical Center</contrbtr_title>
+        <contrbtr_bio>Alina G Sofronescu, PhD is a member of the following medical societies: <a href="http://www.aacc.org">American Association for Clinical Chemistry</a>, <a href="http://www.cscc.ca/">Canadian Society of Clinical Chemists</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Thomas M Wheeler, MD</contrbtr_nm>
+        <contrbtr_title>Chairman, Department of Pathology and Immunology, WL Moody, Jr, Professor of Pathology, Professor of Urology, Baylor College of Medicine</contrbtr_title>
+        <contrbtr_bio>Thomas M Wheeler, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.aacr.org">American Association for Cancer Research</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.ascp.org">American Society for Clinical Pathology</a>, <a href="http://www.cytopathology.org">American Society of Cytopathology</a>, <a href="http://www.thyroid.org">American Thyroid Association</a>, <a href="http://www.auanet.org/">American Urological Association</a>, <a href="http://www.cap.org">College of American Pathologists</a>, <a href="http://www.uscap.org">United States and Canadian Academy of Pathology</a>, <a href="http://www.isuporg.org">International Society of Urological Pathology</a>, <a href="http://www.hcms.org">Harris County Medical Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received ownership interest from DNA SeqAlliance for board membership; Received stock from PathXL for medical advisory board.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24275619">
+      <para>Mitchell ML, Hsu HW, Sahai I. Changing perspectives in screening for congenital hypothyroidism and congenital adrenal hyperplasia. <em>Curr Opin Endocrinol Diabetes Obes</em>. 2014 Feb. 21 (1):39-44. <a href="http://reference.medscape.com/medline/abstract/24275619">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/24446653">
+      <para>Leger J, Olivieri A, Donaldson M, et al. ESPE-PES-SLEP-JSPE-APEG-APPES-ISPAE, Congenital Hypothyroidism Consensus Conference Group. European Society for Paediatric Endocrinology consensus guidelines on screening, diagnosis, and management of congenital hypothyroidism. <em>J Clin Endocrinol Metab</em>. 2014 Feb. 99 (2):363-84. <a href="http://reference.medscape.com/medline/abstract/24446653">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Lee SL. Hyperthyroidism. <em>Medscape Drugs &amp; Diseases</em>. September 4, 2014. <a href="http://emedicine.medscape.com/article/121865-overview">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Orlander PR. Hypothyroidism. <em>Medscape Drugs &amp; Diseases</em>. April 21, 2014. <a href="http://emedicine.medscape.com/article/122393-overview">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Burris CA, Ashwood ER, Burns DE. <em>Tietz Textbook of Clinical Chemistry and Molecular Diagnostics</em>. 4th ed. St. Louis: Elsevier Saunders; 2006. </para>
+    </ritem>
+    <ritem ref="">
+      <para>McPherson RA, Matthew R. Pincus MR. <em>Henry's Clinical Diagnosis and Management by Laboratory Methods</em>. 22nd ed. Philadelphia: Elsevier Saunders; 2011. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Wallach J. <em>Interpretation of Diagnostic Tests</em>. 6th ed. New York: Little, Brown; 1996. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/25347444">
+      <para>Rugge JB, Bougatsos C, Chou R. Screening and treatment of thyroid dysfunction: an evidence review for the U.S. Preventive Services Task Force. <em>Ann Intern Med</em>. 2015 Jan 6. 162 (1):35-45. <a href="http://reference.medscape.com/medline/abstract/25347444">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3973529">
+      <para>Gaines Das RE, Bristow AF. The Second International Reference Preparation of Thyroid-Stimulating Hormone, Human, for Immunoassay: calibration by bioassay and immunoassay in an international collaborative study. <em>J Endocrinol</em>. 1985 Mar. 104 (3):367-79. <a href="http://reference.medscape.com/medline/abstract/3973529">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>William Clarke, ed. <em>Contemporary Practice in Clinical Chemistry</em>. 2nd Ed. 2011. </para>
+    </ritem>
+  </refgrp>
+</article>

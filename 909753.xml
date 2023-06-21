@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="909753" pubid="" template="Pediatrics: General Medicine" template-name="multipage">
+  <site-meta>
+    <article-name>Neonatal Pustular Melanosis</article-name>
+    <title>
+      <page-info id="overview">Neonatal Pustular Melanosis: Background, Epidemiology</page-info>
+      <page-info id="clinical">Neonatal Pustular Melanosis Clinical Presentation: Physical, Causes</page-info>
+      <page-info id="differential">Neonatal Pustular Melanosis Differential Diagnoses</page-info>
+      <page-info id="workup">Neonatal Pustular Melanosis Workup: Laboratory Studies</page-info>
+      <page-info id="treatment">Neonatal Pustular Melanosis Treatment &amp; Management: Medical Care</page-info>
+      <page-info id="medication">Neonatal Pustular Melanosis Medication</page-info>
+      <page-info id="followup">Neonatal Pustular Melanosis Follow-up: Further Inpatient Care, Prognosis</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Neonatal Pustular Melanosis: Background, Epidemiology</page-info>
+      <page-info id="clinical">Neonatal Pustular Melanosis Clinical Presentation: Physical, Causes</page-info>
+      <page-info id="differential">Neonatal Pustular Melanosis Differential Diagnoses</page-info>
+      <page-info id="workup">Neonatal Pustular Melanosis Workup: Laboratory Studies</page-info>
+      <page-info id="treatment">Neonatal Pustular Melanosis Treatment &amp; Management: Medical Care</page-info>
+      <page-info id="medication">Neonatal Pustular Melanosis Medication</page-info>
+      <page-info id="followup">Neonatal Pustular Melanosis Follow-up: Further Inpatient Care, Prognosis</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview
+<section-info id="a5">Background</section-info>
+<section-info id="a6">Epidemiology</section-info>
+</section-page-info>
+      <section-page-info id="clinical">Presentation
+<section-info id="b4">Physical</section-info>
+<section-info id="b5">Causes</section-info>
+</section-page-info>
+      <section-page-info id="differential">Differential Diagnoses
+</section-page-info>
+      <section-page-info id="workup">Workup
+<section-info id="c7">Laboratory Studies</section-info>
+</section-page-info>
+      <section-page-info id="treatment">Treatment
+<section-info id="d9">Medical Care</section-info>
+</section-page-info>
+      <section-page-info id="medication">Medication
+</section-page-info>
+      <section-page-info id="followup">Follow-up
+<section-info id="e4">Further Inpatient Care</section-info>
+<section-info id="e5">Prognosis</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Neonatal Pustular Melanosis Overview</page-info>
+      <page-info id="clinical">Neonatal Pustular Melanosis Clinical Presentation</page-info>
+      <page-info id="differential">Neonatal Pustular Melanosis Differential Diagnoses</page-info>
+      <page-info id="workup">Neonatal Pustular Melanosis Workup</page-info>
+      <page-info id="treatment">Neonatal Pustular Melanosis Treatment</page-info>
+      <page-info id="medication">Neonatal Pustular Melanosis Medication</page-info>
+      <page-info id="followup">Neonatal Pustular Melanosis Follow-up</page-info>
+    </meta-keywords>
+    <uri>909753-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Nov 04, 2014</posting-date>
+    <last-generated>2015-08-03-17:34</last-generated>
+    <single-page>0</single-page>
+    <pub-name>Pediatrics: General Medicine</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="502">Diseases &amp; Conditions</content-group>
+    <content-type ID="10418">Condition</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>909753</artid>
+      <cg>502</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Pediatrics">9</ssp>
+      <bc>age12</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 05, 2015</last_updated>
+    <publication_cat>
+      <id>condition</id>
+      <name>Diseases &amp; Conditions</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_general</id>
+      <name>Pediatrics: General Medicine</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>pediatrics_general_dermatology</id>
+      <name>Dermatology</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">neonatal pustular melanosis, transient pustular melanosis of the newborn, pustular melanosis, lesions, vesicles, macules, rash, pemphigus neonatorum, lentiginosis neonatorum, flaking epidermis, macules, skin rash, diagnosis</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Transient neonatal pustular melanosis is a benign, self-limited condition of unknown etiology. Historically, the disorder was lumped together with vesicular and bullous lesions and called pemphigus neonatorum.</meta_description>
+    <pediatric-article>1</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Neonatal Pustular Melanosis</title>
+  <sect1 id="overview">
+    <title>Overview</title>
+    <sect2 id="a5">
+      <title>Background</title>
+      <pgroup>
+        <para>Transient neonatal pustular melanosis is a benign, self-limited condition of unknown etiology.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>Historically, the disorder was lumped together with vesicular and bullous lesions and called pemphigus neonatorum. It was not described as a separate entity until 1976, although it may have been recognized as early as 1961 and published under the name of lentiginosis neonatorum. Note the image below.</para>
+        <figure id="43099">
+          <title>Ruptured pustules and vesicles with remaining characteristic collarette of scale and brown...</title>
+          <caption>Ruptured pustules and vesicles with remaining characteristic collarette of scale and brown hyperpigmented macules. Courtesy of Anthony J. Mancini, MD. </caption>
+          <graphic fileref="/99/43099.jpg" format="IMAGE" id="43099" extension_format="JPG"/>
+          <graphic fileref="/99/43099tn.jpg" format="IMAGE_THUMB" id="43099"/>
+        </figure>
+      </pgroup>
+    </sect2>
+    <sect2 id="a6">
+      <title>Epidemiology</title>
+      <pgroup>
+        <title>Frequency</title>
+        <para>
+          <strong>United States</strong>
+        </para>
+        <para>Few reports of large numbers of screened infants are available; however, incidence has been reported to be as much as 2.2% in white infants and 4.4% in black infants. </para>
+      </pgroup>
+      <pgroup>
+        <title>Mortality/Morbidity</title>
+        <para>Neonatal pustular melanosis is a completely benign condition that is not known to cause any long-term sequelae.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+      </pgroup>
+      <pgroup>
+        <title>Race</title>
+        <para>Transient neonatal pustular melanosis is common in black infants. It can be observed in all racial groups, especially those with darker constitutive pigmentation, Latinos, South Asians, and those of Mediterranean extraction. </para>
+      </pgroup>
+      <pgroup>
+        <title>Age</title>
+        <para>The eruption is almost always present at birth but the clinical appearance or stage may vary.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="clinical">
+    <title>Clinical Presentation</title>
+    <sect2 id="b4">
+      <title>Physical</title>
+      <pgroup>
+        <para>The primary lesions in neonatal pustular melanosis progress through 3 stages of development. Initially, they appear as rather uniform round 2-mm to 4-mm nonerythematous pustules. They are not clear vesicles; rather, they contain milky, purulent exudate. The pustules rupture easily. They are frequently missed because they are superficial and are usually wiped off easily in the delivery suite when the newborn is cleansed of vernix. Pustules on the thicker areas of skin such as the knees or palms may persist for several days.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+        <para>Next, a delicate collarette of thin white scale is left around the perimeter of each denuded pustule. Near-term infants, especially those delivered by cesarean delivery, may exhibit just the unbroken pustules, and term infants may have only macules remaining, usually with the telltale collarette of flaking epidermis.</para>
+        <para>Lastly, within hours of exposure to the terrestrial environment, the central pigmented brown macule becomes apparent. The macules are round, have smooth and distinct borders, and are frequently confused for freckles. They may be profuse or sparse and typically are found under the chin and on the neck, upper chest, back, and buttocks. Occasionally, the palms, soles, and scalp are affected.</para>
+        <para>When considering suspected neonatal pustular melanosis, the following should also be considered:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Erythema toxicum neonatorum: These lesions are small papules on an erythematous base, contain predominantly eosinophils, and do not heal with postinflammatory hyperpigmentation. </para>
+          </listitem>
+          <listitem>
+            <para>Congenital cutaneous candidiasis: The pustules are usually very inflamed and contain organisms on laboratory smear or biopsy.</para>
+          </listitem>
+          <listitem>
+            <para><a href="http://emedicine.medscape.com/article/965254-overview">Impetigo</a>: Pustules are inflamed and contain organisms on laboratory smear and culture.</para>
+          </listitem>
+          <listitem>
+            <para>Congenital Langherhans cell histiocytosis: Widely distributed papules and pustules form adherent crusts, not frecklelike macules.</para>
+          </listitem>
+          <listitem>
+            <para>Congenital <a href="http://emedicine.medscape.com/article/969773-overview">varicella</a>: Pustules are larger, numerous, generalized, and widely dispersed in the setting of an ill neonate with unstable vital signs.</para>
+          </listitem>
+          <listitem>
+            <para>Miliaria: This characterized by clear vesicles (crystallina) or pustules (pustulosa) that erupt in a setting of hyperthermia.</para>
+          </listitem>
+          <listitem>
+            <para><a href="http://emedicine.medscape.com/article/964866-overview">Herpes simplex</a>: Lesions begin as vesicles, become turbid, and develop into pustules. The vesicles are grouped or clustered and contain multinucleated giant cells. </para>
+          </listitem>
+          <listitem>
+            <para><a href="http://emedicine.medscape.com/article/910405-overview">Milia</a>: This is characterized by firm, white, superficial, pin-head–sized papulelike cysts filled with keratin debris.</para>
+          </listitem>
+          <listitem>
+            <para>Acropustulosis: The pustules predominate on the palms and soles and are not present at birth.</para>
+          </listitem>
+        </itemizedlist>
+      </pgroup>
+    </sect2>
+    <sect2 id="b5">
+      <title>Causes</title>
+      <pgroup>
+        <para>The etiology is unknown. Some reports have described cases that evolved into erythema toxicum neonatorum;<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>however, in the author’s opinion, the disorders may coexist and are clinically distinct entities. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <ddsect id="differential">
+    <title>Differential Diagnoses</title>
+    <ddlist>
+      <dditem ref="781215">
+        <title>Candidiasis in Emergency Medicine</title>
+        <desc/>
+      </dditem>
+      <dditem ref="">
+        <title>Miliaria</title>
+        <desc/>
+      </dditem>
+      <dditem ref="909472">
+        <title>Pediatric Acropustulosis</title>
+        <desc/>
+      </dditem>
+      <dditem ref="909671">
+        <title>Pediatric Erythema Toxicum</title>
+        <desc/>
+      </dditem>
+      <dditem ref="964866">
+        <title>Pediatric Herpes Simplex Virus Infection</title>
+        <desc/>
+      </dditem>
+      <dditem ref="910405">
+        <title>Pediatric Milia</title>
+        <desc/>
+      </dditem>
+      <dditem ref="971358">
+        <title>Staphylococcus Aureus Infection</title>
+        <desc/>
+      </dditem>
+    </ddlist>
+  </ddsect>
+  <sect1 id="workup">
+    <title>Workup</title>
+    <sect2 id="c7">
+      <title>Laboratory Studies</title>
+      <pgroup>
+        <para>If the appearance is typical of transient neonatal pustular melanosis, no further workup is indicated. If appearance is not typical, potassium hydroxide preparation, Gram stain, and Wright-Giemsa stain can support other diagnoses in the differential. In atypical cases, pustules can be cultured for bacteria and clustering of pustules should prompt polymerase chain reaction to identify possible herpes simplex.</para>
+        <para>Wright-Giemsa stain of pustule contents demonstrates a predominance of neutrophils. Few, if any eosinophils are present. The brown macules are not true freckles or lentigines. Skin biopsy shows pigment incontinence characteristic of postinflammatory hyperpigmentation. The diagnosis of Langherhans cell histiocytosis can only be made by skin biopsy. </para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <sect1 id="treatment">
+    <title>Treatment &amp; Management</title>
+    <sect2 id="d9">
+      <title>Medical Care</title>
+      <pgroup>
+        <para>No treatment is indicated. Reassure parents that neonatal pustular melanosis is a benign finding and that it disappears.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <msect id="medication">
+    <title>Medication</title>
+    <intro>
+      <title>Medication Summary</title>
+      <para>Drug therapy currently is not a component of the standard of care for this condition.</para>
+    </intro>
+  </msect>
+  <sect1 id="followup">
+    <title>Follow-up</title>
+    <sect2 id="e4">
+      <title>Further Inpatient Care</title>
+      <pgroup>
+        <para>The brown macules fade over a period of several months.</para>
+      </pgroup>
+    </sect2>
+    <sect2 id="e5">
+      <title>Prognosis</title>
+      <pgroup>
+        <para>Neonatal pustular melanosis is self-limited. No morbidity is recognized.</para>
+      </pgroup>
+    </sect2>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="43099">
+        <title>Ruptured pustules and vesicles with remaining characteristic collarette of scale and brown...</title>
+        <caption>Ruptured pustules and vesicles with remaining characteristic collarette of scale and brown hyperpigmented macules. Courtesy of Anthony J. Mancini, MD. </caption>
+        <graphic fileref="/99/43099.jpg" format="IMAGE" id="43099" extension_format="JPG"/>
+        <graphic fileref="/99/43099tn.jpg" format="IMAGE_THUMB" id="43099"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert A Silverman, MD</contrbtr_nm>
+        <contrbtr_title>Clinical Associate Professor, Department of Pediatrics, Georgetown University Medical Center</contrbtr_title>
+        <contrbtr_bio>Robert A Silverman, MD is a member of the following medical societies: <a href="http://www.aad.org">American Academy of Dermatology</a>, <a href="http://www.pedsderm.net">Society for Pediatric Dermatology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+        <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert A Schwartz, MD, MPH</contrbtr_nm>
+        <contrbtr_title>Professor and Head of Dermatology, Professor of Pathology, Pediatrics, Medicine, and Preventive Medicine and Community Health, Rutgers New Jersey Medical School; Visiting Professor, Rutgers University School of Public Affairs and Administration</contrbtr_title>
+        <contrbtr_bio>Robert A Schwartz, MD, MPH is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.nyam.org">New York Academy of Medicine</a>, <a href="http://www.aad.org">American Academy of Dermatology</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.sigmaxi.org/">Sigma Xi</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Dirk M Elston, MD</contrbtr_nm>
+        <contrbtr_title>Professor and Chairman, Department of Dermatology and Dermatologic Surgery, Medical University of South Carolina College of Medicine&#13;
+</contrbtr_title>
+        <contrbtr_bio>Dirk M Elston, MD is a member of the following medical societies: <a href="http://www.aad.org">American Academy of Dermatology</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Kevin P Connelly, DO</contrbtr_nm>
+        <contrbtr_title>Clinical Assistant Professor, Department of Pediatrics, Division of General Pediatrics and Emergency Care, Virginia Commonwealth University School of Medicine; Medical Director, Paws for Health Pet Visitation Program of the Richmond SPCA; Pediatric Emergency Physician, Emergency Consultants Inc, Chippenham Medical Center</contrbtr_title>
+        <contrbtr_bio>Kevin P Connelly, DO is a member of the following medical societies: <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.acopeds.org/">American College of Osteopathic Pediatricians</a>, <a href="http://www.osteopathic.org">American Osteopathic Association</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>The authors and editors at Medscape Reference gratefully acknowledge the contributions of previous author Elaine B St John, MD, to the original writing and development of this article. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="">
+      <para>Eichenfield LF, Frieden IJ, Esterly NB, eds. <em>Neonatal Dermatology</em>. 2nd ed. Philadelphia, Pa: Saunders Elsevier; 2008. 142. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18236822">
+      <para>O'Connor NR, McLaughlin MR, Ham P. Newborn skin: Part I. Common rashes. <em>Am Fam Physician</em>. 2008 Jan 1. 77(1):47-52. <a href="http://reference.medscape.com/medline/abstract/18236822">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/21146802">
+      <para>Chia PS, Leung C, Hsu YL, Lo CY. An infant with transient neonatal pustular melanosis presenting as pustules. <em>Pediatr Neonatol</em>. 2010 Dec. 51(6):356-8. <a href="http://reference.medscape.com/medline/abstract/21146802">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22037857">
+      <para>Goyal T, Varshney A, Bakshi SK. Incidence of Vesicobullous and Erosive Disorders of Neonates: Where and How Much to Worry?. <em>Indian J Pediatr</em>. 2011 Oct 25. <a href="http://reference.medscape.com/medline/abstract/22037857">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19271565">
+      <para>Morgan AJ, Steen CJ, Schwartz RA, Janniger CK. Erythema toxicum neonatorum revisited. <em>Cutis</em>. 2009 Jan. 83(1):13-6. <a href="http://reference.medscape.com/medline/abstract/19271565">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Farnaroff AA, Martin RJ, eds. The skin. <em>Neonatal-Perinatal Medicine: Diseases of the Fetus and Infant</em>. 5th ed. St. Louis, Mo: Mosby-Year Book; 1992. 1333-4. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1638066">
+      <para>Ferrandiz C, Coroleu W, Ribera M, Lorenzo JC, Natal A. Sterile transient neonatal pustulosis is a precocious form of erythema toxicum neonatorum. <em>Dermatology</em>. 1992. 185(1):18-22. <a href="http://reference.medscape.com/medline/abstract/1638066">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7091064">
+      <para>Merlob P, Metzker A, Reisner SH. Transient neonatal pustular melanosis. <em>Am J Dis Child</em>. 1982 Jun. 136(6):521-2. <a href="http://reference.medscape.com/medline/abstract/7091064">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1271148">
+      <para>Ramamurthy RS, Reveri M, Esterly NB. Transient neonatal pustular melanosis. <em>J Pediatr</em>. 1976 May. 88(5):831-5. <a href="http://reference.medscape.com/medline/abstract/1271148">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1898830" pubid="" template="Anatomy" template-name="singlepage">
+  <site-meta>
+    <article-name>Brain Anatomy</article-name>
+    <title>
+      <page-info id="overview">Brain Anatomy: Overview, Gross Anatomy: Cerebrum, Gross Anatomy: Cortex</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Brain Anatomy: Overview, Gross Anatomy: Cerebrum, Gross Anatomy: Cortex</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+<section-info id="a2">Gross Anatomy: Cerebrum</section-info>
+<section-info id="a3">Gross Anatomy: Cortex</section-info>
+<section-info id="a4">Gross Anatomy: Brainstem and Cranial Nerves</section-info>
+<section-info id="a5">Gross Anatomy: Cerebellum</section-info>
+<section-info id="a6">Gross Anatomy: Meninges</section-info>
+<section-info id="a7">Gross Anatomy: Ventricles and Cerebrospinal Fluid</section-info>
+<section-info id="a8">Gross Anatomy: Blood Vessels</section-info>
+<section-info id="a9">Microscopic Anatomy</section-info>
+<section-info id="a10">Functional Neuroanatomy</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Brain Anatomy Overview</page-info>
+    </meta-keywords>
+    <uri>1898830-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Feb 24, 2015</posting-date>
+    <last-generated>2015-06-05-22:13</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Anatomy</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="504">Anatomy</content-group>
+    <content-type ID="10420">Anatomy</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>1898830</artid>
+      <cg>504</cg>
+      <scg xsi:nil="true"/>
+      <ssp text="Med Students">25</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>anatomy</id>
+      <name>Anatomy</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>anatomy</id>
+      <name>Anatomy</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>anatomy_anatomy</id>
+      <name>Anatomy</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">brain anatomy, brain images, cerebral anatomy, central nervous system anatomy, brain, anatomy</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">The central nervous system consists of the brain and the spinal cord. The peripheral nervous system consists of the extensions of neural structures beyond the central nervous system and includes somatic and autonomic divisions.</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Brain Anatomy</title>
+  <sect1 id="a1">
+    <title>Overview</title>
+    <pgroup>
+      <para>The central nervous system consists of the brain and the spinal cord. The peripheral nervous system consists of the extensions of neural structures beyond the central nervous system and includes somatic and autonomic divisions.</para>
+      <para>The brain is composed of 3 main structural divisions: the cerebrum, the brainstem, and the cerebellum (see the images below). At the base of the brain is the brainstem, which extends from the upper cervical spinal cord to the diencephalon of the cerebrum. The brainstem is divided into the medulla, pons, and midbrain. Posterior to the brainstem lies the cerebellum.</para>
+      <figure id="12013">
+        <title>Brain, coronal view. </title>
+        <caption>Brain, coronal view. </caption>
+        <graphic fileref="/13/12013.jpg" format="IMAGE" id="12013" extension_format="JPG"/>
+        <graphic fileref="/13/12013tn.jpg" format="IMAGE_THUMB" id="12013"/>
+      </figure>
+      <figure id="12014">
+        <title>Brain, inferior view. </title>
+        <caption>Brain, inferior view. </caption>
+        <graphic fileref="/14/12014.jpg" format="IMAGE" id="12014" extension_format="JPG"/>
+        <graphic fileref="/14/12014tn.jpg" format="IMAGE_THUMB" id="12014"/>
+      </figure>
+      <figure id="12015">
+        <title>Brain, lateral view. </title>
+        <caption>Brain, lateral view. </caption>
+        <graphic fileref="/15/12015.jpg" format="IMAGE" id="12015" extension_format="JPG"/>
+        <graphic fileref="/15/12015tn.jpg" format="IMAGE_THUMB" id="12015"/>
+      </figure>
+      <figure id="12016">
+        <title>Brain, midsagittal view. </title>
+        <caption>Brain, midsagittal view. </caption>
+        <graphic fileref="/16/12016.jpg" format="IMAGE" id="12016" extension_format="JPG"/>
+        <graphic fileref="/16/12016tn.jpg" format="IMAGE_THUMB" id="12016"/>
+      </figure>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Gross Anatomy: Cerebrum</title>
+    <pgroup>
+      <para>The cerebrum is the largest component of the brain. It is divided into right and left hemispheres. The corpus callosum is the collection of white matter fibers that joins these hemispheres. </para>
+      <para>Each of the cerebral hemispheres is further divided into 4 lobes: the frontal lobe, the parietal lobe, the temporal lobe, and the occipital lobe. The medial temporal lobe structures are considered by some to be part of the so-called limbic lobe. </para>
+      <para>Briefly, the frontal lobe is distinguished from the parietal lobe posteriorly by the central sulcus (see the image below). The frontal lobe and parietal lobes are divided inferiorly from the temporal lobe by the lateral sulcus. The parietal lobe is distinguished from the occipital lobe by the parieto-occipital sulcus on the medial surface.</para>
+      <figure id="12020">
+        <title>Lateral and medial surfaces of cerebrum, showing major sulci and gyri. </title>
+        <caption>Lateral and medial surfaces of cerebrum, showing major sulci and gyri. </caption>
+        <graphic fileref="/20/12020.jpg" format="IMAGE" id="12020" extension_format="JPG"/>
+        <graphic fileref="/20/12020tn.jpg" format="IMAGE_THUMB" id="12020"/>
+      </figure>
+      <para>The cerebrum is further divided into the telencephalon and diencephalon. The telencephalon consists of the cortex, the subcortical fibers, and the basal nuclei. The diencephalon mainly consists of the thalamus and hypothalamus. The telencephalon of the cerebrum is disproportionately well-developed in humans as compared with other mammals. </para>
+    </pgroup>
+    <pgroup>
+      <title>Cortex and subcortical fibers</title>
+      <para>The outermost layer of the cerebrum is the cortex, which has a slightly gray appearance--hence the term "gray matter." The cortex has a folded structure; each fold is termed a gyrus, while each groove between the folds is termed a sulcus. Cortical anatomy is discussed in greater detail below. </para>
+      <para>Below the cortex are axons, which are long fibers that emanate from and connect neurons. Axons are insulated by myelin, which increases the speed of conduction. Myelin is what gives the white appearance to these fibers of the brain--hence the term "white matter." </para>
+      <para>
+        <em>Limbic system</em>
+      </para>
+      <para>The limbic system is a grouping of cortical and subcortical structures involved in memory formation and emotional responses. The limbic system allows for complex interactions between the cortex, the thalamus, the hypothalamus, and the brainstem. The limbic system is not defined by strict anatomic boundaries but incorporates several important structures. The limbic structures conventionally include the amygdala, the hippocampus, the fornix, the mammillary bodies, the cingulate gyrus, and the parahippocampal gyrus. </para>
+      <para>The functional connections within the limbic system are best summarized by the Papez circuit. From the hippocampus, signals are relayed via the fornix to the mammillary bodies and via the mammillothalamic tract to the anterior nucleus of the thalamus. The thalamocingulate radiation then projects to the cingulate gyrus and back to the hippocampus to complete the circuit. The hippocampus serves as a primary output structure of the limbic system. </para>
+      <para>Unlike the 6-layered neocortex, the hippocampus only has 3 layers and is termed the archicortex. The hippocampus is felt to be a structure that is crucial to formation of memory--more specifically, a type of memory called declarative or explicit memory. Declarative memory is essentially the ability to recall life events of the past such as what meal was eaten for breakfast or where the car is parked. </para>
+      <para>Over time, however, certain declarative memories from the distant past can be independently recalled without the hippocampal structures. The hippocampus likely allows long-term memory encoding in the cortex and allows short-term memory retrieval. In laboratory studies of animals and humans, the hippocampus has been shown to also have a cellular memory termed "long-term potentiation." </para>
+      <para>The amygdala is a collection of nuclei that lies within the uncus. It receives multiple modes of sensory information as inputs. The outputs from the amygdala travel through the stria terminalis and the ventral amygdalofugal pathway. Output structures include the hypothalamus, as well as the thalamus, hippocampus, brainstem, and cortex. The amygdala appears to be involved in mediating the emotional aspects of memory, especially the subjective aspects of fear responses. </para>
+    </pgroup>
+    <pgroup>
+      <title>Basal nuclei (ganglia)</title>
+      <para>The basal nuclei (formerly referred to as the basal ganglia) comprise the caudate nucleus, putamen, globus pallidus, subthalamic nucleus, and substantia nigra. Pairs of these structures bear different names. The putamen and globus pallidus combined form the lentiform nuclei. The putamen and caudate nucleus combined form the striatum. The striatum derives its name from the striped appearance given by the gray matter connections bridging across the internal capsule. The basal nuclei are closely integrated with the motor cortex, premotor cortex, and motor nuclei of the thalamus and plays a crucial role in modulation of movements. </para>
+      <para>The primary input to the basal nuclei is from the primary motor cortex and premotor cortex (Brodmann areas 4 and 6) and consists primarily of the pyramidal cells in cortical layer V. These excitatory projections lead primarily to the striatum. The striatum also receives input from the dopaminergic cells of the substantia nigra. In turn, the striatum sends inhibitory projections to the globus pallidus externa and interna. The globus pallidus externa sends inhibitory projections to the subthalamic nucleus, which sends excitatory projections to the globus pallidus interna. The globus pallidus interna in turn projects to the ventral anterior and ventral lateral nuclei of the thalamus. </para>
+      <para>Certain movement disorders can be traced to pathologies in the basal nuclei, the most notable being <a href="http://emedicine.medscape.com/article/1831191-overview">Parkinson disease</a>, which is related to deficiencies of dopaminergic cells of the substantia nigra. <a href="http://emedicine.medscape.com/article/1150165-overview">Huntington disease</a> is a heritable disorder that involves degeneration of the striatum and leads to progressive jerky, or choreiform, movement.</para>
+    </pgroup>
+    <pgroup>
+      <title>Thalamus</title>
+      <para>Positioned between the brainstem and the telencephalon, the diencephalon is composed of the thalamus, the epithalamus, the subthalamus, and the hypothalamus. The thalamus serves as a relay station for ascending input to the cortex and receives information from each of the cardinal senses (except smell). It is hypothesized that the thalamus serves a gating function in filtering information. The thalamus consists of multiple nuclei that are briefly described here (see the image below).</para>
+      <figure id="12019">
+        <title>Major nuclei of thalamus. </title>
+        <caption>Major nuclei of thalamus. </caption>
+        <graphic fileref="/19/12019.jpg" format="IMAGE" id="12019" extension_format="JPG"/>
+        <graphic fileref="/19/12019tn.jpg" format="IMAGE_THUMB" id="12019"/>
+      </figure>
+      <para>Left and right sides of the thalamus are divided by the third ventricle. Each side is then divided by the internal medullary lamina into a series of anterior nuclei, ventrolateral nuclei, and medial nuclei. Smaller nuclei are found within these regions, numbering perhaps in excess of 100. </para>
+      <para>The anterior thalamic nuclei are functionally associated with the limbic system and share reciprocal connections with the cingulate gyrus and the mammillary bodies. The medial nuclei project to the frontal association cortex and premotor cortex, with reciprocal connectivity. </para>
+      <para>The ventrolateral nuclei can be further divided into the ventral anterior (VA), ventral lateral (VL), ventral posterolateral (VPL), and ventral posteromedial (VPM) nuclei. The VA and VL nuclei share input from the globus pallidus and projections to the motor cortex. The VPL and VPM serve as sensory relays in the body and face, respectively. </para>
+      <para>The lateral nuclei are divided into lateral dorsal and lateral posterior nuclei, with projections to the cingulate gyrus and parietal cortex, respectively. </para>
+      <para>Other thalamic structures not included in the anatomic divisions above include the medial and lateral geniculate bodies, which process auditory and visual information, respectively. The pulvinar connects reciprocally with the parietal and occipital association cortex. Intralaminar nuclei within the internal medullary lamina obtain input from the brainstem, cerebellum, and other thalamic nuclei and project to basal nuclei structures and other thalamic nuclei. Amongst the intralaminar nuclei, the centromedian nucleus is a part of the reticular activating system, which plays a role in maintaining cortical arousal. </para>
+    </pgroup>
+    <pgroup>
+      <title>Epithalamus</title>
+      <para>The epithalamus is made up of the habenula, the habenular commissure, the posterior commissure, and the pineal gland. </para>
+    </pgroup>
+    <pgroup>
+      <title>Subthalamus</title>
+      <para>Located between the midbrain and the thalamus, the subthalamus contains the subthalamic nucleus, the red nucleus, and the substantia nigra. Subthalamic structures are closely integrated with the basal nuclei and play a role in modulation of movement. </para>
+    </pgroup>
+    <pgroup>
+      <title>Hypothalamus</title>
+      <para>Thy hypothalamic nuclei lie in the walls of the third ventricle anteriorly. The hypothalamus is involved in mediating endocrine, autonomic, visceral, and homeostatic functions. It can roughly be divided into anterior, posterior, and middle groups of nuclei. </para>
+      <para>The anterior nuclei include the preoptic, the supraoptic, and paraventricular nuclei. The posterior nuclei include the supramammillary nucleus, the mammillary nucleus, the intercalate nucleus, and the posterior nucleus. The middle nuclei include the infundibular, tuberal, dorsomedial, ventromedial, and lateral nuclei. </para>
+      <para>Parasympathetic control can be attributed to the anterior and medial nuclear groups, whereas sympathetic control can be attributed to the posterior and lateral nuclear groups. Satiety can be localized to stimulation of medial nuclei, and hunger can be localized to stimulation of lateral nuclei. Other functions of the hypothalamus include regulation of body temperature, heart rate, blood pressure, and water balance. </para>
+      <para>The hypothalamus has close connections with the cingulate gyrus, frontal lobe, hippocampus, thalamus, brainstem, spinal cord, basal nuclei, and pituitary gland. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Gross Anatomy: Cortex</title>
+    <pgroup>
+      <para>The neocortex is the most phylogenetically developed structure of the human brain as compared with the brains of other species. The complex pattern of folding allows an increased cortical surface to occupy a smaller cranial volume. The pattern of folding that forms the sulcal and gyral patterns remains highly preserved across individuals. This enables a nomenclature for the cortical anatomy. </para>
+      <para>The left and right cerebral hemispheres are separated by the longitudinal cerebral fissure. The principal connection between the 2 hemispheres is the corpus callosum. Each cortical hemisphere can be divided into 4 lobes: frontal, temporal, parietal, and occipital. The frontal lobe can be distinguished from the temporal lobe by the lateral sulcus (Sylvian fissure). The frontal lobe can be distinguished from the parietal lobe by the central sulcus (Rolandic fissure). The parieto-occipital sulcus, which is visible on the medial aspect of the hemisphere, divides the parietal and occipital lobes. Within the lateral sulcus is another cortical surface referred to as the insula. </para>
+      <para>The frontal lobe can then be further divided into the superior, middle, and inferior frontal gyri, which are divided by the superior and inferior frontal sulci, respectively. The inferior frontal gyrus forms the frontal operculum, which overlies the lateral sulcus. The frontal operculum can be divided into 3 triangular gyri: the pars orbitalis, the pars triangularis, and the pars opercularis, in order from anterior to posterior. The precentral gyrus is the gyrus immediately anterior to the central sulcus. </para>
+      <para>Similarly, the temporal lobe is divided into the superior, middle, and inferior temporal gyri, which are separated by the superior and inferior temporal sulci. On the inferior surface of the temporal lobe just lateral to the midbrain the parahippocampal gyrus can be identified, with the collateral sulcus lying lateral. Between the parahippocampal gyrus and the inferior temporal gyrus lies the occipitotemporal gyrus, also known as the fusiform gyrus. </para>
+      <para>Within the parietal lobe, the superior temporal sulcus is capped by the angular gyrus. Just above this, the lateral sulcus is capped by the supramarginal gyrus. Just below the angular gyrus, the lateral occipital gyrus caps the inferior temporal sulcus. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Gross Anatomy: Brainstem and Cranial Nerves</title>
+    <pgroup>
+      <para>Evolutionarily, the brainstem is the most ancient part of the brain. Structurally, it can be divided into the medulla oblongata, pons, and midbrain. These three structures are briefly described below. Cross-sectional anatomy of the brainstem is rather complex, given the multiple traversing pathways and cranial nerve nuclei (see the image below).<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2, <ref_inline id="refsrc3" name="refsrc3"/>3] </sup></para>
+      <figure id="12017">
+        <title>Three views of brainstem. </title>
+        <caption>Three views of brainstem. </caption>
+        <graphic fileref="/17/12017.jpg" format="IMAGE" id="12017" extension_format="JPG"/>
+        <graphic fileref="/17/12017tn.jpg" format="IMAGE_THUMB" id="12017"/>
+      </figure>
+    </pgroup>
+    <pgroup>
+      <title>Medulla oblongata</title>
+      <para>The medulla oblongata, or simply medulla, is continuous with and superior to the cervical spinal cord. There are several external anatomic features of the medulla that can be visible grossly. Ventrally, the pyramids and pyramidal decussation is visualized just below the pons. These are the descending corticospinal tracts. Just lateral to the pyramids, the rootlets of the hypoglossal nerve can be seen as they exit the brainstem. Lateral to the rootlets of the hypoglossal nerve is the inferior olive. Dorsolateral to the inferior olive, the rootlets of the 9th and 10th cranial nerves (glossopharyngeal and vagus) exit.</para>
+      <para>Dorsally, 2 pairs of protrusions are visible, which are the gracile tubercles medially and the cuneate tubercles just lateral to those. These represent the nuclei where sensory information from the dorsal columns is relayed onto thalamic projection neurons. Just superior to these protrusions is the floor of the fourth ventricle, which bears several characteristic impressions. The vagal trigone is the dorsal nucleus of the vagus nerve (cranial nerve X) and lies inferiorly, just below the hypoglossal trigone. </para>
+    </pgroup>
+    <pgroup>
+      <title>Pons</title>
+      <para>Superior to the medulla lies the pons, the ventral surface of which has a characteristic band of horizontal fibers. These fibers are the pontocerebellar fibers that are in turn projections from the corticopontine fibers. They cross to enter the contralateral middle cerebellar peduncle and thus enter the cerebellum. </para>
+      <para>On either side of the midline, there are bulges that are produced by the descending corticospinal tracts. At the pontomedullary junction, the 6th cranial nerve (abducens) can be seen exiting the brainstem. Laterally, but anterior to the middle cerebellar peduncle, the fifth cranial nerve (trigeminal) is seen exiting the brainstem. Below the middle cerebellar peduncle, the seventh and eighth cranial nerves (facial and vestibulocochlear) can be seen exiting. Dorsally, the pons forms the floor of the fourth ventricle. </para>
+    </pgroup>
+    <pgroup>
+      <title>Midbrain</title>
+      <para>The midbrain, also termed the mesencephalon, is the superiormost aspect of the brainstem. Ventrally, the midbrain appears as 2 bundles that diverge rostrally as the cerebral peduncles. Between the cerebral peduncles, the third cranial nerve (oculomotor) can be seen exiting. The fourth cranial nerve (trochlear) exits dorsally and is unique in this regard. It then courses anteriorly against the cerebral peduncles. </para>
+      <para>The posterior aspect of the midbrain has 2 pairs of characteristic protrusions, the superior and inferior colliculi. The superior colliculi are involved in mediating the vestibulo-ocular reflex, whereas the inferior colliculi are involved in sound localization. </para>
+    </pgroup>
+    <pgroup>
+      <title>Cranial nerves</title>
+      <para>There are 12 pairs of cranial nerves that function mainly to convey motor signals to and sensory information from the head and neck. The lower cranial nerves have somewhat more complex visceral functions that are not strictly limited to the head and neck. The cranial nerves are as follows:</para>
+      <itemizedlist>
+        <listitem>
+          <para>I: The <a href="http://emedicine.medscape.com/article/835585-overview">olfactory nerve</a> relays information from the nerves of the olfactory epithelium to mesial temporal lobe and frontal lobe structures</para>
+        </listitem>
+        <listitem>
+          <para>II: The optic nerve relays visual information from the retina; the right and left optic nerves then join at the optic chiasm, where they give rise to the optic tracts, which convey visual information to the thalamus and brainstem and, ultimately, the visual cortex; <a href="http://emedicine.medscape.com/article/383533-overview">optic gliomas</a> can arise from the optic nerve </para>
+        </listitem>
+        <listitem>
+          <para>III: The oculomotor nerve is principally involved in the control of <a href="http://emedicine.medscape.com/article/1189799-overview">eye movements</a> through its innervation of the superior rectus, the medial rectus, the inferior rectus, and the inferior oblique muscles</para>
+        </listitem>
+        <listitem>
+          <para>IV: The trochlear nerve innervates the superior oblique muscle and is purely a motor nerve</para>
+        </listitem>
+        <listitem>
+          <para>V: The <a href="http://emedicine.medscape.com/article/1873373-overview">trigeminal nerve</a> is both a motor and sensory nerve and has 3 divisions, V<sub>1</sub> (the ophthalmic division), V<sub>2</sub> (the maxillary division), and V<sub>3</sub> (the mandibular division); it is involved in conveying sensory information from the face and also in controlling the muscles of mastication; vascular compression of the branches of the trigeminal nerve near its entry into the brainstem has been associated with some types of facial pain, including <a href="http://emedicine.medscape.com/article/1145144-overview">trigeminal neuralgia</a></para>
+        </listitem>
+        <listitem>
+          <para>VI: The abducens nerve innervates the lateral rectus nerve, allowing lateral eye movements</para>
+        </listitem>
+        <listitem>
+          <para>VII: The <a href="http://emedicine.medscape.com/article/835286-overview">facial nerve</a> is principally involved in innervation of the muscles of facial expression and also plays a role in tearing, salivation, and taste; <a href="http://emedicine.medscape.com/article/1146903-overview">Bell's palsy</a> is a relatively common facial nerve palsy </para>
+        </listitem>
+        <listitem>
+          <para>VIII: The vestibulocochlear nerve is a purely sensory nerve that conveys auditory information from the cochlea to the brainstem via the cochlear branch; the <a href="http://emedicine.medscape.com/article/883956-overview">vestibular</a> branch conveys proprioceptive information about head position and movement from the inner ear to the brainstem; acoustic neuromas are typically benign tumors that can arise from the vestibular portion of this nerve </para>
+        </listitem>
+        <listitem>
+          <para>IX: The glossopharyngeal nerve is involved in taste and salivation, as well as sensation in the oropharynx; the afferent limb of the gag reflex is mediated by the glossopharyngeal nerve </para>
+        </listitem>
+        <listitem>
+          <para>X: The <a href="http://emedicine.medscape.com/article/1875813-overview">vagus nerve</a> conveys visceral sensation to the brainstem and also controls some visceral functions, such as heart rate and gastrointestinal motility </para>
+        </listitem>
+        <listitem>
+          <para>XI: The accessory nerve has contributions from a spinal component and innervates neck muscles involved in head turning</para>
+        </listitem>
+        <listitem>
+          <para>XII: The hypoglossal nerve is a motor nerve that innervates muscles of the tongue</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <sect1 id="a5">
+    <title>Gross Anatomy: Cerebellum</title>
+    <pgroup>
+      <para>The cerebellum occupies the posterior fossa, dorsal to the pons and medulla. It is involved primarily in modulating motor control to enable precisely coordinated body movements. Similar to the cerebrum, which has gyri and sulci, the cerebellum has finer folia and fissures that increase the surface area.</para>
+      <para>The cerebellum consists of 2 hemispheres, connected by a midline structure called the vermis. In contrast to the neocortex of the cerebrum, the cerebellar cortex has 3 layers: molecular, Purkinje, and granular. There are 4 deep cerebellar nuclei: the fastigial, globose, emboliform, and dentate nuclei, in sequence from medial to lateral. The afferent and efferent pathways to and from the cerebellum exist within the 3 cerebellar peduncles.</para>
+      <figure id="12018">
+        <title>Top and anterior views of cerebellum. </title>
+        <caption>Top and anterior views of cerebellum. </caption>
+        <graphic fileref="/18/12018.jpg" format="IMAGE" id="12018" extension_format="JPG"/>
+        <graphic fileref="/18/12018tn.jpg" format="IMAGE_THUMB" id="12018"/>
+      </figure>
+      <para>In children, the cerebellum is a common location for tumors such as juvenile pilocytic astrocytomas and <a href="http://emedicine.medscape.com/article/1181219-overview">medulloblastomas</a>. In adults, the posterior fossa is a very common location for metastatic tumors but also a common location for tumors such as <a href="http://emedicine.medscape.com/article/250670-overview">hemangioblastomas</a>. Another pathology of the posterior fossa can occur when the cerebellar tonsils descend below the foramen magnum; this is termed a <a href="http://emedicine.medscape.com/article/1483583-overview">Chiari I</a> malformation. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a6">
+    <title>Gross Anatomy: Meninges</title>
+    <pgroup>
+      <para>The meninges consist of 3 tissue layers that cover the brain and spinal cord: the pia, arachnoid, and the dura mater (see the image below). The pia along with the arachnoid are referred to as the leptomeninges, whereas the dura is referred to as the pachymeninx.</para>
+      <figure id="12024">
+        <title>Cross-sectional view of meninges and dural venous sinus. </title>
+        <caption>Cross-sectional view of meninges and dural venous sinus. </caption>
+        <graphic fileref="/24/12024.jpg" format="IMAGE" id="12024" extension_format="JPG"/>
+        <graphic fileref="/24/12024tn.jpg" format="IMAGE_THUMB" id="12024"/>
+      </figure>
+      <para>The innermost of the 3 layers is the pia mater, which tightly covers the brain itself, conforming to its grooves and folds. This layer is rich with <a href="http://emedicine.medscape.com/article/1922921-overview">blood vessels</a> that descend into the brain.</para>
+      <para>Outside the pia mater, which tightly contours the brain, is the arachnoid mater. The arachnoid mater is a thin weblike layer. Between the pia mater and the arachnoid mater is a space called the subarachnoid space, which contains cerebrospinal fluid (CSF). This space is where the major arteries supplying blood to the brain lie. If a blood vessel ruptures in this space, it can cause a <a href="http://emedicine.medscape.com/article/247090-overview">subarachnoid hemorrhage</a>. The arachnoid cap cells can give rise to <a href="http://emedicine.medscape.com/article/1156552-overview">meningiomas</a>, a usually benign tumor.</para>
+      <para>The outermost meningeal layer is the dura mater, which lines the interior of the skull. The dura mater is composed of 2 individual layers, the meningeal dura and the periosteal dura. For the most part, these layers are fused; venous sinuses can be found in areas of separation. The tentorium cerebelli is a dura mater fold that separates the cerebellum from the cerebrum. The falx cerebri is a fold that separates the left and right cerebral hemispheres.</para>
+      <para>Between the arachnoid mater and the dura mater is the subdural space. If bleeding occurs in the space underneath the dura mater, it is called a <a href="http://emedicine.medscape.com/article/247472-overview">subdural hematoma</a>. If bleeding occurs outside the dura but underneath the skull, this is called an <a href="http://emedicine.medscape.com/article/824029-overview">epidural hematoma</a>. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a7">
+    <title>Gross Anatomy: Ventricles and Cerebrospinal Fluid</title>
+    <pgroup>
+      <para>The brain is bathed in cerebrospinal fluid (CSF), which is continuously produced and absorbed. The ventricles are CSF-containing cavities within the brain. The structures that produce CSF are contained within the ventricles and are called the choroid plexuses. CSF is produced at a rate of about 450 mL/day, although at any given time about 150 mL can be found within the CSF spaces. Thus, the volume of CSF in most adults is turned over about 3 times per day.</para>
+      <para>The brain has 4 ventricles (see the image below). Within the cerebral hemispheres are the lateral ventricles, which are connected to each other and to the third ventricle through a pathway called the interventricular foramen (of Monro). The third ventricle lies in the midline, separating deeper brain structures such as the left and right thalami. The third ventricle communicates with the fourth ventricle through the cerebral aqueduct (of Sylvius), which is a long narrow tube.</para>
+      <figure id="12025">
+        <title>Ventricular system, which circulates cerebrospinal fluid through brain. </title>
+        <caption>Ventricular system, which circulates cerebrospinal fluid through brain. </caption>
+        <graphic fileref="/25/12025.jpg" format="IMAGE" id="12025" extension_format="JPG"/>
+        <graphic fileref="/25/12025tn.jpg" format="IMAGE_THUMB" id="12025"/>
+      </figure>
+      <para>From the fourth ventricle, CSF flows into the subarachnoid space around both the brain and the spinal cord. From the subarachnoid space, CSF is then absorbed into the venous system. Arachnoid granulations or villi are structures projecting into the superior sagittal sinus that release CSF back into the venous system.</para>
+      <para><a href="http://emedicine.medscape.com/article/247387-overview">Hydrocephalus</a> is a condition in which production of CSF is disproportionate to absorption. This is most commonly caused by impaired absorption resulting from obstruction of the CSF circulatory pathways, in which case it is termed obstructive hydrocephalus. This also occurs when the absorption of CSF is impaired, in which case it is termed communicating hydrocephalus. Rarely is hydrocephalus caused by increased CSF production. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a8">
+    <title>Gross Anatomy: Blood Vessels</title>
+    <pgroup>
+      <para>Arteries supply blood to the brain via 2 main pairs of vessels: the internal carotid artery and the vertebral artery on each side. The internal carotid artery on each side terminates into the anterior cerebral artery, the middle cerebral artery, and the posterior communicating artery. The vertebral arteries on each side join to form the basilar artery. The basilar artery then gives rise to the posterior cerebral arteries and the superior cerebellar arteries.</para>
+      <para>The basilar artery, the posterior cerebral arteries, the posterior communicating arteries, and the anterior cerebral arteries, along with the anterior communication artery, form an important collateral circulation at the base of the brain termed the cerebral arterial <a href="http://emedicine.medscape.com/article/1877617-overview">circle (of Willis)</a>. These vessels lie within the subarachnoid space and are a common location for <a href="http://emedicine.medscape.com/article/1161518-overview">cerebral aneurysms</a> to form.</para>
+      <para>Venous return to the heart occurs through a combination of deep cerebral veins and superficial cortical veins. The veins then contribute to larger venous sinuses, which lie within the dura and ultimately drain through the internal jugular veins to the brachiocephalic veins and then into the superior vena cava.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a9">
+    <title>Microscopic Anatomy</title>
+    <pgroup>
+      <para>The cellular structure of the brain is composed primarily of neurons and their support cells, which are broadly termed glial cells. The 3 principal types of glial cells are astrocytes, oligodendrocytes, and microglia. These glial cells can give rise to glial tumors, such as <a href="http://emedicine.medscape.com/article/283453-overview">astrocytomas</a>, <a href="http://emedicine.medscape.com/article/1156699-overview">oligodendrogliomas</a>, and <a href="http://emedicine.medscape.com/article/283252-overview">glioblastomas</a>, which are among the most common primary brain tumors.</para>
+      <para>When examined histologically, the neurons of the cortical gray matter demonstrate a laminar pattern. The neocortex contains 6 distinct layers, in contrast to the evolutionarily older paleocortex and archicortex, which typically contain 3 layers. The specific cytoarchitectural patterns of the cortex are not uniform throughout the cerebral cortex, and their variation was mapped by the German physician Korbinian Brodmann and presented in 1909. The so-called Brodmann areas represent cytoarchitectural differences across different brain regions, and the numbering scheme developed by Brodmann is still used to refer to distinct areas of the cortex.<sup>[<ref_inline id="refsrc4" name="refsrc4"/>4] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Layers of neocortex</title>
+      <para>See the list below:</para>
+      <itemizedlist>
+        <listitem>
+          <para>I: The molecular layer is the outermost layer of the cortex, which lies adjacent to the pial surface</para>
+        </listitem>
+        <listitem>
+          <para>II: The external granular layer is a dense layer of primarily inhibitory granule cells; this layer serves mainly to establish intracortical connections </para>
+        </listitem>
+        <listitem>
+          <para>III: The external pyramidal layer contains smaller neurons than its deeper counterpart; this layer provides projections to association fibers and commissural fibers. </para>
+        </listitem>
+        <listitem>
+          <para>IV: The internal granular layer is the principal input layer of the cortex, with input derived largely from the thalamus</para>
+        </listitem>
+        <listitem>
+          <para>V: The internal pyramidal layer is typically the largest layer within the cortex, containing large pyramidal cells; it is one of the principal output layers of the cortex, projecting to subcortical and spinal pathways; in the motor cortex, cells of this layer are termed Betz cells </para>
+        </listitem>
+        <listitem>
+          <para>VI: The fusiform layer contains cells that form association and projection fibers</para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+    <pgroup>
+      <title>White matter</title>
+      <para>White matter tracts connect both nearby and distal brain structures and can be distinguished according to the types of connections they mediate.</para>
+      <para>Projection fibers connect structures over the longest distances, such as the corticospinal projections from the motor cortex to the anterior horn cells of the spinal cord. Association fibers connect structures within the same hemisphere, such as the arcuate fasciculus, which connects the temporoparietal receptive speech areas with the frontal speech areas. Commissural fibers connect homologous structures in the left and right hemispheres, the most notable example being the corpus callosum.</para>
+      <para><a href="http://emedicine.medscape.com/article/345561-overview">Diffusion tensor imaging</a> has emerged recently as a magnetic resonance imaging tool that provides exceptionally detailed white matter tractography in both normal and pathologic anatomy.</para>
+    </pgroup>
+    <pgroup>
+      <title>Glial cells</title>
+      <para>The glial cells provide supportive and regulatory functions for neurons, and in fact glial cells outnumber neurons. Three principal types of glial cells exist: microglia, astrocytes, and oligodendrocytes.</para>
+      <para>Microglia have a function in the brain similar to that of the immune system. Astrocytes play a role in creating the blood-brain barrier, which allows certain substances to selectively pass from the capillary system. They are also responsible for reactive scar formation in the brain. Oligodendrocytes form myelin, which serves to electrically insulate the axons of nerve cells, allowing increased rates of conduction.</para>
+      <para>Abnormal proliferation of oligodendrocytes and astrocytes can lead to primary brain tumors called <a href="http://emedicine.medscape.com/article/1156699-overview">oligodendrogliomas</a> and <a href="http://emedicine.medscape.com/article/283453-overview">astrocytomas</a>. Collectively, these belong to a family of tumors called gliomas, and the most aggressive type is termed a <a href="http://emedicine.medscape.com/article/283252-overview">glioblastoma multiforme</a>. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a10">
+    <title>Functional Neuroanatomy</title>
+    <pgroup>
+      <para>Our current understanding of functional localization in the cortex (see the image below) is derived from several sources, which include insights from patients with lesions involving specific areas of the cortex, awake mapping of the cortex during brain surgery, and functional imaging studies such as functional magnetic resonance imaging (MRI) and positron emission tomography (PET) in healthy volunteers.</para>
+      <figure id="12023">
+        <title>Functional localization within cerebral cortex. </title>
+        <caption>Functional localization within cerebral cortex. </caption>
+        <graphic fileref="/23/12023.jpg" format="IMAGE" id="12023" extension_format="JPG"/>
+        <graphic fileref="/23/12023tn.jpg" format="IMAGE_THUMB" id="12023"/>
+      </figure>
+      <para>Some of the earliest contributions to modern language mapping can be traced to the work of neurologist Paul Broca, who studied the language deficits in patients with stroke. Broca's area, as it is termed, is a region of the frontal operculum, which also overlaps with Brodmann area 44 and 45. Three overlapping names describe this region, which is responsible for speech production. Selective damage to this region leads to difficulty speaking but typically with preserved comprehension.</para>
+      <para>In contrast, Wernicke's area refers to the posterior aspect of the superior temporal gyrus, which overlaps with Brodmann area 22. This region is generally responsible for speech comprehension, and selective injury to it can lead to impaired understanding with preserved speech production.</para>
+      <para>Additionally, language function is hemispherically dominant. This means that <a href="http://emedicine.medscape.com/article/1135944-overview">Broca's and Wernicke's aphasia</a> typically result from damage to the hemisphere that is dominant for language. In right-handed individuals, the left hemisphere is nearly always dominant for language. However, among left-handed individuals, the left hemisphere is dominant for speech in only 70%. Bilateral representation occurs in 15% of left-handed people, and right-hemisphere language representation occurs in 15% of left-handed people.</para>
+      <para>The primary motor and sensory cortex have been mapped extensively through intraoperative stimulation in awake patients. Early work performed by neurosurgeon Wilder Penfield in Montreal led to the conceptualization of the homunculus, which is the somatotopic representation of the body in both the primary motor and primary sensory cortex (see the image below).</para>
+      <figure id="12021">
+        <title>Homunculus is somatotopic representation of human body in primary motor and sensory cortex. Some...</title>
+        <caption>Homunculus is somatotopic representation of human body in primary motor and sensory cortex. Some body parts are disproportionately represented because there are more motor and sensory fibers devoted to regions such as face and fingers. </caption>
+        <graphic fileref="/21/12021.jpg" format="IMAGE" id="12021" extension_format="JPG"/>
+        <graphic fileref="/21/12021tn.jpg" format="IMAGE_THUMB" id="12021"/>
+      </figure>
+      <para>The primary motor cortex corresponds with the precentral gyrus, or Brodmann area 4. Intraoperative stimulation of the motor cortex in awake patients leads to contralateral muscle contraction in a single muscle or discrete group of muscles. The premotor cortex, which corresponds to Brodmann area 6, is also occupied with movement, but typically more complex movements are elicited by stimulation here.</para>
+      <para>The primary sensory cortex corresponds with the postcentral gyrus, or Brodmann areas 1-3. The homunculus obtained from awake mapping corresponds to that of the motor cortex. Stimulation in awake patients during surgery typically leads to the subjective sensation of tingling of the corresponding body part on the opposite side of the body. Caudally, the superior parietal lobule, Brodmann areas 5 and 7, represents the secondary sensory cortex, which is felt to subserve multimodal sensory information.</para>
+      <para>The primary visual cortex corresponds to Brodmann area 17 and occupies the occipital pole. It is also termed the striate cortex. The visual cortex is retinotopically organized. Surrounding the primary visual cortex is the visual association cortex, or Brodmann areas 18 and 19.</para>
+      <para>The primary auditory cortex lies on the superior bank of the superior temporal gyrus and corresponds to Brodmann area 41. Like the primary motor, primary sensory, and visual cortices, the primary auditory cortex is tonotopically organized. The auditory association cortex, or Brodmann area 42, surrounds the primary auditory cortex.</para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="12013">
+        <title>Brain, coronal view. </title>
+        <caption>Brain, coronal view. </caption>
+        <graphic fileref="/13/12013.jpg" format="IMAGE" id="12013" extension_format="JPG"/>
+        <graphic fileref="/13/12013tn.jpg" format="IMAGE_THUMB" id="12013"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12014">
+        <title>Brain, inferior view. </title>
+        <caption>Brain, inferior view. </caption>
+        <graphic fileref="/14/12014.jpg" format="IMAGE" id="12014" extension_format="JPG"/>
+        <graphic fileref="/14/12014tn.jpg" format="IMAGE_THUMB" id="12014"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12015">
+        <title>Brain, lateral view. </title>
+        <caption>Brain, lateral view. </caption>
+        <graphic fileref="/15/12015.jpg" format="IMAGE" id="12015" extension_format="JPG"/>
+        <graphic fileref="/15/12015tn.jpg" format="IMAGE_THUMB" id="12015"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12016">
+        <title>Brain, midsagittal view. </title>
+        <caption>Brain, midsagittal view. </caption>
+        <graphic fileref="/16/12016.jpg" format="IMAGE" id="12016" extension_format="JPG"/>
+        <graphic fileref="/16/12016tn.jpg" format="IMAGE_THUMB" id="12016"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12017">
+        <title>Three views of brainstem. </title>
+        <caption>Three views of brainstem. </caption>
+        <graphic fileref="/17/12017.jpg" format="IMAGE" id="12017" extension_format="JPG"/>
+        <graphic fileref="/17/12017tn.jpg" format="IMAGE_THUMB" id="12017"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12018">
+        <title>Top and anterior views of cerebellum. </title>
+        <caption>Top and anterior views of cerebellum. </caption>
+        <graphic fileref="/18/12018.jpg" format="IMAGE" id="12018" extension_format="JPG"/>
+        <graphic fileref="/18/12018tn.jpg" format="IMAGE_THUMB" id="12018"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12019">
+        <title>Major nuclei of thalamus. </title>
+        <caption>Major nuclei of thalamus. </caption>
+        <graphic fileref="/19/12019.jpg" format="IMAGE" id="12019" extension_format="JPG"/>
+        <graphic fileref="/19/12019tn.jpg" format="IMAGE_THUMB" id="12019"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12020">
+        <title>Lateral and medial surfaces of cerebrum, showing major sulci and gyri. </title>
+        <caption>Lateral and medial surfaces of cerebrum, showing major sulci and gyri. </caption>
+        <graphic fileref="/20/12020.jpg" format="IMAGE" id="12020" extension_format="JPG"/>
+        <graphic fileref="/20/12020tn.jpg" format="IMAGE_THUMB" id="12020"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12021">
+        <title>Homunculus is somatotopic representation of human body in primary motor and sensory cortex. Some...</title>
+        <caption>Homunculus is somatotopic representation of human body in primary motor and sensory cortex. Some body parts are disproportionately represented because there are more motor and sensory fibers devoted to regions such as face and fingers. </caption>
+        <graphic fileref="/21/12021.jpg" format="IMAGE" id="12021" extension_format="JPG"/>
+        <graphic fileref="/21/12021tn.jpg" format="IMAGE_THUMB" id="12021"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12022">
+        <title>Inferior surface of cerebrum, showing major sulci and gyri. </title>
+        <caption>Inferior surface of cerebrum, showing major sulci and gyri. </caption>
+        <graphic fileref="/22/12022.jpg" format="IMAGE" id="12022" extension_format="JPG"/>
+        <graphic fileref="/22/12022tn.jpg" format="IMAGE_THUMB" id="12022"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12023">
+        <title>Functional localization within cerebral cortex. </title>
+        <caption>Functional localization within cerebral cortex. </caption>
+        <graphic fileref="/23/12023.jpg" format="IMAGE" id="12023" extension_format="JPG"/>
+        <graphic fileref="/23/12023tn.jpg" format="IMAGE_THUMB" id="12023"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12024">
+        <title>Cross-sectional view of meninges and dural venous sinus. </title>
+        <caption>Cross-sectional view of meninges and dural venous sinus. </caption>
+        <graphic fileref="/24/12024.jpg" format="IMAGE" id="12024" extension_format="JPG"/>
+        <graphic fileref="/24/12024tn.jpg" format="IMAGE_THUMB" id="12024"/>
+      </figure>
+    </query>
+    <query>
+      <figure id="12025">
+        <title>Ventricular system, which circulates cerebrospinal fluid through brain. </title>
+        <caption>Ventricular system, which circulates cerebrospinal fluid through brain. </caption>
+        <graphic fileref="/25/12025.jpg" format="IMAGE" id="12025" extension_format="JPG"/>
+        <graphic fileref="/25/12025tn.jpg" format="IMAGE_THUMB" id="12025"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Anand I Rughani, MD</contrbtr_nm>
+        <contrbtr_title>Neurosurgeon, Epilepsy and Functional Neurosurgery, Maine Medical Center</contrbtr_title>
+        <contrbtr_bio>Anand I Rughani, MD is a member of the following medical societies: <a href="http://www.aans.org">American Association of Neurological Surgeons</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.cns.org">Congress of Neurological Surgeons</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Paul L Penar, MD, FACS</contrbtr_nm>
+        <contrbtr_title>Professor, Department of Surgery, Division of Neurosurgery, Director, Functional Neurosurgery and Radiosurgery Programs, University of Vermont College of Medicine</contrbtr_title>
+        <contrbtr_bio>Paul L Penar, MD, FACS is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.aans.org">American Association of Neurological Surgeons</a>, <a href="http://www.wssfn.org">World Society for Stereotactic and Functional Neurosurgery</a>, <a href="http://www.cns.org">Congress of Neurological Surgeons</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Thomas R Gest, PhD</contrbtr_nm>
+        <contrbtr_title>Professor of Anatomy, Department of Medical Education, Texas Tech University Health Sciences Center, Paul L Foster School of Medicine</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received royalty from Lippincott Williams &amp; Wilkins for other.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <refgrp>
+    <ritem ref="">
+      <para>Baehr M, Frotscher M. <em>Duus' Topical Diagnosis in Neurology</em>. 4th. New York, NY: Thieme; 2005. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Nolte J. <em>The Human Brain</em>. 3rd. St. Louis, Missouri: Mosby Year Book; 1993. </para>
+    </ritem>
+    <ritem ref="">
+      <para>DeArmond SJ, Fusco MM, Dewey MM. <em>Structure of the Human Brain</em>. 3rd. New York, NY: Oxford University Press; 1989. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Loukas M, Pennell C, Groat C, Tubbs S, Cohen-Gadol AA. Korbinian Brodmann (1868-1918) and His Contributions to Mapping the Cerebral Cortex. <em>Neurosurgery</em>. January 2011. 68:6-11. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Crossman AR, Neary D. <em>Neuroanatomy</em>. 2nd. London: Churchill Livingston; 2000. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Carpenter MB. <em>Core Text of Neuroanatomy</em>. 4th. Baltimore, Maryland: Williams and Wilkins; 1991. </para>
+    </ritem>
+    <ritem ref="">
+      <para>Waxman SG. <em>Clinical Neuroanatomy</em>. 25th. New York: McGraw-Hill Companies; 2003. </para>
+    </ritem>
+  </refgrp>
+</article>

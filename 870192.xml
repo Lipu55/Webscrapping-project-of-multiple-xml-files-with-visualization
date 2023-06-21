@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="870192" pubid="" template="Clinical Procedures" template-name="singlepage">
+  <site-meta>
+    <article-name>Sleep-Disordered Breathing and CPAP</article-name>
+    <title>
+      <page-info id="overview">Sleep-Disordered Breathing and CPAP: Overview of Sleep-Disordered Breathing, Pathophysiology of SDB, Etiology of SDB</page-info>
+    </title>
+    <browser-title>
+      <page-info id="overview">Sleep-Disordered Breathing and CPAP: Overview of Sleep-Disordered Breathing, Pathophysiology of SDB, Etiology of SDB</page-info>
+    </browser-title>
+    <section-title>
+      <section-page-info id="overview">Overview<section-info id="a1">Overview of Sleep-Disordered Breathing</section-info>
+<section-info id="a2">Pathophysiology of SDB</section-info>
+<section-info id="a3">Etiology of SDB</section-info>
+<section-info id="a4">Epidemiology of SDB</section-info>
+<section-info id="a5">Prognosis for SDB</section-info>
+<section-info id="a6">Clinical Presentation of SDB</section-info>
+<section-info id="a7">Differential Diagnosis of SDB</section-info>
+<section-info id="a8">Laboratory Studies</section-info>
+<section-info id="a9">Imaging Studies</section-info>
+<section-info id="a10">Epworth Sleepiness Scale</section-info>
+<section-info id="a11">Polysomnography</section-info>
+<section-info id="a12">Screening Questionnaires</section-info>
+<section-info id="a13">Home Sleep Testing and Ambulatory Monitors</section-info>
+<section-info id="a14">Acoustic Snoring Analysis</section-info>
+<section-info id="a15">Histologic Findings</section-info>
+<section-info id="a16">Sleep Endoscopy</section-info>
+<section-info id="a17">Initial Treatment of SBD</section-info>
+<section-info id="a18">Treatment with Nasal CPAP</section-info>
+<section-info id="a19">Oxygen</section-info>
+<section-info id="a20">Pharmacologic Treatments</section-info>
+<section-info id="a21">Surgical Management of SDB</section-info>
+<section-info id="a22">Further Outpatient Care</section-info>
+</section-page-info>
+    </section-title>
+    <meta-keywords>
+      <page-info id="overview">Sleep-Disordered Breathing and CPAP Overview</page-info>
+    </meta-keywords>
+    <uri>870192-overview</uri>
+    <meta-description/>
+    <search-keywords/>
+    <alt-image-text/>
+    <posting-date>Dec 17, 2013</posting-date>
+    <last-generated>2015-08-04-18:53</last-generated>
+    <single-page>1</single-page>
+    <pub-name>Clinical Procedures</pub-name>
+    <pub-id/>
+    <siteon>2002</siteon>
+    <content-group ID="503">Procedures</content-group>
+    <content-type ID="10419">Procedure</content-type>
+    <ads-support>
+      <site>1</site>
+      <affiliate>2</affiliate>
+      <pclass>content</pclass>
+      <artid>870192</artid>
+      <cg>503</cg>
+      <scg text="Sleep Disorder">3032210</scg>
+      <ssp text="Pulmonary Medicine">13</ssp>
+      <bc>ssg</bc>
+    </ads-support>
+    <other/>
+  </site-meta>
+  <metadata>
+    <last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jun 04, 2015</last_updated>
+    <publication_cat>
+      <id>procedure</id>
+      <name>Procedures</name>
+    </publication_cat>
+    <publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures</id>
+      <name>Clinical Procedures</name>
+    </publication>
+    <publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <id>clinical_procedures_respiratory</id>
+      <name>Lung and Respiratory</name>
+    </publication_section>
+    <meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">sleep-disordered breathing, SDB, continuous positive airway pressure, CPAP, n-CPAP, apnea, sleep apnea, snoring, obstructive sleep apnea, OSA, sleep apnea snoring, obstructive sleep apnea syndrome, OSAS, upper airway obstruction occurring during sleep</meta_keywords>
+    <meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">Upper airway obstruction occurring during sleep—that is, sleep-disordered breathing (SDB)—was first demonstrated in the 1960s. SDB represents a group of physiopathologic conditions that are characterized by an abnormal respiratory pattern during sleep that can be isolated or can coexist with other respiratory, nervous, cardiovascular, or endo...</meta_description>
+    <pediatric-article>0</pediatric-article>
+    <acronyms/>
+  </metadata>
+  <title xmlns:xs="http://www.w3.org/2001/XMLSchema">Sleep-Disordered Breathing and CPAP</title>
+  <sect1 id="a1">
+    <title>Overview of Sleep-Disordered Breathing</title>
+    <pgroup>
+      <para>Upper airway obstruction occurring during sleep—that is, sleep-disordered breathing (SDB)—was first demonstrated in the 1960s. SDB represents a group of physiopathologic conditions that are characterized by an abnormal respiratory pattern during sleep that can be isolated or can coexist with other respiratory, nervous, cardiovascular, or endocrine diseases. SDB is now known to be widely prevalent in the general population, and it is responsible for or contributes to numerous problems, ranging from fragmented sleep patterns to hypertension to traffic accidents.<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1, <ref_inline id="refsrc2" name="refsrc2"/>2] </sup></para>
+      <para>SDB includes obstructive sleep apnea (OSA), which consists of breathing cessations of at least 10 seconds occurring in the presence of inspiratory efforts during sleep. Central sleep apnea consists of similar apneas, but these instead take place in the absence of inspiratory efforts.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc5" name="refsrc5"/>5, <ref_inline id="refsrc6" name="refsrc6"/>6, <ref_inline id="refsrc7" name="refsrc7"/>7] </sup></para>
+      <para>The obstructive sleep apnea syndrome (OSAS) is a potentially disabling condition characterized by excessive daytime sleepiness,<sup>[<ref_inline id="refsrc8" name="refsrc8"/>8] </sup>disruptive snoring, repeated episodes of upper airway obstruction during sleep, and nocturnal hypoxemia. It is defined by an apnea-hypopnea index (the total number of episodes of apnea and hypopnea per hour of sleep), or respiratory disturbance index, of 5 or higher in association with excessive daytime somnolence. </para>
+      <para>Risk factors for sleep apnea include obesity, increased neck circumference, craniofacial abnormalities, hypothyroidism, and acromegaly. Daytime consequences include not only excessive sleepiness but also impaired cognitive performance and disturbed moods with a reduced quality of life. Excessive daytime sleepiness is reported to be associated with a higher risk of motor vehicle accidents and work place injuries or poor work performance <em>.</em></para>
+      <para>In general, everyone with SDB snores, but not everyone who snores has SDB. Snoring in the absence of SDB is termed primary or simple snoring. However, some evidence indicates that snoring is one end of a clinical continuum with an opposite extreme of severe OSA. Some health problems may be associated even with primary snoring. </para>
+      <para>Upper airway resistance syndrome (UARS) is characterized by snoring with increased resistance in the upper airway, resulting in arousals during sleep. This can disturb sleep architecture to the point of causing daytime somnolence. No distinct diagnostic criteria exist for this entity. Patients with UARS can be treated with nasal continuous positive airway pressure (n-CPAP).<sup>[<ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc10" name="refsrc10"/>10] </sup></para>
+      <para>Treatment involves elimination of contributing factors and provision of n-CPAP. n-CPAP is effective in improving sleep quality and reducing daytime sleepiness. Long-term treatment with n-CPAP reduces both mortality and the acute blood pressure elevation that occurs with SDB.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup>Over time, a trend develops toward baseline blood pressure reduction in hypertensive patients with SDB. Medical and surgical interventions may also be indicated. </para>
+      <para>Go to <a href="http://emedicine.medscape.com/article/295807-overview">Obstructive Sleep Apnea</a>; <a href="http://emedicine.medscape.com/article/1004104-overview">Pediatric Sleep Apnea</a>; <a href="http://emedicine.medscape.com/article/868770-overview">Snoring and Obstructive Sleep Apnea, Surgery</a>; <a href="http://emedicine.medscape.com/article/1518830-overview">Obstructive Sleep Apnea, Home Sleep Monitoring</a>; <a href="http://emedicine.medscape.com/article/868925-overview">Snoring and Obstructive Sleep Apnea, Upper Airway Evaluation</a>; <a href="http://emedicine.medscape.com/article/869831-overview">Snoring and Obstructive Sleep Apnea, Oral Appliances</a>; and <a href="http://emedicine.medscape.com/article/869941-overview">Snoring and Obstructive Sleep Apnea, Physiologic Approach</a> for more information of these topics.</para>
+      <para>For patient education information, see the <a href="http://www.emedicinehealth.com/collections/CO1667.asp">Sleep Disorders Center</a>, as well as <a href="http://www.emedicinehealth.com/articles/14161-1.asp">Snoring</a> and <a href="http://www.emedicinehealth.com/Articles/42505-1.asp">Narcolepsy</a>.</para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a2">
+    <title>Pathophysiology of SDB</title>
+    <pgroup>
+      <para>Any factors that decrease upper airway size or patency during sleep can lead to intermittent obstruction during inspiration, despite inspiratory effort. If the obstruction is sufficiently prolonged, blood-oxygen levels drop. Then, the patient arouses or awakens. The arousals disrupt normal sleep architecture. These, together with the oxygenation drops, are responsible for the more severe accompaniments of sleep-disordered breathing (SDB), including hypertension, arrhythmias, and death.<sup>[<ref_inline id="refsrc12" name="refsrc12"/>12] </sup></para>
+      <para>Factors affecting upper airway size or patency include numerous anatomic variants and abnormalities (eg, nasal obstruction, retrognathia, <a href="http://emedicine.medscape.com/article/873658-overview">macroglossia</a>), obesity, alcohol or sedative intake, and body position during sleep. </para>
+      <para>Obesity contributes to SDB by changing pharyngeal size and shape. Fat storage in the neck may be particularly associated with risk for SDB, although a subset of patients with SDB are of normal body weight. Many of these patients have a family history of snoring or SDB. </para>
+      <para>Alcohol intake near bedtime can cause or worsen SDB by reducing the activity of the upper airway dilating muscles. Alcohol increases both the number and duration of apneic or hypopneic events. </para>
+      <para>Racial studies and chromosomal mapping, familial studies, and twin studies have provided evidence for a possible link between the obstructive sleep apnea syndrome (OSAS) and genetic factors. Genetic factors associated with craniofacial structure, body fat distribution, and neural control of the upper airway muscles likely interact to produce the OSAS phenotype.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13, <ref_inline id="refsrc14" name="refsrc14"/>14, <ref_inline id="refsrc15" name="refsrc15"/>15] </sup></para>
+      <para>Although the role of specific genes that influence the development of OSAS has not yet been identified, current researchers, especially in the animal model, suggest that several genetic systems may be important. </para>
+      <para>Human leukocyte antigen (HLA)–DQB1*0602 allele, a well-known genetic risk factor for narcolepsy, has been described as a potential genetic factor influencing sleep physiology in individuals diagnosed with OSAS.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16] </sup></para>
+      <para>Polymorphisms in the serotonin (5-HT) receptor gene can alter its transcription, affecting the number of receptors in the serotoninergic system, contributing to OSAS.<sup>[<ref_inline id="refsrc17" name="refsrc17"/>17] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a3">
+    <title>Etiology of SDB</title>
+    <pgroup>
+      <para>Important clinical risk factors for SDB are as follows: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Nasal obstruction</para>
+        </listitem>
+        <listitem>
+          <para>Craniofacial abnormalities</para>
+        </listitem>
+        <listitem>
+          <para>Mandibular retrognathia</para>
+        </listitem>
+        <listitem>
+          <para>Micrognathia</para>
+        </listitem>
+        <listitem>
+          <para>Narrowed, tapered, and short maxillary arch</para>
+        </listitem>
+        <listitem>
+          <para>Overbite</para>
+        </listitem>
+        <listitem>
+          <para>Long soft palate</para>
+        </listitem>
+        <listitem>
+          <para>Modified Mallampati grade III or IV</para>
+        </listitem>
+        <listitem>
+          <para>Macroglossia</para>
+        </listitem>
+        <listitem>
+          <para>Tonsillar hypertrophy</para>
+        </listitem>
+        <listitem>
+          <para>Neck circumference more than 17 inches for men and more than 16 inches for women</para>
+        </listitem>
+        <listitem>
+          <para>Obesity</para>
+        </listitem>
+      </itemizedlist>
+      <para>Other problems that can contribute to or exacerbate SDB are sedative or alcohol use and poor sleep hygiene.</para>
+      <para>A very small percentage of patients with SDB have central rather than obstructive sleep apnea. Central sleep apnea can be caused by various neurologic disorders or can be idiopathic. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a4">
+    <title>Epidemiology of SDB</title>
+    <pgroup>
+      <para>All the epidemiological studies indicate that sleep apnea is more common in men than in women (the male-to-female ratio is 2-3: 1). Sleep apnea occurs in 4% of men and 2% of women aged 30-60 years. A retrospective study on 830 patients with obstructive sleep apnea syndrome (OSAS) reports a male-to-female ratio (M:F) that increases with the gravity of the disease: 2.2:1 in mild OSAS and 7.9:1 in severe OSAS.<sup>[<ref_inline id="refsrc18" name="refsrc18"/>18] </sup>Hypersomnolence is reported with a percentage of 16% in men and 22% in women, while 24% of men and 9% of women have an apnea-hypopnea index of at least 5. </para>
+      <para>The discrepancy between the lower prevalence of obstructive sleep apnea (OSA), the greater frequency of obesity, and the smaller airway size in women compared with men suggests that a gender difference underlies this condition. </para>
+      <para>Men tend to have a larger but more collapsible airway during mandibular movement than women and this, in part, may play a role in the positional dependency and severity of OSA in men. </para>
+      <para>Another possible reason for the lower prevalence of OSAS may be reluctance on the part of many women to report symptoms mostly considered inappropriate, like snoring; this reluctance may cause a clinical underestimation of the problem in females. </para>
+      <para>The gender-related protective effect decreases in females who are postmenopausal and not on hormone replacement therapy.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19, <ref_inline id="refsrc20" name="refsrc20"/>20] </sup></para>
+      <para>The association between age and obstructive sleep apnea is complex. Several studies have shown a higher prevalence of OSA in elderly persons than in middle-aged persons, although daytime symptoms may be less common with advancing age. </para>
+      <para>The Sleep Heart Health Study demonstrated that the influence of male sex and body mass index (BMI) on obstructive sleep apnea tends to wane with age. For unclear reasons, the overall prevalence of obstructive sleep apnea plateaus after age 65 years.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup></para>
+      <para>The prevalence of OSAS among African-American persons seems to be at least equal to and possibly greater than that among white persons. The prevalence among men in urban India and men and women in Korea is similar to that observed in Western countries. Some researchers have noticed an increased incidence of OSA in persons of Asian origin. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a5">
+    <title>Prognosis for SDB</title>
+    <pgroup>
+      <para>Excessive daytime sleepiness resulting from SDB can impact focus and concentration, causing decreased work effectiveness. Even mild-to-moderate SDB increases reaction time, causing performance decreases similar to alcohol intoxication. This can lead to motor vehicle accidents and other serious accidents in situations where alertness is required for safety (eg, heavy machinery operators). </para>
+      <para>Moderate-to-severe obstructive sleep apnea (OSA) is associated with earlier death. The cardiovascular sequelae of untreated OSA include hypertension, cor pulmonale, arrhythmias, and increased risk of myocardial infarction or stroke.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22, <ref_inline id="refsrc23" name="refsrc23"/>23, <ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25, <ref_inline id="refsrc26" name="refsrc26"/>26] </sup>SDB is associated with higher levels of interleukin-6, a marker of myocardial infarction risk and mortality.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup>Adiposity may mediate the increased levels of C-reactive protein, fibrinogen, intercellular adhesion molecule-1, and P-selectin observed in SDB.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup></para>
+      <para>OSA is associated with difficult-to-control hypertension.<sup>[<ref_inline id="refsrc28" name="refsrc28"/>28] </sup>Treatment of OSA may reduce new first-time cerebrovascular events and recurrences.<sup>[<ref_inline id="refsrc29" name="refsrc29"/>29] </sup></para>
+      <para>Recent studies have examined the relationship between OSA and glucose tolerance, and many have shown a direct and independent relationship between OSA and diabetes. The Wisconsin Sleep Study Cohort showed a greater prevalence of diabetes in subjects with increasing levels of OSA.<sup>[<ref_inline id="refsrc30" name="refsrc30"/>30] </sup>Several studies have shown a beneficial effect of continuous positive airway pressure (CPAP) therapy on insulin resistance or glucose levels.<sup>[<ref_inline id="refsrc31" name="refsrc31"/>31, <ref_inline id="refsrc32" name="refsrc32"/>32, <ref_inline id="refsrc33" name="refsrc33"/>33] </sup></para>
+      <para>The probable mechanisms connecting OSA with glucose tolerance and type 2 diabetes mellitus includes the increased sympathetic activity, the sympathovagal dysfunction, alterations in neuroendocrine function (especially in growth hormone [GH] and cortisol levels), high inflammatory state with an increase in the release of proinflammatory cytokines.<sup>[<ref_inline id="refsrc34" name="refsrc34"/>34, <ref_inline id="refsrc32" name="refsrc32"/>32, <ref_inline id="refsrc33" name="refsrc33"/>33, <ref_inline id="refsrc35" name="refsrc35"/>35, <ref_inline id="refsrc36" name="refsrc36"/>36] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a6">
+    <title>Clinical Presentation of SDB</title>
+    <pgroup>
+      <title>Patient history</title>
+      <para>The first clue in the history of patients with SDB is loud snoring. This is accompanied by breathing cessation; gasping, choking, and snorting; frequent arousals from sleep; and respiratory effort with no air. Nocturnal arrhythmias and acute blood pressure increases may occur. Morning headaches that dissipate as the day goes on, excessive daytime sleepiness, and poor concentration affect daytime performance. The disorder has been linked to an increased risk of angina, myocardial ischemia, stroke and motor vehicle crashes. </para>
+      <para>Older men may report getting up numerous times during the night to urinate and are convinced that they awaken because of the urge to urinate. The truth is often the reverse, that they awaken as a result of SDB and only then notice the urge to urinate. These patients are often surprised at their decreased need for nocturnal urination after successful SDB treatment. </para>
+      <para>Laryngopharyngeal reflux can cause a patient to suddenly awaken from sleep, gasping for breath. A feeling of terror is often present. </para>
+      <para>Inadequate sleep time can cause excessive daytime sleepiness. This may be involuntary, as in insomnia, or voluntary. Insomnia is characterized by the inability to fall asleep or awakening during the night and being unable to fall back to sleep. Inadequate sleep time occurs for other voluntary reasons (eg, working more than one job, family responsibilities). </para>
+      <para>Patients with hypothyroidism can also present with fatigue, daytime somnolence, and <a href="http://www.medscape.com/resource/obesity">obesity</a>. SDB and hypothyroidism can coexist.<sup>[<ref_inline id="refsrc37" name="refsrc37"/>37] </sup></para>
+      <para>Narcolepsy can also cause excessive daytime sleepiness.</para>
+    </pgroup>
+    <pgroup>
+      <title>Physical examination</title>
+      <para>Most patients with SDB are overweight or obese. A patient with a short, thick neck may be predisposed to SDB. Scalloped indentations along the lateral tongue (from teeth) are a marker for relative tongue/mandibular arch size mismatch, which may predispose individuals to SDB. </para>
+      <para>Children with obstructive sleep apnea syndrome (OSAS) are likely to present with normal body weight, tonsillar hypertrophy, and inattentiveness during school classes.<sup>[<ref_inline id="refsrc38" name="refsrc38"/>38] </sup>However, OSAS in children is not discussed in this paper. </para>
+    </pgroup>
+    <pgroup>
+      <title>Complications</title>
+      <para>If not adequately diagnosed and treated, OSAS is associated with severe complications such as hypertension, strokes, coronary disease, and neurobehavioral complaints and is probably a predictor of premature death. At least 50% of patients with heart failure have sleep respiratory apneas, and patients with moderate-to-severe OSAS have a 3-fold increased risk of developing hypertension.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22, <ref_inline id="refsrc23" name="refsrc23"/>23, <ref_inline id="refsrc24" name="refsrc24"/>24, <ref_inline id="refsrc25" name="refsrc25"/>25, <ref_inline id="refsrc26" name="refsrc26"/>26] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a7">
+    <title>Differential Diagnosis of SDB</title>
+    <pgroup>
+      <para>The differential diagnosis of SDB includes the following: </para>
+      <itemizedlist>
+        <listitem>
+          <para>Simple snoring</para>
+        </listitem>
+        <listitem>
+          <para>Central sleep apnea</para>
+        </listitem>
+        <listitem>
+          <para>Other disorders that cause daytime sleepiness (eg, insufficient sleep, a circadian-rhythm abnormality, narcolepsy, periodic limb movement disorder). </para>
+        </listitem>
+      </itemizedlist>
+    </pgroup>
+  </sect1>
+  <sect1 id="a8">
+    <title>Laboratory Studies</title>
+    <pgroup>
+      <para>The relation between snoring, obstructive sleep apnea, and hypothyroidism has been confirmed by many authors. Thyroid-stimulating hormone (TSH) levels should be determined in patients who are newly diagnosed with SDB because SDB is relatively common among patients with hypothyroidism. Significant increases in homocysteine levels have been observed in obstructive sleep apnea syndrome (OSAS) patients with cardiovascular disease. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a9">
+    <title>Imaging Studies</title>
+    <pgroup>
+      <para>Radiologic and diagnostic studies have been used to identify the obstruction site, direct surgical intervention and predict outcomes of sleep apnea surgery. These studies include lateral cephalometric radiographs, computed tomography (CT), magnetic resonance imaging (MRI), asleep fluoroscopy, asleep and awake endoscopy with Mueller maneuver, upper airway manometry, and acoustic reflection techniques.<sup>[<ref_inline id="refsrc39" name="refsrc39"/>39] </sup></para>
+      <para>Most of those techniques have limitations (dynamic and tridimensional evaluation) in the mechanism of occlusion investigation. Ultrafast MRI provides a reliable and noninvasive method for static and dynamic evaluation of the soft tissue structures surrounding the upper airway during the respiratory cycle in wakefulness and sleep. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a10">
+    <title>Epworth Sleepiness Scale</title>
+    <pgroup>
+      <para>The Epworth Sleepiness Scale is a questionnaire filled out by the patient that is used to provide a standardized semiquantitative subjective assessment of daytime sleepiness. </para>
+      <para>In this questionnaire, patients are instructed to rate the chance of dozing off in a number of different situations. They are to choose the most appropriate ranking for each of these situations, working out how they would probably respond if it is something they have not actually done recently. Scoring for the Epworth Sleepiness Scale is shown in the table below. </para>
+      <table id="t8a39a9d40" class="datatable">
+        <caption>Table 1. Epworth Sleepiness Scale Questionnaire</caption>
+        <tbody>
+          <tr>
+            <td>
+              <para>
+                <strong>Scoring</strong>
+              </para>
+              <para>0 - Would never doze off</para>
+              <para>1 - Slight chance of dozing off</para>
+              <para>2 - Moderate chance of dozing off</para>
+              <para>3 - High chance of dozing off</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>
+                <strong>Score situation</strong>
+              </para>
+              <para>_____ Sitting and reading</para>
+              <para>_____ Watching TV</para>
+              <para>_____ Sitting inactive in a public place (eg, theater, meeting)</para>
+              <para>_____ As a passenger in a car for an hour without break</para>
+              <para>_____ Lying down to rest in the afternoon when circumstances permit</para>
+              <para>_____ Sitting and talking to someone</para>
+              <para>_____ Sitting quietly after a lunch without alcohol</para>
+              <para>_____ In a car, while stopped for a few minutes in the traffic</para>
+              <para>_____ <strong>Total*</strong></para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para>*A total score of 0-5 is supernormal; 5-10 is normal; 10-15 is sleepy; 15-20 is very sleepy; and &gt; 20 is dangerously sleepy (arrange transportation for patient) </para>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </pgroup>
+  </sect1>
+  <sect1 id="a11">
+    <title>Polysomnography</title>
+    <pgroup>
+      <para>Polysomnography (PSG) is the criterion standard diagnostic test for obstructive sleep apnea syndrome (OSAS). A respiratory event suggestive of OSAS is defined as a decrease in nasal and oral airflow, alone or with thoracoabdominal movements, more than 90% (apnea) or more than 50% and less than 90% (hypopnea) that lasted for at least 10 seconds. A decrease in arterial oxygen saturation of 4% or more is considered significant oxygen desaturation.<sup>[<ref_inline id="refsrc40" name="refsrc40"/>40] </sup></para>
+      <para>Information from PSG is reported in the form of the respiratory disturbance index (RDI) (also referred to as the apnea-hypopnea index [AHI]). The RDI is the number of apneas or hypopneas 10 seconds or longer occurring per hour of sleep. A normal RDI is less than 5. A RDI less than or equal to 5 is considered suggestive of simple snoring with no OSAS. Greater than 5 and less than or equal to 15 is suggestive of mild OSAS. More than 15 and less than or equal to 30 is suggestive of moderate OSAS. Finally, more than 30 is suggestive of severe OSAS. </para>
+      <para>The loudness and persistence of snoring (constant versus intermittent) are usually reported. Body position is also recorded so one can determine what position (usually supine) and in what sleep phase (usually rapid eye movement [REM] sleep, when muscle tone is most relaxed) the patient is in when respiratory events occur. </para>
+      <para>In-laboratory PSG is the criterion standard for diagnosing OSAS. However, PSG has several limitations, including the necessity of performing the test in a sleep laboratory, high costs, the considerable technical expertise required, and the long analyzing time needed by the operator. In addition, the examination often needs to be repeated because of the interference of monitoring electrodes with the physiological sleep of the patient (“first night effect”). Therefore, timely access to PSG is often a problem. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a12">
+    <title>Screening Questionnaires</title>
+    <pgroup>
+      <para>Because PSG is expensive and not widely available, an extensive interest in alternative diagnostic approaches, such as clinical prediction rules and portable monitors, has been expressed. A limited number of questionnaires are available to detect some sleep disorders, but those instruments do not achieve the reliability of PSG, which remains the recommended method of assessing patients with suspected sleep disorders. The role of those questionnaires is mainly of a screening tool for identifying patients at risk for OSAS.<sup>[<ref_inline id="refsrc41" name="refsrc41"/>41, <ref_inline id="refsrc42" name="refsrc42"/>42, <ref_inline id="refsrc43" name="refsrc43"/>43, <ref_inline id="refsrc44" name="refsrc44"/>44] </sup></para>
+      <para>Many questionnaires have been developed for screening OSAS. The Rome Questionnaire (RQ) is a 7-item questionnaire useful in identifying adult patients at risk of obstructive sleep apnea syndrome. The RQ, together with BMI, is reported to be a useful tool to select patients at higher risk of moderate-severe OSAS, who need a prompt PSG evaluation.<sup>[<ref_inline id="refsrc45" name="refsrc45"/>45] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a13">
+    <title>Home Sleep Testing and Ambulatory Monitors</title>
+    <pgroup>
+      <para>Home sleep testing pursues the goal of simplify the diagnosis of sleep apnea while retaining the essential recording features of PSG. Recent studies have suggested that home sleep studies have benefits in terms of time and cost, but for diagnostic reliability, an in-laboratory sleep study may be required in more than half of the cases. </para>
+      <para>Various types of ambulatory (to be used at home) monitors can measure parameters such as airflow, chest, and abdomen movements (as indicators of respiratory effort); oxygen desaturations; snoring; pulse; and body position.<sup>[<ref_inline id="refsrc46" name="refsrc46"/>46, <ref_inline id="refsrc47" name="refsrc47"/>47] </sup></para>
+      <para>Although the data from such studies are not as detailed or accurate as an overnight PSG, these studies can often be used to differentiate primary snoring from snoring with apneas and can usually provide an indication of the frequency with which apneas are occurring. In contrast, techniques that measure only one parameter (eg, home oximetry alone) seem to be less accurate than those that track several measurements. </para>
+      <para>EdenTrace portable monitor measures nasal and oral air flow using thermistors, chest wall impedance, oxygen saturation with finger pulse oximetry, heart rate, and movement detected by electrical comparison of the signals from electrocardiography and pulse oximetry. </para>
+      <para>The MESAM IV system evaluates SDB based on an analysis of snoring, heart rate, and saturation change. Even if in many studies there is a good agreement between the RDI measured in the laboratory and with the home sleep testing, there is a risk that ambulatory diagnostic procedures may alter the relationship of patients to their disease and/or the medical staff so that subsequent compliance with treatment may be decreased. </para>
+      <para>The Nightwatch system has the ability to calculate the RDI. It records eye movement (1 channel, piezo electrode), leg movement (1 channel, piezo electrode), (finger pulse oximeter), nasal oral airflow (thermistor), chest and abdominal movements (piezo electrodes), body position and movement (mercury gauge placed on the chest), and heart rate. </para>
+      <para>The Nightwatch system also has the ability to send 2-minute portions of the complete recording to the laboratory for analysis so that signal quality can be assessed and transducer function corrected if needed. However, further studies are necessary before this technology can be put into widespread use.</para>
+      <para>In order to develop a simpler, cheaper, and more accessible method for the diagnosis of OSAS, the peripheral arterial tonometer (PAT) has been proposed as a new method in ambulatory diagnosis of OSAS. The portable monitoring device WatchPAT 200 detects obstructive events by identifying the changes in sympathetic activity associated with the termination of the events. The wrist-worn device WatchPAT 200, compared with standard polysomnography (PSG), has been reported to be able to detect OSAS based on apnea-hypopnea index (AHI) with comparable accuracy.<sup>[<ref_inline id="refsrc48" name="refsrc48"/>48] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a14">
+    <title>Acoustic Snoring Analysis</title>
+    <pgroup>
+      <para>Acoustic analysis of snoring sounds may help differentiate between primary snoring and obstructive sleep apnea (OSA). Other researchers have investigated the combination of clinical variables such as neck and chest circumference, BMI, and resting room air oxygen saturation; however, none of these has been shown to differentiate consistently between primary snorers and patients with significant apneas and desaturations during sleep. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a15">
+    <title>Histologic Findings</title>
+    <pgroup>
+      <para>The histology of the soft palate and uvula in snorers and patients with obstructive sleep apnea syndrome (OSAS) has been investigated by many authors.<sup>[<ref_inline id="refsrc49" name="refsrc49"/>49, <ref_inline id="refsrc50" name="refsrc50"/>50] </sup>Some authors observed muscular atrophy, dilatation and congestion of the blood vessels, lymphocytic infiltrations, and hypertrophy of superficial salivary glands localized between the muscle bundles and epithelium. Those histopathologic changes were related to the influence of the vibration on the soft palate and uvula and were considered responsible for the excessive flaccidity of these structures. </para>
+      <para>Other authors have observed similar contents of glands, muscle, fat, blood vessels, and the epithelium in the uvula and the soft palate of either OSAS or control subjects. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a16">
+    <title>Sleep Endoscopy</title>
+    <pgroup>
+      <para>Drug-induced sleep endoscopy (DISE) is a safe and reliable technique to determine the pattern of upper airway obstruction and the contribution of specific structures to airway obstruction.<sup>[<ref_inline id="refsrc51" name="refsrc51"/>51] </sup></para>
+      <para>Identifying the site and the dynamic pattern of obstruction is mandatory in therapeutical decision-making, and, in particular, if a surgical therapy option is taken into consideration.<sup>[<ref_inline id="refsrc52" name="refsrc52"/>52] </sup></para>
+      <para>The nose, oropharynx, hypopharynx, and larynx (NOHL) classification, which could be applied during awake and sleep endoscopy, allows a simple, quick, and effective evaluation of grade and patterns of upper airway collapse.<sup>[<ref_inline id="refsrc53" name="refsrc53"/>53] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a17">
+    <title>Initial Treatment of SBD</title>
+    <pgroup>
+      <title>Eliminating contributing factors</title>
+      <para>The first task in treating patients with SDB is to eliminate all possible contributing factors. This includes weight loss for patients who are obese and elimination of alcohol or sedative use, especially near bedtime. Benzodiazepines, narcotics, and barbiturates can worsen SDB, or sometimes they initiate it where it had not previously been present. </para>
+      <para>A 10% weight loss was associated with a 26% decrease in the AHI (RDI) in a population-based study. Weight loss should be recommended for all obese patients with sleep apnea; however, weight loss takes time, and only a minority of patients successfully maintains it.<sup>[<ref_inline id="refsrc54" name="refsrc54"/>54, <ref_inline id="refsrc55" name="refsrc55"/>55] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Body positioning during sleep</title>
+      <para>Body positioning during sleep can improve SDB in some patients. Because lying supine can allow gravity to assist in pulling lax tongue muscles back toward the posterior pharyngeal wall, patients should sleep on their sides, on their stomachs, or propped up 60°. These positions can improve SDB in patients whose symptoms occur primarily while supine. </para>
+      <para>Avoidance of supine sleeping can easily be accomplished with a sock, tennis ball, and safety pins. The tennis ball in a sock is pinned to the back of the pajamas, positioning the tennis ball between the scapulae. When the patient rolls into the supine position during sleep, this lump is uncomfortable enough that the position is immediately shifted, usually without the patient awakening. </para>
+    </pgroup>
+    <pgroup>
+      <title>Thyroid hormone replacement therapy</title>
+      <para>In patients with hypothyroidism and SDB, thyroid hormone replacement therapy is usually accompanied by an improvement in the SDB. </para>
+    </pgroup>
+    <pgroup>
+      <title>Using a mouthpiece</title>
+      <para>In some individuals, a mouthpiece may improve the anatomy of the airway to the point where snoring or mild obstructive sleep apnea (OSA) can be corrected. Many types of oral appliances have been designed for the treatment of sleep apnea. Most are custom fitted to the teeth of both dental arches to reposition the mandible and to enlarge the retropalatal and retrolingual airway space. However, consistent patient tolerance for this treatment is relatively low, and it is less effective than CPAP in reducing the frequency of apnea and hypopnea.<sup>[<ref_inline id="refsrc56" name="refsrc56"/>56] </sup></para>
+    </pgroup>
+    <pgroup>
+      <title>Consultations</title>
+      <para>Multidisciplinary sleep teams, including pulmonologists, otolaryngologists, neurologists, and oral-maxillofacial surgeons, may offer the most convenient and comprehensive treatment for these patients. </para>
+    </pgroup>
+    <pgroup>
+      <title>Dietary measures</title>
+      <para>Diet and exercise counseling play a major role in the initial therapy for SDB.</para>
+      <para>Weight reduction in the patient with obesity can dramatically improve SDB. Even a modest weight loss can have quite a beneficial effect on the frequency of apneas and hypopneas. Bariatric surgery may be needed in some cases. When rapid weight loss occurs after bariatric surgery or successful dieting, the pressure for overcoming apneas and hypopneas is likely to decrease, so retesting is recommended. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a18">
+    <title>Treatment with Nasal CPAP</title>
+    <pgroup>
+      <para>When none of the above therapies are appropriate or helpful, nasal continuous positive airway pressure (n-CPAP) is the most effective method to manage obstructive sleep apnea syndrome (OSAS).<sup>[<ref_inline id="refsrc57" name="refsrc57"/>57, <ref_inline id="refsrc58" name="refsrc58"/>58, <ref_inline id="refsrc59" name="refsrc59"/>59, <ref_inline id="refsrc4" name="refsrc4"/>4, <ref_inline id="refsrc60" name="refsrc60"/>60, <ref_inline id="refsrc61" name="refsrc61"/>61, <ref_inline id="refsrc62" name="refsrc62"/>62, <ref_inline id="refsrc63" name="refsrc63"/>63, <ref_inline id="refsrc64" name="refsrc64"/>64, <ref_inline id="refsrc65" name="refsrc65"/>65, <ref_inline id="refsrc66" name="refsrc66"/>66, <ref_inline id="refsrc67" name="refsrc67"/>67, <ref_inline id="refsrc68" name="refsrc68"/>68, <ref_inline id="refsrc69" name="refsrc69"/>69, <ref_inline id="refsrc55" name="refsrc55"/>55, <ref_inline id="refsrc70" name="refsrc70"/>70] </sup></para>
+      <para>n-CPAP provides a pneumatic stent for the upper airway, eliminating the airway collapse during inspiration. It is administered by a soft mask that covers the nose only. Sufficient pressure is introduced to eliminate apneas, hypopneas, and snoring. An image depicting a CPAP machine can be seen below. </para>
+      <figure id="24845">
+        <title>CPAP machine. </title>
+        <caption>CPAP machine. </caption>
+        <graphic fileref="/45/24845.jpg" format="IMAGE" id="24845" extension_format="JPG"/>
+        <graphic fileref="/45/24845tn.jpg" format="IMAGE_THUMB" id="24845"/>
+      </figure>
+      <para>Most physicians agree that patients with a respiratory disturbance index (RDI) higher than 20 require treatment. n-CPAP can also be useful for patients with a lower RDI, especially if they experience daytime sleepiness or other symptoms. If the severity of the daytime symptoms and the Epworth Sleepiness Scale score are much greater than would be expected with a particular RDI, a trial of n-CPAP can help determine whether elimination of the SDB leads to improvement of the daytime symptoms or if other factors contribute to the daytime symptoms. </para>
+      <para>Patients who are unlikely to benefit from n-CPAP include those with such severe nasal obstruction that n-CPAP cannot be used, patients with such extreme claustrophobia that they cannot tolerate a nasal mask, and patients in whom n-CPAP does not reliably eliminate apneas, hypopneas, and snoring. </para>
+    </pgroup>
+    <pgroup>
+      <title>Determination of positive airway pressure required</title>
+      <para>The criterion standard for determining the amount of pressure required to restore upper-airway patency is traditionally determined during polysomnography (PSG) by trained technicians. In some centers, this is performed as a split-night study, with data from the first half of the night used for diagnosis of SDB. Once this diagnosis is made, if the RDI is sufficient to suggest benefit from initiation of n-CPAP (usually an RDI of 20 or higher), the second half of the night’s study is used to determine the optimal amount of pressure. </para>
+      <para>The disadvantage of the split-night approach is that the second half of a full night study often reveals more severe sleep apnea, so a diagnostic study limited to the first half of the night can underestimate disease severity. </para>
+      <para>The amount of pressure delivered is reported as cm water. An average starting point for CPAP would be 8-10 cm water. Patients report that pressures at these levels feel odd but are tolerable even when beginning treatment and become more tolerable as the patients become accustomed to treatment. Higher levels (&gt;15 cm water) are often not well tolerated. </para>
+      <para>When a second overnight study is logistically difficult, some clinicians empirically start a patient on n-CPAP with a pressure of 8-10 cm water. A new generation of n-CPAP machines, on the basis of the patterns of inspiratory airflow, can sense the amount of pressure needed to overcome upper airway resistance. Patients are sometimes started using these machines without a prior titration study.<sup>[<ref_inline id="refsrc71" name="refsrc71"/>71, <ref_inline id="refsrc72" name="refsrc72"/>72] </sup></para>
+      <para>Alternatively, an autotitrating machine can be used for several nights, the record of amount of pressure required to suppress apneas and hypopneas can be downloaded and studied, and a suitable nightly pressure can be determined in this fashion. Also, the amount of pressure required to suppress snoring can be used as an audible guide to appropriate pressures. </para>
+      <para>A patient who routinely takes sedatives or ingests alcohol during the evening and does not intend to change this should probably be tested after continuing their usual nightly routine. n-CPAP titration without sedatives or alcohol is likely to lead to undertreatment of the SDB at home, when such patterns are resumed. </para>
+    </pgroup>
+    <pgroup>
+      <title>Effects of n-CPAP</title>
+      <para>Most patients feel better during the daytime on the first day after beginning n-CPAP. During the first week of treatment, most experience rebound sleep with prolonged episodes of REM sleep. Sleep patterns become more normal after the first week. For these reasons, several weeks of n-CPAP use may be helpful for normalization of sleep patterns in patients with severe sleep apnea who plan to undergo surgery. Sleep patterns should be normalized prior to the planned surgery. </para>
+      <para>Regular use of n-CPAP improves both the patients’ and their bed partners’ quality of life.<sup>[<ref_inline id="refsrc73" name="refsrc73"/>73, <ref_inline id="refsrc74" name="refsrc74"/>74, <ref_inline id="refsrc75" name="refsrc75"/>75] </sup>The treatment lessens depressive symptoms, and improves daytime functioning, blood pressure and insulin sensitivity. In patients with OSA who receive antihypertensive treatment, long-term CPAP was found to be responsible for a significantly reduction of diastolic blood pressure. Asthmatic OSA patients have fewer nighttime symptoms.<sup>[<ref_inline id="refsrc76" name="refsrc76"/>76, <ref_inline id="refsrc66" name="refsrc66"/>66, <ref_inline id="refsrc77" name="refsrc77"/>77] </sup></para>
+      <para>Other effects of using CPAP include increased vagal tone, increased cardiac output, increased stroke volume, decreased systemic vascular resistance, and reduced risk of cardiovascular mortality.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11] </sup></para>
+      <para>Patients with OSA often have increased arterial stiffness and sympathovagal imbalance. CPAP therapy is reported to have beneficial effects on the vascular function in such patients: improvement of the sympathovagal balance by CPAP therapy may be significantly related to decreased stiffness of the central to middle-sized arteries, independent of the changes in the blood pressure and vascular endothelial status.<sup>[<ref_inline id="refsrc78" name="refsrc78"/>78] </sup></para>
+      <para>Repetitive obstructive apnea produces acute impairment of left ventricular longitudinal function, suggesting the development of subendocardial ischemia. CPAP therapy not only decreases the severity of OSA but also ameliorates sleep-induced longitudinal left ventricular dysfunction. </para>
+    </pgroup>
+    <pgroup>
+      <title>Problems with n-CPAP</title>
+      <para>One problem with n-CPAP is that although n-CPAP provides good improvement in symptoms and physiologic parameters, compliance with treatment is not good, with regular use sometimes estimated as low as 30% (46% in one study defining use as at least 4 h/d, 5 d/wk). Noncompliance has been categorized by Zoula et al as tolerance problems, psychological problems, and lack of instruction, support, or follow-up.<sup>[<ref_inline id="refsrc79" name="refsrc79"/>79] </sup></para>
+      <para>Tolerance problems may be due to side effects (ie, dry mouth, conjunctivitis, rhinorrhea, skin irritation, pressure sores, nasal congestion, epistaxis), mask leaks, difficulty exhaling, aerophagia, chest discomfort, and bed-partner intolerance.<sup>[<ref_inline id="refsrc73" name="refsrc73"/>73] </sup>Psychological problems include lack of motivation, claustrophobia, and anxiety. The suggestions below for dealing with some of these problems may assist the physician in improving treatment compliance. </para>
+      <para>Many patients report claustrophobia. They find that the sensation of covering the nose with a mask makes them so uncomfortable that they cannot tolerate wearing the n-CPAP. Sometimes this can be helped with a smaller or more transparent mask design. Use of nasal pillows (inserted into the nostrils) instead of a formal nasal mask may allow such patients to tolerate the n-CPAP. </para>
+      <para>Some patients have trouble tolerating the initial pressure. Especially when higher pressures (&gt;12-13 cm water) are required for elimination of apneas and hypopneas, this level of pressure may be uncomfortable. Many n-CPAP machines have a built-in ramp or gradual increase in pressure. Using this feature, the mask can be placed and pressure begun at a very low and easily tolerated level. Over 30 minutes, the pressure gradually builds to the full amount necessary. Often, the patient can fall asleep during this time. Full pressure is not used until the patient is actually asleep. </para>
+      <para>Patients may experience nasal obstruction. Evaluation by an otolaryngologist reveals whether this is predominantly a fixed skeletal obstruction or a soft tissue obstruction potentially modifiable without surgery. Marked septal deviation or turbinate hypertrophy usually requires surgery for resolution. Alar collapse may be adequately treated by internal or external dilators (eg, Breathe Right strip, Nozovent). Surgery is sometimes required for repair of marked alar collapse. </para>
+      <para>Mucosal edema may be due to allergic rhinosinusitis or to vasomotor or irritative rhinitis. Allergy testing and treatment and pharmacotherapy trials (eg, topical steroids or antihistamines, oral antihistamines, or decongestants) may be beneficial. </para>
+      <para>One way to determine whether sufficient potentially reversible mucosal edema exists to pursue that avenue of treatment is the topical decongestant test. The patient uses a nasal topical decongestant (eg, oxymetazoline) at bedtime for several days, with the patient and bed partner observing for any improvements in snoring or apneas. A marked improvement suggests potentially reversible mucosal edema as a main contributor to the nasal obstruction. Failure to improve suggests a fixed skeletal obstruction that requires surgical correction. </para>
+      <para>Sometimes the dryness of the air or its temperature may be irritating to the patient. Use of in-line humidification and warming of the inspired air may alleviate patient discomfort.<sup>[<ref_inline id="refsrc80" name="refsrc80"/>80, <ref_inline id="refsrc81" name="refsrc81"/>81] </sup></para>
+      <para>A number of patients report facial or nasal pain. Sometimes this pain can be related to a poorly fitting mask. With the many different types of masks available now, different styles and sizes can be tried to select the optimal fit for each individual anatomy. Because the mask is pulled tight against the face, an edentulous anterior maxilla may not provide the resistance necessary for a good fit. Leaving dentures in at night can help with this. </para>
+      <para>If the facial or nasal pain persists despite mask refitting, evaluation for nasal obstruction or chronic sinusitis may be helpful. The CPAP Pro delivery method anchors the tubing to a platform based on an upper retainer, obviating the need for a forehead strap. </para>
+      <para>Patients may experience dry eye or other eye discomfort. If the mask does not seal well, egress of pressurized air from the upper end of the mask toward the eye may occur, causing dry eye or even exposure keratitis. Mask refitting usually eliminates this problem. </para>
+      <para>Patients may sleep with the mouth falling open, awakening with dry mouth. Sometimes a chin strap is required to prevent the mouth from opening at night. A commercially available disposable adhesive bandage may used to pull the chin up toward the lower cheeks.<sup>[<ref_inline id="refsrc82" name="refsrc82"/>82] </sup></para>
+      <para>Patients may experience epistaxis. This may be related to the high-flow dry air and may be helped by humidification and warming of the inspired air. </para>
+      <para>Some patients experience nasal drying. Forced dry air can be irritating to the nose, encouraging mucosal inflammation and crusting. Use of humidified air for n-CPAP usually eliminates this problem. </para>
+      <para>Other problems may also occur. Pneumopericardium has been reported with n-CPAP.<sup>[<ref_inline id="refsrc83" name="refsrc83"/>83] </sup>Pneumocephalus has occurred when n-CPAP was used in a patient with cerebrospinal fluid rhinorrhea. Eustachian tube dysfunction, serous otitis media, bulging of the eardrums, and eardrum perforation have also been reported. </para>
+      <para>Rigorous patient education and early reinforcing follow-up may improve long-term use of n-CPAP.</para>
+    </pgroup>
+    <pgroup>
+      <title>Other considerations</title>
+      <para>Variations of air pressure delivery can sometimes make n-CPAP use more comfortable for patients.</para>
+      <para>Autotitrating positive airway pressure (APAP) continually adjusts the pressure to barely overcome the collapsing forces. Bilevel positive airway pressure (BiPAP) provides higher pressure during inspiration (when the pneumatic splint is needed to prevent obstructive airway collapse) and lower pressure during expiration. C-Flex is another autoadjusting delivery method that increases pressure toward the end of expirations, as collapse would usually begin, and decreases pressure during early expiration. </para>
+      <para>Patients who require higher pressures to overcome obstructive apneas may tolerate these devices better than the one-level n-CPAP, which delivers the higher pressure throughout the entire respiratory cycle. </para>
+      <para>Following treatment with CPAP, some patients with obstructive sleep apnea remain sleepy despite effective CPAP, and attention should be paid to other diagnoses that can be associated to sleepiness. The so called “post-CPAP sleepiness,” as a specific disorder, may not exist. </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a19">
+    <title>Oxygen</title>
+    <pgroup>
+      <para>Because some of the effects of sleep-disordered breathing (SDB) are due to hypoxia during sleep, the administration of oxygen would seem like a reasonable treatment. Although oxygen administration improves the lowest blood-oxygen saturation level during sleep and can improve some of the arrhythmias occurring during desaturation, repeated studies have not demonstrated sustained clinically significant improvement in SDB with oxygen administration. Some prolongation of apneas also occurs, particularly at the beginning of therapy. </para>
+      <para>Oxygen administration may be beneficial in a subset of patients. Some patients with other coexistent pulmonary disorders may also benefit from use of oxygen in conjunction with nasal continuous positive airway pressure (n-CPAP). </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a20">
+    <title>Pharmacologic Treatments</title>
+    <pgroup>
+      <title>Protriptyline</title>
+      <para>Protriptyline, a tricyclic antidepressant, is the medication most studied in the treatment of SDB and does yield improvement in patients with this condition. This effect, however, appears to be mainly due to suppression of rapid eye movement (REM) sleep. Because sleep-disordered breathing (SDB) is often most severe during REM sleep, less REM sleep can mean fewer apneas. </para>
+    </pgroup>
+    <pgroup>
+      <title>Modafinil</title>
+      <para>Modafinil is a wake-promoting medication used in association with continuous positive airway pressure (CPAP) to treat patients with obstructive sleep apnea syndrome (OSAS). It has an action similar to that of sympathomimetic agents (like amphetamine and methylphenidate), although its pharmacologic profile is not identical to that of sympathomimetic amines. The precise mechanism through which modafinil promotes wakefulness is unknown. </para>
+      <para>Headache and nervousness are the only adverse events reported. There is no benefit using Modafinil in patients with OSA who are not compliant with CPAP, so it should not be administrated in such cases. </para>
+    </pgroup>
+    <pgroup>
+      <title>Other drugs</title>
+      <para>Other drugs that have been investigated for treatment of sleep apnea include progestational agents, aminophylline, acetazolamide, L-tryptophan, naloxone, baclofen, bromocriptine, chlorimipramine, and prochlorperazine. None of these have shown a consistently helpful effect on sleep-disordered breathing (SDB). </para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a21">
+    <title>Surgical Management of SDB</title>
+    <pgroup>
+      <para>Surgical care of sleep-disordered breathing (SDB) is discussed more fully in <a href="http://emedicine.medscape.com/article/868770-overview">Snoring and Obstructive Sleep Apnea, Surgery</a>. Nasal continuous positive airway pressure (n-CPAP) is often used in the perioperative period to assure good ventilation even in the presence of postsurgical edema. Because of the use of analgesics and swelling of the soft tissues, the pressure needed to maintain a patent airway postoperatively may be greater than the patient had been using prior to surgery. </para>
+      <para>Alcohol significantly worsens SDB. Eliminating use of alcohol, especially near bedtime, improves SDB.<sup>[<ref_inline id="refsrc84" name="refsrc84"/>84] </sup></para>
+    </pgroup>
+  </sect1>
+  <sect1 id="a22">
+    <title>Further Outpatient Care</title>
+    <pgroup>
+      <para>Nasal continuous positive airway pressure (n-CPAP) does not cure or alter the underlying obstructive sleep apnea (OSA) but rather provides daily relief from the apneas, snoring, hypoxias, and consequent daytime symptoms. After long-term n-CPAP use, a carry-over effect is often noted; therefore, polysomnography (PSG) results on the first day or two off n-CPAP look remarkably improved. However, this carry-over is short lived, and usually within a week, the snoring, apneas, hypoxias, and daytime symptoms have returned to their original level. </para>
+      <para>n-CPAP is highly successful in managing OSA, as long as it is used. Unfortunately, compliance with n-CPAP use is not great, with use for at least 4 hours a night on 5 of 7 nights occurring in only about one half of patients. For this reason, regular follow-up visits are mandatory for ensuring continued successful treatment. </para>
+      <para>Some physicians see patients on a 3- to 4-month basis during their first year of n-CPAP use and yearly thereafter. Repeat sleep studies are obtained after major weight loss or gain or after major change in daytime symptoms. Many patients happily and successfully use n-CPAP for years. Others find sustained use impossible. These are the patients for whom surgery may be helpful. </para>
+      <para>Even snorers whose PSG does not show SDB should be monitored periodically because they can progress to SDB with time, even without weight gain. </para>
+    </pgroup>
+  </sect1>
+  <mediasect>
+    <title>start media</title>
+    <query>
+      <figure id="24845">
+        <title>CPAP machine. </title>
+        <caption>CPAP machine. </caption>
+        <graphic fileref="/45/24845.jpg" format="IMAGE" id="24845" extension_format="JPG"/>
+        <graphic fileref="/45/24845tn.jpg" format="IMAGE_THUMB" id="24845"/>
+      </figure>
+    </query>
+  </mediasect>
+  <authors>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Vittorio Rinaldi, MD</contrbtr_nm>
+        <contrbtr_title>Specialist in Otolaryngology, Division of Otolaryngology, Department of Clinical Sciences and Community Health, University of Milan, Fondazione I.R.C.C.S. Cà Granda, Ospedale Maggiore Policlinico, Milan, Italy</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Fabrizio Salvinelli, MD</contrbtr_nm>
+        <contrbtr_title>Professor of Otolaryngology, Campus Bio-Medico, University of Rome</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Manuele Casale, MD</contrbtr_nm>
+        <contrbtr_title>Specialist in Otolaryngology, Campus Bio-Medico, University of Rome School of Medicine</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Francesco Faiella, MD</contrbtr_nm>
+        <contrbtr_title>Resident in Otolaryngology, Campus Bio-Medico University of Rome School of Medicine</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+      <contrbtr_element>
+        <contrbtr_nm>Marco Pappacena, MD</contrbtr_nm>
+        <contrbtr_title>Resident, Department of Otolaryngology, Campus Bio-Medico University, Rome</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+        <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+        <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Robert M Kellman, MD</contrbtr_nm>
+        <contrbtr_title>Professor and Chair, Department of Otolaryngology and Communication Sciences, State University of New York Upstate Medical University</contrbtr_title>
+        <contrbtr_bio>Robert M Kellman, MD is a member of the following medical societies: <a href="http://www.aafprs.org">American Academy of Facial Plastic and Reconstructive Surgery</a>, <a href="http://www.ahns.info">American Head and Neck Society</a>, <a href="http://www.american-rhinologic.org">American Rhinologic Society</a>, <a href="http://www.triological.org">Triological Society</a>, <a href="http://www.americanneurotologysociety.com">American Neurotology Society</a>, <a href="http://www.entnet.org">American Academy of Otolaryngology-Head and Neck Surgery</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.mssny.org">Medical Society of the State of New York</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Zab Mosenifar, MD, FACP, FCCP</contrbtr_nm>
+        <contrbtr_title>Geri and Richard Brawerman Chair in Pulmonary and Critical Care Medicine, Professor and Executive Vice Chairman, Department of Medicine, Medical Director, Women's Guild Lung Institute, Cedars Sinai Medical Center, University of California, Los Angeles, David Geffen School of Medicine</contrbtr_title>
+        <contrbtr_bio>Zab Mosenifar, MD, FACP, FCCP is a member of the following medical societies: <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.afmr.org">American Federation for Medical Research</a>, <a href="http://www.thoracic.org">American Thoracic Society</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+    <contrbtr_group>
+      <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+      <contrbtr_element>
+        <contrbtr_nm>Jack A Coleman, MD</contrbtr_nm>
+        <contrbtr_title>Consulting Staff, Franklin Surgical Associates</contrbtr_title>
+        <contrbtr_bio>Jack A Coleman, MD is a member of the following medical societies: <a href="http://www.aafprs.org">American Academy of Facial Plastic and Reconstructive Surgery</a>, <a href="http://www.aasmnet.org">American Academy of Sleep Medicine</a>, <a href="http://www.aaoaf.org">American Academy of Otolaryngic Allergy</a>, <a href="http://www.entnet.org">American Academy of Otolaryngology-Head and Neck Surgery</a>, <a href="http://www.abea.net">American Bronchoesophagological Association</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://www.triological.org">The Triological Society</a>, <a href="http://www.aslms.org">American Society for Laser Medicine and Surgery</a>, <a href="http://www.amsus.org">Association of Military Surgeons of the US</a></contrbtr_bio>
+        <contrbtr_disclsr>Disclosure: Received honoraria from Accarent, Inc. for speaking and teaching.</contrbtr_disclsr>
+      </contrbtr_element>
+    </contrbtr_group>
+  </authors>
+  <acknowledgements>
+    <title>Acknowledgements</title>
+    <pgroup>
+      <para>The authors and editors of Medscape Reference gratefully acknowledge the contributions of previous author Karen Hall Calhoun, MD, to the development and writing of the source article</para>
+      <para>The first author, Vittorio Rinaldi, gratefully thanks Prof P.G.Visvanathan for having introduced him to snoring and OSA surgical management. </para>
+    </pgroup>
+  </acknowledgements>
+  <refgrp>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7656606">
+      <para>Findley L, Unverzagt M, Guchu R, Fabrizio M, Buckner J, Suratt P. Vigilance and automobile accidents in patients with sleep apnea or narcolepsy. <em>Chest</em>. 1995 Sep. 108(3):619-24. <a href="http://reference.medscape.com/medline/abstract/7656606">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10080847">
+      <para>Terán-Santos J, Jiménez-Gómez A, Cordero-Guevara J. The association between sleep apnea and the risk of traffic accidents. Cooperative Group Burgos-Santander. <em>N Engl J Med</em>. 1999 Mar 18. 340(11):847-51. <a href="http://reference.medscape.com/medline/abstract/10080847">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15684207">
+      <para>Caples SM, Gami AS, Somers VK. Obstructive sleep apnea. <em>Ann Intern Med</em>. 2005 Feb 1. 142(3):187-97. <a href="http://reference.medscape.com/medline/abstract/15684207">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20136736">
+      <para>Eastwood PR,  Malhotra A,  Palmer LJ,  Kezirian EJ,  Horner RL,  Ip MS, et al. Obstructive Sleep Apnoea: From pathogenesis to treatment: Current controversies and future directions. <em>Respirology</em>. 2010 May. 15(4):587-95. <a href="http://reference.medscape.com/medline/abstract/20136736">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12181405">
+      <para>Flemons WW. Clinical practice. Obstructive sleep apnea. <em>N Engl J Med</em>. 2002 Aug 15. 347(7):498-504. <a href="http://reference.medscape.com/medline/abstract/12181405">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10406329">
+      <para>George CF. Diagnostic techniques in obstructive sleep apnea. <em>Prog Cardiovasc Dis</em>. 1999 Mar-Apr. 41(5):355-66. <a href="http://reference.medscape.com/medline/abstract/10406329">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17606023">
+      <para>Thakkar K, Yao M. Diagnostic studies in obstructive sleep apnea. <em>Otolaryngol Clin North Am</em>. 2007 Aug. 40(4):785-805. <a href="http://reference.medscape.com/medline/abstract/17606023">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17353017">
+      <para>Saletu M,  Sauter C,  Lalouschek W,  Saletu B,  Kapfhammer G,  Benesch T, et al. Is excessive daytime sleepiness a predictor of carotid atherosclerosis in sleep apnea?. <em>Atherosclerosis</em>. 2008 Feb. 196(2):810-6. <a href="http://reference.medscape.com/medline/abstract/17353017">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10208219">
+      <para>Exar EN, Collop NA. The upper airway resistance syndrome. <em>Chest</em>. 1999 Apr. 115(4):1127-39. <a href="http://reference.medscape.com/medline/abstract/10208219">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3391893">
+      <para>Hudgel DW, Hendricks C, Hamilton HB. Characteristics of the upper airway pressure-flow relationship during sleep. <em>J Appl Physiol</em>. 1988 May. 64(5):1930-5. <a href="http://reference.medscape.com/medline/abstract/3391893">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/3289839">
+      <para>He J, Kryger MH, Zorick FJ, Conway W, Roth T. Mortality and apnea index in obstructive sleep apnea. Experience in 385 male patients. <em>Chest</em>. 1988 Jul. 94(1):9-14. <a href="http://reference.medscape.com/medline/abstract/3289839">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/670014">
+      <para>Remmers JE, deGroot WJ, Sauerland EK, Anch AM. Pathogenesis of upper airway occlusion during sleep. <em>J Appl Physiol</em>. 1978 Jun. 44(6):931-8. <a href="http://reference.medscape.com/medline/abstract/670014">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18727462">
+      <para>Casale M,  Rinaldi V,  Bressi F,  Di Peco V,  Baptista P,  Sadun B, et al. A suitable test for identifying high risk adult patients of moderate-severe obstructive sleep apnea syndrome. <em>Eur Rev Med Pharmacol Sci</em>. 2008 Jul-Aug. 12(4):275-80. <a href="http://reference.medscape.com/medline/abstract/18727462">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19794884">
+      <para>Casale M, Pappacena M, Rinaldi V, Bressi F, Baptista P, Salvinelli F. Obstructive sleep apnea syndrome: from phenotype to genetic basis. <em>Curr Genomics</em>. 2009 Apr. 10(2):119-26. <a href="http://reference.medscape.com/medline/abstract/19794884">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2699830/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20146869">
+      <para>Bekci TT, Kocak N, Kesli R. Distribution of common methylenetetrahydrofolate reductase gene mutations in patients with obstructive sleep apnoea. <em>J Int Med Res</em>. 2009 Nov-Dec. 37(6):1718-24. <a href="http://reference.medscape.com/medline/abstract/20146869">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23136848">
+      <para>Manzotte T,  Guindalini C,  Mazzotti DR,  Palombini L,  de Souza AL,  Poyares D, et al. The human leucocyte antigen DQB1*0602 allele is associated with electroencephelograph differences in individuals with obstructive sleep apnoea syndrome. <em>J Sleep Res</em>. 2013. 22:217-22. <a href="http://reference.medscape.com/medline/abstract/23136848">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22281949">
+      <para>de Carvalho TB, Suman M, Molina FD, Piatto VB, Maniglia JV. Relationship of obstructive sleep apnea syndrome with the 5-HT2A receptor gene in Brazilian patients. <em>Sleep Breath</em>. 2013. 17:57-62. <a href="http://reference.medscape.com/medline/abstract/22281949">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10806140">
+      <para>O'Connor C, Thornley KS, Hanly PJ. Gender differences in the polysomnographic features of obstructive sleep apnea. <em>Am J Respir Crit Care Med</em>. 2000 May. 161(5):1465-72. <a href="http://reference.medscape.com/medline/abstract/10806140">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14573374">
+      <para>Jordan AS, McEvoy RD. Gender differences in sleep apnea: epidemiology, clinical presentation and pathogenic mechanisms. <em>Sleep Med Rev</em>. 2003 Oct. 7(5):377-89. <a href="http://reference.medscape.com/medline/abstract/14573374">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14607346">
+      <para>Mohsenin V. Effects of gender on upper airway collapsibility and severity of obstructive sleep apnea. <em>Sleep Med</em>. 2003 Nov. 4(6):523-9. <a href="http://reference.medscape.com/medline/abstract/14607346">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11966340">
+      <para>Young T,  Shahar E,  Nieto FJ,  Redline S,  Newman AB,  Gottlieb DJ, et al. Predictors of sleep-disordered breathing in community-dwelling adults: the Sleep Heart Health Study. <em>Arch Intern Med</em>. 2002 Apr 22. 162(8):893-900. <a href="http://reference.medscape.com/medline/abstract/11966340">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17925415">
+      <para>Campos-Rodriguez F, Perez-Ronchel J, Grilo-Reina A, Lima-Alvarez J, Benitez MA, Almeida-Gonzalez C. Long-term effect of continuous positive airway pressure on BP in patients with hypertension and sleep apnea. <em>Chest</em>. 2007 Dec. 132(6):1847-52. <a href="http://reference.medscape.com/medline/abstract/17925415">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20142029">
+      <para>Chowdhury M, Adams S, Whellan DJ. Sleep-disordered breathing and heart failure: focus on obstructive sleep apnea and treatment with continuous positive airway pressure. <em>J Card Fail</em>. 2010 Feb. 16(2):164-74. <a href="http://reference.medscape.com/medline/abstract/20142029">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9122575">
+      <para>Fletcher EC. Can the treatment of sleep apnea syndrome prevent the cardiovascular consequences?. <em>Sleep</em>. 1996 Nov. 19(9 Suppl):S67-70. <a href="http://reference.medscape.com/medline/abstract/9122575">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20123859">
+      <para>Haruki N,  Takeuchi M,  Kanazawa Y,  Tsubota N,  Shintome R,  Nakai H, et al. Continuous positive airway pressure ameliorates sleep-induced subclinical left ventricular systolic dysfunction: demonstration by two-dimensional speckle-tracking echocardiography. <em>Eur J Echocardiogr</em>. 2010 May. 11(4):352-8. <a href="http://reference.medscape.com/medline/abstract/20123859">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17314035">
+      <para>Wolf J, Lewicka J, Narkiewicz K. Obstructive sleep apnea: an update on mechanisms and cardiovascular consequences. <em>Nutr Metab Cardiovasc Dis</em>. 2007 Mar. 17(3):233-40. <a href="http://reference.medscape.com/medline/abstract/17314035">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23633759">
+      <para>Chami HA,  Fontes JD,  Vasan RS,  Keaney JF Jr,  O'Connor GT,  Larson MG, et al. Vascular inflammation and sleep disordered breathing in a community-based cohort. <em>Sleep</em>. 2013. 36:763-768C. <a href="http://reference.medscape.com/medline/abstract/23633759">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23389084">
+      <para>Oliveras A, Schmieder RE. Clinical situations associated with difficult-to-control hypertension. <em>J Hypertens. Mar</em>. 2013. 31:S3-8. <a href="http://reference.medscape.com/medline/abstract/23389084">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23374054">
+      <para>Cho ER, Kim H, Seo HS, Suh S, Lee SK, Shin C. Obstructive sleep apnoea as a risk factor for silent cerebral infarction. <em>J Sleep Res</em>. 2013. 1:<a href="http://reference.medscape.com/medline/abstract/23374054">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9351127">
+      <para>Young T, Blustein J, Finn L, Palta M. Sleep-disordered breathing and motor vehicle accidents in a population-based sample of employed adults. <em>Sleep</em>. 1997 Aug. 20(8):608-13. <a href="http://reference.medscape.com/medline/abstract/9351127">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14512265">
+      <para>Harsch IA,  Schahin SP,  Radespiel-Tröger M,  Weintz O,  Jahreiss H,  Fuchs FS, et al. Continuous positive airway pressure treatment rapidly improves insulin sensitivity in patients with obstructive sleep apnea syndrome. <em>Am J Respir Crit Care Med</em>. 2004 Jan 15. 169(2):156-62. <a href="http://reference.medscape.com/medline/abstract/14512265">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16283228">
+      <para>Hassaballa HA, Tulaimat A, Herdegen JJ, Mokhlesi B. The effect of continuous positive airway pressure on glucose control in diabetic patients with severe obstructive sleep apnea. <em>Sleep Breath</em>. 2005 Dec. 9(4):176-80. <a href="http://reference.medscape.com/medline/abstract/16283228">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/19536352">
+      <para>Ip M, Mokhlesi B. Sleep and Glucose Intolerance/Diabetes Mellitus. <em>Sleep Med Clin</em>. 2007. 2(1):19-29. <a href="http://reference.medscape.com/medline/abstract/19536352">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697035/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15738376">
+      <para>Babu AR, Herdegen J, Fogelfeld L, Shott S, Mazzone T. Type 2 diabetes, glycemic control, and continuous positive airway pressure in obstructive sleep apnea. <em>Arch Intern Med</em>. 2005 Feb 28. 165(4):447-52. <a href="http://reference.medscape.com/medline/abstract/15738376">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16192452">
+      <para>Reichmuth KJ, Austin D, Skatrud JB, Young T. Association of sleep apnea and type II diabetes: a population-based study. <em>Am J Respir Crit Care Med</em>. 2005 Dec 15. 172(12):1590-5. <a href="http://reference.medscape.com/medline/abstract/16192452">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2718458/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="">
+      <para>Sadikot SM. An overview: Obstructive Sleep Apnea and the Metabolic Syndrome: Should ‘‘X’’ be changed to ‘‘Zzz. . zzzz. . Zzzz zzzzz. .Zzz’’?. <em>Diabetes &amp; Metabolic Syndrome</em>. 2007. 1:287—302. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17443029">
+      <para>Misiolek M,  Marek B,  Namyslowski G,  Scierski W,  Zwirska-Korczala K,  Kazmierczak-Zagorska Z, et al. Sleep apnea syndrome and snoring in patients with hypothyroidism with relation to overweight. <em>J Physiol Pharmacol</em>. 2007 Mar. 58 Suppl 1:77-85. <a href="http://reference.medscape.com/medline/abstract/17443029">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20146688">
+      <para>Hoban TF. Sleep disorders in children. <em>Ann N Y Acad Sci</em>. 2010 Jan. 1184:1-14. <a href="http://reference.medscape.com/medline/abstract/20146688">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11307760">
+      <para>Ciscar MA,  Juan G,  Martínez V,  Ramón M,  Lloret T,  Mínguez J, et al. Magnetic resonance imaging of the pharynx in OSA patients and healthy subjects. <em>Eur Respir J</em>. 2001 Jan. 17(1):79-86. <a href="http://reference.medscape.com/medline/abstract/11307760">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9779523">
+      <para>Fry JM, DiPhillipo MA, Curran K, Goldberg R, Baran AS. Full polysomnography in the home. <em>Sleep</em>. 1998 Sep 15. 21(6):635-42. <a href="http://reference.medscape.com/medline/abstract/9779523">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10733617">
+      <para>Chervin RD, Hedger K, Dillon JE, Pituch KJ. Pediatric sleep questionnaire (PSQ): validity and reliability of scales for sleep-disordered breathing, snoring, sleepiness, and behavioral problems. <em>Sleep Med</em>. 2000 Feb 1. 1(1):21-32. <a href="http://reference.medscape.com/medline/abstract/10733617">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10507956">
+      <para>Netzer NC, Stoohs RA, Netzer CM, Clark K, Strohl KP. Using the Berlin Questionnaire to identify patients at risk for the sleep apnea syndrome. <em>Ann Intern Med</em>. 1999 Oct 5. 131(7):485-91. <a href="http://reference.medscape.com/medline/abstract/10507956">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9093095">
+      <para>Ohayon MM, Guilleminault C, Priest RG, Caulet M. Snoring and breathing pauses during sleep: telephone interview survey of a United Kingdom population sample. <em>BMJ</em>. 1997 Mar 22. 314(7084):860-3. <a href="http://reference.medscape.com/medline/abstract/9093095">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2126255/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14592227">
+      <para>Roth T,  Zammit G,  Kushida C,  Doghramji K,  Mathias SD,  Wong JM, et al. A new questionnaire to detect sleep disorders. <em>Sleep Med</em>. 2002 Mar. 3(2):99-108. <a href="http://reference.medscape.com/medline/abstract/14592227">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20143278">
+      <para>Abrishami A, Khajehdehi A, Chung F. A systematic review of screening questionnaires for obstructive sleep apnea. <em>Can J Anaesth</em>. 2010 May. 57(5):423-38. <a href="http://reference.medscape.com/medline/abstract/20143278">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/2371595">
+      <para>Emsellem HA, Corson WA, Rappaport BA, Hackett S, Smith LG, Hausfeld JN. Verification of sleep apnea using a portable sleep apnea screening device. <em>South Med J</em>. 1990 Jul. 83(7):748-52. <a href="http://reference.medscape.com/medline/abstract/2371595">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/1582275">
+      <para>Stoohs R, Guilleminault C. MESAM 4: an ambulatory device for the detection of patients at risk for obstructive sleep apnea syndrome (OSAS). <em>Chest</em>. 1992 May. 101(5):1221-7. <a href="http://reference.medscape.com/medline/abstract/1582275">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23708441">
+      <para>Weimin L, Rongguang W, Dongyan H, Xiaoli L, Wei J, Shiming Y. Assessment of a portable monitoring device WatchPAT 200 in the diagnosis of obstructive sleep apnea. <em>Eur Arch Otorhinolaryngol</em>. 2013. 25:<a href="http://reference.medscape.com/medline/abstract/23708441">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11889397">
+      <para>Berger G, Gilbey P, Hammel I, Ophir D. Histopathology of the uvula and the soft palate in patients with mild, moderate, and severe obstructive sleep apnea. <em>Laryngoscope</em>. 2002 Feb. 112(2):357-63. <a href="http://reference.medscape.com/medline/abstract/11889397">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15915913">
+      <para>Namyslowski G, Scierski W, Zembala-Nozynska E, Nozynski J, Misiolek M. [Histopathologic changes of the soft palate in snoring and obstructive sleep apnea syndrome patients]. <em>Otolaryngol Pol</em>. 2005. 59(1):13-9. <a href="http://reference.medscape.com/medline/abstract/15915913">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/23433922">
+      <para>Fishman G, Zemel M, DeRowe A, Sadot E, Sivan Y, Koltai PJ. Fiber-optic sleep endoscopy in children with persistent obstructive sleep apnea: inter-observer correlation and comparison with awake endoscopy. <em>Int J Pediatr Otorhinolaryngol</em>. 2013. 77:752-5. <a href="http://reference.medscape.com/medline/abstract/23433922">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20559476">
+      <para>Campanini A, Canzi P, De Vito A, Dallan I, Montevecchi F, Vicini C. Awake versus sleep endoscopy: personal experience in 250 OSAHS patients. <em>Acta Otorhinolaryngol Ital</em>. 2010. 30:73-7. <a href="http://reference.medscape.com/medline/abstract/20559476">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/22350494">
+      <para>Vicini C,  De Vito A,  Benazzo M,  Frassineti S,  Campanini A,  Frasconi P, et al. The nose oropharynx hypopharynx and larynx (NOHL) classification: a new system of diagnostic standardized examination for OSAHS patients. <em>Eur Arch Otorhinolaryngol</em>. 2012. 269:1297-300. <a href="http://reference.medscape.com/medline/abstract/22350494">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/11122588">
+      <para>Peppard PE, Young T, Palta M, Dempsey J, Skatrud J. Longitudinal study of moderate weight change and sleep-disordered breathing. <em>JAMA</em>. 2000 Dec 20. 284(23):3015-21. <a href="http://reference.medscape.com/medline/abstract/11122588">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14971838">
+      <para>Victor LD. Treatment of obstructive sleep apnea in primary care. <em>Am Fam Physician</em>. 2004 Feb 1. 69(3):561-8. <a href="http://reference.medscape.com/medline/abstract/14971838">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17699143">
+      <para>Chan AS, Lee RW, Cistulli PA. Dental appliance treatment for obstructive sleep apnea. <em>Chest</em>. 2007 Aug. 132(2):693-9. <a href="http://reference.medscape.com/medline/abstract/17699143">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15947324">
+      <para>Aloia MS, Stanchina M, Arnedt JT, Malhotra A, Millman RP. Treatment adherence and outcomes in flexible vs standard continuous positive airway pressure therapy. <em>Chest</em>. 2005 Jun. 127(6):2085-93. <a href="http://reference.medscape.com/medline/abstract/15947324">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2287195/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9817141">
+      <para>Berkani M,  Lofaso F,  Chouaid C,  Pia d'Ortho M,  Theret D,  Grillier-Lanoir V, et al. CPAP titration by an auto-CPAP device based on snoring detection: a clinical trial and economic considerations. <em>Eur Respir J</em>. 1998 Oct. 12(4):759-63. <a href="http://reference.medscape.com/medline/abstract/9817141">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9708236">
+      <para>Douglas NJ. Systematic review of the efficacy of nasal CPAP. <em>Thorax</em>. 1998 May. 53(5):414-5. <a href="http://reference.medscape.com/medline/abstract/9708236">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1745228/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/17884538">
+      <para>Fleisher KE, Krieger AC. Current trends in the treatment of obstructive sleep apnea. <em>J Oral Maxillofac Surg</em>. 2007 Oct. 65(10):2056-68. <a href="http://reference.medscape.com/medline/abstract/17884538">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/7491563">
+      <para>Grunstein RR. Sleep-related breathing disorders. 5. Nasal continuous positive airway pressure treatment for obstructive sleep apnoea. <em>Thorax</em>. 1995 Oct. 50(10):1106-13. <a href="http://reference.medscape.com/medline/abstract/7491563">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC475028/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15942087">
+      <para>Kawahara S, Akashiba T, Akahoshi T, Horie T. Nasal CPAP improves the quality of life and lessens the depressive symptoms in patients with obstructive sleep apnea syndrome. <em>Intern Med</em>. 2005 May. 44(5):422-7. <a href="http://reference.medscape.com/medline/abstract/15942087">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15826465">
+      <para>Lankford DA, Proctor CD, Richard R. Continuous positive airway pressure (CPAP) changes in bariatric surgery patients undergoing rapid weight loss. <em>Obes Surg</em>. 2005 Mar. 15(3):336-41. <a href="http://reference.medscape.com/medline/abstract/15826465">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10194153">
+      <para>McArdle N, Devereux G, Heidarnejad H, Engleman HM, Mackay TW, Douglas NJ. Long-term use of CPAP therapy for sleep apnea/hypopnea syndrome. <em>Am J Respir Crit Care Med</em>. 1999 Apr. 159(4 Pt 1):1108-14. <a href="http://reference.medscape.com/medline/abstract/10194153">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20133306">
+      <para>Ryan S, McNicholas W. The effect of continuous positive airway pressure on C-reactive protein levels in patients with obstructive sleep apnea syndrome. <em>Chest</em>. 2010 Feb. 137(2):496-7; author reply 497-8. <a href="http://reference.medscape.com/medline/abstract/20133306">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/16162722">
+      <para>Schwartz DJ, Kohler WC, Karatinos G. Symptoms of depression in individuals with obstructive sleep apnea may be amenable to treatment with continuous positive airway pressure. <em>Chest</em>. 2005 Sep. 128(3):1304-9. <a href="http://reference.medscape.com/medline/abstract/16162722">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15332397">
+      <para>Stammnitz A, Jerrentrup A, Penzel T, Peter JH, Vogelmeier C, Becker HF. Automatic CPAP titration with different self-setting devices in patients with obstructive sleep apnoea. <em>Eur Respir J</em>. 2004 Aug. 24(2):273-8. <a href="http://reference.medscape.com/medline/abstract/15332397">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14971879">
+      <para>Stradling JR, Hardinge M, Smith DM. A novel, simplified approach to starting nasal CPAP therapy in OSA. <em>Respir Med</em>. 2004 Feb. 98(2):155-8. <a href="http://reference.medscape.com/medline/abstract/14971879">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/10193363">
+      <para>Teschler H, Berthon-Jones M. Intelligent CPAP systems: clinical experience. <em>Thorax</em>. 1998 Oct. 53 Suppl 3:S49-54. <a href="http://reference.medscape.com/medline/abstract/10193363">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765906/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9231953">
+      <para>Weaver TE,  Kribbs NB,  Pack AI,  Kline LR,  Chugh DK,  Maislin G, et al. Night-to-night variability in CPAP use over the first three months of treatment. <em>Sleep</em>. 1997 Apr. 20(4):278-83. <a href="http://reference.medscape.com/medline/abstract/9231953">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9817139">
+      <para>Lévy P, Pepin JL. Auto-CPAP: an effective and low-cost procedure in the management of OSAS?. <em>Eur Respir J</em>. 1998 Oct. 12(4):753-5. <a href="http://reference.medscape.com/medline/abstract/9817139">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18220088">
+      <para>Morgenthaler TI,  Aurora RN,  Brown T,  Zak R,  Alessi C,  Boehlecke B, et al. Practice parameters for the use of autotitrating continuous positive airway pressure devices for titrating pressures and treating adult patients with obstructive sleep apnea syndrome: an update for 2007. An American Academy of Sleep Medicine report. <em>Sleep</em>. 2008 Jan 1. 31(1):141-7. <a href="http://reference.medscape.com/medline/abstract/18220088">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2225554/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14665502">
+      <para>Doherty LS, Kiely JL, Lawless G, McNicholas WT. Impact of nasal continuous positive airway pressure therapy on the quality of life of bed partners of patients with obstructive sleep apnea syndrome. <em>Chest</em>. 2003 Dec. 124(6):2209-14. <a href="http://reference.medscape.com/medline/abstract/14665502">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9042067">
+      <para>Flemons WW, Tsai W. Quality of life consequences of sleep-disordered breathing. <em>J Allergy Clin Immunol</em>. 1997 Feb. 99(2):S750-6. <a href="http://reference.medscape.com/medline/abstract/9042067">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/14592263">
+      <para>Moyer CA, Sonnad SS, Garetz SL, Helman JI, Chervin RD. Quality of life in obstructive sleep apnea: a systematic review of the literature. <em>Sleep Med</em>. 2001 Nov. 2(6):477-91. <a href="http://reference.medscape.com/medline/abstract/14592263">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15823448">
+      <para>Ciftci TU, Ciftci B, Guven SF, Kokturk O, Turktas H. Effect of nasal continuous positive airway pressure in uncontrolled nocturnal asthmatic patients with obstructive sleep apnea syndrome. <em>Respir Med</em>. 2005 May. 99(5):529-34. <a href="http://reference.medscape.com/medline/abstract/15823448">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/18036090">
+      <para>Stradling JR, Smith D, Crosby J. Post-CPAP sleepiness--a specific syndrome?. <em>J Sleep Res</em>. 2007 Dec. 16(4):436-8. <a href="http://reference.medscape.com/medline/abstract/18036090">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/20138492">
+      <para>Shiina K,  Tomiyama H,  Takata Y,  Yoshida M,  Kato K,  Saruhara H, et al. Effects of CPAP therapy on the sympathovagal balance and arterial stiffness in obstructive sleep apnea. <em>Respir Med</em>. 2010 Jun. 104(6):911-6. <a href="http://reference.medscape.com/medline/abstract/20138492">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15716221">
+      <para>Jean Wiese H, Boethel C, Phillips B, Wilson JF, Peters J, Viggiano T. CPAP compliance: video education may help!. <em>Sleep Med</em>. 2005 Mar. 6(2):171-4. <a href="http://reference.medscape.com/medline/abstract/15716221">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15860720">
+      <para>Marshall NS, Neill AM, Campbell AJ, Sheppard DS. Randomised controlled crossover trial of humidified continuous positive airway pressure in mild obstructive sleep apnoea. <em>Thorax</em>. 2005 May. 60(5):427-32. <a href="http://reference.medscape.com/medline/abstract/15860720">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1758913/">[Full Text]</a>.</para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/12952257">
+      <para>Neill AM, Wai HS, Bannan SP, Beasley CR, Weatherall M, Campbell AJ. Humidified nasal continuous positive airway pressure in obstructive sleep apnoea. <em>Eur Respir J</em>. 2003 Aug. 22(2):258-62. <a href="http://reference.medscape.com/medline/abstract/12952257">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15165532">
+      <para>Bachour A, Hurmerinta K, Maasilta P. Mouth closing device (chinstrap) reduces mouth leak during nasal CPAP. <em>Sleep Med</em>. 2004 May. 5(3):261-7. <a href="http://reference.medscape.com/medline/abstract/15165532">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/9367492">
+      <para>McEachern RC, Patel RG. Pneumopericardium associated with face-mask continuous positive airway pressure. <em>Chest</em>. 1997 Nov 5. 112(5):1441-3. <a href="http://reference.medscape.com/medline/abstract/9367492">[Medline]</a>. </para>
+    </ritem>
+    <ritem ref="http://reference.medscape.com/medline/abstract/15117464">
+      <para>Souter MA, Stevenson S, Sparks B, Drennan C. Upper airway surgery benefits patients with obstructive sleep apnoea who cannot tolerate nasal continuous positive airway pressure. <em>J Laryngol Otol</em>. 2004 Apr. 118(4):270-4. <a href="http://reference.medscape.com/medline/abstract/15117464">[Medline]</a>. </para>
+    </ritem>
+  </refgrp>
+</article>
