@@ -1,2 +1,3 @@
 # Webscrapping-project-of-multiple-xml-files-with-visualization
 "Webscraping and Visualization of Multiple XML Files: Extracting Data and Creating Visual Representations"
+# The primary objective of this project is to automate the extraction of information from multiple XML files that encompass various interactions and transactions between patients and doctors. By implementing web scraping techniques, we can efficiently retrieve and extract crucial details such as patient information, medical records, appointment schedules, prescriptions, test results, and other pertinent data. This automated process eliminates the need for manual data entry or processing, resulting in significant time and effort savings, particularly when dealing with a substantial volume of XML files.
