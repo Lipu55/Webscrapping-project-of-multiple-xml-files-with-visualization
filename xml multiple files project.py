@@ -2,7 +2,6 @@
 """
 Created on Mon May  1 23:49:46 2023
 
-@author: MRUTYUNJAY
 """
 
 import os
